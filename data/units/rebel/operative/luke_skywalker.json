@@ -11,7 +11,7 @@
     "defense_die": "Red",
     "surges": {
       "attack": "Critical",
-      "defense": null
+      "defense": "None"
     }
   },
   "keywords": [

@@ -6,12 +6,12 @@
   "unit_type": "Trooper",
   "stats": {
     "health": 8,
-    "courage": null,
+    "courage": "Null",
     "speed": 1,
     "defense_die": "Red",
     "surges": {
       "attack": "Critical",
-      "defense": null
+      "defense": "None"
     }
   },
   "keywords": [

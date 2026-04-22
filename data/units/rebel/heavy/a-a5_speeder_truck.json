@@ -1,6 +1,6 @@
 {
   "name": "A-A5 Speeder Truck",
-  "title": null,
+  "title": "None",
   "faction": "Rebel Alliance",
   "rank": "Heavy",
   "unit_type": "Repulsor Vehicle",
@@ -11,7 +11,7 @@
     "speed": 2,
     "defense_die": "White",
     "surges": {
-      "attack": null,
+      "attack": "None",
       "defense": "Block"
     }
   },

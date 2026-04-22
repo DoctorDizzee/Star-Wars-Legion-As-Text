@@ -1,6 +1,6 @@
 {
   "name": "Pyke Syndicate Capo",
-  "title": null,
+  "title": "None",
   "faction": "Mercenary",
   "rank": "Commander",
   "unit_type": "Trooper",
@@ -10,7 +10,7 @@
     "speed": 2,
     "defense_die": "White",
     "surges": {
-      "attack": null,
+      "attack": "None",
       "defense": "Block"
     }
   },
