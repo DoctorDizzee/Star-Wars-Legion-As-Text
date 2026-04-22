@@ -1,0 +1,47 @@
+{
+  "name": "Luke Skywalker",
+  "title": "Commander Skywalker",
+  "faction": "Rebel Alliance",
+  "rank": "Commander",
+  "unit_type": "Creature Trooper",
+  "stats": {
+    "health": 6,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Hit",
+      "defense": null
+    }
+  },
+  "keywords": [
+    "Spotter 1",
+    "Take Cover 1",
+    "Immune: Pierce",
+    "Inspire 2",
+    "Relentless",
+    "Reposition",
+    "Spur",
+    "Unhindered"
+  ],
+  "weapons": [
+    {
+      "name": "Lightsaber & Horn",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 3, "white": 3 },
+      "keywords": ["Impact 2", "Lethal 1", "Pierce 1", "Ram 1"]
+    },
+    {
+      "name": "Luke's Blaster",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 1, "black": 3 },
+      "keywords": ["Long Shot"]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Command",
+    "Training",
+    "Comms"
+  ]
+}

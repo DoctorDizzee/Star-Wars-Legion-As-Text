@@ -1,0 +1,39 @@
+{
+  "name": "Mandalorian Resistance",
+  "title": null,
+  "faction": "Rebel Alliance",
+  "rank": "Special Forces",
+  "unit_type": "Trooper",
+  "squad_size": 3,
+  "stats": {
+    "health": 1,
+    "courage": 2,
+    "speed": 3,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Hit",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Jump 2",
+    "Impervious",
+    "Nimble"
+  ],
+  "weapons": [
+    {
+      "name": "Westar-35 Blasters",
+      "range": { "min": 0, "max": 2 },
+      "dice": { "black": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Heavy Weapon",
+    "Training",
+    "Comms",
+    "Gear",
+    "Armament",
+    "Grenades"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Rebel Sleeper Cell",
+  "title": null,
+  "faction": "Rebel Alliance",
+  "rank": "Special Forces",
+  "unit_type": "Trooper",
+  "squad_size": 6,
+  "stats": {
+    "health": 1,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Hit",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Nimble",
+    "Scout 2",
+    "Tactical 1"
+  ],
+  "weapons": [
+    {
+      "name": "Det Packs",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 1 },
+      "keywords": ["Impact 1"]
+    },
+    {
+      "name": "Blaster Pistols",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "white": 1, "black": 1 },
+      "keywords": ["Suppressive"]
+    },
+    {
+      "name": "Blaster Pistols",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Heavy Weapon",
+    "Personnel",
+    "Training",
+    "Comms",
+    "Gear"
+  ]
+}

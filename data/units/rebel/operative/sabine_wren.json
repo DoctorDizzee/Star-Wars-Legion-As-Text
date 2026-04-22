@@ -1,0 +1,37 @@
+{
+  "name": "Sabine Wren",
+  "title": "Explosive Artist",
+  "faction": "Rebel Alliance",
+  "rank": "Operative",
+  "unit_type": "Trooper",
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 3,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Jump 2",
+    "Gunslinger",
+    "Impervious",
+    "Nimble"
+  ],
+  "weapons": [
+    {
+      "name": "Westar-35 Blasters",
+      "range": { "min": 0, "max": 2 },
+      "dice": { "red": 1, "black": 1, "white": 1 },
+      "keywords": ["Pierce 1"]
+    }
+  ],
+  "upgrade_slots": [
+    "Training",
+    "Gear",
+    "Gear",
+    "Armament"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "T-47 Airspeeder",
+  "title": null,
+  "faction": "Rebel Alliance",
+  "rank": "Heavy",
+  "unit_type": "Repulsor Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 7,
+    "resilience": 5,
+    "speed": 3,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Armor 3",
+    "Arsenal 2",
+    "Cover 1",
+    "Immune: Blast, Melee, Range 1 Weapons",
+    "Speeder 2"
+  ],
+  "weapons": [
+    {
+      "name": "Double Laser Cannon",
+      "range": { "min": 1, "max": 3 },
+      "dice": { "red": 3, "black": 3 },
+      "keywords": ["Impact 3", "Fixed: Front"]
+    }
+  ],
+  "upgrade_slots": [
+    "Pilot",
+    "Hardpoint",
+    "Comms",
+    "Strike and Fade"
+  ]
+}

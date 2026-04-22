@@ -3,9 +3,11 @@
   "title": "Dark Lord of the Sith",
   "faction": "Galactic Empire",
   "rank": "Commander",
+  "unit_type": "Trooper",
   "stats": {
     "health": 8,
     "courage": null,
+    "speed": 1,
     "defense_die": "Red",
     "surges": {
       "attack": "Critical",

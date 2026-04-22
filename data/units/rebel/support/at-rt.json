@@ -1,0 +1,42 @@
+{
+  "name": "AT-RT",
+  "title": null,
+  "faction": "Rebel Alliance",
+  "rank": "Support",
+  "unit_type": "Ground Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "resilience": 4,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Armor 2",
+    "Climbing Vehicle",
+    "Expert Climber",
+    "Scout 1"
+  ],
+  "weapons": [
+    {
+      "name": "Grappling Claws",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 3 },
+      "keywords": ["Impact 1"]
+    },
+    {
+      "name": "A300 Blaster Rifle",
+      "range": { "min": 1, "max": 3 },
+      "dice": { "white": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Hardpoint",
+    "Comms"
+  ]
+}

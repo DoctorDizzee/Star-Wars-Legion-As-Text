@@ -3,9 +3,11 @@
   "title": "Darth Tyranus",
   "faction": "Separatist Alliance",
   "rank": "Commander",
+  "unit_type": "Trooper",
   "stats": {
     "health": 6,
     "courage": 3,
+    "speed": 2,
     "defense_die": "Red",
     "surges": {
       "attack": "Critical",

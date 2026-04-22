@@ -1,0 +1,44 @@
+{
+  "name": "Jyn Erso",
+  "title": "Stardust",
+  "faction": "Rebel Alliance",
+  "rank": "Operative",
+  "unit_type": "Trooper",
+  "stats": {
+    "health": 5,
+    "courage": 3,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Agile 1",
+    "Disengage",
+    "Independent: Move",
+    "Infiltrate",
+    "Nimble",
+    "Sharpshooter 1"
+  ],
+  "weapons": [
+    {
+      "name": "Collapsible Tonfa",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 4 },
+      "keywords": ["Suppressive"]
+    },
+    {
+      "name": "A-180 Blaster Pistol",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 2, "white": 1 },
+      "keywords": ["Long Shot", "Pierce 1"]
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Training",
+    "Gear"
+  ]
+}

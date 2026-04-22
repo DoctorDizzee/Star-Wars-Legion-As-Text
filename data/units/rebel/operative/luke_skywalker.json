@@ -1,0 +1,39 @@
+{
+  "name": "Luke Skywalker",
+  "title": "Jedi Knight",
+  "faction": "Rebel Alliance",
+  "rank": "Operative",
+  "unit_type": "Trooper",
+  "stats": {
+    "health": 7,
+    "courage": 4,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": null
+    }
+  },
+  "keywords": [
+    "Jump 1",
+    "Charge",
+    "Deflect",
+    "Disengage",
+    "Immune: Pierce",
+    "Master of the Force 1"
+  ],
+  "weapons": [
+    {
+      "name": "Luke's Lightsaber",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 7 },
+      "keywords": ["Impact 2", "Pierce 2"]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Force",
+    "Training"
+  ]
+}

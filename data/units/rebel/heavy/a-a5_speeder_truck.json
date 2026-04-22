@@ -1,0 +1,33 @@
+{
+  "name": "A-A5 Speeder Truck",
+  "title": null,
+  "faction": "Rebel Alliance",
+  "rank": "Heavy",
+  "unit_type": "Repulsor Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 8,
+    "resilience": 6,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": null,
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Armor 5",
+    "Hover: Ground",
+    "Reposition",
+    "Transport",
+    "Weak Point 2: Rear"
+  ],
+  "weapons": [],
+  "upgrade_slots": [
+    "Pilot",
+    "Hardpoint",
+    "Comms",
+    "Crew",
+    "Crew"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Chewbacca",
+  "title": "Walking Carpet",
+  "faction": "Rebel Alliance",
+  "rank": "Operative",
+  "stats": {
+    "health": 9,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": null
+    }
+  },
+  "keywords": [
+    "Enrage 4",
+    "Guardian 3",
+    "Scale",
+    "Teamwork: Han Solo"
+  ],
+  "weapons": [
+    {
+      "name": "Overwhelm",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 4 },
+      "keywords": ["Lethal 1"]
+    },
+    {
+      "name": "Chewbacca's Bowcaster",
+      "range": { "min": 1, "max": 3 },
+      "dice": { "red": 2, "white": 2 },
+      "keywords": ["Impact 1", "Pierce 1"]
+    }
+  ],
+  "upgrade_slots": [
+    "Training",
+    "Training",
+    "Gear"
+  ]
+}

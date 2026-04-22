@@ -1,0 +1,45 @@
+{
+  "name": "Wookiee Warriors",
+  "title": "Freedom Fighters",
+  "faction": "Rebel Alliance",
+  "rank": "Special Forces",
+  "unit_type": "Wookiee Trooper",
+  "squad_size": 3,
+  "stats": {
+    "health": 3,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Hit",
+      "defense": null
+    }
+  },
+  "keywords": [
+    "Charge",
+    "Duelist",
+    "Indomitable",
+    "Scale"
+  ],
+  "weapons": [
+    {
+      "name": "Ryyk Blade",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 2 },
+      "keywords": []
+    },
+    {
+      "name": "Kashyyyk Pistol",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "white": 1, "black": 1 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Heavy Weapon",
+    "Training",
+    "Training",
+    "Gear",
+    "Grenades"
+  ]
+}

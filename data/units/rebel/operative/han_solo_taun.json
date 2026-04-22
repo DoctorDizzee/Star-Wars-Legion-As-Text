@@ -1,0 +1,46 @@
+{
+  "name": "Han Solo",
+  "title": "Reluctant Hero",
+  "faction": "Rebel Alliance",
+  "rank": "Operative",
+  "unit_type": "Creature Trooper",
+  "stats": {
+    "health": 6,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Arsenal 2",
+    "Charge",
+    "Independent: Aim 1 and Dodge 1",
+    "Reposition",
+    "Spur",
+    "Uncanny Luck 3",
+    "Unhindered"
+  ],
+  "weapons": [
+    {
+      "name": "Stampede",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "white": 1, "black": 2 },
+      "keywords": ["Ram 1"]
+    },
+    {
+      "name": "Han's DL-44 Blaster",
+      "range": { "min": 0, "max": 2 },
+      "dice": { "red": 1, "white": 1, "black": 1 },
+      "keywords": ["Pierce 1", "Versatile"]
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Training",
+    "Comms",
+    "Gear"
+  ]
+}

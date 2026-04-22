@@ -1,9 +1,8 @@
 {
-  "name": "Anakin Skywalker",
-  "title": "The Chosen One",
-  "faction": "Galactic Republic",
-  "rank": "Commander",
-  "unit_type": "Trooper",
+  "name": "Ahsoka Tano",
+  "title": "Fulcrum",
+  "faction": "Rebel Alliance",
+  "rank": "Operative",
   "stats": {
     "health": 6,
     "courage": 3,
@@ -11,24 +10,23 @@
     "defense_die": "Red",
     "surges": {
       "attack": "Critical",
-      "defense": "Shield/Surge"
+      "defense": null
     }
   },
   "keywords": [
-    "Jump 1",
+    "Jump 2",
     "Charge",
+    "Defend 1",
     "Deflect",
-    "Djem So Mastery",
     "Immune: Pierce",
-    "Master of the Force 1",
-    "Tempted"
+    "Jar'Kai Mastery"
   ],
   "weapons": [
     {
-      "name": "Anakin's Lightsaber",
+      "name": "Ahsoka's Lightsabers",
       "range": { "min": 0, "max": 0 },
-      "dice": { "red": 5 },
-      "keywords": ["Impact 3", "Pierce 3"]
+      "dice": { "red": 2, "black": 2, "white": 2 },
+      "keywords": ["Impact 2", "Pierce 2"]
     }
   ],
   "upgrade_slots": [

@@ -1,0 +1,43 @@
+{
+  "name": "Han Solo",
+  "title": "Unorthodox General",
+  "faction": "Rebel Alliance",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "stats": {
+    "health": 6,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Gunslinger",
+    "Low Profile",
+    "Sharpshooter 1",
+    "Steady",
+    "Uncanny Luck 3"
+  ],
+  "weapons": [
+    {
+      "name": "Brawl",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "white": 3 },
+      "keywords": []
+    },
+    {
+      "name": "Han's DL-44 Blaster",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 2 },
+      "keywords": ["Pierce 2"]
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Training",
+    "Gear"
+  ]
+}

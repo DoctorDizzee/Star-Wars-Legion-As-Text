@@ -1,0 +1,43 @@
+{
+  "name": "Tauntaun Riders",
+  "title": null,
+  "faction": "Rebel Alliance",
+  "rank": "Support",
+  "unit_type": "Creature Trooper",
+  "squad_size": 2,
+  "stats": {
+    "health": 4,
+    "courage": 2,
+    "speed": 3,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Hit",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Agile 1",
+    "Relentless",
+    "Reposition",
+    "Sharpshooter 1",
+    "Unhindered"
+  ],
+  "weapons": [
+    {
+      "name": "Stampede",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "white": 1, "black": 2 },
+      "keywords": ["Ram 1"]
+    },
+    {
+      "name": "Blaster Pistols",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Training",
+    "Comms"
+  ]
+}

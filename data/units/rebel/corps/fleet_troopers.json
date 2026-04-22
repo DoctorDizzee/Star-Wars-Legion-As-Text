@@ -1,0 +1,35 @@
+{
+  "name": "Fleet Troopers",
+  "title": null,
+  "faction": "Rebel Alliance",
+  "rank": "Corps",
+  "unit_type": "Trooper",
+  "squad_size": 4,
+  "stats": {
+    "health": 1,
+    "courage": 1,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Hit",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Charge"
+  ],
+  "weapons": [
+    {
+      "name": "DH-17 Blaster Pistol",
+      "range": { "min": 0, "max": 2 },
+      "dice": { "white": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Heavy Weapon",
+    "Personnel",
+    "Gear",
+    "Grenades"
+  ]
+}
