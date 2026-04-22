@@ -1,4 +1,4 @@
-# Star Wars: Legion 2.5 Live Data Repo
+# Star Wars: Legion 2.5 Live Data Repo (WIP)
 
 ### Purpose
 This repository provides the most up-to-date stats and rules for Star Wars for any text applications: Legion (Post-2.5 update). 
