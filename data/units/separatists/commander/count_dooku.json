@@ -1,0 +1,43 @@
+{
+  "name": "Count Dooku",
+  "title": "Darth Tyranus",
+  "faction": "Separatist Alliance",
+  "rank": "Commander",
+  "stats": {
+    "health": 6,
+    "courage": 3,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Cunning",
+    "Deflect",
+    "Direct: Trooper Unit",
+    "Immune: Pierce",
+    "Makashi Mastery",
+    "Master of the Force 2"
+  ],
+  "weapons": [
+    {
+      "name": "Dooku's Lightsaber",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 5 },
+      "keywords": ["Impact 2", "Pierce 2"]
+    },
+    {
+      "name": "Force Lightning",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 6 },
+      "keywords": ["Pierce 1", "Scatter", "Suppressive"]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Force",
+    "Command"
+  ]
+}

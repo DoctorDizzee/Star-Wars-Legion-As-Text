@@ -1,0 +1,38 @@
+{
+  "name": "Anakin Skywalker",
+  "title": "The Chosen One",
+  "faction": "Galactic Republic",
+  "rank": "Commander",
+  "stats": {
+    "health": 6,
+    "courage": 3,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Shield/Surge"
+    }
+  },
+  "keywords": [
+    "Jump 1",
+    "Charge",
+    "Deflect",
+    "Djem So Mastery",
+    "Immune: Pierce",
+    "Master of the Force 1",
+    "Tempted"
+  ],
+  "weapons": [
+    {
+      "name": "Anakin's Lightsaber",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 5 },
+      "keywords": ["Impact 3", "Pierce 3"]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Training",
+    "Training"
+  ]
+}

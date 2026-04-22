@@ -1,0 +1,36 @@
+{
+  "name": "Darth Vader",
+  "title": "Dark Lord of the Sith",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "stats": {
+    "health": 8,
+    "courage": null,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": null
+    }
+  },
+  "keywords": [
+    "Compel: Trooper",
+    "Deflect",
+    "Immune: Pierce",
+    "Master of the Force 1",
+    "Relentless"
+  ],
+  "weapons": [
+    {
+      "name": "Vader's Lightsaber",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 6 },
+      "keywords": ["Impact 3", "Pierce 3"]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Force",
+    "Command"
+  ]
+}
