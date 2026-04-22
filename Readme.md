@@ -81,3 +81,8 @@ Designed for:
     "Command": 1
   }
 }
+  "upgrade_slots": {
+    "Force": 3,
+    "Command": 1
+  }
+}
