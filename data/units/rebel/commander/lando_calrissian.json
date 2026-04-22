@@ -16,20 +16,20 @@
   },
   "keywords": [
     {
-      "name": "Guidance",
+      "ref": "keywords/guidance",
       "value": "Trooper Unit"
     },
     {
-      "name": "Allies of Convenience"
+      "ref": "keywords/allies_of_convenience"
     },
     {
-      "name": "One Step Ahead"
+      "ref": "keywords/one_step_ahead"
     },
     {
-      "name": "Steady"
+      "ref": "keywords/steady"
     },
     {
-      "name": "Uncanny Luck",
+      "ref": "keywords/uncanny_luck",
       "value": 2
     }
   ],
@@ -57,7 +57,7 @@
       },
       "keywords": [
         {
-          "name": "Long Shot"
+          "ref": "keywords/long_shot"
         }
       ]
     }

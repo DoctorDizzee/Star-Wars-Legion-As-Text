@@ -16,24 +16,24 @@
   },
   "keywords": [
     {
-      "name": "Agile",
+      "ref": "keywords/agile",
       "value": 1
     },
     {
-      "name": "Disengage"
+      "ref": "keywords/disengage"
     },
     {
-      "name": "Independent",
+      "ref": "keywords/independent",
       "value": "Move"
     },
     {
-      "name": "Infiltrate"
+      "ref": "keywords/infiltrate"
     },
     {
-      "name": "Nimble"
+      "ref": "keywords/nimble"
     },
     {
-      "name": "Sharpshooter",
+      "ref": "keywords/sharpshooter",
       "value": 1
     }
   ],
@@ -48,7 +48,7 @@
       },
       "keywords": [
         {
-          "name": "Suppressive"
+          "ref": "keywords/suppressive"
         }
       ]
     },
@@ -65,10 +65,10 @@
       },
       "keywords": [
         {
-          "name": "Long Shot"
+          "ref": "keywords/long_shot"
         },
         {
-          "name": "Pierce",
+          "ref": "keywords/pierce",
           "value": 1
         }
       ]

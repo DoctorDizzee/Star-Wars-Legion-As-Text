@@ -17,21 +17,21 @@
   },
   "keywords": [
     {
-      "name": "Jump",
+      "ref": "keywords/jump",
       "value": 2
     },
     {
-      "name": "Equip",
+      "ref": "keywords/equip",
       "value": "Tristan Wren, Ursa Wren"
     },
     {
-      "name": "Impervious"
+      "ref": "keywords/impervious"
     },
     {
-      "name": "Nimble"
+      "ref": "keywords/nimble"
     },
     {
-      "name": "Retinue",
+      "ref": "keywords/retinue",
       "value": "Sabine Wren"
     }
   ],

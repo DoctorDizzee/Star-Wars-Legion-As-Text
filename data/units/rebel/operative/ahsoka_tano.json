@@ -15,25 +15,25 @@
   },
   "keywords": [
     {
-      "name": "Jump",
+      "ref": "keywords/jump",
       "value": 2
     },
     {
-      "name": "Charge"
+      "ref": "keywords/charge"
     },
     {
-      "name": "Defend",
+      "ref": "keywords/defend",
       "value": 1
     },
     {
-      "name": "Deflect"
+      "ref": "keywords/deflect"
     },
     {
-      "name": "Immune",
+      "ref": "keywords/immune",
       "value": "Pierce"
     },
     {
-      "name": "Jar'Kai Mastery"
+      "ref": "keywords/jarkai_mastery"
     }
   ],
   "weapons": [
@@ -47,11 +47,11 @@
       },
       "keywords": [
         {
-          "name": "Impact",
+          "ref": "keywords/impact",
           "value": 2
         },
         {
-          "name": "Pierce",
+          "ref": "keywords/pierce",
           "value": 2
         }
       ]

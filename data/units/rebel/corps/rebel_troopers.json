@@ -17,11 +17,11 @@
   },
   "keywords": [
     {
-      "name": "Agile",
+      "ref": "keywords/agile",
       "value": 1
     },
     {
-      "name": "Nimble"
+      "ref": "keywords/nimble"
     }
   ],
   "weapons": [

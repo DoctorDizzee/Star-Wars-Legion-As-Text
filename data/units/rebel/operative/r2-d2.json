@@ -16,17 +16,17 @@
   },
   "keywords": [
     {
-      "name": "Repair 2",
+      "ref": "keywords/repair_2",
       "value": "Capacity 2"
     },
     {
-      "name": "Inconspicuous"
+      "ref": "keywords/inconspicuous"
     },
     {
-      "name": "Infiltrate"
+      "ref": "keywords/infiltrate"
     },
     {
-      "name": "Secret Mission"
+      "ref": "keywords/secret_mission"
     }
   ],
   "weapons": [
@@ -43,7 +43,7 @@
       },
       "keywords": [
         {
-          "name": "Suppressive"
+          "ref": "keywords/suppressive"
         }
       ]
     }

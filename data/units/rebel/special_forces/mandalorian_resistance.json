@@ -17,14 +17,14 @@
   },
   "keywords": [
     {
-      "name": "Jump",
+      "ref": "keywords/jump",
       "value": 2
     },
     {
-      "name": "Impervious"
+      "ref": "keywords/impervious"
     },
     {
-      "name": "Nimble"
+      "ref": "keywords/nimble"
     }
   ],
   "weapons": [

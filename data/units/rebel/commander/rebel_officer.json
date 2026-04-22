@@ -16,11 +16,11 @@
   },
   "keywords": [
     {
-      "name": "Equip",
+      "ref": "keywords/equip",
       "value": "Doctrine"
     },
     {
-      "name": "Inspire",
+      "ref": "keywords/inspire",
       "value": 1
     }
   ],

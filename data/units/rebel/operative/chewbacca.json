@@ -15,18 +15,18 @@
   },
   "keywords": [
     {
-      "name": "Enrage",
+      "ref": "keywords/enrage",
       "value": 4
     },
     {
-      "name": "Guardian",
+      "ref": "keywords/guardian",
       "value": 3
     },
     {
-      "name": "Scale"
+      "ref": "keywords/scale"
     },
     {
-      "name": "Teamwork",
+      "ref": "keywords/teamwork",
       "value": "Han Solo"
     }
   ],
@@ -41,7 +41,7 @@
       },
       "keywords": [
         {
-          "name": "Lethal",
+          "ref": "keywords/lethal",
           "value": 1
         }
       ]
@@ -60,11 +60,11 @@
       },
       "keywords": [
         {
-          "name": "Impact",
+          "ref": "keywords/impact",
           "value": 1
         },
         {
-          "name": "Pierce",
+          "ref": "keywords/pierce",
           "value": 1
         }
       ]

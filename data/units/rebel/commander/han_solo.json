@@ -16,20 +16,20 @@
   },
   "keywords": [
     {
-      "name": "Gunslinger"
+      "ref": "keywords/gunslinger"
     },
     {
-      "name": "Low Profile"
+      "ref": "keywords/low_profile"
     },
     {
-      "name": "Sharpshooter",
+      "ref": "keywords/sharpshooter",
       "value": 1
     },
     {
-      "name": "Steady"
+      "ref": "keywords/steady"
     },
     {
-      "name": "Uncanny Luck",
+      "ref": "keywords/uncanny_luck",
       "value": 3
     }
   ],
@@ -57,7 +57,7 @@
       },
       "keywords": [
         {
-          "name": "Pierce",
+          "ref": "keywords/pierce",
           "value": 2
         }
       ]

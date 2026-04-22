@@ -17,13 +17,13 @@
   },
   "keywords": [
     {
-      "name": "Indomitable"
+      "ref": "keywords/indomitable"
     },
     {
-      "name": "Scale"
+      "ref": "keywords/scale"
     },
     {
-      "name": "Sharpshooter",
+      "ref": "keywords/sharpshooter",
       "value": 1
     }
   ],

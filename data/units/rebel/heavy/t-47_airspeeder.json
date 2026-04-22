@@ -17,23 +17,23 @@
   },
   "keywords": [
     {
-      "name": "Armor",
+      "ref": "keywords/armor",
       "value": 3
     },
     {
-      "name": "Arsenal",
+      "ref": "keywords/arsenal",
       "value": 2
     },
     {
-      "name": "Cover",
+      "ref": "keywords/cover",
       "value": 1
     },
     {
-      "name": "Immune",
+      "ref": "keywords/immune",
       "value": "Blast, Melee, Range 1 Weapons"
     },
     {
-      "name": "Speeder",
+      "ref": "keywords/speeder",
       "value": 2
     }
   ],
@@ -52,11 +52,11 @@
       },
       "keywords": [
         {
-          "name": "Impact",
+          "ref": "keywords/impact",
           "value": 3
         },
         {
-          "name": "Fixed",
+          "ref": "keywords/fixed",
           "value": "Front"
         }
       ]

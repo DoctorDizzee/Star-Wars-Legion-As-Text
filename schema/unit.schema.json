@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Legion Unit Schema",
+  "type": "object",
+  "required": ["name", "faction", "rank", "unit_type", "stats", "keywords", "weapons", "upgrade_slots"],
+  "additionalProperties": false,
+  "properties": {
+    "name": {"type": "string"},
+    "title": {"type": ["string", "null"]},
+    "faction": {
+      "type": "string",
+      "enum": ["Galactic Empire", "Galactic Republic", "Mercenary", "Rebel Alliance", "Separatist Alliance"]
+    },
+    "rank": {
+      "type": "string",
+      "enum": ["Commander", "Corps", "Heavy", "Operative", "Special Forces", "Support"]
+    },
+    "unit_type": {
+      "type": "string",
+      "enum": ["Creature Trooper", "Droid Trooper", "Emplacement Trooper", "Ground Vehicle", "Repulsor Vehicle", "Trooper", "Wookiee Trooper"]
+    },
+    "squad_size": {"type": "integer", "minimum": 1},
+    "stats": {
+      "type": "object",
+      "required": ["health", "courage", "speed", "defense_die", "surges"],
+      "additionalProperties": false,
+      "properties": {
+        "health": {"type": "integer", "minimum": 0},
+        "courage": {"anyOf": [{"type": "integer"}, {"type": "string", "enum": ["Null"]}]},
+        "speed": {"type": "integer", "minimum": 0},
+        "defense_die": {"type": "string", "enum": ["Red", "White"]},
+        "surges": {
+          "type": "object",
+          "required": ["attack", "defense"],
+          "additionalProperties": false,
+          "properties": {
+            "attack": {"type": "string", "enum": ["None", "Block", "Critical"]},
+            "defense": {"type": "string", "enum": ["None", "Block", "Critical"]}
+          }
+        }
+      }
+    },
+    "keywords": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/keywordRef"}
+    },
+    "weapons": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "range", "dice", "keywords"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {"type": "string"},
+          "range": {
+            "oneOf": [
+              {"type": "string"},
+              {"type": "array", "items": {"type": "integer"}, "minItems": 1}
+            ]
+          },
+          "dice": {
+            "type": "object",
+            "required": ["black", "red", "white"],
+            "additionalProperties": false,
+            "properties": {
+              "black": {"type": "integer", "minimum": 0},
+              "red": {"type": "integer", "minimum": 0},
+              "white": {"type": "integer", "minimum": 0}
+            }
+          },
+          "keywords": {
+            "type": "array",
+            "items": {"$ref": "#/$defs/keywordRef"}
+          }
+        }
+      }
+    },
+    "upgrade_slots": {
+      "type": "object",
+      "additionalProperties": {"type": "integer", "minimum": 0}
+    }
+  },
+  "$defs": {
+    "keywordRef": {
+      "type": "object",
+      "required": ["ref"],
+      "additionalProperties": false,
+      "properties": {
+        "ref": {"type": "string", "pattern": "^keywords/[a-z0-9_]+$"},
+        "value": {"anyOf": [{"type": "integer"}, {"type": "string"}]}
+      }
+    }
+  }
+}

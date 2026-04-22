@@ -16,19 +16,19 @@
   },
   "keywords": [
     {
-      "name": "Mercenary",
+      "ref": "keywords/mercenary",
       "value": "Republic, Rebel, Empire, Separatist"
     },
     {
-      "name": "Aid",
+      "ref": "keywords/aid",
       "value": "Pyke Syndicate"
     },
     {
-      "name": "Danger Sense",
+      "ref": "keywords/danger_sense",
       "value": 2
     },
     {
-      "name": "Independent",
+      "ref": "keywords/independent",
       "value": "Dodge 1"
     }
   ],

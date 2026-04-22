@@ -16,17 +16,17 @@
   },
   "keywords": [
     {
-      "name": "Jump",
+      "ref": "keywords/jump",
       "value": 2
     },
     {
-      "name": "Gunslinger"
+      "ref": "keywords/gunslinger"
     },
     {
-      "name": "Impervious"
+      "ref": "keywords/impervious"
     },
     {
-      "name": "Nimble"
+      "ref": "keywords/nimble"
     }
   ],
   "weapons": [
@@ -44,7 +44,7 @@
       },
       "keywords": [
         {
-          "name": "Pierce",
+          "ref": "keywords/pierce",
           "value": 1
         }
       ]

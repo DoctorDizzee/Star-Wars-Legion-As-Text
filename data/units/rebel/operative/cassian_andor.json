@@ -15,28 +15,28 @@
   },
   "keywords": [
     {
-      "name": "Danger Sense",
+      "ref": "keywords/danger_sense",
       "value": 3
     },
     {
-      "name": "Equip",
+      "ref": "keywords/equip",
       "value": "A280"
     },
     {
-      "name": "Field Commander"
+      "ref": "keywords/field_commander"
     },
     {
-      "name": "Infiltrate"
+      "ref": "keywords/infiltrate"
     },
     {
-      "name": "Marksman"
+      "ref": "keywords/marksman"
     },
     {
-      "name": "Sharpshooter",
+      "ref": "keywords/sharpshooter",
       "value": 1
     },
     {
-      "name": "Tactical",
+      "ref": "keywords/tactical",
       "value": 1
     }
   ],

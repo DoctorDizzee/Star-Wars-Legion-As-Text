@@ -16,28 +16,28 @@
   },
   "keywords": [
     {
-      "name": "Jump",
+      "ref": "keywords/jump",
       "value": 1
     },
     {
-      "name": "Charge"
+      "ref": "keywords/charge"
     },
     {
-      "name": "Deflect"
+      "ref": "keywords/deflect"
     },
     {
-      "name": "Djem So Mastery"
+      "ref": "keywords/djem_so_mastery"
     },
     {
-      "name": "Immune",
+      "ref": "keywords/immune",
       "value": "Pierce"
     },
     {
-      "name": "Master of the Force",
+      "ref": "keywords/master_of_the_force",
       "value": 1
     },
     {
-      "name": "Tempted"
+      "ref": "keywords/tempted"
     }
   ],
   "weapons": [
@@ -51,11 +51,11 @@
       },
       "keywords": [
         {
-          "name": "Impact",
+          "ref": "keywords/impact",
           "value": 3
         },
         {
-          "name": "Pierce",
+          "ref": "keywords/pierce",
           "value": 3
         }
       ]

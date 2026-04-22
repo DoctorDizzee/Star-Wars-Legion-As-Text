@@ -17,17 +17,17 @@
   },
   "keywords": [
     {
-      "name": "Armor",
+      "ref": "keywords/armor",
       "value": 2
     },
     {
-      "name": "Climbing Vehicle"
+      "ref": "keywords/climbing_vehicle"
     },
     {
-      "name": "Expert Climber"
+      "ref": "keywords/expert_climber"
     },
     {
-      "name": "Scout",
+      "ref": "keywords/scout",
       "value": 1
     }
   ],
@@ -42,7 +42,7 @@
       },
       "keywords": [
         {
-          "name": "Impact",
+          "ref": "keywords/impact",
           "value": 1
         }
       ]

@@ -17,16 +17,16 @@
   },
   "keywords": [
     {
-      "name": "Charge"
+      "ref": "keywords/charge"
     },
     {
-      "name": "Duelist"
+      "ref": "keywords/duelist"
     },
     {
-      "name": "Indomitable"
+      "ref": "keywords/indomitable"
     },
     {
-      "name": "Scale"
+      "ref": "keywords/scale"
     }
   ],
   "weapons": [

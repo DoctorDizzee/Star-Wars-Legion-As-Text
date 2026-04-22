@@ -1,0 +1,14 @@
+{
+  "name": "Deflect",
+  "slug": "deflect",
+  "type": "Unit Keyword",
+  "timing": "During Attack: Defense",
+  "official_rules_text": "While a unit with the Deflect keyword is defending against a ranged attack, if it spends a dodge token, it gains \"Surge: Block\". Furthermore, if it spends a dodge token and the attack is ranged, the attacker suffers 1 wound for each surge result rolled by the defender during the Roll Defense Dice step.",
+  "ai_processing_logic": [
+    "Condition 1: Attack must be Ranged.",
+    "Effect 1 (Defense): Defender's surge chart temporarily becomes Surge to Block.",
+    "Effect 2 (Damage): Attacker suffers 1 wound if the defender rolls any Surge result (max 1).",
+    "Exceptions: Does not trigger in melee."
+  ],
+  "last_updated": "2024-04-22"
+}

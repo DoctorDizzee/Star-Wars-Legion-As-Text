@@ -16,32 +16,32 @@
   },
   "keywords": [
     {
-      "name": "Spotter",
+      "ref": "keywords/spotter",
       "value": 1
     },
     {
-      "name": "Take Cover",
+      "ref": "keywords/take_cover",
       "value": 1
     },
     {
-      "name": "Immune",
+      "ref": "keywords/immune",
       "value": "Pierce"
     },
     {
-      "name": "Inspire",
+      "ref": "keywords/inspire",
       "value": 2
     },
     {
-      "name": "Relentless"
+      "ref": "keywords/relentless"
     },
     {
-      "name": "Reposition"
+      "ref": "keywords/reposition"
     },
     {
-      "name": "Spur"
+      "ref": "keywords/spur"
     },
     {
-      "name": "Unhindered"
+      "ref": "keywords/unhindered"
     }
   ],
   "weapons": [
@@ -55,19 +55,19 @@
       },
       "keywords": [
         {
-          "name": "Impact",
+          "ref": "keywords/impact",
           "value": 2
         },
         {
-          "name": "Lethal",
+          "ref": "keywords/lethal",
           "value": 1
         },
         {
-          "name": "Pierce",
+          "ref": "keywords/pierce",
           "value": 1
         },
         {
-          "name": "Ram",
+          "ref": "keywords/ram",
           "value": 1
         }
       ]
@@ -85,7 +85,7 @@
       },
       "keywords": [
         {
-          "name": "Long Shot"
+          "ref": "keywords/long_shot"
         }
       ]
     }

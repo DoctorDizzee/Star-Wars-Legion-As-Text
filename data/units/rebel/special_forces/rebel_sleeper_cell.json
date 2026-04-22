@@ -17,14 +17,14 @@
   },
   "keywords": [
     {
-      "name": "Nimble"
+      "ref": "keywords/nimble"
     },
     {
-      "name": "Scout",
+      "ref": "keywords/scout",
       "value": 2
     },
     {
-      "name": "Tactical",
+      "ref": "keywords/tactical",
       "value": 1
     }
   ],
@@ -39,7 +39,7 @@
       },
       "keywords": [
         {
-          "name": "Impact",
+          "ref": "keywords/impact",
           "value": 1
         }
       ]
@@ -54,7 +54,7 @@
       },
       "keywords": [
         {
-          "name": "Suppressive"
+          "ref": "keywords/suppressive"
         }
       ]
     },

@@ -81,8 +81,21 @@ Designed for:
     "Command": 1
   }
 }
-  "upgrade_slots": {
-    "Force": 3,
-    "Command": 1
-  }
-}
+
+---
+
+## Compiled Ingestion File
+
+The repository includes a single aggregated unit file for AI and indexing workflows:
+
+- `compiled/all_units.json`
+
+This file is generated from the per-unit files in `data/units/`.
+
+To regenerate it after any unit update, run:
+
+```bash
+python scripts/update_units.py
+```
+
+That script rewrites all unit files and rebuilds `compiled/all_units.json`.

@@ -17,19 +17,19 @@
   },
   "keywords": [
     {
-      "name": "Armor",
+      "ref": "keywords/armor",
       "value": 2
     },
     {
-      "name": "Arsenal",
+      "ref": "keywords/arsenal",
       "value": 3
     },
     {
-      "name": "Cover",
+      "ref": "keywords/cover",
       "value": 1
     },
     {
-      "name": "Speeder",
+      "ref": "keywords/speeder",
       "value": 1
     }
   ],

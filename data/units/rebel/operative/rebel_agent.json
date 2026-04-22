@@ -16,15 +16,15 @@
   },
   "keywords": [
     {
-      "name": "Equip",
+      "ref": "keywords/equip",
       "value": "Doctrine"
     },
     {
-      "name": "Independent",
+      "ref": "keywords/independent",
       "value": "Dodge 1"
     },
     {
-      "name": "Nimble"
+      "ref": "keywords/nimble"
     }
   ],
   "weapons": [

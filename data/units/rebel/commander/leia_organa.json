@@ -16,21 +16,21 @@
   },
   "keywords": [
     {
-      "name": "Take Cover",
+      "ref": "keywords/take_cover",
       "value": 2
     },
     {
-      "name": "Exemplar"
+      "ref": "keywords/exemplar"
     },
     {
-      "name": "Inspire",
+      "ref": "keywords/inspire",
       "value": 2
     },
     {
-      "name": "Nimble"
+      "ref": "keywords/nimble"
     },
     {
-      "name": "Sharpshooter",
+      "ref": "keywords/sharpshooter",
       "value": 2
     }
   ],

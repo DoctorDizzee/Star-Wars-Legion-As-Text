@@ -17,21 +17,21 @@
   },
   "keywords": [
     {
-      "name": "Armor",
+      "ref": "keywords/armor",
       "value": 5
     },
     {
-      "name": "Hover",
+      "ref": "keywords/hover",
       "value": "Ground"
     },
     {
-      "name": "Reposition"
+      "ref": "keywords/reposition"
     },
     {
-      "name": "Transport"
+      "ref": "keywords/transport"
     },
     {
-      "name": "Weak Point 2",
+      "ref": "keywords/weak_point_2",
       "value": "Rear"
     }
   ],

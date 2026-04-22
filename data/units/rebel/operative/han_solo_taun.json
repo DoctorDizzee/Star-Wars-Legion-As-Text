@@ -16,28 +16,28 @@
   },
   "keywords": [
     {
-      "name": "Arsenal",
+      "ref": "keywords/arsenal",
       "value": 2
     },
     {
-      "name": "Charge"
+      "ref": "keywords/charge"
     },
     {
-      "name": "Independent",
+      "ref": "keywords/independent",
       "value": "Aim 1 and Dodge 1"
     },
     {
-      "name": "Reposition"
+      "ref": "keywords/reposition"
     },
     {
-      "name": "Spur"
+      "ref": "keywords/spur"
     },
     {
-      "name": "Uncanny Luck",
+      "ref": "keywords/uncanny_luck",
       "value": 3
     },
     {
-      "name": "Unhindered"
+      "ref": "keywords/unhindered"
     }
   ],
   "weapons": [
@@ -51,7 +51,7 @@
       },
       "keywords": [
         {
-          "name": "Ram",
+          "ref": "keywords/ram",
           "value": 1
         }
       ]
@@ -70,11 +70,11 @@
       },
       "keywords": [
         {
-          "name": "Pierce",
+          "ref": "keywords/pierce",
           "value": 1
         },
         {
-          "name": "Versatile"
+          "ref": "keywords/versatile"
         }
       ]
     }

@@ -17,16 +17,16 @@
   },
   "keywords": [
     {
-      "name": "Full Pivot"
+      "ref": "keywords/full_pivot"
     },
     {
-      "name": "Prepared Position"
+      "ref": "keywords/prepared_position"
     },
     {
-      "name": "Sentinel"
+      "ref": "keywords/sentinel"
     },
     {
-      "name": "Stationary"
+      "ref": "keywords/stationary"
     }
   ],
   "weapons": [
@@ -69,11 +69,11 @@
       },
       "keywords": [
         {
-          "name": "Fixed",
+          "ref": "keywords/fixed",
           "value": "Front"
         },
         {
-          "name": "Impact",
+          "ref": "keywords/impact",
           "value": 2
         }
       ]

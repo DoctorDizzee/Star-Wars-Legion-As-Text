@@ -1,0 +1,13 @@
+{
+  "name": "Impact",
+  "slug": "impact",
+  "type": "Weapon Keyword",
+  "timing": "During Attack: Offense",
+  "official_rules_text": "While attacking a unit that has Armor, change up to X Hit results to Critical results.",
+  "ai_processing_logic": [
+    "Condition 1: Target unit must have the Armor keyword.",
+    "Effect: Convert standard Hits to Crits, up to the X value.",
+    "Interaction Note: This happens before the defender applies the Armor keyword."
+  ],
+  "last_updated": "2024-04-22"
+}

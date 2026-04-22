@@ -17,14 +17,14 @@
   },
   "keywords": [
     {
-      "name": "Low Profile"
+      "ref": "keywords/low_profile"
     },
     {
-      "name": "Scout",
+      "ref": "keywords/scout",
       "value": 2
     },
     {
-      "name": "Sharpshooter",
+      "ref": "keywords/sharpshooter",
       "value": 1
     }
   ],

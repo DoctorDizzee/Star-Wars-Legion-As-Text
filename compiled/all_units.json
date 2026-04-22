@@ -1,0 +1,2391 @@
+[
+  {
+    "id": "empire/commander/darth_vader.json",
+    "source": "data/units/empire/commander/darth_vader.json",
+    "name": "Darth Vader",
+    "title": "Dark Lord of the Sith",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 8,
+      "courage": "Null",
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/compel",
+        "value": "Trooper"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/immune",
+        "value": "Pierce"
+      },
+      {
+        "ref": "keywords/master_of_the_force",
+        "value": 1
+      },
+      {
+        "ref": "keywords/relentless"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Vader's Lightsaber",
+        "range": "melee",
+        "dice": {
+          "red": 6,
+          "black": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 3
+          },
+          {
+            "ref": "keywords/pierce",
+            "value": 3
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Force": 3,
+      "Command": 1
+    }
+  },
+  {
+    "id": "mercenary/commander/pyke_syndicate_capo.json",
+    "source": "data/units/mercenary/commander/pyke_syndicate_capo.json",
+    "name": "Pyke Syndicate Capo",
+    "title": "None",
+    "faction": "Mercenary",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 4,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary",
+        "value": "Republic, Rebel, Empire, Separatist"
+      },
+      {
+        "ref": "keywords/aid",
+        "value": "Pyke Syndicate"
+      },
+      {
+        "ref": "keywords/danger_sense",
+        "value": 2
+      },
+      {
+        "ref": "keywords/independent",
+        "value": "Dodge 1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": "melee",
+        "dice": {
+          "black": 1,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "Capo's Long Blaster",
+        "range": [
+          1,
+          2,
+          3
+        ],
+        "dice": {
+          "black": 3,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Command": 1,
+      "Gear": 1
+    }
+  },
+  {
+    "id": "rebel/commander/han_solo.json",
+    "source": "data/units/rebel/commander/han_solo.json",
+    "name": "Han Solo",
+    "title": "Unorthodox General",
+    "faction": "Rebel Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/gunslinger"
+      },
+      {
+        "ref": "keywords/low_profile"
+      },
+      {
+        "ref": "keywords/sharpshooter",
+        "value": 1
+      },
+      {
+        "ref": "keywords/steady"
+      },
+      {
+        "ref": "keywords/uncanny_luck",
+        "value": 3
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Brawl",
+        "range": "melee",
+        "dice": {
+          "white": 3,
+          "red": 0,
+          "black": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "Han's DL-44 Blaster",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "red": 2,
+          "black": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce",
+            "value": 2
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Command": 1,
+      "Training": 1,
+      "Gear": 1
+    }
+  },
+  {
+    "id": "rebel/commander/lando_calrissian.json",
+    "source": "data/units/rebel/commander/lando_calrissian.json",
+    "name": "Lando Calrissian",
+    "title": "Canny General",
+    "faction": "Rebel Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/guidance",
+        "value": "Trooper Unit"
+      },
+      {
+        "ref": "keywords/allies_of_convenience"
+      },
+      {
+        "ref": "keywords/one_step_ahead"
+      },
+      {
+        "ref": "keywords/steady"
+      },
+      {
+        "ref": "keywords/uncanny_luck",
+        "value": 2
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Backup Plan",
+        "range": "melee",
+        "dice": {
+          "black": 3,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "Lando's X-8 Blaster",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "red": 1,
+          "black": 3,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/long_shot"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Command": 1,
+      "Training": 1,
+      "Gear": 1
+    }
+  },
+  {
+    "id": "rebel/commander/leia_organa.json",
+    "source": "data/units/rebel/commander/leia_organa.json",
+    "name": "Leia Organa",
+    "title": "Fearless and Inventive",
+    "faction": "Rebel Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/take_cover",
+        "value": 2
+      },
+      {
+        "ref": "keywords/exemplar"
+      },
+      {
+        "ref": "keywords/inspire",
+        "value": 2
+      },
+      {
+        "ref": "keywords/nimble"
+      },
+      {
+        "ref": "keywords/sharpshooter",
+        "value": 2
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Martial Arts",
+        "range": "melee",
+        "dice": {
+          "black": 3,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "Leia's Blaster",
+        "range": [
+          1,
+          2,
+          3
+        ],
+        "dice": {
+          "black": 3,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Command": 2,
+      "Training": 1,
+      "Gear": 1
+    }
+  },
+  {
+    "id": "rebel/commander/luke_skywalker.json",
+    "source": "data/units/rebel/commander/luke_skywalker.json",
+    "name": "Luke Skywalker",
+    "title": "Hero of the Rebellion",
+    "faction": "Rebel Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump",
+        "value": 1
+      },
+      {
+        "ref": "keywords/block"
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/immune",
+        "value": "Pierce"
+      },
+      {
+        "ref": "keywords/inspire",
+        "value": 2
+      },
+      {
+        "ref": "keywords/sharpshooter",
+        "value": 1
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Anakin's Lightsaber",
+        "range": "melee",
+        "dice": {
+          "red": 2,
+          "black": 3,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 2
+          },
+          {
+            "ref": "keywords/pierce",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Luke's Blaster",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "red": 1,
+          "black": 3,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/long_shot"
+          },
+          {
+            "ref": "keywords/pierce",
+            "value": 1
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Force": 1,
+      "Command": 1,
+      "Training": 1,
+      "Gear": 1
+    }
+  },
+  {
+    "id": "rebel/commander/luke_skywalker_taun.json",
+    "source": "data/units/rebel/commander/luke_skywalker_taun.json",
+    "name": "Luke Skywalker",
+    "title": "Commander Skywalker",
+    "faction": "Rebel Alliance",
+    "rank": "Commander",
+    "unit_type": "Creature Trooper",
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/spotter",
+        "value": 1
+      },
+      {
+        "ref": "keywords/take_cover",
+        "value": 1
+      },
+      {
+        "ref": "keywords/immune",
+        "value": "Pierce"
+      },
+      {
+        "ref": "keywords/inspire",
+        "value": 2
+      },
+      {
+        "ref": "keywords/relentless"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/spur"
+      },
+      {
+        "ref": "keywords/unhindered"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Lightsaber & Horn",
+        "range": "melee",
+        "dice": {
+          "black": 3,
+          "white": 3,
+          "red": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 2
+          },
+          {
+            "ref": "keywords/lethal",
+            "value": 1
+          },
+          {
+            "ref": "keywords/pierce",
+            "value": 1
+          },
+          {
+            "ref": "keywords/ram",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Luke's Blaster",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "red": 1,
+          "black": 3,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/long_shot"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Force": 1,
+      "Command": 1,
+      "Training": 1,
+      "Comms": 1
+    }
+  },
+  {
+    "id": "rebel/commander/rebel_officer.json",
+    "source": "data/units/rebel/commander/rebel_officer.json",
+    "name": "Rebel Officer",
+    "title": "Fighting for Freedom",
+    "faction": "Rebel Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/equip",
+        "value": "Doctrine"
+      },
+      {
+        "ref": "keywords/inspire",
+        "value": 1
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": "melee",
+        "dice": {
+          "black": 3,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "Blaster Pistol",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "black": 2,
+          "white": 1,
+          "red": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Doctrine": 1,
+      "Command": 1,
+      "Training": 2,
+      "Gear": 1,
+      "Armament": 1,
+      "Grenades": 1
+    }
+  },
+  {
+    "id": "rebel/corps/fleet_troopers.json",
+    "source": "data/units/rebel/corps/fleet_troopers.json",
+    "name": "Fleet Troopers",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/charge"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "DH-17 Blaster Pistol",
+        "range": [
+          0,
+          1,
+          2
+        ],
+        "dice": {
+          "white": 2,
+          "red": 0,
+          "black": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Heavy Weapon": 1,
+      "Personnel": 1,
+      "Gear": 1,
+      "Grenades": 1
+    }
+  },
+  {
+    "id": "rebel/corps/rebel_troopers.json",
+    "source": "data/units/rebel/corps/rebel_troopers.json",
+    "name": "Rebel Troopers",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/agile",
+        "value": 1
+      },
+      {
+        "ref": "keywords/nimble"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": "melee",
+        "dice": {
+          "black": 1,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "A280 Blaster Rifle",
+        "range": [
+          1,
+          2,
+          3
+        ],
+        "dice": {
+          "black": 1,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Heavy Weapon": 1,
+      "Personnel": 1,
+      "Gear": 1,
+      "Grenades": 1
+    }
+  },
+  {
+    "id": "rebel/corps/rebel_veterans.json",
+    "source": "data/units/rebel/corps/rebel_veterans.json",
+    "name": "Rebel Veterans",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 1,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/coordinate",
+        "value": "Emplacement Trooper"
+      },
+      {
+        "ref": "keywords/low_profile"
+      },
+      {
+        "ref": "keywords/prepared_position"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": "melee",
+        "dice": {
+          "black": 1,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "A280 Blaster Rifle",
+        "range": [
+          1,
+          2,
+          3
+        ],
+        "dice": {
+          "black": 1,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Heavy Weapon": 1,
+      "Personnel": 1,
+      "Training": 1,
+      "Gear": 1,
+      "Grenades": 1
+    }
+  },
+  {
+    "id": "rebel/heavy/a-a5_speeder_truck.json",
+    "source": "data/units/rebel/heavy/a-a5_speeder_truck.json",
+    "name": "A-A5 Speeder Truck",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Heavy",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 8,
+      "resilience": 6,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/armor",
+        "value": 5
+      },
+      {
+        "ref": "keywords/hover",
+        "value": "Ground"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/transport"
+      },
+      {
+        "ref": "keywords/weak_point_2",
+        "value": "Rear"
+      }
+    ],
+    "weapons": [],
+    "upgrade_slots": {
+      "Pilot": 1,
+      "Hardpoint": 1,
+      "Comms": 1,
+      "Crew": 2
+    }
+  },
+  {
+    "id": "rebel/heavy/t-47_airspeeder.json",
+    "source": "data/units/rebel/heavy/t-47_airspeeder.json",
+    "name": "T-47 Airspeeder",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Heavy",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 7,
+      "resilience": 5,
+      "speed": 3,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/armor",
+        "value": 3
+      },
+      {
+        "ref": "keywords/arsenal",
+        "value": 2
+      },
+      {
+        "ref": "keywords/cover",
+        "value": 1
+      },
+      {
+        "ref": "keywords/immune",
+        "value": "Blast, Melee, Range 1 Weapons"
+      },
+      {
+        "ref": "keywords/speeder",
+        "value": 2
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Double Laser Cannon",
+        "range": [
+          1,
+          2,
+          3
+        ],
+        "dice": {
+          "red": 3,
+          "black": 3,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 3
+          },
+          {
+            "ref": "keywords/fixed",
+            "value": "Front"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Pilot": 1,
+      "Hardpoint": 1,
+      "Comms": 1,
+      "Strike and Fade": 1
+    }
+  },
+  {
+    "id": "rebel/heavy/x-34_landspeeder.json",
+    "source": "data/units/rebel/heavy/x-34_landspeeder.json",
+    "name": "X-34 Landspeeder",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Heavy",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "resilience": 4,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/armor",
+        "value": 2
+      },
+      {
+        "ref": "keywords/arsenal",
+        "value": 3
+      },
+      {
+        "ref": "keywords/cover",
+        "value": 1
+      },
+      {
+        "ref": "keywords/speeder",
+        "value": 1
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Blaster Pistol",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "red": 0,
+          "black": 2,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Pilot": 1,
+      "Hardpoint": 1,
+      "Comms": 1,
+      "Strike and Fade": 1,
+      "Crew": 2
+    }
+  },
+  {
+    "id": "rebel/operative/ahsoka_tano.json",
+    "source": "data/units/rebel/operative/ahsoka_tano.json",
+    "name": "Ahsoka Tano",
+    "title": "Fulcrum",
+    "faction": "Rebel Alliance",
+    "rank": "Operative",
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump",
+        "value": 2
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/defend",
+        "value": 1
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/immune",
+        "value": "Pierce"
+      },
+      {
+        "ref": "keywords/jarkai_mastery"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Ahsoka's Lightsabers",
+        "range": "melee",
+        "dice": {
+          "red": 2,
+          "black": 2,
+          "white": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 2
+          },
+          {
+            "ref": "keywords/pierce",
+            "value": 2
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Force": 2,
+      "Training": 2
+    }
+  },
+  {
+    "id": "rebel/operative/cassian_andor.json",
+    "source": "data/units/rebel/operative/cassian_andor.json",
+    "name": "Cassian Andor",
+    "title": "Capable Intelligence Agent",
+    "faction": "Rebel Alliance",
+    "rank": "Operative",
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/danger_sense",
+        "value": 3
+      },
+      {
+        "ref": "keywords/equip",
+        "value": "A280"
+      },
+      {
+        "ref": "keywords/field_commander"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/marksman"
+      },
+      {
+        "ref": "keywords/sharpshooter",
+        "value": 1
+      },
+      {
+        "ref": "keywords/tactical",
+        "value": 1
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Martial Arts",
+        "range": "melee",
+        "dice": {
+          "black": 3,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "Cassian's Covert Blaster",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "white": 2,
+          "black": 2,
+          "red": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Command": 1,
+      "Training": 2,
+      "Gear": 1,
+      "Armament": 1
+    }
+  },
+  {
+    "id": "rebel/operative/chewbacca.json",
+    "source": "data/units/rebel/operative/chewbacca.json",
+    "name": "Chewbacca",
+    "title": "Walking Carpet",
+    "faction": "Rebel Alliance",
+    "rank": "Operative",
+    "stats": {
+      "health": 9,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/enrage",
+        "value": 4
+      },
+      {
+        "ref": "keywords/guardian",
+        "value": 3
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/teamwork",
+        "value": "Han Solo"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Overwhelm",
+        "range": "melee",
+        "dice": {
+          "red": 4,
+          "black": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/lethal",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Chewbacca's Bowcaster",
+        "range": [
+          1,
+          2,
+          3
+        ],
+        "dice": {
+          "red": 2,
+          "white": 2,
+          "black": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 1
+          },
+          {
+            "ref": "keywords/pierce",
+            "value": 1
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Training": 2,
+      "Gear": 1
+    }
+  },
+  {
+    "id": "rebel/operative/han_solo_taun.json",
+    "source": "data/units/rebel/operative/han_solo_taun.json",
+    "name": "Han Solo",
+    "title": "Reluctant Hero",
+    "faction": "Rebel Alliance",
+    "rank": "Operative",
+    "unit_type": "Creature Trooper",
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/arsenal",
+        "value": 2
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/independent",
+        "value": "Aim 1 and Dodge 1"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/spur"
+      },
+      {
+        "ref": "keywords/uncanny_luck",
+        "value": 3
+      },
+      {
+        "ref": "keywords/unhindered"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Stampede",
+        "range": "melee",
+        "dice": {
+          "white": 1,
+          "black": 2,
+          "red": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/ram",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Han's DL-44 Blaster",
+        "range": [
+          0,
+          1,
+          2
+        ],
+        "dice": {
+          "red": 1,
+          "white": 1,
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce",
+            "value": 1
+          },
+          {
+            "ref": "keywords/versatile"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Command": 1,
+      "Training": 1,
+      "Comms": 1,
+      "Gear": 1
+    }
+  },
+  {
+    "id": "rebel/operative/jyn_erso.json",
+    "source": "data/units/rebel/operative/jyn_erso.json",
+    "name": "Jyn Erso",
+    "title": "Stardust",
+    "faction": "Rebel Alliance",
+    "rank": "Operative",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 5,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/agile",
+        "value": 1
+      },
+      {
+        "ref": "keywords/disengage"
+      },
+      {
+        "ref": "keywords/independent",
+        "value": "Move"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/nimble"
+      },
+      {
+        "ref": "keywords/sharpshooter",
+        "value": 1
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Collapsible Tonfa",
+        "range": "melee",
+        "dice": {
+          "black": 4,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/suppressive"
+          }
+        ]
+      },
+      {
+        "name": "A-180 Blaster Pistol",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "red": 2,
+          "white": 1,
+          "black": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/long_shot"
+          },
+          {
+            "ref": "keywords/pierce",
+            "value": 1
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Command": 1,
+      "Training": 1,
+      "Gear": 1
+    }
+  },
+  {
+    "id": "rebel/operative/luke_skywalker.json",
+    "source": "data/units/rebel/operative/luke_skywalker.json",
+    "name": "Luke Skywalker",
+    "title": "Jedi Knight",
+    "faction": "Rebel Alliance",
+    "rank": "Operative",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 7,
+      "courage": 4,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump",
+        "value": 1
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/disengage"
+      },
+      {
+        "ref": "keywords/immune",
+        "value": "Pierce"
+      },
+      {
+        "ref": "keywords/master_of_the_force",
+        "value": 1
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Luke's Lightsaber",
+        "range": "melee",
+        "dice": {
+          "black": 7,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 2
+          },
+          {
+            "ref": "keywords/pierce",
+            "value": 2
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Force": 3,
+      "Training": 1
+    }
+  },
+  {
+    "id": "rebel/operative/r2-d2.json",
+    "source": "data/units/rebel/operative/r2-d2.json",
+    "name": "R2-D2",
+    "title": "Hero of a Thousand Devices",
+    "faction": "Rebel Alliance",
+    "rank": "Operative",
+    "unit_type": "Droid Trooper",
+    "stats": {
+      "health": 4,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/repair_2",
+        "value": "Capacity 2"
+      },
+      {
+        "ref": "keywords/inconspicuous"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/secret_mission"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Electro-Shock",
+        "range": [
+          0,
+          1
+        ],
+        "dice": {
+          "black": 3,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/suppressive"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Comms": 1,
+      "C-3PO": 1
+    }
+  },
+  {
+    "id": "rebel/operative/rebel_agent.json",
+    "source": "data/units/rebel/operative/rebel_agent.json",
+    "name": "Rebel Agent",
+    "title": "Defender of Democracy",
+    "faction": "Rebel Alliance",
+    "rank": "Operative",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/equip",
+        "value": "Doctrine"
+      },
+      {
+        "ref": "keywords/independent",
+        "value": "Dodge 1"
+      },
+      {
+        "ref": "keywords/nimble"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": "melee",
+        "dice": {
+          "black": 3,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "Blaster Pistol",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "black": 2,
+          "white": 1,
+          "red": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Doctrine": 1,
+      "Command": 1,
+      "Training": 1,
+      "Gear": 1,
+      "Armament": 1,
+      "Grenades": 1
+    }
+  },
+  {
+    "id": "rebel/operative/sabine_wren.json",
+    "source": "data/units/rebel/operative/sabine_wren.json",
+    "name": "Sabine Wren",
+    "title": "Explosive Artist",
+    "faction": "Rebel Alliance",
+    "rank": "Operative",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 3,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump",
+        "value": 2
+      },
+      {
+        "ref": "keywords/gunslinger"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/nimble"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Westar-35 Blasters",
+        "range": [
+          0,
+          1,
+          2
+        ],
+        "dice": {
+          "red": 1,
+          "black": 1,
+          "white": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce",
+            "value": 1
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Training": 1,
+      "Gear": 2,
+      "Armament": 1
+    }
+  },
+  {
+    "id": "rebel/special_forces/mandalorian_resistance.json",
+    "source": "data/units/rebel/special_forces/mandalorian_resistance.json",
+    "name": "Mandalorian Resistance",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 3,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 3,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump",
+        "value": 2
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/nimble"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Westar-35 Blasters",
+        "range": [
+          0,
+          1,
+          2
+        ],
+        "dice": {
+          "black": 2,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Heavy Weapon": 1,
+      "Training": 1,
+      "Comms": 1,
+      "Gear": 1,
+      "Armament": 1,
+      "Grenades": 1
+    }
+  },
+  {
+    "id": "rebel/special_forces/mandalorian_resistance_wren.json",
+    "source": "data/units/rebel/special_forces/mandalorian_resistance_wren.json",
+    "name": "Mandalorian Resistance",
+    "title": "Clan Wren",
+    "faction": "Rebel Alliance",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 2,
+      "courage": 2,
+      "speed": 3,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump",
+        "value": 2
+      },
+      {
+        "ref": "keywords/equip",
+        "value": "Tristan Wren, Ursa Wren"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/nimble"
+      },
+      {
+        "ref": "keywords/retinue",
+        "value": "Sabine Wren"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Westar-35 Blasters",
+        "range": [
+          0,
+          1,
+          2
+        ],
+        "dice": {
+          "black": 2,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Training": 1,
+      "Comms": 1,
+      "Gear": 1,
+      "Armament": 1,
+      "Grenades": 1
+    }
+  },
+  {
+    "id": "rebel/special_forces/rebel_commandos.json",
+    "source": "data/units/rebel/special_forces/rebel_commandos.json",
+    "name": "Rebel Commandos",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/low_profile"
+      },
+      {
+        "ref": "keywords/scout",
+        "value": 2
+      },
+      {
+        "ref": "keywords/sharpshooter",
+        "value": 1
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": "melee",
+        "dice": {
+          "black": 1,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "A280 Blaster Rifle",
+        "range": [
+          1,
+          2,
+          3
+        ],
+        "dice": {
+          "black": 1,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Heavy Weapon": 1,
+      "Training": 1,
+      "Comms": 1,
+      "Gear": 1,
+      "Grenades": 1
+    }
+  },
+  {
+    "id": "rebel/special_forces/rebel_sleeper_cell.json",
+    "source": "data/units/rebel/special_forces/rebel_sleeper_cell.json",
+    "name": "Rebel Sleeper Cell",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 6,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/nimble"
+      },
+      {
+        "ref": "keywords/scout",
+        "value": 2
+      },
+      {
+        "ref": "keywords/tactical",
+        "value": 1
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Det Packs",
+        "range": "melee",
+        "dice": {
+          "red": 1,
+          "black": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Blaster Pistols",
+        "range": "melee",
+        "dice": {
+          "white": 1,
+          "black": 1,
+          "red": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/suppressive"
+          }
+        ]
+      },
+      {
+        "name": "Blaster Pistols",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "black": 2,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Heavy Weapon": 1,
+      "Personnel": 1,
+      "Training": 1,
+      "Comms": 1,
+      "Gear": 1
+    }
+  },
+  {
+    "id": "rebel/special_forces/wookiee_warriors_melee.json",
+    "source": "data/units/rebel/special_forces/wookiee_warriors_melee.json",
+    "name": "Wookiee Warriors",
+    "title": "Freedom Fighters",
+    "faction": "Rebel Alliance",
+    "rank": "Special Forces",
+    "unit_type": "Wookiee Trooper",
+    "squad_size": 3,
+    "stats": {
+      "health": 3,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/duelist"
+      },
+      {
+        "ref": "keywords/indomitable"
+      },
+      {
+        "ref": "keywords/scale"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Ryyk Blade",
+        "range": "melee",
+        "dice": {
+          "black": 2,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "Kashyyyk Pistol",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "white": 1,
+          "black": 1,
+          "red": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Heavy Weapon": 1,
+      "Training": 2,
+      "Gear": 1,
+      "Grenades": 1
+    }
+  },
+  {
+    "id": "rebel/special_forces/wookiee_warriors_range.json",
+    "source": "data/units/rebel/special_forces/wookiee_warriors_range.json",
+    "name": "Wookiee Warriors",
+    "title": "Kashyyyk Resistance",
+    "faction": "Rebel Alliance",
+    "rank": "Special Forces",
+    "unit_type": "Wookiee Trooper",
+    "squad_size": 3,
+    "stats": {
+      "health": 3,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/indomitable"
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/sharpshooter",
+        "value": 1
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": "melee",
+        "dice": {
+          "white": 1,
+          "black": 1,
+          "red": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "X1 Carbine",
+        "range": [
+          1,
+          2,
+          3
+        ],
+        "dice": {
+          "black": 2,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Heavy Weapon": 1,
+      "Training": 1,
+      "Gear": 1,
+      "Grenades": 1
+    }
+  },
+  {
+    "id": "rebel/support/1.4_fd_laser_cannon_team.json",
+    "source": "data/units/rebel/support/1.4_fd_laser_cannon_team.json",
+    "name": "1.4 FD Laser Cannon Team",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Support",
+    "unit_type": "Emplacement Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 0,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/full_pivot"
+      },
+      {
+        "ref": "keywords/prepared_position"
+      },
+      {
+        "ref": "keywords/sentinel"
+      },
+      {
+        "ref": "keywords/stationary"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": "melee",
+        "dice": {
+          "black": 2,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "Blaster Pistols",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "black": 4,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": []
+      },
+      {
+        "name": "1.4 FD Laser Cannon",
+        "range": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "dice": {
+          "black": 5,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/fixed",
+            "value": "Front"
+          },
+          {
+            "ref": "keywords/impact",
+            "value": 2
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Comms": 1,
+      "Generator": 1,
+      "Dug In": 1
+    }
+  },
+  {
+    "id": "rebel/support/at-rt.json",
+    "source": "data/units/rebel/support/at-rt.json",
+    "name": "AT-RT",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Support",
+    "unit_type": "Ground Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "resilience": 4,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/armor",
+        "value": 2
+      },
+      {
+        "ref": "keywords/climbing_vehicle"
+      },
+      {
+        "ref": "keywords/expert_climber"
+      },
+      {
+        "ref": "keywords/scout",
+        "value": 1
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Grappling Claws",
+        "range": "melee",
+        "dice": {
+          "red": 3,
+          "black": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "A300 Blaster Rifle",
+        "range": [
+          1,
+          2,
+          3
+        ],
+        "dice": {
+          "white": 2,
+          "red": 0,
+          "black": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Hardpoint": 1,
+      "Comms": 1
+    }
+  },
+  {
+    "id": "rebel/support/tauntaun_riders.json",
+    "source": "data/units/rebel/support/tauntaun_riders.json",
+    "name": "Tauntaun Riders",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Support",
+    "unit_type": "Creature Trooper",
+    "squad_size": 2,
+    "stats": {
+      "health": 4,
+      "courage": 2,
+      "speed": 3,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/agile",
+        "value": 1
+      },
+      {
+        "ref": "keywords/relentless"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/sharpshooter",
+        "value": 1
+      },
+      {
+        "ref": "keywords/unhindered"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Stampede",
+        "range": "melee",
+        "dice": {
+          "white": 1,
+          "black": 2,
+          "red": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/ram",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "Blaster Pistols",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "red": 2,
+          "black": 0,
+          "white": 0
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": {
+      "Training": 1,
+      "Comms": 1
+    }
+  },
+  {
+    "id": "republic/commander/anakin_skywalker.json",
+    "source": "data/units/republic/commander/anakin_skywalker.json",
+    "name": "Anakin Skywalker",
+    "title": "The Chosen One",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Shield/Surge"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump",
+        "value": 1
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/djem_so_mastery"
+      },
+      {
+        "ref": "keywords/immune",
+        "value": "Pierce"
+      },
+      {
+        "ref": "keywords/master_of_the_force",
+        "value": 1
+      },
+      {
+        "ref": "keywords/tempted"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Anakin's Lightsaber",
+        "range": "melee",
+        "dice": {
+          "red": 5,
+          "black": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 3
+          },
+          {
+            "ref": "keywords/pierce",
+            "value": 3
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Force": 2,
+      "Training": 2
+    }
+  },
+  {
+    "id": "separatists/commander/count_dooku.json",
+    "source": "data/units/separatists/commander/count_dooku.json",
+    "name": "Count Dooku",
+    "title": "Darth Tyranus",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/cunning"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/direct",
+        "value": "Trooper Unit"
+      },
+      {
+        "ref": "keywords/immune",
+        "value": "Pierce"
+      },
+      {
+        "ref": "keywords/makashi_mastery"
+      },
+      {
+        "ref": "keywords/master_of_the_force",
+        "value": 2
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Dooku's Lightsaber",
+        "range": "melee",
+        "dice": {
+          "red": 5,
+          "black": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact",
+            "value": 2
+          },
+          {
+            "ref": "keywords/pierce",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "name": "Force Lightning",
+        "range": [
+          1,
+          2
+        ],
+        "dice": {
+          "black": 6,
+          "red": 0,
+          "white": 0
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce",
+            "value": 1
+          },
+          {
+            "ref": "keywords/scatter"
+          },
+          {
+            "ref": "keywords/suppressive"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": {
+      "Force": 3,
+      "Command": 1
+    }
+  }
+]

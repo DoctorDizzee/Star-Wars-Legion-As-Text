@@ -17,21 +17,21 @@
   },
   "keywords": [
     {
-      "name": "Agile",
+      "ref": "keywords/agile",
       "value": 1
     },
     {
-      "name": "Relentless"
+      "ref": "keywords/relentless"
     },
     {
-      "name": "Reposition"
+      "ref": "keywords/reposition"
     },
     {
-      "name": "Sharpshooter",
+      "ref": "keywords/sharpshooter",
       "value": 1
     },
     {
-      "name": "Unhindered"
+      "ref": "keywords/unhindered"
     }
   ],
   "weapons": [
@@ -45,7 +45,7 @@
       },
       "keywords": [
         {
-          "name": "Ram",
+          "ref": "keywords/ram",
           "value": 1
         }
       ]

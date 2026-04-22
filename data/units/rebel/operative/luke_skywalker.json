@@ -16,24 +16,24 @@
   },
   "keywords": [
     {
-      "name": "Jump",
+      "ref": "keywords/jump",
       "value": 1
     },
     {
-      "name": "Charge"
+      "ref": "keywords/charge"
     },
     {
-      "name": "Deflect"
+      "ref": "keywords/deflect"
     },
     {
-      "name": "Disengage"
+      "ref": "keywords/disengage"
     },
     {
-      "name": "Immune",
+      "ref": "keywords/immune",
       "value": "Pierce"
     },
     {
-      "name": "Master of the Force",
+      "ref": "keywords/master_of_the_force",
       "value": 1
     }
   ],
@@ -48,11 +48,11 @@
       },
       "keywords": [
         {
-          "name": "Impact",
+          "ref": "keywords/impact",
           "value": 2
         },
         {
-          "name": "Pierce",
+          "ref": "keywords/pierce",
           "value": 2
         }
       ]

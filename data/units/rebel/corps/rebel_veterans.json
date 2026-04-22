@@ -17,14 +17,14 @@
   },
   "keywords": [
     {
-      "name": "Coordinate",
+      "ref": "keywords/coordinate",
       "value": "Emplacement Trooper"
     },
     {
-      "name": "Low Profile"
+      "ref": "keywords/low_profile"
     },
     {
-      "name": "Prepared Position"
+      "ref": "keywords/prepared_position"
     }
   ],
   "weapons": [
