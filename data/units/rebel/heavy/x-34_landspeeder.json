@@ -16,25 +16,43 @@
     }
   },
   "keywords": [
-    "Armor 2",
-    "Arsenal 3",
-    "Cover 1",
-    "Speeder 1"
+    {
+      "name": "Armor",
+      "value": 2
+    },
+    {
+      "name": "Arsenal",
+      "value": 3
+    },
+    {
+      "name": "Cover",
+      "value": 1
+    },
+    {
+      "name": "Speeder",
+      "value": 1
+    }
   ],
   "weapons": [
     {
       "name": "Blaster Pistol",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 2 },
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "red": 0,
+        "black": 2,
+        "white": 0
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": [
-    "Pilot",
-    "Hardpoint",
-    "Comms",
-    "Strike and Fade",
-    "Crew",
-    "Crew"
-  ]
+  "upgrade_slots": {
+    "Pilot": 1,
+    "Hardpoint": 1,
+    "Comms": 1,
+    "Strike and Fade": 1,
+    "Crew": 2
+  }
 }

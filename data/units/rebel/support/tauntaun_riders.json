@@ -16,28 +16,56 @@
     }
   },
   "keywords": [
-    "Agile 1",
-    "Relentless",
-    "Reposition",
-    "Sharpshooter 1",
-    "Unhindered"
+    {
+      "name": "Agile",
+      "value": 1
+    },
+    {
+      "name": "Relentless"
+    },
+    {
+      "name": "Reposition"
+    },
+    {
+      "name": "Sharpshooter",
+      "value": 1
+    },
+    {
+      "name": "Unhindered"
+    }
   ],
   "weapons": [
     {
       "name": "Stampede",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "white": 1, "black": 2 },
-      "keywords": ["Ram 1"]
+      "range": "melee",
+      "dice": {
+        "white": 1,
+        "black": 2,
+        "red": 0
+      },
+      "keywords": [
+        {
+          "name": "Ram",
+          "value": 1
+        }
+      ]
     },
     {
       "name": "Blaster Pistols",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 2 },
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "red": 2,
+        "black": 0,
+        "white": 0
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": [
-    "Training",
-    "Comms"
-  ]
+  "upgrade_slots": {
+    "Training": 1,
+    "Comms": 1
+  }
 }

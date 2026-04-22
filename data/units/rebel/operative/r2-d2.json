@@ -15,21 +15,41 @@
     }
   },
   "keywords": [
-    "Repair 2: Capacity 2",
-    "Inconspicuous",
-    "Infiltrate",
-    "Secret Mission"
+    {
+      "name": "Repair 2",
+      "value": "Capacity 2"
+    },
+    {
+      "name": "Inconspicuous"
+    },
+    {
+      "name": "Infiltrate"
+    },
+    {
+      "name": "Secret Mission"
+    }
   ],
   "weapons": [
     {
       "name": "Electro-Shock",
-      "range": { "min": 0, "max": 1 },
-      "dice": { "black": 3 },
-      "keywords": ["Suppressive"]
+      "range": [
+        0,
+        1
+      ],
+      "dice": {
+        "black": 3,
+        "red": 0,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Suppressive"
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Comms",
-    "C-3PO"
-  ]
+  "upgrade_slots": {
+    "Comms": 1,
+    "C-3PO": 1
+  }
 }

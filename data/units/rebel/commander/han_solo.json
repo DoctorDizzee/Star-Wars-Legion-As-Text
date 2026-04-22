@@ -15,29 +15,57 @@
     }
   },
   "keywords": [
-    "Gunslinger",
-    "Low Profile",
-    "Sharpshooter 1",
-    "Steady",
-    "Uncanny Luck 3"
+    {
+      "name": "Gunslinger"
+    },
+    {
+      "name": "Low Profile"
+    },
+    {
+      "name": "Sharpshooter",
+      "value": 1
+    },
+    {
+      "name": "Steady"
+    },
+    {
+      "name": "Uncanny Luck",
+      "value": 3
+    }
   ],
   "weapons": [
     {
       "name": "Brawl",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "white": 3 },
+      "range": "melee",
+      "dice": {
+        "white": 3,
+        "red": 0,
+        "black": 0
+      },
       "keywords": []
     },
     {
       "name": "Han's DL-44 Blaster",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 2 },
-      "keywords": ["Pierce 2"]
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "red": 2,
+        "black": 0,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Pierce",
+          "value": 2
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Command",
-    "Training",
-    "Gear"
-  ]
+  "upgrade_slots": {
+    "Command": 1,
+    "Training": 1,
+    "Gear": 1
+  }
 }

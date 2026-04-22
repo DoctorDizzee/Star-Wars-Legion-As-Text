@@ -15,23 +15,44 @@
     }
   },
   "keywords": [
-    "Jump 2",
-    "Gunslinger",
-    "Impervious",
-    "Nimble"
+    {
+      "name": "Jump",
+      "value": 2
+    },
+    {
+      "name": "Gunslinger"
+    },
+    {
+      "name": "Impervious"
+    },
+    {
+      "name": "Nimble"
+    }
   ],
   "weapons": [
     {
       "name": "Westar-35 Blasters",
-      "range": { "min": 0, "max": 2 },
-      "dice": { "red": 1, "black": 1, "white": 1 },
-      "keywords": ["Pierce 1"]
+      "range": [
+        0,
+        1,
+        2
+      ],
+      "dice": {
+        "red": 1,
+        "black": 1,
+        "white": 1
+      },
+      "keywords": [
+        {
+          "name": "Pierce",
+          "value": 1
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Training",
-    "Gear",
-    "Gear",
-    "Armament"
-  ]
+  "upgrade_slots": {
+    "Training": 1,
+    "Gear": 2,
+    "Armament": 1
+  }
 }

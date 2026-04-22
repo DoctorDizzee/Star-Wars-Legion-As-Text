@@ -15,31 +15,75 @@
     }
   },
   "keywords": [
-    "Cunning",
-    "Deflect",
-    "Direct: Trooper Unit",
-    "Immune: Pierce",
-    "Makashi Mastery",
-    "Master of the Force 2"
+    {
+      "name": "Cunning"
+    },
+    {
+      "name": "Deflect"
+    },
+    {
+      "name": "Direct",
+      "value": "Trooper Unit"
+    },
+    {
+      "name": "Immune",
+      "value": "Pierce"
+    },
+    {
+      "name": "Makashi Mastery"
+    },
+    {
+      "name": "Master of the Force",
+      "value": 2
+    }
   ],
   "weapons": [
     {
       "name": "Dooku's Lightsaber",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 5 },
-      "keywords": ["Impact 2", "Pierce 2"]
+      "range": "melee",
+      "dice": {
+        "red": 5,
+        "black": 0,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Impact",
+          "value": 2
+        },
+        {
+          "name": "Pierce",
+          "value": 2
+        }
+      ]
     },
     {
       "name": "Force Lightning",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 6 },
-      "keywords": ["Pierce 1", "Scatter", "Suppressive"]
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "black": 6,
+        "red": 0,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Pierce",
+          "value": 1
+        },
+        {
+          "name": "Scatter"
+        },
+        {
+          "name": "Suppressive"
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Force",
-    "Force",
-    "Force",
-    "Command"
-  ]
+  "upgrade_slots": {
+    "Force": 3,
+    "Command": 1
+  }
 }

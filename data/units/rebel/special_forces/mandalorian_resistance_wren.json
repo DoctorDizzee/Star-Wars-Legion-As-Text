@@ -16,25 +16,46 @@
     }
   },
   "keywords": [
-    "Jump 2",
-    "Equip: Tristan Wren, Ursa Wren",
-    "Impervious",
-    "Nimble",
-    "Retinue: Sabine Wren"
+    {
+      "name": "Jump",
+      "value": 2
+    },
+    {
+      "name": "Equip",
+      "value": "Tristan Wren, Ursa Wren"
+    },
+    {
+      "name": "Impervious"
+    },
+    {
+      "name": "Nimble"
+    },
+    {
+      "name": "Retinue",
+      "value": "Sabine Wren"
+    }
   ],
   "weapons": [
     {
       "name": "Westar-35 Blasters",
-      "range": { "min": 0, "max": 2 },
-      "dice": { "black": 2 },
+      "range": [
+        0,
+        1,
+        2
+      ],
+      "dice": {
+        "black": 2,
+        "red": 0,
+        "white": 0
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": [
-    "Training",
-    "Comms",
-    "Gear",
-    "Armament",
-    "Grenades"
-  ]
+  "upgrade_slots": {
+    "Training": 1,
+    "Comms": 1,
+    "Gear": 1,
+    "Armament": 1,
+    "Grenades": 1
+  }
 }

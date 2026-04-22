@@ -16,20 +16,30 @@
     }
   },
   "keywords": [
-    "Charge"
+    {
+      "name": "Charge"
+    }
   ],
   "weapons": [
     {
       "name": "DH-17 Blaster Pistol",
-      "range": { "min": 0, "max": 2 },
-      "dice": { "white": 2 },
+      "range": [
+        0,
+        1,
+        2
+      ],
+      "dice": {
+        "white": 2,
+        "red": 0,
+        "black": 0
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": [
-    "Heavy Weapon",
-    "Personnel",
-    "Gear",
-    "Grenades"
-  ]
+  "upgrade_slots": {
+    "Heavy Weapon": 1,
+    "Personnel": 1,
+    "Gear": 1,
+    "Grenades": 1
+  }
 }

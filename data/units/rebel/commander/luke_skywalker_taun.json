@@ -15,33 +15,85 @@
     }
   },
   "keywords": [
-    "Spotter 1",
-    "Take Cover 1",
-    "Immune: Pierce",
-    "Inspire 2",
-    "Relentless",
-    "Reposition",
-    "Spur",
-    "Unhindered"
+    {
+      "name": "Spotter",
+      "value": 1
+    },
+    {
+      "name": "Take Cover",
+      "value": 1
+    },
+    {
+      "name": "Immune",
+      "value": "Pierce"
+    },
+    {
+      "name": "Inspire",
+      "value": 2
+    },
+    {
+      "name": "Relentless"
+    },
+    {
+      "name": "Reposition"
+    },
+    {
+      "name": "Spur"
+    },
+    {
+      "name": "Unhindered"
+    }
   ],
   "weapons": [
     {
       "name": "Lightsaber & Horn",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 3, "white": 3 },
-      "keywords": ["Impact 2", "Lethal 1", "Pierce 1", "Ram 1"]
+      "range": "melee",
+      "dice": {
+        "black": 3,
+        "white": 3,
+        "red": 0
+      },
+      "keywords": [
+        {
+          "name": "Impact",
+          "value": 2
+        },
+        {
+          "name": "Lethal",
+          "value": 1
+        },
+        {
+          "name": "Pierce",
+          "value": 1
+        },
+        {
+          "name": "Ram",
+          "value": 1
+        }
+      ]
     },
     {
       "name": "Luke's Blaster",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 1, "black": 3 },
-      "keywords": ["Long Shot"]
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "red": 1,
+        "black": 3,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Long Shot"
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Force",
-    "Command",
-    "Training",
-    "Comms"
-  ]
+  "upgrade_slots": {
+    "Force": 1,
+    "Command": 1,
+    "Training": 1,
+    "Comms": 1
+  }
 }

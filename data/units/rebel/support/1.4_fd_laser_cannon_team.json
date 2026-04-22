@@ -16,34 +16,72 @@
     }
   },
   "keywords": [
-    "Full Pivot",
-    "Prepared Position",
-    "Sentinel",
-    "Stationary"
+    {
+      "name": "Full Pivot"
+    },
+    {
+      "name": "Prepared Position"
+    },
+    {
+      "name": "Sentinel"
+    },
+    {
+      "name": "Stationary"
+    }
   ],
   "weapons": [
     {
       "name": "Unarmed",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 2 },
+      "range": "melee",
+      "dice": {
+        "black": 2,
+        "red": 0,
+        "white": 0
+      },
       "keywords": []
     },
     {
       "name": "Blaster Pistols",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 4 },
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "black": 4,
+        "red": 0,
+        "white": 0
+      },
       "keywords": []
     },
     {
       "name": "1.4 FD Laser Cannon",
-      "range": { "min": 1, "max": 5 },
-      "dice": { "black": 5 },
-      "keywords": ["Fixed: Front", "Impact 2"]
+      "range": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "dice": {
+        "black": 5,
+        "red": 0,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Fixed",
+          "value": "Front"
+        },
+        {
+          "name": "Impact",
+          "value": 2
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Comms",
-    "Generator",
-    "Dug In"
-  ]
+  "upgrade_slots": {
+    "Comms": 1,
+    "Generator": 1,
+    "Dug In": 1
+  }
 }

@@ -15,30 +15,46 @@
     }
   },
   "keywords": [
-    "Equip: Doctrine",
-    "Inspire 1"
+    {
+      "name": "Equip",
+      "value": "Doctrine"
+    },
+    {
+      "name": "Inspire",
+      "value": 1
+    }
   ],
   "weapons": [
     {
       "name": "Combat Training",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 3 },
+      "range": "melee",
+      "dice": {
+        "black": 3,
+        "red": 0,
+        "white": 0
+      },
       "keywords": []
     },
     {
       "name": "Blaster Pistol",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 2, "white": 1 },
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "black": 2,
+        "white": 1,
+        "red": 0
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": [
-    "Doctrine",
-    "Command",
-    "Training",
-    "Training",
-    "Gear",
-    "Armament",
-    "Grenades"
-  ]
+  "upgrade_slots": {
+    "Doctrine": 1,
+    "Command": 1,
+    "Training": 2,
+    "Gear": 1,
+    "Armament": 1,
+    "Grenades": 1
+  }
 }

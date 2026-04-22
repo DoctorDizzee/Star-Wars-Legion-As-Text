@@ -15,32 +15,74 @@
     }
   },
   "keywords": [
-    "Arsenal 2",
-    "Charge",
-    "Independent: Aim 1 and Dodge 1",
-    "Reposition",
-    "Spur",
-    "Uncanny Luck 3",
-    "Unhindered"
+    {
+      "name": "Arsenal",
+      "value": 2
+    },
+    {
+      "name": "Charge"
+    },
+    {
+      "name": "Independent",
+      "value": "Aim 1 and Dodge 1"
+    },
+    {
+      "name": "Reposition"
+    },
+    {
+      "name": "Spur"
+    },
+    {
+      "name": "Uncanny Luck",
+      "value": 3
+    },
+    {
+      "name": "Unhindered"
+    }
   ],
   "weapons": [
     {
       "name": "Stampede",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "white": 1, "black": 2 },
-      "keywords": ["Ram 1"]
+      "range": "melee",
+      "dice": {
+        "white": 1,
+        "black": 2,
+        "red": 0
+      },
+      "keywords": [
+        {
+          "name": "Ram",
+          "value": 1
+        }
+      ]
     },
     {
       "name": "Han's DL-44 Blaster",
-      "range": { "min": 0, "max": 2 },
-      "dice": { "red": 1, "white": 1, "black": 1 },
-      "keywords": ["Pierce 1", "Versatile"]
+      "range": [
+        0,
+        1,
+        2
+      ],
+      "dice": {
+        "red": 1,
+        "white": 1,
+        "black": 1
+      },
+      "keywords": [
+        {
+          "name": "Pierce",
+          "value": 1
+        },
+        {
+          "name": "Versatile"
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Command",
-    "Training",
-    "Comms",
-    "Gear"
-  ]
+  "upgrade_slots": {
+    "Command": 1,
+    "Training": 1,
+    "Comms": 1,
+    "Gear": 1
+  }
 }

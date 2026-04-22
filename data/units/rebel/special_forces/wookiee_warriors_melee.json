@@ -16,30 +16,48 @@
     }
   },
   "keywords": [
-    "Charge",
-    "Duelist",
-    "Indomitable",
-    "Scale"
+    {
+      "name": "Charge"
+    },
+    {
+      "name": "Duelist"
+    },
+    {
+      "name": "Indomitable"
+    },
+    {
+      "name": "Scale"
+    }
   ],
   "weapons": [
     {
       "name": "Ryyk Blade",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 2 },
+      "range": "melee",
+      "dice": {
+        "black": 2,
+        "red": 0,
+        "white": 0
+      },
       "keywords": []
     },
     {
       "name": "Kashyyyk Pistol",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "white": 1, "black": 1 },
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "white": 1,
+        "black": 1,
+        "red": 0
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": [
-    "Heavy Weapon",
-    "Training",
-    "Training",
-    "Gear",
-    "Grenades"
-  ]
+  "upgrade_slots": {
+    "Heavy Weapon": 1,
+    "Training": 2,
+    "Gear": 1,
+    "Grenades": 1
+  }
 }

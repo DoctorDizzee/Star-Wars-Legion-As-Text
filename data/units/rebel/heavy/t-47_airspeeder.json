@@ -16,24 +16,56 @@
     }
   },
   "keywords": [
-    "Armor 3",
-    "Arsenal 2",
-    "Cover 1",
-    "Immune: Blast, Melee, Range 1 Weapons",
-    "Speeder 2"
+    {
+      "name": "Armor",
+      "value": 3
+    },
+    {
+      "name": "Arsenal",
+      "value": 2
+    },
+    {
+      "name": "Cover",
+      "value": 1
+    },
+    {
+      "name": "Immune",
+      "value": "Blast, Melee, Range 1 Weapons"
+    },
+    {
+      "name": "Speeder",
+      "value": 2
+    }
   ],
   "weapons": [
     {
       "name": "Double Laser Cannon",
-      "range": { "min": 1, "max": 3 },
-      "dice": { "red": 3, "black": 3 },
-      "keywords": ["Impact 3", "Fixed: Front"]
+      "range": [
+        1,
+        2,
+        3
+      ],
+      "dice": {
+        "red": 3,
+        "black": 3,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Impact",
+          "value": 3
+        },
+        {
+          "name": "Fixed",
+          "value": "Front"
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Pilot",
-    "Hardpoint",
-    "Comms",
-    "Strike and Fade"
-  ]
+  "upgrade_slots": {
+    "Pilot": 1,
+    "Hardpoint": 1,
+    "Comms": 1,
+    "Strike and Fade": 1
+  }
 }

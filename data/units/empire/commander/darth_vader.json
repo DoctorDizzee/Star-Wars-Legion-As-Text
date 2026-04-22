@@ -15,24 +15,48 @@
     }
   },
   "keywords": [
-    "Compel: Trooper",
-    "Deflect",
-    "Immune: Pierce",
-    "Master of the Force 1",
-    "Relentless"
+    {
+      "name": "Compel",
+      "value": "Trooper"
+    },
+    {
+      "name": "Deflect"
+    },
+    {
+      "name": "Immune",
+      "value": "Pierce"
+    },
+    {
+      "name": "Master of the Force",
+      "value": 1
+    },
+    {
+      "name": "Relentless"
+    }
   ],
   "weapons": [
     {
       "name": "Vader's Lightsaber",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 6 },
-      "keywords": ["Impact 3", "Pierce 3"]
+      "range": "melee",
+      "dice": {
+        "red": 6,
+        "black": 0,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Impact",
+          "value": 3
+        },
+        {
+          "name": "Pierce",
+          "value": 3
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Force",
-    "Force",
-    "Force",
-    "Command"
-  ]
+  "upgrade_slots": {
+    "Force": 3,
+    "Command": 1
+  }
 }

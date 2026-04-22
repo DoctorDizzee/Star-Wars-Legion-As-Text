@@ -16,27 +16,54 @@
     }
   },
   "keywords": [
-    "Armor 2",
-    "Climbing Vehicle",
-    "Expert Climber",
-    "Scout 1"
+    {
+      "name": "Armor",
+      "value": 2
+    },
+    {
+      "name": "Climbing Vehicle"
+    },
+    {
+      "name": "Expert Climber"
+    },
+    {
+      "name": "Scout",
+      "value": 1
+    }
   ],
   "weapons": [
     {
       "name": "Grappling Claws",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 3 },
-      "keywords": ["Impact 1"]
+      "range": "melee",
+      "dice": {
+        "red": 3,
+        "black": 0,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Impact",
+          "value": 1
+        }
+      ]
     },
     {
       "name": "A300 Blaster Rifle",
-      "range": { "min": 1, "max": 3 },
-      "dice": { "white": 2 },
+      "range": [
+        1,
+        2,
+        3
+      ],
+      "dice": {
+        "white": 2,
+        "red": 0,
+        "black": 0
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": [
-    "Hardpoint",
-    "Comms"
-  ]
+  "upgrade_slots": {
+    "Hardpoint": 1,
+    "Comms": 1
+  }
 }

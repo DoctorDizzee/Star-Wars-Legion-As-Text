@@ -15,29 +15,56 @@
     }
   },
   "keywords": [
-    "Guidance: Trooper Unit",
-    "Allies of Convenience",
-    "One Step Ahead",
-    "Steady",
-    "Uncanny Luck 2"
+    {
+      "name": "Guidance",
+      "value": "Trooper Unit"
+    },
+    {
+      "name": "Allies of Convenience"
+    },
+    {
+      "name": "One Step Ahead"
+    },
+    {
+      "name": "Steady"
+    },
+    {
+      "name": "Uncanny Luck",
+      "value": 2
+    }
   ],
   "weapons": [
     {
       "name": "Backup Plan",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 3 },
+      "range": "melee",
+      "dice": {
+        "black": 3,
+        "red": 0,
+        "white": 0
+      },
       "keywords": []
     },
     {
       "name": "Lando's X-8 Blaster",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 1, "black": 3 },
-      "keywords": ["Long Shot"]
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "red": 1,
+        "black": 3,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Long Shot"
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Command",
-    "Training",
-    "Gear"
-  ]
+  "upgrade_slots": {
+    "Command": 1,
+    "Training": 1,
+    "Gear": 1
+  }
 }

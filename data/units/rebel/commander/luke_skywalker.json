@@ -15,31 +15,75 @@
     }
   },
   "keywords": [
-    "Jump 1",
-    "Block",
-    "Charge",
-    "Immune: Pierce",
-    "Inspire 2",
-    "Sharpshooter 1"
+    {
+      "name": "Jump",
+      "value": 1
+    },
+    {
+      "name": "Block"
+    },
+    {
+      "name": "Charge"
+    },
+    {
+      "name": "Immune",
+      "value": "Pierce"
+    },
+    {
+      "name": "Inspire",
+      "value": 2
+    },
+    {
+      "name": "Sharpshooter",
+      "value": 1
+    }
   ],
   "weapons": [
     {
       "name": "Anakin's Lightsaber",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 2, "black": 3 },
-      "keywords": ["Impact 2", "Pierce 1"]
+      "range": "melee",
+      "dice": {
+        "red": 2,
+        "black": 3,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Impact",
+          "value": 2
+        },
+        {
+          "name": "Pierce",
+          "value": 1
+        }
+      ]
     },
     {
       "name": "Luke's Blaster",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 1, "black": 3 },
-      "keywords": ["Long Shot", "Pierce 1"]
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "red": 1,
+        "black": 3,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Long Shot"
+        },
+        {
+          "name": "Pierce",
+          "value": 1
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Force",
-    "Command",
-    "Training",
-    "Gear"
-  ]
+  "upgrade_slots": {
+    "Force": 1,
+    "Command": 1,
+    "Training": 1,
+    "Gear": 1
+  }
 }

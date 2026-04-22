@@ -15,25 +15,51 @@
     }
   },
   "keywords": [
-    "Jump 1",
-    "Charge",
-    "Deflect",
-    "Disengage",
-    "Immune: Pierce",
-    "Master of the Force 1"
+    {
+      "name": "Jump",
+      "value": 1
+    },
+    {
+      "name": "Charge"
+    },
+    {
+      "name": "Deflect"
+    },
+    {
+      "name": "Disengage"
+    },
+    {
+      "name": "Immune",
+      "value": "Pierce"
+    },
+    {
+      "name": "Master of the Force",
+      "value": 1
+    }
   ],
   "weapons": [
     {
       "name": "Luke's Lightsaber",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 7 },
-      "keywords": ["Impact 2", "Pierce 2"]
+      "range": "melee",
+      "dice": {
+        "black": 7,
+        "red": 0,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Impact",
+          "value": 2
+        },
+        {
+          "name": "Pierce",
+          "value": 2
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Force",
-    "Force",
-    "Force",
-    "Training"
-  ]
+  "upgrade_slots": {
+    "Force": 3,
+    "Training": 1
+  }
 }

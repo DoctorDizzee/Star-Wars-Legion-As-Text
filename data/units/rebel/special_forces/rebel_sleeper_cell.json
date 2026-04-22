@@ -16,35 +16,67 @@
     }
   },
   "keywords": [
-    "Nimble",
-    "Scout 2",
-    "Tactical 1"
+    {
+      "name": "Nimble"
+    },
+    {
+      "name": "Scout",
+      "value": 2
+    },
+    {
+      "name": "Tactical",
+      "value": 1
+    }
   ],
   "weapons": [
     {
       "name": "Det Packs",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 1 },
-      "keywords": ["Impact 1"]
+      "range": "melee",
+      "dice": {
+        "red": 1,
+        "black": 0,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Impact",
+          "value": 1
+        }
+      ]
     },
     {
       "name": "Blaster Pistols",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "white": 1, "black": 1 },
-      "keywords": ["Suppressive"]
+      "range": "melee",
+      "dice": {
+        "white": 1,
+        "black": 1,
+        "red": 0
+      },
+      "keywords": [
+        {
+          "name": "Suppressive"
+        }
+      ]
     },
     {
       "name": "Blaster Pistols",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 2 },
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "black": 2,
+        "red": 0,
+        "white": 0
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": [
-    "Heavy Weapon",
-    "Personnel",
-    "Training",
-    "Comms",
-    "Gear"
-  ]
+  "upgrade_slots": {
+    "Heavy Weapon": 1,
+    "Personnel": 1,
+    "Training": 1,
+    "Comms": 1,
+    "Gear": 1
+  }
 }

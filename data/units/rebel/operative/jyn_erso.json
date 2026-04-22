@@ -15,30 +15,68 @@
     }
   },
   "keywords": [
-    "Agile 1",
-    "Disengage",
-    "Independent: Move",
-    "Infiltrate",
-    "Nimble",
-    "Sharpshooter 1"
+    {
+      "name": "Agile",
+      "value": 1
+    },
+    {
+      "name": "Disengage"
+    },
+    {
+      "name": "Independent",
+      "value": "Move"
+    },
+    {
+      "name": "Infiltrate"
+    },
+    {
+      "name": "Nimble"
+    },
+    {
+      "name": "Sharpshooter",
+      "value": 1
+    }
   ],
   "weapons": [
     {
       "name": "Collapsible Tonfa",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 4 },
-      "keywords": ["Suppressive"]
+      "range": "melee",
+      "dice": {
+        "black": 4,
+        "red": 0,
+        "white": 0
+      },
+      "keywords": [
+        {
+          "name": "Suppressive"
+        }
+      ]
     },
     {
       "name": "A-180 Blaster Pistol",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 2, "white": 1 },
-      "keywords": ["Long Shot", "Pierce 1"]
+      "range": [
+        1,
+        2
+      ],
+      "dice": {
+        "red": 2,
+        "white": 1,
+        "black": 0
+      },
+      "keywords": [
+        {
+          "name": "Long Shot"
+        },
+        {
+          "name": "Pierce",
+          "value": 1
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Command",
-    "Training",
-    "Gear"
-  ]
+  "upgrade_slots": {
+    "Command": 1,
+    "Training": 1,
+    "Gear": 1
+  }
 }

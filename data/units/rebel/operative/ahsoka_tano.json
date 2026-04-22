@@ -14,25 +14,51 @@
     }
   },
   "keywords": [
-    "Jump 2",
-    "Charge",
-    "Defend 1",
-    "Deflect",
-    "Immune: Pierce",
-    "Jar'Kai Mastery"
+    {
+      "name": "Jump",
+      "value": 2
+    },
+    {
+      "name": "Charge"
+    },
+    {
+      "name": "Defend",
+      "value": 1
+    },
+    {
+      "name": "Deflect"
+    },
+    {
+      "name": "Immune",
+      "value": "Pierce"
+    },
+    {
+      "name": "Jar'Kai Mastery"
+    }
   ],
   "weapons": [
     {
       "name": "Ahsoka's Lightsabers",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 2, "black": 2, "white": 2 },
-      "keywords": ["Impact 2", "Pierce 2"]
+      "range": "melee",
+      "dice": {
+        "red": 2,
+        "black": 2,
+        "white": 2
+      },
+      "keywords": [
+        {
+          "name": "Impact",
+          "value": 2
+        },
+        {
+          "name": "Pierce",
+          "value": 2
+        }
+      ]
     }
   ],
-  "upgrade_slots": [
-    "Force",
-    "Force",
-    "Training",
-    "Training"
-  ]
+  "upgrade_slots": {
+    "Force": 2,
+    "Training": 2
+  }
 }

@@ -16,24 +16,39 @@
     }
   },
   "keywords": [
-    "Jump 2",
-    "Impervious",
-    "Nimble"
+    {
+      "name": "Jump",
+      "value": 2
+    },
+    {
+      "name": "Impervious"
+    },
+    {
+      "name": "Nimble"
+    }
   ],
   "weapons": [
     {
       "name": "Westar-35 Blasters",
-      "range": { "min": 0, "max": 2 },
-      "dice": { "black": 2 },
+      "range": [
+        0,
+        1,
+        2
+      ],
+      "dice": {
+        "black": 2,
+        "red": 0,
+        "white": 0
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": [
-    "Heavy Weapon",
-    "Training",
-    "Comms",
-    "Gear",
-    "Armament",
-    "Grenades"
-  ]
+  "upgrade_slots": {
+    "Heavy Weapon": 1,
+    "Training": 1,
+    "Comms": 1,
+    "Gear": 1,
+    "Armament": 1,
+    "Grenades": 1
+  }
 }

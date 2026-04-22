@@ -16,27 +16,44 @@
     }
   },
   "keywords": [
-    "Agile 1",
-    "Nimble"
+    {
+      "name": "Agile",
+      "value": 1
+    },
+    {
+      "name": "Nimble"
+    }
   ],
   "weapons": [
     {
       "name": "Unarmed",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 1 },
+      "range": "melee",
+      "dice": {
+        "black": 1,
+        "red": 0,
+        "white": 0
+      },
       "keywords": []
     },
     {
       "name": "A280 Blaster Rifle",
-      "range": { "min": 1, "max": 3 },
-      "dice": { "black": 1 },
+      "range": [
+        1,
+        2,
+        3
+      ],
+      "dice": {
+        "black": 1,
+        "red": 0,
+        "white": 0
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": [
-    "Heavy Weapon",
-    "Personnel",
-    "Gear",
-    "Grenades"
-  ]
+  "upgrade_slots": {
+    "Heavy Weapon": 1,
+    "Personnel": 1,
+    "Gear": 1,
+    "Grenades": 1
+  }
 }

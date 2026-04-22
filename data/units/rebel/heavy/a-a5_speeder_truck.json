@@ -16,18 +16,30 @@
     }
   },
   "keywords": [
-    "Armor 5",
-    "Hover: Ground",
-    "Reposition",
-    "Transport",
-    "Weak Point 2: Rear"
+    {
+      "name": "Armor",
+      "value": 5
+    },
+    {
+      "name": "Hover",
+      "value": "Ground"
+    },
+    {
+      "name": "Reposition"
+    },
+    {
+      "name": "Transport"
+    },
+    {
+      "name": "Weak Point 2",
+      "value": "Rear"
+    }
   ],
   "weapons": [],
-  "upgrade_slots": [
-    "Pilot",
-    "Hardpoint",
-    "Comms",
-    "Crew",
-    "Crew"
-  ]
+  "upgrade_slots": {
+    "Pilot": 1,
+    "Hardpoint": 1,
+    "Comms": 1,
+    "Crew": 2
+  }
 }
