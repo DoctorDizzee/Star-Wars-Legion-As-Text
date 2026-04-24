@@ -61,7 +61,8 @@
     "upgrade_slots": {
       "Force": 3,
       "Command": 1
-    }
+    },
+    "points": 170
   },
   {
     "id": "mercenary/commander/pyke_syndicate_capo.json",
@@ -128,7 +129,8 @@
     "upgrade_slots": {
       "Command": 1,
       "Gear": 1
-    }
+    },
+    "points": 42
   },
   {
     "id": "rebel/commander/han_solo.json",
@@ -201,7 +203,8 @@
       "Command": 1,
       "Training": 1,
       "Gear": 1
-    }
+    },
+    "points": 100
   },
   {
     "id": "rebel/commander/lando_calrissian.json",
@@ -273,7 +276,8 @@
       "Command": 1,
       "Training": 1,
       "Gear": 1
-    }
+    },
+    "points": 105
   },
   {
     "id": "rebel/commander/leia_organa.json",
@@ -343,7 +347,8 @@
       "Command": 2,
       "Training": 1,
       "Gear": 1
-    }
+    },
+    "points": 75
   },
   {
     "id": "rebel/commander/luke_skywalker.json",
@@ -434,7 +439,8 @@
       "Command": 1,
       "Training": 1,
       "Gear": 1
-    }
+    },
+    "points": 120
   },
   {
     "id": "rebel/commander/luke_skywalker_taun.json",
@@ -535,7 +541,8 @@
       "Command": 1,
       "Training": 1,
       "Comms": 1
-    }
+    },
+    "points": 110
   },
   {
     "id": "rebel/commander/rebel_officer.json",
@@ -597,7 +604,8 @@
       "Gear": 1,
       "Armament": 1,
       "Grenades": 1
-    }
+    },
+    "points": 55
   },
   {
     "id": "rebel/corps/fleet_troopers.json",
@@ -644,7 +652,8 @@
       "Personnel": 1,
       "Gear": 1,
       "Grenades": 1
-    }
+    },
+    "points": 40
   },
   {
     "id": "rebel/corps/rebel_troopers.json",
@@ -770,7 +779,8 @@
       "Training": 1,
       "Gear": 1,
       "Grenades": 1
-    }
+    },
+    "points": 48
   },
   {
     "id": "rebel/heavy/a-a5_speeder_truck.json",
@@ -817,7 +827,8 @@
       "Hardpoint": 1,
       "Comms": 1,
       "Crew": 2
-    }
+    },
+    "points": 75
   },
   {
     "id": "rebel/heavy/t-47_airspeeder.json",
@@ -890,7 +901,8 @@
       "Hardpoint": 1,
       "Comms": 1,
       "Strike and Fade": 1
-    }
+    },
+    "points": 125
   },
   {
     "id": "rebel/heavy/x-34_landspeeder.json",
@@ -950,7 +962,8 @@
       "Comms": 1,
       "Strike and Fade": 1,
       "Crew": 2
-    }
+    },
+    "points": 55
   },
   {
     "id": "rebel/operative/ahsoka_tano.json",
@@ -1016,7 +1029,8 @@
     "upgrade_slots": {
       "Force": 2,
       "Training": 2
-    }
+    },
+    "points": 115
   },
   {
     "id": "rebel/operative/cassian_andor.json",
@@ -1092,7 +1106,8 @@
       "Training": 2,
       "Gear": 1,
       "Armament": 1
-    }
+    },
+    "points": 90
   },
   {
     "id": "rebel/operative/chewbacca.json",
@@ -1171,7 +1186,8 @@
     "upgrade_slots": {
       "Training": 2,
       "Gear": 1
-    }
+    },
+    "points": 90
   },
   {
     "id": "rebel/operative/han_solo_taun.json",
@@ -1261,7 +1277,8 @@
       "Training": 1,
       "Comms": 1,
       "Gear": 1
-    }
+    },
+    "points": 90
   },
   {
     "id": "rebel/operative/jyn_erso.json",
@@ -1345,7 +1362,8 @@
       "Command": 1,
       "Training": 1,
       "Gear": 1
-    }
+    },
+    "points": 75
   },
   {
     "id": "rebel/operative/luke_skywalker.json",
@@ -1412,7 +1430,8 @@
     "upgrade_slots": {
       "Force": 3,
       "Training": 1
-    }
+    },
+    "points": 165
   },
   {
     "id": "rebel/operative/r2-d2.json",
@@ -1469,7 +1488,8 @@
     "upgrade_slots": {
       "Comms": 1,
       "C-3PO": 1
-    }
+    },
+    "points": 55
   },
   {
     "id": "rebel/operative/rebel_agent.json",
@@ -1534,7 +1554,8 @@
       "Gear": 1,
       "Armament": 1,
       "Grenades": 1
-    }
+    },
+    "points": 50
   },
   {
     "id": "rebel/operative/sabine_wren.json",
@@ -1594,7 +1615,8 @@
       "Training": 1,
       "Gear": 2,
       "Armament": 1
-    }
+    },
+    "points": 105
   },
   {
     "id": "rebel/special_forces/mandalorian_resistance.json",
@@ -1650,7 +1672,8 @@
       "Gear": 1,
       "Armament": 1,
       "Grenades": 1
-    }
+    },
+    "points": 62
   },
   {
     "id": "rebel/special_forces/mandalorian_resistance_wren.json",
@@ -1713,7 +1736,8 @@
       "Gear": 1,
       "Armament": 1,
       "Grenades": 1
-    }
+    },
+    "points": 30
   },
   {
     "id": "rebel/special_forces/rebel_commandos.json",
@@ -1779,7 +1803,8 @@
       "Comms": 1,
       "Gear": 1,
       "Grenades": 1
-    }
+    },
+    "points": 42
   },
   {
     "id": "rebel/special_forces/rebel_sleeper_cell.json",
@@ -1928,7 +1953,8 @@
       "Training": 2,
       "Gear": 1,
       "Grenades": 1
-    }
+    },
+    "points": 62
   },
   {
     "id": "rebel/special_forces/wookiee_warriors_range.json",
@@ -1992,7 +2018,8 @@
       "Training": 1,
       "Gear": 1,
       "Grenades": 1
-    }
+    },
+    "points": 62
   },
   {
     "id": "rebel/support/1.4_fd_laser_cannon_team.json",
@@ -2081,7 +2108,8 @@
       "Comms": 1,
       "Generator": 1,
       "Dug In": 1
-    }
+    },
+    "points": 65
   },
   {
     "id": "rebel/support/at-rt.json",
@@ -2152,7 +2180,8 @@
     "upgrade_slots": {
       "Hardpoint": 1,
       "Comms": 1
-    }
+    },
+    "points": 54
   },
   {
     "id": "rebel/support/tauntaun_riders.json",
@@ -2225,7 +2254,8 @@
     "upgrade_slots": {
       "Training": 1,
       "Comms": 1
-    }
+    },
+    "points": 95
   },
   {
     "id": "republic/commander/anakin_skywalker.json",
@@ -2295,7 +2325,8 @@
     "upgrade_slots": {
       "Force": 2,
       "Training": 2
-    }
+    },
+    "points": 170
   },
   {
     "id": "separatists/commander/count_dooku.json",
@@ -2386,6 +2417,7 @@
     "upgrade_slots": {
       "Force": 3,
       "Command": 1
-    }
+    },
+    "points": 165
   }
 ]

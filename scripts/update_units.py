@@ -6,6 +6,9 @@ import re
 base = pathlib.Path('.')
 unit_paths = sorted(base.glob('data/units/**/*.json'))
 
+# Load points master
+points_master = json.loads((base / 'data' / 'points_master.json').read_text(encoding='utf-8'))
+
 
 def slug(name):
     slug_value = name.lower()
@@ -13,6 +16,17 @@ def slug(name):
     slug_value = slug_value.replace('/', '_')
     slug_value = re.sub(r"[^a-z0-9]+", '_', slug_value)
     return slug_value.strip('_')
+
+FACTION_ALIAS = {
+    'Galactic Empire': 'empire',
+    'Galactic Republic': 'republic',
+    'Rebel Alliance': 'rebel',
+    'Separatist Alliance': 'separatists',
+    'Mercenary': 'mercenary'
+}
+
+def faction_slug(faction):
+    return FACTION_ALIAS.get(faction, slug(faction))
 
 keyword_names = set()
 for p in unit_paths:
@@ -89,10 +103,32 @@ for p in unit_paths:
         w['keywords'] = [convert_kw(kw) for kw in w.get('keywords', [])]
     p.write_text(json.dumps(data, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
 
+
+def get_points_for_unit(data, uid):
+    points_units = points_master.get('units', {})
+    if uid in points_units:
+        return points_units[uid]
+
+    stable_key = f"{faction_slug(data['faction'])}/{slug(data['name'])}"
+    title = data.get('title')
+    if title and title != 'None':
+        stable_key += f"/{slug(title)}"
+    if stable_key in points_units:
+        return points_units[stable_key]
+
+    unit_key = data['name']
+    if title and title != 'None':
+        unit_key += f" ({title})"
+    return points_units.get(unit_key)
+
+
 compiled = []
 for p in unit_paths:
     data = json.loads(p.read_text(encoding='utf-8'))
     uid = p.relative_to(base / 'data' / 'units').as_posix()
+    points = get_points_for_unit(data, uid)
+    if points is not None:
+        data['points'] = points
     compiled.append({'id': uid, 'source': p.as_posix(), **data})
 
 compiled_path = base / 'compiled' / 'all_units.json'
