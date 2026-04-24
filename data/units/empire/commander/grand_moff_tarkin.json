@@ -1,0 +1,35 @@
+{
+  "name": "Grand Moff Tarkin",
+  "title": "Imperial High Command",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "courage": 3,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Hit",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Pulling the Strings: Galactic Empire Trooper",
+    "Entourage: Darth Vader"
+  ],
+  "weapons": [
+    {
+      "name": "Contempt",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 1 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Command",
+    "Command"
+  ]
+}

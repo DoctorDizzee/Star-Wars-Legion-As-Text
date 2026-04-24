@@ -1,0 +1,44 @@
+{
+  "name": "Director Orson Krennic",
+  "title": "Architect of Terror",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Hit",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Spotter 1",
+    "Compel",
+    "Cunning",
+    "Entourage: Imperial Death Troopers",
+    "Exemplar"
+  ],
+  "weapons": [
+    {
+      "name": "Unarmed",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 1 },
+      "keywords": []
+    },
+    {
+      "name": "Krennic's Blaster",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 3 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Command",
+    "Gear"
+  ]
+}

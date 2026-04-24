@@ -1,0 +1,44 @@
+{
+  "name": "General Veers",
+  "title": "Master Tactician",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Guidance: Ground Vehicle",
+    "Spotter 2",
+    "Exemplar",
+    "Inspire 1",
+    "Sharpshooter 1"
+  ],
+  "weapons": [
+    {
+      "name": "Combat Expertise",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 2 },
+      "keywords": []
+    },
+    {
+      "name": "Veers' Blaster Rifle",
+      "range": { "min": 1, "max": 3 },
+      "dice": { "red": 3 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Command",
+    "Gear"
+  ]
+}

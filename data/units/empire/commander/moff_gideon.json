@@ -1,0 +1,46 @@
+{
+  "name": "Moff Gideon",
+  "title": "Long Live the Empire",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 3,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Observe 1",
+    "Entourage: Imperial Dark Troopers",
+    "Ruthless",
+    "Sharpshooter 1",
+    "Tactical 1"
+  ],
+  "weapons": [
+    {
+      "name": "Combat Training",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 2 },
+      "keywords": []
+    },
+    {
+      "name": "Gideon's Blaster",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 1, "black": 2 },
+      "keywords": ["Pierce 1"]
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Command",
+    "Training",
+    "Gear",
+    "Armament"
+  ]
+}

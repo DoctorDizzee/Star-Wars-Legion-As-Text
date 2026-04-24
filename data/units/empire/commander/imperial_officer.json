@@ -1,0 +1,45 @@
+{
+  "name": "Imperial Officer",
+  "title": "Ruthless Efficiency",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Hit",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Equip: Command",
+    "Inspire 1"
+  ],
+  "weapons": [
+    {
+      "name": "Combat Training",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 3 },
+      "keywords": []
+    },
+    {
+      "name": "Blaster Pistol",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 2, "white": 1 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Command",
+    "Training",
+    "Training",
+    "Gear",
+    "Gear",
+    "Armament"
+  ]
+}

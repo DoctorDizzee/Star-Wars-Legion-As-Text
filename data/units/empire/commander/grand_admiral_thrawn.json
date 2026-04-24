@@ -1,0 +1,48 @@
+{
+  "name": "Grand Admiral Thrawn",
+  "title": "Imperial High Command",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 3,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Hit",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Strategize 2",
+    "Cunning",
+    "Direct: Galactic Empire Unit",
+    "Duelist",
+    "Exemplar",
+    "One Step Ahead",
+    "Tactical 1"
+  ],
+  "weapons": [
+    {
+      "name": "Chiss Martial Arts",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 4 },
+      "keywords": []
+    },
+    {
+      "name": "Thrawn's Blaster",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 3 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Command",
+    "Command",
+    "Training",
+    "Gear"
+  ]
+}
