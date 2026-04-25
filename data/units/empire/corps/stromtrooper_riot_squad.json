@@ -1,0 +1,43 @@
+{
+  "name": "Stormtrooper Riot Squad",
+  "title": "None",
+  "faction": "Galactic Empire",
+  "rank": "Corps",
+  "unit_type": "Trooper",
+  "squad_size": 4,
+  "stats": {
+    "health": 1,
+    "courage": 1,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Charge",
+    "Hold the Line"
+  ],
+  "weapons": [
+    {
+      "name": "Stun Baton",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 1 },
+      "keywords": ["Suppressive"]
+    },
+    {
+      "name": "E-11 Blaster Rifle",
+      "range": { "min": 1, "max": 3 },
+      "dice": { "white": 1 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Heavy Weapon",
+    "Heavy Weapon",
+    "Personnel",
+    "Training",
+    "Gear"
+  ]
+}

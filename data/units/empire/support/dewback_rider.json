@@ -1,0 +1,38 @@
+{
+  "name": "Dewback Rider",
+  "title": "None",
+  "faction": "Galactic Empire",
+  "rank": "Support",
+  "unit_type": "Creature Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "courage": 2,
+    "speed": 1,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Armor 1",
+    "Relentless",
+    "Reposition",
+    "Spur",
+    "Unhindered"
+  ],
+  "weapons": [
+    {
+      "name": "Shock Prod & Claws",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 3, "white": 3 },
+      "keywords": ["Critical 2", "Suppressive"]
+    }
+  ],
+  "upgrade_slots": [
+    "Training",
+    "Comms",
+    "Armament"
+  ]
+}

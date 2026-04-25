@@ -1,0 +1,46 @@
+{
+  "name": "Scout Troopers",
+  "title": "Strike Team",
+  "faction": "Galactic Empire",
+  "rank": "Special Forces",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 1,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Detachment: Special Forces Scout Troopers",
+    "Heavy Weapon Team",
+    "Incognito",
+    "Low Profile",
+    "Prepared Position"
+  ],
+  "weapons": [
+    {
+      "name": "Unarmed",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 1 },
+      "keywords": []
+    },
+    {
+      "name": "EC-17 Hold-out Blaster",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Heavy Weapon",
+    "Training",
+    "Grenades",
+    "Comms",
+    "Gear"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Fifth Brother",
+  "title": "The Kill Is Mine",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Hit",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Block",
+    "Dauntless",
+    "Enrage 2",
+    "Immune: Pierce"
+  ],
+  "weapons": [
+    {
+      "name": "Spinning Lightsaber",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 5 },
+      "keywords": ["Impact 2", "Pierce 1", "Ram 2"]
+    },
+    {
+      "name": "Thrown Lightsaber",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 3 },
+      "keywords": ["Impact 2", "Pierce 1"]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Training",
+    "Training"
+  ]
+}

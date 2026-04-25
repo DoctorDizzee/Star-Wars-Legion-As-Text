@@ -1,0 +1,47 @@
+{
+  "name": "AT-ST",
+  "title": "None",
+  "faction": "Galactic Empire",
+  "rank": "Heavy",
+  "unit_type": "Ground Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 11,
+    "resilience": 8,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "None",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Armor 5",
+    "Arsenal 2",
+    "Weak Point 1: Rear"
+  ],
+  "weapons": [
+    {
+      "name": "Fence-Cutting Blades",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 4 },
+      "keywords": []
+    },
+    {
+      "name": "MS-4 Twin Blaster",
+      "range": { "min": 1, "max": 4 },
+      "dice": { "red": 2, "black": 2, "white": 2 },
+      "keywords": [
+        "Fixed: Front",
+        "Impact 3"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Pilot",
+    "Hardpoint",
+    "Hardpoint",
+    "Hardpoint",
+    "Comms"
+  ]
+}

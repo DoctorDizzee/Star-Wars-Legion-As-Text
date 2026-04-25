@@ -1,0 +1,50 @@
+{
+  "name": "TX-225 GAVw Occupier Tank",
+  "title": "None",
+  "faction": "Galactic Empire",
+  "rank": "Heavy",
+  "unit_type": "Ground Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 8,
+    "resilience": 6,
+    "speed": 1,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Armor 5",
+    "Arsenal 2",
+    "Reposition",
+    "Transport",
+    "Weak Point 1: Sides"
+  ],
+  "weapons": [
+    {
+      "name": "Twin Cannons",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 1, "black": 1 },
+      "keywords": [
+        "Suppressive",
+        "Fixed: Front"
+      ]
+    },
+    {
+      "name": "Quad Cannons",
+      "range": { "min": 1, "max": 4 },
+      "dice": { "red": 2, "black": 2 },
+      "keywords": [
+        "Impact 2",
+        "Fixed: Front"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Pilot",
+    "Hardpoint",
+    "Comms"
+  ]
+}

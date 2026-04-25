@@ -1,0 +1,46 @@
+{
+  "name": "Seventh Sister",
+  "title": "Compelled to Inflict Pain",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 3,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Hit",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Jump 1",
+    "Associate: Fifth Brother",
+    "Block",
+    "Charge",
+    "Disciplined 1",
+    "Immune: Pierce",
+    "Interrogate"
+  ],
+  "weapons": [
+    {
+      "name": "Spinning Lightsaber",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 5 },
+      "keywords": ["Impact 2", "Pierce 1"]
+    },
+    {
+      "name": "Thrown Lightsaber",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 3 },
+      "keywords": ["Impact 2", "Pierce 1"]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Training",
+    "Training"
+  ]
+}

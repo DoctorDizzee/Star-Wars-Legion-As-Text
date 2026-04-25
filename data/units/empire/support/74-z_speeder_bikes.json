@@ -1,0 +1,42 @@
+{
+  "name": "74-Z Speeder Bikes",
+  "title": "None",
+  "faction": "Galactic Empire",
+  "rank": "Support",
+  "unit_type": "Repulsor Vehicle",
+  "squad_size": 2,
+  "stats": {
+    "health": 3,
+    "resilience": "None",
+    "speed": 3,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Hit",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Cover 1",
+    "Speeder 1"
+  ],
+  "weapons": [
+    {
+      "name": "EC-17 Hold-out Blaster",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 2 },
+      "keywords": []
+    },
+    {
+      "name": "Blaster Cannon",
+      "range": { "min": 1, "max": 3 },
+      "dice": { "red": 1, "black": 1, "white": 1 },
+      "keywords": [
+        "Fixed: Front",
+        "Impact 1"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Comms"
+  ]
+}

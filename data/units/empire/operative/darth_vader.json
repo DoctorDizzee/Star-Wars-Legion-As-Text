@@ -1,0 +1,45 @@
+{
+  "name": "Darth Vader",
+  "title": "The Emperor's Apprentice",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 7,
+    "courage": 3,
+    "speed": 1,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Deflect",
+    "Immune: Pierce",
+    "Jedi Hunter",
+    "Master of the Force 1",
+    "Relentless"
+  ],
+  "weapons": [
+    {
+      "name": "Vader's Lightsaber",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 5 },
+      "keywords": ["Impact 3", "Pierce 3"]
+    },
+    {
+      "name": "Force Throw",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 2 },
+      "keywords": ["Blast", "Scatter"]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Training",
+    "Training"
+  ]
+}

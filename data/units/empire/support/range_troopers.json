@@ -1,0 +1,45 @@
+{
+  "name": "Range Troopers",
+  "title": "None",
+  "faction": "Galactic Empire",
+  "rank": "Support",
+  "unit_type": "Trooper",
+  "squad_size": 4,
+  "stats": {
+    "health": 1,
+    "courage": 2,
+    "speed": 1,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Advanced Targeting: Trooper 1",
+    "Armor 1",
+    "Indomitable",
+    "Scale",
+    "Spur"
+  ],
+  "weapons": [
+    {
+      "name": "Gription Boot Kick",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 2 },
+      "keywords": []
+    },
+    {
+      "name": "E-10R Blaster Rifle",
+      "range": { "min": 1, "max": 4 },
+      "dice": { "black": 1 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Heavy Weapon",
+    "Personnel",
+    "Grenades",
+    "Gear"
+  ]
+}

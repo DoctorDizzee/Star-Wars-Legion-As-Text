@@ -1,0 +1,39 @@
+{
+  "name": "Agent Kallus",
+  "title": "Hunter of Spectres",
+  "faction": "Galactic Empire",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Observe 2",
+    "Bounty",
+    "Charge",
+    "Direct: Commander Trooper Unit",
+    "Immune: Melee Pierce",
+    "Interrogate"
+  ],
+  "weapons": [
+    {
+      "name": "J-19 Bo-Rifle",
+      "range": { "min": 0, "max": 2 },
+      "dice": { "red": 1, "black": 3 },
+      "keywords": ["Critical 1", "Lethal 1", "Long Shot"]
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Training",
+    "Gear"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Imperial Probe Droid",
+  "title": "None",
+  "faction": "Galactic Empire",
+  "rank": "Special Forces",
+  "unit_type": "Droid Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 4,
+    "courage": 1,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "None",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Observe 3",
+    "Self-Destruct 3",
+    "Detachment: Special Forces",
+    "Disengage",
+    "Infiltrate",
+    "Hover: Air 1"
+  ],
+  "weapons": [
+    {
+      "name": "Light Blaster",
+      "range": { "min": 0, "max": 1 },
+      "dice": { "white": 2, "black": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Comms"
+  ]
+}
