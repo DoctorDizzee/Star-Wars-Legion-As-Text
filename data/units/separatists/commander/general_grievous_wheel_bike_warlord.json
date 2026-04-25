@@ -1,0 +1,56 @@
+{
+  "name": "General Grievous",
+  "title": "Wheel Bike Warlord",
+  "faction": "Separatist Alliance",
+  "rank": "Commander",
+  "unit_type": "Ground Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 8,
+    "resilience": "-",
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Armor 1",
+    "Climbing Vehicle",
+    "Command Vehicle 2",
+    "Entourage: TSMEU-6 Wheel Bikes",
+    "Immune: Melee Pierce",
+    "Mobile"
+  ],
+  "weapons": [
+    {
+      "name": "Trophy Lightsabers",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 1, "black": 3, "white": 1 },
+      "keywords": [
+        "Impact 2",
+        "Overrun 1",
+        "Pierce 1",
+        "Ram 1",
+        "Scatter"
+      ]
+    },
+    {
+      "name": "Laser Cannon and Pistol",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 1, "black": 2 },
+      "keywords": [
+        "Fixed: Front",
+        "Impact 1",
+        "Pierce 1"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Training",
+    "Comms",
+    "Gear"
+  ]
+}

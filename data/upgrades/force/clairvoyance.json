@@ -1,0 +1,9 @@
+{
+  "name": "Clairvoyance",
+  "limit": "None",
+  "upgrade_slot": "Force",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "When this unit attacks, it may discard this card during the Reroll Dice step. If it does, it rerolls all of its attack dice, then converts any [surge] results as normal. You may not further modify the attack roll.\n\nWhen this unit defends, it may discard this card during the Reroll Dice step. If it does, it rerolls all of its defense dice, then converts any [surge] results as normal. You may not further modify the defense roll.",
+  "weapons": []
+}

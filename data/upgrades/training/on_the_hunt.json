@@ -1,0 +1,9 @@
+{
+  "name": "On the Hunt",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "When this unit is attacking a Trooper unit that has 1 or more Wound tokens, during the Roll Attack Dice step, this unit may gain 1 Aim token.",
+  "weapons": []
+}

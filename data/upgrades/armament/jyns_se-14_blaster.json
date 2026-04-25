@@ -1,0 +1,18 @@
+{
+  "name": "Jyn's SE-14 Blaster",
+  "limit": "Unique",
+  "upgrade_slot": "Armament",
+  "restrictions": "K-2SO Only",
+  "keywords_gained": [],
+  "text": "If you include Jyn Erso in your army, reduce this card's points by 5.",
+  "weapons": [
+    {
+      "name": "SE-14 Blaster",
+      "range": "1-2",
+      "dice": {
+        "white": 5
+      },
+      "keywords": ["Pierce 1", "Suppressive"]
+    }
+  ]
+}

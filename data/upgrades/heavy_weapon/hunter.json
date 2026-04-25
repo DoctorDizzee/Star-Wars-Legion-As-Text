@@ -1,0 +1,9 @@
+{
+  "name": "Hunter",
+  "limit": "Unique",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "The Bad Batch Only",
+  "keywords_gained": ["Leader"],
+  "text": "Add 1 Hunter miniature.\nLeader.\nfree: Choose a non-[operative] or non-[commander] enemy Trooper unit within 1 and in LOS. Roll 1 black attack die. On a [hit] or [critical] result, that unit suffers 1 Wound.",
+  "weapons": []
+}

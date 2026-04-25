@@ -1,0 +1,9 @@
+{
+  "name": "Tenacity",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "When this unit makes a Melee attack, during the Form Attack Pool step, if it has 1 or more Wound tokens or if it has had 1 or more of its miniatures be defeated, it may add 1 red attack die to its Attack Pools.",
+  "weapons": []
+}

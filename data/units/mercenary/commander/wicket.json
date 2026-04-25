@@ -1,0 +1,52 @@
+{
+  "name": "Wicket",
+  "title": "Hero of Bright Tree",
+  "faction": "Rebel Alliance",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Mercenary: Rebel Alliance",
+    "Independent: Dodge 1",
+    "Low Profile",
+    "Nimble",
+    "Relentless",
+    "Scout 1",
+    "Scouting Party 2",
+    "Unhindered"
+  ],
+  "weapons": [
+    {
+      "name": "Spear",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 2, "black": 1 },
+      "keywords": [
+        "Pierce 1"
+      ]
+    },
+    {
+      "name": "Sling",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 1 },
+      "keywords": [
+        "Pierce 1",
+        "Primitive"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Training",
+    "Training",
+    "Training"
+  ]
+}

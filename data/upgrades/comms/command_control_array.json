@@ -1,0 +1,10 @@
+{
+  "name": "Command Control Array",
+  "limit": "None",
+  "upgrade_slot": "Comms",
+  "restrictions": "Vehicle Only",
+  "points": 2,
+  "keywords_gained": [],
+  "text": "When this unit uses Coordinate, it may issue an Order to a unit within 2 instead of within 1.",
+  "weapons": []
+}

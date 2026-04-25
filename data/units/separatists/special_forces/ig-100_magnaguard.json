@@ -1,0 +1,47 @@
+{
+  "name": "IG-100 MagnaGuard",
+  "title": "None",
+  "faction": "Separatist Alliance",
+  "rank": "Special Forces",
+  "unit_type": "Droid Trooper",
+  "squad_size": 3,
+  "stats": {
+    "health": 2,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "AI: Dodge, Move",
+    "Charge",
+    "Guardian 2: Commander",
+    "Immune: Melee Pierce",
+    "Retinue: Commander",
+    "Unhindered"
+  ],
+  "weapons": [
+    {
+      "name": "Electrostaff",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 2 },
+      "keywords": []
+    },
+    {
+      "name": "Precision Laser Dart",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 1, "white": 1 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Personnel",
+    "Training",
+    "Training",
+    "Grenades",
+    "Gear"
+  ]
+}

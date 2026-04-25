@@ -1,0 +1,9 @@
+{
+  "name": "Hope",
+  "limit": "None",
+  "upgrade_slot": "Force",
+  "restrictions": "Light Side Only",
+  "keywords_gained": ["Inspire 1"],
+  "text": "This unit gains Inspire 1.",
+  "weapons": []
+}

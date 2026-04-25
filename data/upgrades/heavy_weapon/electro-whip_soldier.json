@@ -1,0 +1,19 @@
+{
+  "name": "Electro-Whip Soldier",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Pyke Syndicate Foot Soldiers Only",
+  "points": 10,
+  "keywords_gained": [],
+  "text": "Add 1 Electro-Whip Soldier miniature.",
+  "weapons": [
+    {
+      "name": "Electro-Whip",
+      "range": "melee-1",
+      "dice": {
+        "red": 2
+      },
+      "keywords": ["Immobilize 1", "Suppressive"]
+    }
+  ]
+}

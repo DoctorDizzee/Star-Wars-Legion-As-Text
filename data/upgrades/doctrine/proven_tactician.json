@@ -1,0 +1,9 @@
+{
+  "name": "Proven Tactician",
+  "limit": "Unique",
+  "upgrade_slot": "Command",
+  "restrictions": "Rebel Officer Only",
+  "keywords_gained": ["Quick Thinking", "Exemplar"],
+  "text": "Increase this unit's [courage] by 1.\nWhile within 1 of this unit, allied [corps] units gain Reinforcements.\nThis unit gains [action] Quick Thinking and Exemplar.",
+  "weapons": []
+}

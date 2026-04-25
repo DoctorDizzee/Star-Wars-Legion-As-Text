@@ -1,0 +1,9 @@
+{
+  "name": "Call to Arms",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "[ewok] Trooper Only",
+  "keywords_gained": ["Charge"],
+  "text": "exhaust_free: This unit gains Charge until the end of the Round. This unit gains 1 Suppression token.",
+  "weapons": []
+}

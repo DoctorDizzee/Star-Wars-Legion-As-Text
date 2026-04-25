@@ -1,0 +1,10 @@
+{
+  "name": "Rebel Veteran",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Rebel Veterans Only",
+  "points": 9,
+  "keywords_gained": [],
+  "text": "Add 1 Rebel Veteran miniature.",
+  "weapons": []
+}

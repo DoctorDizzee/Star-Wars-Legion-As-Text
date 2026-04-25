@@ -1,0 +1,9 @@
+{
+  "name": "Trusted Agent",
+  "limit": 1,
+  "upgrade_slot": "Command",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "During the Issue Orders step of the Command Phase, you may exhaust this card. If you do, choose an allied [Corps] unit and issue that unit an Order.",
+  "weapons": []
+}

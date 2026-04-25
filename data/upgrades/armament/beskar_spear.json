@@ -1,0 +1,19 @@
+{
+  "name": "Beskar Spear",
+  "limit": "Unique",
+  "upgrade_slot": "Armament",
+  "restrictions": "Din Djarin Only",
+  "keywords_gained": ["Duelist"],
+  "text": "This unit gains Duelist.",
+  "weapons": [
+    {
+      "name": "Beskar Spear",
+      "range": "melee",
+      "dice": {
+        "red": 2,
+        "black": 1
+      },
+      "keywords": []
+    }
+  ]
+}

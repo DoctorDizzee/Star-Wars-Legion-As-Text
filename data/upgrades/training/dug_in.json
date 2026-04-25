@@ -1,0 +1,10 @@
+{
+  "name": "Dug In",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "Emplacement Trooper or Trooper Unit with Prepared Position Only",
+  "points": 6,
+  "keywords_gained": [],
+  "text": "Units may equip this card even if they do not have a [training] upgrade slot on their unit card.\nWhile this unit is completely within Allied Territory and while it does not have a facedown Order token, this unit rolls red defense dice instead of white defense dice when rolling its Cover Pool.",
+  "weapons": []
+}

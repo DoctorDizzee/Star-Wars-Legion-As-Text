@@ -1,0 +1,10 @@
+{
+  "name": "Pyke Syndicate Foot Soldier",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Pyke Syndicate Foot Soldiers Only",
+  "points": 9,
+  "keywords_gained": ["Cache: Aim 1"],
+  "text": "Add 1 Pyke Syndicate Foot Soldier miniature.\nThis unit gains Cache: Aim 1.\nThis unit has this keyword even if this miniature is defeated.",
+  "weapons": []
+}

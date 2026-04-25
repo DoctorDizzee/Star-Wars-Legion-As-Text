@@ -1,0 +1,9 @@
+{
+  "name": "Strict Orders",
+  "limit": "None",
+  "upgrade_slot": "Command",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "During the Activation Phase, when an allied unit that has a faceup Order token starts its Rally step, it may choose to remove 1 Suppression token instead of rolling dice.",
+  "weapons": []
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Geonosian Warriors",
+  "title": "Soldiers of the Hive",
+  "faction": "Separatist Alliance",
+  "rank": "Corps",
+  "unit_type": "Trooper",
+  "squad_size": 4,
+  "stats": {
+    "health": 1,
+    "courage": 1,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "None",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Jump 3",
+    "Death From Above",
+    "Scale",
+    "Weighed Down"
+  ],
+  "weapons": [
+    {
+      "name": "Spears",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 1 },
+      "keywords": []
+    },
+    {
+      "name": "Sonic Blasters",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 1, "white": 1 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Personnel",
+    "Heavy Weapon"
+  ]
+}

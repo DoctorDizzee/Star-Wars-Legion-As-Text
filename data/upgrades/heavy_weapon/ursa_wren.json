@@ -1,0 +1,21 @@
+{
+  "name": "Ursa Wren",
+  "limit": "Unique",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Mandalorian Resistance Only",
+  "points": 34,
+  "keywords_gained": ["Leader", "Dauntless"],
+  "text": "Add 1 Ursa Wren miniature.\nLeader.\nThis unit gains Dauntless.",
+  "weapons": [
+    {
+      "name": "Ursa's Blaster",
+      "range": "melee-2",
+      "dice": {
+        "red": 1,
+        "black": 1,
+        "white": 1
+      },
+      "keywords": ["Long Shot"]
+    }
+  ]
+}

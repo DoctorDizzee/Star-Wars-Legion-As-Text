@@ -1,0 +1,45 @@
+{
+  "name": "Black Sun Enforcers",
+  "title": "None",
+  "faction": "Shadow Collective",
+  "rank": "Corps",
+  "unit_type": "Trooper",
+  "squad_size": 4,
+  "stats": {
+    "health": 1,
+    "courage": 1,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Mercenary: Galactic Empire, Separatist Alliance",
+    "Dauntless",
+    "Independent: Aim 1",
+    "Precise 1",
+    "Self-Preservation"
+  ],
+  "weapons": [
+    {
+      "name": "Close Quarters Combat",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 1 },
+      "keywords": []
+    },
+    {
+      "name": "Double Blaster",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "white": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Personnel",
+    "Heavy Weapon",
+    "Comms",
+    "Gear"
+  ]
+}

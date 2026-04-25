@@ -1,0 +1,9 @@
+{
+  "name": "Burst of Speed",
+  "limit": "None",
+  "upgrade_slot": "Force",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "At the start of this unit's Activation, you may discard this card to treat this unit's maximum Speed as 3 until the end of the Round. If you do, during the End Phase, this unit gains 1 Immobilize token.",
+  "weapons": []
+}

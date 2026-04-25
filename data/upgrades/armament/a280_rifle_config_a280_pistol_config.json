@@ -1,0 +1,28 @@
+{
+  "name": "A280, Rifle Config / A280, Pistol Config",
+  "limit": "None",
+  "upgrade_slot": "Armament",
+  "restrictions": "Cassian Andor Only",
+  "keywords_gained": ["Reconfigure"],
+  "text": "Front (A280, Rifle Config):\nReconfigure (When you perform a recover action, you may flip this card).\n\nBack (A280, Pistol Config):\nReconfigure (When you perform a recover action, you may flip this card).",
+  "weapons": [
+    {
+      "name": "A280 Rifle",
+      "range": "1-4",
+      "dice": {
+        "red": 1,
+        "black": 1
+      },
+      "keywords": ["Cumbersome", "High Velocity", "Pierce 1"]
+    },
+    {
+      "name": "A280 Pistol",
+      "range": "1-2",
+      "dice": {
+        "red": 2,
+        "black": 1
+      },
+      "keywords": ["Long Shot", "Pierce 1"]
+    }
+  ]
+}

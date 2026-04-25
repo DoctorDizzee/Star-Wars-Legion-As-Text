@@ -1,0 +1,43 @@
+{
+  "name": "LM-432 Crab Droid",
+  "title": "None",
+  "faction": "Separatist Alliance",
+  "rank": "Support",
+  "unit_type": "Ground Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "resilience": 3,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Armor 2",
+    "Climbing Vehicle",
+    "Programmed",
+    "Reposition",
+    "Scale",
+    "Scout 1",
+    "Scouting Party 1"
+  ],
+  "weapons": [
+    {
+      "name": "Crab Claws",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 2, "black": 1, "white": 1 },
+      "keywords": [
+        "Impact 2",
+        "Pierce 1"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Programming",
+    "Hardpoint",
+    "Comms"
+  ]
+}

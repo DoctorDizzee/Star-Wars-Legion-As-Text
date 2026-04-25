@@ -1,0 +1,10 @@
+{
+  "name": "Rebel Trooper",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Rebel Troopers Only",
+  "points": 7,
+  "keywords_gained": [],
+  "text": "Add 1 Rebel Trooper miniature.",
+  "weapons": []
+}

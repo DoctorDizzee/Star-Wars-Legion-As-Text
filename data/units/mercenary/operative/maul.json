@@ -1,0 +1,44 @@
+{
+  "name": "Maul",
+  "title": "A Rival",
+  "faction": "Shadow Collective",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "courage": 3,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Jump 1",
+    "Allies of Convenience",
+    "Deflect",
+    "Immune: Pierce",
+    "Juyo Mastery",
+    "Wound 1"
+  ],
+  "weapons": [
+    {
+      "name": "Maul's Lightsaber",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 4, "white": 4 },
+      "keywords": [
+        "Impact 2",
+        "Pierce 2"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Command",
+    "Training",
+    "Armament"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Inspiring Presence",
+  "limit": "None",
+  "upgrade_slot": "Command",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "Allied units within 4 of this unit may use its [courage] when checking if they are Panicked. This range can be reduced by other effects.",
+  "weapons": []
+}

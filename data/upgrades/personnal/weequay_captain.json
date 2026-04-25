@@ -1,0 +1,19 @@
+{
+  "name": "Weequay Captain",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Weequay Pirates Only",
+  "points": 18,
+  "keywords_gained": ["Leader"],
+  "text": "Add 1 Weequay Captain miniature.\nLeader.\nAt the start of this unit's Activation, you may [tap] this card. If you do, this unit cannot remove Suppression tokens or be Suppressed during this Activation.",
+  "weapons": [
+    {
+      "name": "Bravado",
+      "range": "melee-2",
+      "dice": {
+        "red": 1
+      },
+      "keywords": []
+    }
+  ]
+}

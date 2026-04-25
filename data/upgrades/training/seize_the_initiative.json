@@ -1,0 +1,9 @@
+{
+  "name": "Seize the Initiative",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "[Special Forces] or [Corps] Only",
+  "keywords_gained": [],
+  "text": "During the Issue Orders step of the Command Phase, you may exhaust this card. If you do, this unit issues an Order to itself.",
+  "weapons": []
+}

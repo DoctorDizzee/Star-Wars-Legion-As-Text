@@ -1,0 +1,9 @@
+{
+  "name": "Electrobinoculars",
+  "limit": "None",
+  "upgrade_slot": "Gear",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "This unit gains [action] Spotter 1.\nB1 Battle Droids units can equip this card even though they do not have a [gear] upgrade slot.",
+  "weapons": []
+}

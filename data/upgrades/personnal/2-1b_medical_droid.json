@@ -1,0 +1,9 @@
+{
+  "name": "2-1B Medical Droid",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "[rebel] [commander] Trooper Only",
+  "keywords_gained": ["Noncombatant"],
+  "text": "Add 1 2-1B Medical Droid miniature.\nNoncombatant.\nfree: Treat 1: Capacity 2.",
+  "weapons": []
+}

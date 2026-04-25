@@ -1,0 +1,9 @@
+{
+  "name": "Hacked Comms Unit",
+  "limit": "None",
+  "upgrade_slot": "Comms",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "During the Issue Orders step of the Command Phase, after an enemy unit within 1 of this unit is issued an Order, this unit may issue an Order to itself.",
+  "weapons": []
+}

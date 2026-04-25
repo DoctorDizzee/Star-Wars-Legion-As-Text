@@ -1,0 +1,9 @@
+{
+  "name": "Force Barrier",
+  "limit": "None",
+  "upgrade_slot": "Force",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "When another allied Trooper unit within 1 of this unit defends against a Ranged attack, during the Modify Attack Dice step, you may exhaust this card to cancel either 1 [critical] result or up to 2 [hit] results.",
+  "weapons": []
+}

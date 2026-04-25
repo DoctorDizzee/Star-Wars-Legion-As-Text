@@ -1,0 +1,54 @@
+{
+  "name": "Din Djarin",
+  "title": "The Mandalorian",
+  "faction": "Mercenary",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 3,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Mercenary: Galactic Empire, Rebel Alliance",
+    "Arsenal 2",
+    "Bounty",
+    "Impervious",
+    "Independent: Aim 1 and Dodge 1",
+    "Tactical 1"
+  ],
+  "weapons": [
+    {
+      "name": "Vibroknife",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 2 },
+      "keywords": [
+        "Lethal 1"
+      ]
+    },
+    {
+      "name": "IB-94 Blaster Pistol",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 2, "black": 1 },
+      "keywords": [
+        "Lethal 1",
+        "Long Shot",
+        "Versatile"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Training",
+    "Training",
+    "Grenades",
+    "Comms",
+    "Comms",
+    "Armament"
+  ]
+}

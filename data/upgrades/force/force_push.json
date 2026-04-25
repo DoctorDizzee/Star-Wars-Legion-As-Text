@@ -1,0 +1,9 @@
+{
+  "name": "Force Push",
+  "limit": "None",
+  "upgrade_slot": "Force",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "exhaust_free: Choose an enemy Trooper unit within 1 of this unit. The chosen unit makes a Speed-1 Move, even if it is Engaged. You resolve this Move.",
+  "weapons": []
+}

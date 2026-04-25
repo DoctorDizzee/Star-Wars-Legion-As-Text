@@ -1,0 +1,9 @@
+{
+  "name": "Duck and Cover",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "When this unit is defending against a Ranged attack, at the start of the Apply Dodge and Cover step, it may gain 1 Suppression token.",
+  "weapons": []
+}

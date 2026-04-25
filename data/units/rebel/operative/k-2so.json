@@ -1,0 +1,34 @@
+{
+  "name": "K-2SO",
+  "subtitle": "Sardonic Security Droid",
+  "type": "Droid Trooper",
+  "rank": "Operative",
+  "points": 0,
+  "health": 5,
+  "courage": 2,
+  "defense_die": "Red",
+  "surge": {
+    "attack": "None",
+    "defense": "Critical"
+  },
+  "speed": 2,
+  "upgrade_slots": ["Grenades", "Armament"],
+  "keywords": [
+    "[action] Calculate Odds",
+    "Armor 1",
+    "Detachment: Cassian Andor",
+    "Incognito",
+    "Infiltrate",
+    "Teamwork: Cassian Andor"
+  ],
+  "weapons": [
+    {
+      "name": "Overpower",
+      "range": "melee",
+      "dice": {
+        "red": 4
+      },
+      "keywords": []
+    }
+  ]
+}

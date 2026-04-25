@@ -1,0 +1,52 @@
+{
+  "name": "AAT Battle Tank",
+  "title": "None",
+  "faction": "Separatist Alliance",
+  "rank": "Heavy",
+  "unit_type": "Repulsor Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 9,
+    "resilience": 6,
+    "speed": 1,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "AI: Attack",
+    "Armor 5",
+    "Arsenal 2",
+    "Barrage",
+    "Hover: Ground",
+    "Weak Point 2: Rear"
+  ],
+  "weapons": [
+    {
+      "name": "Anti-Personnel Lasers",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "black": 3 },
+      "keywords": [
+        "Fixed: Front"
+      ]
+    },
+    {
+      "name": "Artillery Cannon",
+      "range": { "min": 2, "max": 4 },
+      "dice": { "red": 4 },
+      "keywords": [
+        "Critical 2",
+        "High Velocity",
+        "Impact 2"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Pilot",
+    "Comms",
+    "Ordnance",
+    "Ordnance"
+  ]
+}

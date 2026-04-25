@@ -1,0 +1,9 @@
+{
+  "name": "Lead By Example",
+  "limit": "None",
+  "upgrade_slot": "Command",
+  "restrictions": "None",
+  "keywords_gained": ["Inspire 2"],
+  "text": "This unit gains Inspire 2.",
+  "weapons": []
+}

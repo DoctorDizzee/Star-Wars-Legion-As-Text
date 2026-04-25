@@ -1,0 +1,9 @@
+{
+  "name": "Into the Fray",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "During the Activation Phase, when an enemy unit starts its Activation within 1 of this unit, this unit may gain 1 Surge token.",
+  "weapons": []
+}

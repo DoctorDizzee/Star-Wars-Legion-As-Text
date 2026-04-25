@@ -1,0 +1,10 @@
+{
+  "name": "Rebel Trooper Specialist",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Rebel Troopers Only",
+  "points": 8,
+  "keywords_gained": [],
+  "text": "Add 1 Rebel Trooper Specialist miniature.\nThis unit gains 1 [gear] upgrade icon.\n[tap] [action] This unit gains 1 Dodge token or 1 Surge token.",
+  "weapons": []
+}

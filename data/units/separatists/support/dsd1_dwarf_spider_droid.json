@@ -1,0 +1,38 @@
+{
+  "name": "DSD1 Dwarf Spider Droid",
+  "title": "None",
+  "faction": "Separatist Alliance",
+  "rank": "Support",
+  "unit_type": "Ground Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "resilience": 4,
+    "speed": 1,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Self-Destruct 3",
+    "Armor 3",
+    "Climbing Vehicle",
+    "Expert Climber",
+    "Programmed"
+  ],
+  "weapons": [
+    {
+      "name": "Wicked Kick",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 1, "black": 1, "white": 1 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Programming",
+    "Hardpoint",
+    "Comms"
+  ]
+}

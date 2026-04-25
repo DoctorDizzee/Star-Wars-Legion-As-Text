@@ -1,0 +1,25 @@
+{
+  "name": "C-3PO",
+  "subtitle": "Human Cyborg Relations",
+  "limit": "Unique",
+  "upgrade_slot": "Counterpart",
+  "restrictions": "R2-D2 Only",
+  "type": "Droid Trooper",
+  "points": 0,
+  "health": 2,
+  "keywords": [
+    "[action] Calculate Odds",
+    "free: Distract",
+    "Counterpart: R2-D2"
+  ],
+  "weapons": [
+    {
+      "name": "Clumsy Kick",
+      "range": "melee",
+      "dice": {
+        "white": 1
+      },
+      "keywords": []
+    }
+  ]
+}

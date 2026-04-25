@@ -1,0 +1,10 @@
+{
+  "name": "Linked Targeting Array",
+  "limit": "None",
+  "upgrade_slot": "Comms",
+  "restrictions": "Emplacement Trooper or Vehicle Only",
+  "points": 5,
+  "keywords_gained": ["Target 1"],
+  "text": "This unit gains Target 1.",
+  "weapons": []
+}

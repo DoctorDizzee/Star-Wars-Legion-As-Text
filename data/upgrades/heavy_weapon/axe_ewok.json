@@ -1,0 +1,18 @@
+{
+  "name": "Axe Ewok",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Ewok Slingers or Ewok Skirmishers Only",
+  "keywords_gained": [],
+  "text": "Add 1 Axe Ewok miniature.",
+  "weapons": [
+    {
+      "name": "Stone Axe",
+      "range": "melee",
+      "dice": {
+        "red": 1
+      },
+      "keywords": ["Impact 1", "Pierce 1"]
+    }
+  ]
+}

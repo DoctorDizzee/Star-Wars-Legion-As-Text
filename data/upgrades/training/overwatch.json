@@ -1,0 +1,9 @@
+{
+  "name": "Overwatch",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "None",
+  "keywords_gained": ["Sentinel"],
+  "text": "This unit gains Sentinel.",
+  "weapons": []
+}

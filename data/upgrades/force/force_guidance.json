@@ -1,0 +1,9 @@
+{
+  "name": "Force Guidance",
+  "limit": "None",
+  "upgrade_slot": "Force",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "exhaust_free: Choose up to 2 allied units within 2 of this unit. Each chosen unit gains 1 Surge token.",
+  "weapons": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Vibro Axe",
+  "limit": "None",
+  "upgrade_slot": "Armament",
+  "restrictions": "Rebel Agent or Rebel Officer Only",
+  "keywords_gained": ["Charge"],
+  "text": "This unit gains Charge.",
+  "weapons": [
+    {
+      "name": "Vibro Axe",
+      "range": "melee",
+      "dice": {
+        "red": 1,
+        "black": 3
+      },
+      "keywords": ["Impact 1", "Lethal 1"]
+    }
+  ]
+}

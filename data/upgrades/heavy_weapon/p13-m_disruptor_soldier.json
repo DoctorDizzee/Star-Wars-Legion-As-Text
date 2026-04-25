@@ -1,0 +1,20 @@
+{
+  "name": "P13-M Disruptor Soldier",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Pyke Syndicate Foot Soldiers Only",
+  "points": 24,
+  "keywords_gained": [],
+  "text": "Add 1 P13-M Disruptor Soldier miniature.",
+  "weapons": [
+    {
+      "name": "P13-M Disruptor",
+      "range": "1-4",
+      "dice": {
+        "red": 1,
+        "black": 2
+      },
+      "keywords": ["Impact 1"]
+    }
+  ]
+}

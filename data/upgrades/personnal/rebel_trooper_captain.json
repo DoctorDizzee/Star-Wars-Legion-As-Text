@@ -1,0 +1,10 @@
+{
+  "name": "Rebel Trooper Captain",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Rebel Troopers Only",
+  "points": 9,
+  "keywords_gained": ["Leader"],
+  "text": "Add 1 Rebel Trooper Captain miniature.\nLeader.\nThis unit gains 1 [training] upgrade icon.\nAt the start of this unit's Activation, you may [tap] this card. If you do, this unit cannot remove Suppression tokens or be Suppressed during this Activation.",
+  "weapons": []
+}

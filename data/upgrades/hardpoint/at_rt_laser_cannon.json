@@ -1,0 +1,20 @@
+{
+  "name": "AT-RT Laser Cannon",
+  "limit": "None",
+  "upgrade_slot": "Hardpoint",
+  "restrictions": "AT-RT Only",
+  "points": 10,
+  "keywords_gained": [],
+  "text": "",
+  "weapons": [
+    {
+      "name": "Laser Cannon",
+      "range": "2-4",
+      "dice": {
+        "red": 1,
+        "black": 2
+      },
+      "keywords": ["Fixed: Front", "Impact 3"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Frontline Commander",
+  "limit": "Unique",
+  "upgrade_slot": "Command",
+  "restrictions": "Rebel Officer Only",
+  "keywords_gained": ["Aid: [rebel] Trooper Unit", "Indomitable", "Spur", "Tactical 1"],
+  "text": "While within 1 of this unit, allied Trooper units gain Dauntless.\nThis unit gains Aid: [rebel] Trooper Unit, Indomitable, Spur, and Tactical 1.",
+  "weapons": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "AT-RT Flamethrower",
+  "limit": "None",
+  "upgrade_slot": "Hardpoint",
+  "restrictions": "AT-RT Only",
+  "points": 15,
+  "keywords_gained": [],
+  "text": "",
+  "weapons": [
+    {
+      "name": "Flamethrower",
+      "range": "melee-1",
+      "dice": {
+        "black": 2
+      },
+      "keywords": ["Blast", "Fixed: Front", "Spray"]
+    }
+  ]
+}

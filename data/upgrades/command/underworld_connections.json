@@ -1,0 +1,9 @@
+{
+  "name": "Underworld Connections",
+  "limit": "None",
+  "upgrade_slot": "Command",
+  "restrictions": "None",
+  "keywords_gained": ["Allies of Convenience"],
+  "text": "This unit gains Allies of Convenience.",
+  "weapons": []
+}

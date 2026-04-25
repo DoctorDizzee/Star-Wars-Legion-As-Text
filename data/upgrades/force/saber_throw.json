@@ -1,0 +1,20 @@
+{
+  "name": "Saber Throw",
+  "limit": "None",
+  "upgrade_slot": "Force",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "When this unit makes an attack with this weapon, during the Form Attack Pool step, choose 1 of this unit's Melee weapons. The weapon dice for this weapon are equal to half of the chosen weapon's total dice, rounding up, and the Attack Pool gains the chosen weapon's weapon keywords.",
+  "weapons": [
+    {
+      "name": "Thrown Lightsaber",
+      "range": "1-2",
+      "dice": {
+        "red": 1,
+        "black": 1,
+        "white": 1
+      },
+      "keywords": []
+    }
+  ]
+}

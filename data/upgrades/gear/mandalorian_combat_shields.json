@@ -1,0 +1,10 @@
+{
+  "name": "Mandalorian Combat Shields",
+  "limit": "None",
+  "upgrade_slot": "Gear",
+  "restrictions": "Mandalorian Resistance Only",
+  "points": 10,
+  "keywords_gained": ["Shielded 2"],
+  "text": "This unit gains Shielded 2.",
+  "weapons": []
+}

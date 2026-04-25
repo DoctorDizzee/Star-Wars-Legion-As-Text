@@ -1,0 +1,9 @@
+{
+  "name": "Comms Jammer",
+  "limit": "None",
+  "upgrade_slot": "Comms",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "Enemy units within 1 of this unit cannot be issued Orders, unless they are issuing an Order to themselves.",
+  "weapons": []
+}

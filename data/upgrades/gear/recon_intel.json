@@ -1,0 +1,9 @@
+{
+  "name": "Recon Intel",
+  "limit": "None",
+  "upgrade_slot": "Gear",
+  "restrictions": "None",
+  "keywords_gained": ["Scout 1"],
+  "text": "This unit gains Scout 1.",
+  "weapons": []
+}

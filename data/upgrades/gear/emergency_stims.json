@@ -1,0 +1,9 @@
+{
+  "name": "Emergency Stims",
+  "limit": "None",
+  "upgrade_slot": "Gear",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "When this unit would suffer 1 or more Wounds from an enemy attack, you may exhaust this card to prevent suffering up to 2 of those Wounds and place an equal number of Wound tokens on this card instead. If you do, at the end of this unit's next Activation, this unit removes each Wound token from this card and suffers Wounds equal to the number of Wound tokens removed.",
+  "weapons": []
+}

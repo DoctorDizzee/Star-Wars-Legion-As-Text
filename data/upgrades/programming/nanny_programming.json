@@ -1,0 +1,9 @@
+{
+  "name": "\"Nanny\" Programming",
+  "limit": "None",
+  "upgrade_slot": "Protocol",
+  "restrictions": "IG-11 Only",
+  "keywords_gained": ["AI: Dodge, Move"],
+  "text": "While building an army, an allied Grogu gains Counterpart: IG-11.\nThis unit gains AI: Dodge, Move.",
+  "weapons": []
+}

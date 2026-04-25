@@ -1,0 +1,10 @@
+{
+  "name": "Barrage Generator",
+  "limit": "None",
+  "upgrade_slot": "Barrage",
+  "restrictions": "None",
+  "points": 3,
+  "keywords_gained": [],
+  "text": "When this unit makes an attack with a Ranged weapon that has Fixed, during the Form Attack Pool step you may [tap] this card. If you do, add 2 white attack dice to the Attack Pool and the Attack Pool gains Suppressive.",
+  "weapons": []
+}

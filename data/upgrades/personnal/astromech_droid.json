@@ -1,0 +1,9 @@
+{
+  "name": "Astromech Droid",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "[rebel] [commander] Trooper Only",
+  "keywords_gained": ["Noncombatant"],
+  "text": "Add 1 Astromech Droid miniature.\nNoncombatant.\nfree: Repair 1: Capacity 2.",
+  "weapons": []
+}

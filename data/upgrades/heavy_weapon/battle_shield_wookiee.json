@@ -1,0 +1,19 @@
+  {
+  "name": "Battle Shield Wookiee",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Wookiee Warriors Only",
+  "points": 26,
+  "keywords_gained": [],
+  "text": "Add 1 Battle Shield Wookiee miniature.\nAt the start of this unit's Activation, you may flip this card.\n[Side B]: This unit reduces its maximum Speed by 1. This unit gains Armor 1.",
+  "weapons": [
+    {
+      "name": "Battle Shield",
+      "range": "melee",
+      "dice": {
+        "red": 2
+      },
+      "keywords": []
+    }
+  ]
+}

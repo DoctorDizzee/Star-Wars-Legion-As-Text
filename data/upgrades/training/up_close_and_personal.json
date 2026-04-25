@@ -1,0 +1,9 @@
+{
+  "name": "Up Close and Personal",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "When this unit makes a Ranged attack against an enemy unit within 2, after that attack is resolved, this unit gains 1 Dodge token.",
+  "weapons": []
+}

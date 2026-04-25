@@ -1,0 +1,10 @@
+{
+  "name": "Pyke Syndicate Capo",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Pyke Syndicate Foot Soldiers Only",
+  "points": 18,
+  "keywords_gained": ["Leader", "Independent: Surge 1"],
+  "text": "Add 1 Pyke Syndicate Capo miniature.\nLeader.\nThis unit increases its [courage] by 1 and gains Independent: Surge 1.",
+  "weapons": []
+}

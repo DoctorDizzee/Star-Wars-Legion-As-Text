@@ -1,0 +1,20 @@
+{
+  "name": "Chewbacca",
+  "limit": "Unique",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Wookiee Trooper Only",
+  "points": 40,
+  "keywords_gained": ["Leader"],
+  "text": "Add 1 Chewbacca miniature.\nWhen this unit attacks, during the Form Attack Pool step, choose 1 of this unit's Attack Pools. This unit may upgrade 1 attack dice in that Attack Pool for each miniature adding a weapon to the chosen Attack Pool.\nWhen this unit defends, for each miniature in this unit, you may upgrade 1 of this unit's defense dice.\nLeader.",
+  "weapons": [
+    {
+      "name": "Chewbacca's Bowcaster",
+      "range": "1-3",
+      "dice": {
+        "red": 1,
+        "white": 2
+      },
+      "keywords": ["Impact 1"]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Ewok Skirmishers",
+  "title": "None",
+  "faction": "Rebel Alliance",
+  "rank": "Corps",
+  "unit_type": "Trooper",
+  "squad_size": 6,
+  "stats": {
+    "health": 1,
+    "courage": 1,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Mercenary: Rebel Alliance",
+    "Low Profile",
+    "Unhindered"
+  ],
+  "weapons": [
+    {
+      "name": "Spear",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 1 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Personnel",
+    "Heavy Weapon",
+    "Heavy Weapon",
+    "Training"
+  ]
+}

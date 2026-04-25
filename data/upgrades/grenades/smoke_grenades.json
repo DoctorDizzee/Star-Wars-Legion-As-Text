@@ -1,0 +1,9 @@
+{
+  "name": "Smoke Grenades",
+  "limit": "None",
+  "upgrade_slot": "Grenades",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "During this unit's Activation, you may discard this card. If you do, this unit makes a free Smoke 1 action.",
+  "weapons": []
+}

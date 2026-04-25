@@ -1,0 +1,9 @@
+{
+  "name": "Vigilance",
+  "limit": "None",
+  "upgrade_slot": "Command",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "At the start of the Remove Tokens step, choose either 1 allied Trooper unit within 2 of this unit or up to 2 allied [Corps] Trooper units within 2 of this unit. Each chosen unit does not remove up to 1 Dodge token.",
+  "weapons": []
+}

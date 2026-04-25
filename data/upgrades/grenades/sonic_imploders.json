@@ -1,0 +1,18 @@
+{
+  "name": "Sonic Imploders",
+  "limit": "None",
+  "upgrade_slot": "Grenades",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "",
+  "weapons": [
+    {
+      "name": "Sonic Imploder",
+      "range": "1",
+      "dice": {
+        "black": 1
+      },
+      "keywords": ["Suppressive"]
+    }
+  ]
+}

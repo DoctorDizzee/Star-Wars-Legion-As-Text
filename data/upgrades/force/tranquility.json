@@ -1,0 +1,9 @@
+{
+  "name": "Tranquility",
+  "limit": "None",
+  "upgrade_slot": "Force",
+  "restrictions": "Light Side Only",
+  "keywords_gained": [],
+  "text": "After another allied unit within 2 of this unit Rallies, but before its Make Actions step, you may exhaust this card. If you do, roll a number of white defense dice equal to this unit's [courage]. For each [block] and [surge] result rolled, this unit and the allied unit remove 1 Suppression token.\nWhen you would exhaust this card, you may instead discard it. If you do, roll red defense dice instead of white defense dice when resolving this card's effect.",
+  "weapons": []
+}

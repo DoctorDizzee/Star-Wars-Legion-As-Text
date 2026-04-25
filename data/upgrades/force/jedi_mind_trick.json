@@ -1,0 +1,9 @@
+{
+  "name": "Jedi Mind Trick",
+  "limit": "None",
+  "upgrade_slot": "Force",
+  "restrictions": "Light Side Only",
+  "keywords_gained": [],
+  "text": "exhaust_free: Choose a non-[commander], non-[operative] enemy Trooper unit within 2 of this unit. The chosen unit gains 2 Suppression tokens.",
+  "weapons": []
+}

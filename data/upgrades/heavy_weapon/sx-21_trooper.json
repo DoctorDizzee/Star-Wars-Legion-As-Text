@@ -1,0 +1,20 @@
+{
+  "name": "SX-21 Trooper",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Rebel Troopers Only",
+  "points": 13,
+  "keywords_gained": [],
+  "text": "Add 1 SX-21 Trooper miniature.",
+  "weapons": [
+    {
+      "name": "SX-21 Scatter Blaster",
+      "range": "1-2",
+      "dice": {
+        "red": 2,
+        "white": 2
+      },
+      "keywords": ["Impact 1"]
+    }
+  ]
+}

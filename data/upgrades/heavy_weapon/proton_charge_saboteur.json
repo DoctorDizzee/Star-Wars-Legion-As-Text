@@ -1,0 +1,21 @@
+{
+  "name": "Proton Charge Saboteur",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Rebel Commandos Only",
+  "points": 14,
+  "keywords_gained": [],
+  "text": "Add 1 Proton Charge Saboteur miniature.\nWhen this weapon is added to an Attack Pool, other Ranged weapons in that Attack Pool gain Assault 1.",
+  "weapons": [
+    {
+      "name": "Proton Charge",
+      "range": "melee-1",
+      "dice": {
+        "red": 1,
+        "black": 1,
+        "white": 1
+      },
+      "keywords": ["Blast", "Impact 6"]
+    }
+  ]
+}

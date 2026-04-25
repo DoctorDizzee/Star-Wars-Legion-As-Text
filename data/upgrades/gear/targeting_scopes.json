@@ -1,0 +1,9 @@
+{
+  "name": "Targeting Scopes",
+  "limit": "None",
+  "upgrade_slot": "Gear",
+  "restrictions": "None",
+  "keywords_gained": ["Precise 1"],
+  "text": "This unit gains Precise 1.",
+  "weapons": []
+}

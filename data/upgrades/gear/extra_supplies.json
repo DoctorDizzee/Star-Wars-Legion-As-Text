@@ -1,0 +1,9 @@
+{
+  "name": "Extra Supplies",
+  "limit": "None",
+  "upgrade_slot": "Gear",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "At the end of this unit's Activation you may discard this card. If you do, ready 1 of this unit's non-[force] upgrades.",
+  "weapons": []
+}

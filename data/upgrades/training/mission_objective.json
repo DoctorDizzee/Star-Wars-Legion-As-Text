@@ -1,0 +1,9 @@
+{
+  "name": "Mission Objective",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "Trooper Only",
+  "keywords_gained": [],
+  "text": "When this unit attacks an enemy unit that is holding or Contesting 1 or more Objective tokens, during the Reroll Attack Dice step, you may exhaust this card. If you do, this unit rerolls 1 attack die.\n\nAt the start of this unit's Activation, ready this card.",
+  "weapons": []
+}

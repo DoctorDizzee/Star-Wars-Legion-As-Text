@@ -1,0 +1,10 @@
+{
+  "name": "Onboard Comms Channel",
+  "limit": "None",
+  "upgrade_slot": "Comms",
+  "restrictions": "Vehicle only",
+  "points": 10,
+  "keywords_gained": ["Coordinate: Trooper"],
+  "text": "This unit gains Coordinate: Trooper.",
+  "weapons": []
+}

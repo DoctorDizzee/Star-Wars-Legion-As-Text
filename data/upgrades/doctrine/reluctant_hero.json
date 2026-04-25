@@ -1,0 +1,9 @@
+{
+  "name": "Reluctant Hero",
+  "limit": "Unique",
+  "upgrade_slot": "Comm",
+  "restrictions": "Rebel Agent Only",
+  "keywords_gained": ["Infiltrate", "Relentless"],
+  "text": "When this unit makes an Attack action, during the Form Attack Pool step, 1 of its Attack Pools gains Critical 1 for each Suppression token it has.\nThis unit gains Infiltrate and Relentless.",
+  "weapons": []
+}

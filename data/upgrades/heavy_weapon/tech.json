@@ -1,0 +1,9 @@
+{
+  "name": "Tech",
+  "limit": "Unique",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "The Bad Batch Only",
+  "keywords_gained": ["Tactical 1", "Cache: Aim 1 and Dodge 1"],
+  "text": "Add 1 Tech miniature.\nThis unit gains Tactical 1 and Cache: Aim 1 and Dodge 1.",
+  "weapons": []
+}

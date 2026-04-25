@@ -1,0 +1,49 @@
+{
+  "name": "WLO-5 Speeder Tank",
+  "title": "None",
+  "faction": "Mercenary",
+  "rank": "Heavy",
+  "unit_type": "Repulsor Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 10,
+    "resilience": 6,
+    "speed": 0,
+    "defense_die": "White",
+    "surges": {
+      "attack": "None",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Mercenary: Galactic Empire, Rebel Alliance, Galactic Republic, Separatist Alliance",
+    "Armor 5",
+    "Arsenal 2",
+    "Hover: Ground",
+    "Transport",
+    "Weak Point 2: Rear"
+  ],
+  "weapons": [
+    {
+      "name": "Anti-Personnel Lasers",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "white": 2, "black": 3 },
+      "keywords": [
+        "Fixed: Front"
+      ]
+    },
+    {
+      "name": "Heavy Laser Cannon",
+      "range": { "min": 1, "max": 3 },
+      "dice": { "red": 1, "white": 2, "black": 2 },
+      "keywords": [
+        "Impact 2"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Pilot",
+    "Comms",
+    "Passenger"
+  ]
+}

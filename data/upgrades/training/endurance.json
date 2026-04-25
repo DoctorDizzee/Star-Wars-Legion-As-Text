@@ -1,0 +1,9 @@
+{
+  "name": "Endurance",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "This unit may remove 1 Suppression token at the end of the Activation Phase.",
+  "weapons": []
+}

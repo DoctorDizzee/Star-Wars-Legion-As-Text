@@ -1,0 +1,9 @@
+{
+  "name": "Environmental Gear",
+  "limit": "None",
+  "upgrade_slot": "Gear",
+  "restrictions": "None",
+  "keywords_gained": ["Unhindered"],
+  "text": "This unit gains Unhindered.",
+  "weapons": []
+}

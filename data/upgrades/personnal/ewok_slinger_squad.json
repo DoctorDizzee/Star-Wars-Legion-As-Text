@@ -1,0 +1,10 @@
+{
+  "name": "Ewok Slinger Squad",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Ewok Slingers Only",
+  "points": 23,
+  "keywords_gained": ["Indomitable"],
+  "text": "Add 4 Ewok Slinger miniatures.\nThis unit gains Indomitable.\nThis unit is in cohesion if all miniatures are at 1 of the unit leader instead of at 1/2.\nThis unit cannot be deployed or issued orders using the Transport keyword.",
+  "weapons": []
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Rebel Marksman",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Rebel Sleeper Cell Only",
+  "points": 28,
+  "keywords_gained": [],
+  "text": "[action] If this unit is not Engaged, choose an unengaged enemy Trooper unit in LOS and roll 1 red attack die. If the result is a [hit] or [crit], the chosen unit suffers 1 Wound and gains 1 Suppression token.",
+  "weapons": []
+}

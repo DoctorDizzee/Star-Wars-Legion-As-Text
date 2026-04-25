@@ -1,0 +1,9 @@
+{
+  "name": "Grappling Hooks",
+  "limit": "None",
+  "upgrade_slot": "Gear",
+  "restrictions": "None",
+  "keywords_gained": ["Expert Climber"],
+  "text": "This unit gains Expert Climber.",
+  "weapons": []
+}

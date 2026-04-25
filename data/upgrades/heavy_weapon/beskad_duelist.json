@@ -1,0 +1,19 @@
+{
+  "name": "Beskad Duelist",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Mandalorian Resistance Only",
+  "points": 24,
+  "keywords_gained": ["Duelist"],
+  "text": "Add 1 Beskad Duelist miniature.\nThis unit gains Duelist.",
+  "weapons": [
+    {
+      "name": "Vibroblade",
+      "range": "melee",
+      "dice": {
+        "red": 2
+      },
+      "keywords": []
+    }
+  ]
+}

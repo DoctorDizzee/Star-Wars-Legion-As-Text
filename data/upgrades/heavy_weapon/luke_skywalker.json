@@ -1,0 +1,20 @@
+{
+  "name": "Luke Skywalker",
+  "limit": "Unique",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Rebel Troopers or Rebel Veterans Only",
+  "points": 25,
+  "keywords_gained": ["Leader", "Sidearm: Melee"],
+  "text": "Add 1 Luke Skywalker miniature.\nThis unit increases its [courage] by 1 and gains 1 [training] upgrade icon.\nWhen this unit attacks, after the effect is resolved, you may choose an allied unit within 2. The chosen unit removes up to 2 Suppression tokens.\nLeader. Sidearm: Melee.",
+  "weapons": [
+    {
+      "name": "Anakin's Lightsaber",
+      "range": "melee",
+      "dice": {
+        "red": 1,
+        "black": 2
+      },
+      "keywords": ["Critical 1", "Impact 1", "Pierce 1"]
+    }
+  ]
+}

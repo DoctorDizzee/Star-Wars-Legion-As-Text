@@ -1,0 +1,20 @@
+{
+  "name": "DLT-20A Trooper",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Rebel Troopers Only",
+  "points": 26,
+  "keywords_gained": [],
+  "text": "Add 1 DLT-20A Trooper miniature.",
+  "weapons": [
+    {
+      "name": "DLT-20A Blaster Rifle",
+      "range": "1-4",
+      "dice": {
+        "white": 1,
+        "black": 2
+      },
+      "keywords": ["Critical 1"]
+    }
+  ]
+}

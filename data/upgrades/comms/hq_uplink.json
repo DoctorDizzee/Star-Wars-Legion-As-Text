@@ -1,0 +1,9 @@
+{
+  "name": "HQ Uplink",
+  "limit": "None",
+  "upgrade_slot": "Comms",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "During the Issue Orders step of the Command Phase, you may exhaust this card. If you do, this unit may issue an Order to itself.",
+  "weapons": []
+}

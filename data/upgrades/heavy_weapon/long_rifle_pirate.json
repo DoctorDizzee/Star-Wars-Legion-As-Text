@@ -1,0 +1,20 @@
+{
+  "name": "Long Rifle Pirate",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Weequay Pirates Only",
+  "points": 20,
+  "keywords_gained": [],
+  "text": "Add 1 Long Rifle Pirate miniature.",
+  "weapons": [
+    {
+      "name": "Long Rifle",
+      "range": "1-4",
+      "dice": {
+        "red": 1,
+        "white": 2
+      },
+      "keywords": ["Lethal 1"]
+    }
+  ]
+}

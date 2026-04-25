@@ -1,0 +1,10 @@
+{
+  "name": "Pyke Syndicate Foot Soldier Squad",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Pyke Syndicate Foot Soldiers Only",
+  "points": 38,
+  "keywords_gained": ["Indomitable"],
+  "text": "Add 5 Pyke Syndicate Foot Soldier miniatures.\nThis unit gains Indomitable and 1 [training] upgrade icon.\nThis unit is in cohesion if all miniatures in the unit are within 1 of the unit leader instead of 1/2.\nThis unit has these rules even if these miniatures are defeated.",
+  "weapons": []
+}

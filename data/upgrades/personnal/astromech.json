@@ -1,0 +1,10 @@
+{
+  "name": "Astromech",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Rebel Sleeper Cell Only",
+  "points": 5,
+  "keywords_gained": ["Noncombatant"],
+  "text": "Add 1 Astromech miniature.\nNoncombatant.\nWhen this unit ends a Move within 1 of 1 or more Objective tokens, it gains 1 Dodge token.",
+  "weapons": []
+}

@@ -1,0 +1,54 @@
+{
+  "name": "General Grievous",
+  "title": "Sinister Cyborg",
+  "faction": "Separatist Alliance",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 8,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Block",
+    "Entourage: IG-100 MagnaGuard",
+    "Immune: Pierce",
+    "Jedi Hunter",
+    "Relentless",
+    "Scale"
+  ],
+  "weapons": [
+    {
+      "name": "Trophy Lightsabers",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 2, "black": 2, "white": 4 },
+      "keywords": [
+        "Critical 1",
+        "Impact 2",
+        "Pierce 2"
+      ]
+    },
+    {
+      "name": "DT-57 \"Annihilator\"",
+      "range": { "min": 0, "max": 2 },
+      "dice": { "black": 2, "white": 2 },
+      "keywords": [
+        "Critical 1",
+        "Pierce 1",
+        "Versatile"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Command",
+    "Training",
+    "Comms"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Jyn Erso",
+  "limit": "Unique",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Guerilla Troopers, [operative] Rebel Commandos, or Rebel Troopers Only",
+  "points": 22,
+  "keywords_gained": ["Danger Sense 2", "Dauntless", "Leader", "Sidearm: Melee, Ranged"],
+  "text": "Add 1 Jyn Erso miniature.\nThis unit gains Danger Sense 2, Dauntless, and gains 1 [training] upgrade icon.\nLeader. Sidearm: Melee, Ranged.",
+  "weapons": [
+    {
+      "name": "Rebellious",
+      "range": "melee-2",
+      "dice": {
+        "red": 1,
+        "black": 1,
+        "white": 1
+      },
+      "keywords": ["Suppressive"]
+    }
+  ]
+}

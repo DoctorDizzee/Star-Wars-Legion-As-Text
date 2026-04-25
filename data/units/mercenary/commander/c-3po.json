@@ -1,0 +1,26 @@
+{
+  "name": "C-3PO",
+  "title": "Golden God",
+  "faction": "Rebel Alliance",
+  "rank": "Commander",
+  "unit_type": "Droid Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 3,
+    "courage": 2,
+    "speed": 1,
+    "defense_die": "White",
+    "surges": {
+      "attack": "None",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Master Storyteller",
+    "Compel: Ewok Trooper",
+    "Divine Influence",
+    "Infiltrate"
+  ],
+  "weapons": [],
+  "upgrade_slots": []
+}

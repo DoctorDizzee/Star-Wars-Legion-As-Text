@@ -1,0 +1,9 @@
+{
+  "name": "\"Bounty\" Programming",
+  "limit": "None",
+  "upgrade_slot": "Protocol",
+  "restrictions": "IG-11 Only",
+  "keywords_gained": ["Bounty", "AI: Aim, Attack"],
+  "text": "This unit gains Bounty and AI: Aim, Attack.\nIf this unit chooses an [operative] as the target of Bounty, this unit's weapons gain Pierce 1.\nIf this unit chooses a [commander] as the target of Bounty, this unit's weapons gain Suppressive.",
+  "weapons": []
+}

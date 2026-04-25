@@ -1,0 +1,9 @@
+{
+  "name": "Protector",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "When this unit uses Guardian X, you may exhaust this card to cancel [critical] results with Guardian X as if they were [hit] results.\n\nReady this card during the End Phase.",
+  "weapons": []
+}

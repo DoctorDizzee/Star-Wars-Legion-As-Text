@@ -1,0 +1,18 @@
+{
+  "name": "The Darksaber",
+  "limit": "Unique",
+  "upgrade_slot": "Armament",
+  "restrictions": "Sabine Wren Only",
+  "keywords_gained": ["Dauntless", "Immune: Melee Pierce"],
+  "text": "This unit gains Dauntless and Immune: Melee Pierce.",
+  "weapons": [
+    {
+      "name": "The Darksaber",
+      "range": "melee",
+      "dice": {
+        "black": 5
+      },
+      "keywords": ["Impact 1", "Pierce 1"]
+    }
+  ]
+}

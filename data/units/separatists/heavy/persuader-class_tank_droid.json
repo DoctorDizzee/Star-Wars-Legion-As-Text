@@ -1,0 +1,54 @@
+{
+  "name": "Persuader-class Tank Droid",
+  "title": "None",
+  "faction": "Separatist Alliance",
+  "rank": "Heavy",
+  "unit_type": "Ground Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 11,
+    "resilience": 7,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Armor 5",
+    "Arsenal 2",
+    "Programmed",
+    "Reposition",
+    "Transport",
+    "Weak Point 1: Sides"
+  ],
+  "weapons": [
+    {
+      "name": "Ion Cannons",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 1, "white": 1, "black": 1 },
+      "keywords": [
+        "Critical 1",
+        "Fixed: Front",
+        "Impact 1",
+        "Ion 1"
+      ]
+    },
+    {
+      "name": "Heavy Blasters",
+      "range": { "min": 1, "max": 4 },
+      "dice": { "red": 1, "white": 2, "black": 2 },
+      "keywords": [
+        "Critical 1",
+        "Fixed: Front"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Programming",
+    "Comms",
+    "Ordnance",
+    "Ordnance"
+  ]
+}

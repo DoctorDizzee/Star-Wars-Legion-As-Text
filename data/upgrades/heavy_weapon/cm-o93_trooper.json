@@ -1,0 +1,19 @@
+{
+  "name": "CM-O/93 Trooper",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Rebel Veterans Only",
+  "points": 26,
+  "keywords_gained": [],
+  "text": "Add 1 CM-O/93 Trooper miniature.",
+  "weapons": [
+    {
+      "name": "CM-O/93",
+      "range": "1-4",
+      "dice": {
+        "white": 4
+      },
+      "keywords": ["Critical 2"]
+    }
+  ]
+}

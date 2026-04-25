@@ -1,0 +1,9 @@
+{
+  "name": "Echo, Clone Force 99",
+  "limit": "Unique",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "The Bad Batch Only",
+  "keywords_gained": ["Reliable 3"],
+  "text": "Add 1 Echo miniature.\nThis unit gains Reliable 3.",
+  "weapons": []
+}

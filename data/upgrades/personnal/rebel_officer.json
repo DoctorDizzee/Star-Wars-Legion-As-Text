@@ -1,0 +1,10 @@
+{
+  "name": "Rebel Officer",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "[rebel] [commander] Trooper Only",
+  "points": 16,
+  "keywords_gained": ["Leader", "Inspire 1"],
+  "text": "Add 1 Rebel Officer miniature.\nLeader.\nThis unit increases its [courage] by 1 and gains Inspire 1.",
+  "weapons": []
+}

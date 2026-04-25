@@ -1,0 +1,9 @@
+{
+  "name": "Unseen Saboteur",
+  "limit": "Unique",
+  "upgrade_slot": "Command",
+  "restrictions": "Rebel Agent or Rebel Officer Only",
+  "keywords_gained": ["Low Profile", "Prepared Position"],
+  "text": "During Setup, choose another allied non-[commander], non-[operative] Trooper unit. The chosen unit gains Prepared Position.\nThis unit gains Low Profile and Prepared Position.",
+  "weapons": []
+}

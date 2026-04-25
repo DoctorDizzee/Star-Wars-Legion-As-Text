@@ -1,0 +1,10 @@
+{
+  "name": "Weequay Pirate Squad",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Weequay Pirates Only",
+  "points": 30,
+  "keywords_gained": ["Indomitable"],
+  "text": "Add 3 Weequay Pirate miniatures.\nThis unit gains Indomitable. This unit has this keyword even if these miniatures are defeated.\nThis unit is in cohesion if all miniatures are within 1 of the unit leader instead of within 1/2. This unit has this rule even if these miniatures are defeated.\nThis unit cannot be Deployed or issued Orders using the Transport keyword unless the unit with Transport has the same Affiliation as this unit.",
+  "weapons": []
+}

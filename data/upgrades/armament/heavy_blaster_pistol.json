@@ -1,0 +1,19 @@
+{
+  "name": "Heavy Blaster Pistol",
+  "limit": "None",
+  "upgrade_slot": "Armament",
+  "restrictions": "Rebel Agent or Rebel Officer Only",
+  "keywords_gained": ["Arsenal 2"],
+  "text": "This unit gains Arsenal 2.",
+  "weapons": [
+    {
+      "name": "Heavy Blaster Pistol",
+      "range": "1-2",
+      "dice": {
+        "red": 1,
+        "white": 1
+      },
+      "keywords": ["Lethal 1"]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Gar Saxon",
+  "title": "Militant Commander",
+  "faction": "Shadow Collective",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Jump 2",
+    "Allies of Convenience",
+    "Compel",
+    "Impervious",
+    "Sharpshooter 1"
+  ],
+  "weapons": [
+    {
+      "name": "Combat Training",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 2 },
+      "keywords": []
+    },
+    {
+      "name": "Gar's Blaster Pistol",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 1, "black": 2, "white": 1 },
+      "keywords": [
+        "Pierce 1"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Training",
+    "Training",
+    "Grenades",
+    "Comms",
+    "Comms",
+    "Armament",
+    "Armament"
+  ]
+}

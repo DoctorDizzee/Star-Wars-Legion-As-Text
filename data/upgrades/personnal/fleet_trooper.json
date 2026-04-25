@@ -1,0 +1,9 @@
+{
+  "name": "Fleet Trooper",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Fleet Troopers Only",
+  "keywords_gained": [],
+  "text": "Add 1 Fleet Trooper miniature.",
+  "weapons": []
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Black Sun Vigo",
+  "title": "None",
+  "faction": "Shadow Collective",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 4,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Mercenary: Galactic Empire, Separatist Alliance",
+    "Aid: Black Sun",
+    "Dauntless",
+    "Independent: Aim 1"
+  ],
+  "weapons": [
+    {
+      "name": "Vigo's Double Blaster",
+      "range": { "min": 0, "max": 2 },
+      "dice": { "black": 2, "white": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Gear"
+  ]
+}

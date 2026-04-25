@@ -1,0 +1,50 @@
+{
+  "name": "Bossk",
+  "title": "Trandoshan Terror",
+  "faction": "Mercenary",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 7,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Mercenary: Galactic Empire, Separatist Alliance",
+    "Bounty",
+    "Enrage 3",
+    "Independent: Surge 2",
+    "Regenerate 3",
+    "Scale"
+  ],
+  "weapons": [
+    {
+      "name": "Frenzy",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 1, "black": 1, "white": 2 },
+      "keywords": [
+        "Pierce 1"
+      ]
+    },
+    {
+      "name": "Mortar Rifle",
+      "range": { "min": 2, "max": 4 },
+      "dice": { "red": 1, "black": 4 },
+      "keywords": [
+        "Pierce 1",
+        "Suppressive"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Training",
+    "Training",
+    "Comms"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Prepared Supplies",
+  "limit": "None",
+  "upgrade_slot": "Gear",
+  "restrictions": "None",
+  "keywords_gained": ["Cache: Dodge 1"],
+  "text": "Cache: Dodge 1.",
+  "weapons": []
+}

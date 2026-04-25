@@ -1,0 +1,9 @@
+{
+  "name": "Strike Team Leader",
+  "limit": "Unique",
+  "upgrade_slot": "Training",
+  "restrictions": "[operative] Only",
+  "keywords_gained": [],
+  "text": "During Setup, this unit may choose an allied [special_forces] unit that has the same Affiliation or Faction as this unit.\nAt the start of each Activation Phase, the chosen unit gains 1 Aim token or 1 Dodge token if it is within 2 of this unit. Additionally, the chosen unit may provide Backup to this unit.",
+  "weapons": []
+}

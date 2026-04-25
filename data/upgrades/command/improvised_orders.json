@@ -1,0 +1,9 @@
+{
+  "name": "Improvised Orders",
+  "limit": 1,
+  "upgrade_slot": "Command",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "During the Activation Phase, after you draw an Order token from your Order Pool, you may [exhaust] this card. If you do, draw a second Order token from your Order Pool and choose 1 of the drawn Order tokens to use. Then shuffle the other Order token back into your Order Pool.",
+  "weapons": []
+}

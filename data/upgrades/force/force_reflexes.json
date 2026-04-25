@@ -1,0 +1,9 @@
+{
+  "name": "Force Reflexes",
+  "limit": "None",
+  "upgrade_slot": "Force",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "exhaust_free: This unit gains 1 Dodge token.",
+  "weapons": []
+}

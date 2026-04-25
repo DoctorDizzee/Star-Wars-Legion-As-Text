@@ -1,0 +1,9 @@
+{
+  "name": "Forest Dwellers",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "[ewok] Trooper Only",
+  "keywords_gained": ["Scout 1"],
+  "text": "This unit gains Scout 1.\nAt the start of the first Activation Phase, this unit gains 1 Dodge token.",
+  "weapons": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Ascension Cables",
+  "limit": "None",
+  "upgrade_slot": "Gear",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "exhaust_free: This unit gains Scale until the end of its Activation.",
+  "weapons": []
+}

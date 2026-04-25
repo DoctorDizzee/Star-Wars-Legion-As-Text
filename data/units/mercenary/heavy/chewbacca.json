@@ -1,0 +1,55 @@
+{
+  "name": "Chewbacca",
+  "title": "Let the Wookiee Win",
+  "faction": "Rebel Alliance",
+  "rank": "Heavy",
+  "unit_type": "Ground Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 11,
+    "resilience": 8,
+    "speed": 0,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Armor 5",
+    "Arsenal 2",
+    "Inspire 3",
+    "Incognito",
+    "Weak Point 1: Rear"
+  ],
+  "weapons": [
+    {
+      "name": "Grenade Launcher",
+      "range": { "min": 0, "max": 2 },
+      "dice": { "black": 2 },
+      "keywords": [
+        "Fixed: Front",
+        "Blast"
+      ]
+    },
+    {
+      "name": "88 Twin Light Blaster",
+      "range": { "min": 0, "max": 3 },
+      "dice": { "red": 1, "white": 1, "black": 1 },
+      "keywords": [
+        "Fixed: Front",
+        "Impact 1"
+      ]
+    },
+    {
+      "name": "MS-4 Twin Blaster",
+      "range": { "min": 1, "max": 4 },
+      "dice": { "red": 2, "black": 2 },
+      "keywords": [
+        "Fixed: Front",
+        "Impact 3"
+      ]
+    }
+  ],
+  "upgrade_slots": []
+}

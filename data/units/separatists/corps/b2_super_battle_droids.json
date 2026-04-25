@@ -1,0 +1,42 @@
+{
+  "name": "B2 Super Battle Droids",
+  "title": "None",
+  "faction": "Separatist Alliance",
+  "rank": "Corps",
+  "unit_type": "Droid Trooper",
+  "squad_size": 3,
+  "stats": {
+    "health": 2,
+    "courage": 2,
+    "speed": 1,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "AI: Attack"
+  ],
+  "weapons": [
+    {
+      "name": "Wrist Rockets",
+      "range": { "min": 1, "max": 1 },
+      "dice": { "red": 1 },
+      "keywords": [
+        "Impact 1"
+      ]
+    },
+    {
+      "name": "Arm Cannons",
+      "range": { "min": 0, "max": 2 },
+      "dice": { "black": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Personnel",
+    "Heavy Weapon",
+    "Grenades"
+  ]
+}

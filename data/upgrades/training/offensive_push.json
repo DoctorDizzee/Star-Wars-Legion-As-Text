@@ -1,0 +1,9 @@
+{
+  "name": "Offensive Push",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "exhaust: During its next Move action this Activation, this unit has Tactical 1.",
+  "weapons": []
+}

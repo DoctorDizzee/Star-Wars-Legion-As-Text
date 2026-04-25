@@ -1,0 +1,9 @@
+{
+  "name": "Emergency Transponder",
+  "limit": "None",
+  "upgrade_slot": "Comms",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "At the start of this unit's Activation, if it was activated with an Order token from the Order Pool, you may discard this card. If you do, this unit gains 1 Aim token, gains 1 Dodge token, or removes 1 Suppression token.",
+  "weapons": []
+}

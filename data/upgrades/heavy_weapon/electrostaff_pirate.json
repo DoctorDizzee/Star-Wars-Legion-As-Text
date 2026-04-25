@@ -1,0 +1,20 @@
+{
+  "name": "Electrostaff Pirate",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Weequay Pirates Only",
+  "points": 15,
+  "keywords_gained": ["Immune: Melee Pierce"],
+  "text": "Add 1 Electrostaff Pirate miniature.\nThis unit gains Immune: Melee Pierce.",
+  "weapons": [
+    {
+      "name": "Electrostaff",
+      "range": "melee",
+      "dice": {
+        "red": 1,
+        "black": 1
+      },
+      "keywords": ["Sidearm: Melee"]
+    }
+  ]
+}

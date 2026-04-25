@@ -1,0 +1,9 @@
+{
+  "name": "Ewok Trapper",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Ewok Slingers or Ewok Skirmishers Only",
+  "keywords_gained": [],
+  "text": "Add 1 Ewok Trapper miniature.\nThis unit gains 1 [training] upgrade icon.",
+  "weapons": []
+}

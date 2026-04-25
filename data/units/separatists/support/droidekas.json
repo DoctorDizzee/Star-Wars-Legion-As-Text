@@ -1,0 +1,40 @@
+{
+  "name": "Droidekas",
+  "title": "None",
+  "faction": "Separatist Alliance",
+  "rank": "Support",
+  "unit_type": "Heavy Droid Trooper",
+  "squad_size": 2,
+  "stats": {
+    "health": 3,
+    "courage": 2,
+    "speed": 1,
+    "defense_die": "White",
+    "surges": {
+      "attack": "None",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "AI: Attack",
+    "Generator 1",
+    "Reposition",
+    "Shielded 4",
+    "Unconcerned",
+    "Wheel Mode"
+  ],
+  "weapons": [
+    {
+      "name": "Dual Blaster Cannons",
+      "range": { "min": 0, "max": 3 },
+      "dice": { "red": 1, "black": 2 },
+      "keywords": [
+        "Immune: Deflect",
+        "Suppressive"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Comms"
+  ]
+}

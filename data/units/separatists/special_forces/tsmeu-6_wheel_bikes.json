@@ -1,0 +1,49 @@
+{
+  "name": "TSMEU-6 Wheel Bikes",
+  "title": "None",
+  "faction": "Separatist Alliance",
+  "rank": "Special Forces",
+  "unit_type": "Ground Vehicle",
+  "squad_size": 2,
+  "stats": {
+    "health": 3,
+    "resilience": "-",
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "AI: Dodge",
+    "Armor 1",
+    "Climbing Vehicle",
+    "Mobile"
+  ],
+  "weapons": [
+    {
+      "name": "Spiked Wheel",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 3 },
+      "keywords": [
+        "Overrun 2"
+      ]
+    },
+    {
+      "name": "Double Laser Cannon",
+      "range": { "min": 1, "max": 2 },
+      "dice": { "red": 1, "white": 1 },
+      "keywords": [
+        "Fixed: Front",
+        "Impact 1"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Pilot",
+    "Training",
+    "Grenades",
+    "Comms"
+  ]
+}

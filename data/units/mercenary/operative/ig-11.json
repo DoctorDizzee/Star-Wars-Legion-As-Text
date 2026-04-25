@@ -1,0 +1,54 @@
+{
+  "name": "IG-11",
+  "title": "Nurse and Protect",
+  "faction": "Mercenary",
+  "rank": "Commander",
+  "unit_type": "Droid Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Mercenary: Galactic Empire, Rebel Alliance",
+    "Armor 1",
+    "Gunslinger",
+    "Impervious",
+    "Programmed",
+    "Sharpshooter 1"
+  ],
+  "weapons": [
+    {
+      "name": "Overwhelm",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "red": 4 },
+      "keywords": []
+    },
+    {
+      "name": "Modified E-11 Blaster",
+      "range": { "min": 1, "max": 3 },
+      "dice": { "white": 2, "black": 1 },
+      "keywords": [
+        "Pierce 1"
+      ]
+    },
+    {
+      "name": "Modified DLT-20A",
+      "range": { "min": 1, "max": 4 },
+      "dice": { "white": 1, "black": 2 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Programming",
+    "Training",
+    "Grenades",
+    "Comms"
+  ]
+}

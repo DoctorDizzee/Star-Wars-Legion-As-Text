@@ -1,0 +1,19 @@
+{
+  "name": "Long Gun Wookiee",
+  "limit": "None",
+  "upgrade_slot": "Heavy Weapon",
+  "restrictions": "Wookiee Warriors Only",
+  "points": 26,
+  "keywords_gained": [],
+  "text": "Add 1 Long Gun Wookiee miniature.",
+  "weapons": [
+    {
+      "name": "Long Gun",
+      "range": "1-4",
+      "dice": {
+        "black": 2
+      },
+      "keywords": ["Suppressive"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Spotter Uplink",
+  "limit": "None",
+  "upgrade_slot": "Comms",
+  "restrictions": "None",
+  "keywords_gained": [],
+  "text": "When another allied unit declares a Ranged attack against an enemy unit within 1 and in LOS of this unit, if this unit is not in melee, the attacking unit gains Sharpshooter 1.",
+  "weapons": []
+}

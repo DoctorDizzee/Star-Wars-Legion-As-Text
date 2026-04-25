@@ -1,0 +1,44 @@
+{
+  "name": "Asajj Ventress",
+  "title": "Separatist Assassin",
+  "faction": "Separatist Alliance",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Jump 2",
+    "Deflect",
+    "Immune: Pierce",
+    "Independent: Dodge 1",
+    "Indomitable",
+    "Jar'Kai Mastery",
+    "Relentless"
+  ],
+  "weapons": [
+    {
+      "name": "Asajj's Lightsabers",
+      "range": { "min": 0, "max": 0 },
+      "dice": { "black": 8 },
+      "keywords": [
+        "Impact 2",
+        "Pierce 2"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Training",
+    "Training"
+  ]
+}

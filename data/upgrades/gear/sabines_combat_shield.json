@@ -1,0 +1,9 @@
+{
+  "name": "Sabine's Combat Shield",
+  "limit": "Unique",
+  "upgrade_slot": "Gear",
+  "restrictions": "Sabine Wren Only",
+  "keywords_gained": ["Recharged 1", "Shielded 1"],
+  "text": "This unit gains Recharged 1 and Shielded 1.\nDuring the End Phase, if this unit did not flip any active Shield tokens this round, it may flip up to 1 of its inactive Shield tokens.",
+  "weapons": []
+}

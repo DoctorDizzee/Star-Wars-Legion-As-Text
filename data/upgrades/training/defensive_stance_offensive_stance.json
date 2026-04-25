@@ -1,0 +1,9 @@
+{
+  "name": "Defensive Stance / Offensive Stance",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "unit with 1 or more [training] icons",
+  "keywords_gained": [],
+  "text": "Front (Defensive Stance):\nAt the start of this unit's Activation, it may flip this card.\nWhen this unit makes a Dodge action, it gains 2 Dodge tokens instead of the normal 1.\nThis unit cannot spend Aim tokens.\n\nBack (Offensive Stance):\nAt the start of this unit's Activation, it may flip this card.\nWhen this unit makes an Aim action, it gains 2 Aim tokens instead of the normal 1.\nThis unit cannot spend Dodge tokens.",
+  "weapons": []
+}

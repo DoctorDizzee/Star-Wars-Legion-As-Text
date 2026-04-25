@@ -1,0 +1,19 @@
+{
+  "name": "Jetpack Rockets",
+  "limit": "None",
+  "upgrade_slot": "Ordnance",
+  "restrictions": "Mandalorian Resistance Only",
+  "points": 5,
+  "keywords_gained": [],
+  "text": "",
+  "weapons": [
+    {
+      "name": "Jetpack Rockets",
+      "range": "3-4",
+      "dice": {
+        "red": 1
+      },
+      "keywords": ["Blast", "Impact 1"]
+    }
+  ]
+}

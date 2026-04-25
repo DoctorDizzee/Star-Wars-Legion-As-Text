@@ -1,0 +1,46 @@
+{
+  "name": "Mandalorian Super Commandos",
+  "title": "None",
+  "faction": "Shadow Collective",
+  "rank": "Special Forces",
+  "unit_type": "Trooper",
+  "squad_size": 3,
+  "stats": {
+    "health": 1,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Jump 2",
+    "Defend 1",
+    "Impervious",
+    "Independent: Aim 1"
+  ],
+  "weapons": [
+    {
+      "name": "WESTAR-35 Blasters",
+      "range": { "min": 0, "max": 2 },
+      "dice": { "black": 2 },
+      "keywords": []
+    },
+    {
+      "name": "Blaster Carbines",
+      "range": { "min": 1, "max": 3 },
+      "dice": { "white": 1, "black": 1 },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Personnel",
+    "Training",
+    "Grenades",
+    "Comms",
+    "Armament",
+    "Gear"
+  ]
+}

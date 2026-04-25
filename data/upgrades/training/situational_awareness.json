@@ -1,0 +1,9 @@
+{
+  "name": "Situational Awareness",
+  "limit": "None",
+  "upgrade_slot": "Training",
+  "restrictions": "None",
+  "keywords_gained": ["Outmaneuver"],
+  "text": "This unit gains Outmaneuver.",
+  "weapons": []
+}

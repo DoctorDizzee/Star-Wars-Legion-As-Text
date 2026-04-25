@@ -1,0 +1,18 @@
+{
+  "name": "Thermal Detonator",
+  "limit": "None",
+  "upgrade_slot": "Grenades",
+  "restrictions": "Rebel Agent or Rebel Officer Only",
+  "keywords_gained": [],
+  "text": "discard",
+  "weapons": [
+    {
+      "name": "Thermal Detonator",
+      "range": "melee-1",
+      "dice": {
+        "red": 4
+      },
+      "keywords": ["Blast", "Impact 4"]
+    }
+  ]
+}

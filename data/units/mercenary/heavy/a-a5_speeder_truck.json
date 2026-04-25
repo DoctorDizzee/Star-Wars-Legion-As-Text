@@ -1,0 +1,33 @@
+{
+  "name": "A-A5 Speeder Truck",
+  "title": "None",
+  "faction": "Mercenary",
+  "rank": "Heavy",
+  "unit_type": "Repulsor Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 8,
+    "resilience": 6,
+    "speed": 1,
+    "defense_die": "White",
+    "surges": {
+      "attack": "None",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Armor 5",
+    "Hover: Ground",
+    "Reposition",
+    "Transport",
+    "Weak Point 2: Rear"
+  ],
+  "weapons": [],
+  "upgrade_slots": [
+    "Pilot",
+    "Hardpoint",
+    "Comms",
+    "Passenger",
+    "Passenger"
+  ]
+}

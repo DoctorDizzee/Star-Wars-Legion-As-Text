@@ -1,0 +1,10 @@
+{
+  "name": "Rebel Trooper Squad",
+  "limit": "None",
+  "upgrade_slot": "Personnel",
+  "restrictions": "Rebel Troopers Only",
+  "points": 45,
+  "keywords_gained": ["Indomitable"],
+  "text": "Add 5 Rebel Trooper miniatures.\nThis unit gains Indomitable. This unit has this keyword even if these miniatures are defeated.\nThis unit is in cohesion if all miniatures are within 1 of the unit leader instead of within 1/2. This unit has this rule even if these miniatures are defeated.\nThis unit cannot be Deployed or issued Orders using the Transport keyword.",
+  "weapons": []
+}
