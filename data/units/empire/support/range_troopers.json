@@ -25,14 +25,24 @@
   "weapons": [
     {
       "name": "Gription Boot Kick",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 2 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 2
+      },
       "keywords": []
     },
     {
       "name": "E-10R Blaster Rifle",
-      "range": { "min": 1, "max": 4 },
-      "dice": { "black": 1 },
+      "range": {
+        "min": 1,
+        "max": 4
+      },
+      "dice": {
+        "black": 1
+      },
       "keywords": []
     }
   ],

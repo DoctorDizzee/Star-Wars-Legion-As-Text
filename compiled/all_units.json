@@ -13,7 +13,7 @@
       "speed": 1,
       "defense_die": "Red",
       "surges": {
-        "attack": "Critical",
+        "attack": "None",
         "defense": "None"
       }
     },
@@ -63,6 +63,1887 @@
       "Command": 1
     },
     "points": 170
+  },
+  {
+    "id": "empire/commander/director_orson_krennic.json",
+    "source": "data/units/empire/commander/director_orson_krennic.json",
+    "name": "Director Orson Krennic",
+    "title": "Architect of Terror",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Spotter 1",
+      "Compel",
+      "Cunning",
+      "Entourage: Imperial Death Troopers",
+      "Exemplar"
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "Krennic's Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 3
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Gear"
+    ],
+    "points": 65
+  },
+  {
+    "id": "empire/commander/general_tagge.json",
+    "source": "data/units/empire/commander/general_tagge.json",
+    "name": "General Tagge",
+    "title": "Imperial High Command",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Calculate Odds",
+      "Equip: Logistical Prowess",
+      "Exemplar",
+      "Inspire 1"
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "Tagge's Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Command",
+      "Training",
+      "Gear"
+    ],
+    "points": 85
+  },
+  {
+    "id": "empire/commander/general_veers.json",
+    "source": "data/units/empire/commander/general_veers.json",
+    "name": "General Veers",
+    "title": "Master Tactician",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Guidance: Ground Vehicle",
+      "Spotter 2",
+      "Exemplar",
+      "Inspire 1",
+      "Sharpshooter 1"
+    ],
+    "weapons": [
+      {
+        "name": "Combat Expertise",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Veers' Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "red": 3
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Gear"
+    ],
+    "points": 75
+  },
+  {
+    "id": "empire/commander/grand_admiral_thrawn.json",
+    "source": "data/units/empire/commander/grand_admiral_thrawn.json",
+    "name": "Grand Admiral Thrawn",
+    "title": "Imperial High Command",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Strategize 2",
+      "Cunning",
+      "Direct: Galactic Empire Unit",
+      "Duelist",
+      "Exemplar",
+      "One Step Ahead",
+      "Tactical 1"
+    ],
+    "weapons": [
+      {
+        "name": "Chiss Martial Arts",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 4
+        },
+        "keywords": []
+      },
+      {
+        "name": "Thrawn's Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 3
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Command",
+      "Training",
+      "Gear"
+    ],
+    "points": 110
+  },
+  {
+    "id": "empire/commander/grand_moff_tarkin.json",
+    "source": "data/units/empire/commander/grand_moff_tarkin.json",
+    "name": "Grand Moff Tarkin",
+    "title": "Imperial High Command",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Pulling the Strings: Galactic Empire Trooper",
+      "Entourage: Darth Vader"
+    ],
+    "weapons": [
+      {
+        "name": "Contempt",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Command"
+    ],
+    "points": 95
+  },
+  {
+    "id": "empire/commander/iden_versio.json",
+    "source": "data/units/empire/commander/iden_versio.json",
+    "name": "Iden Versio",
+    "title": "Inferno Squad Leader",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Quick Thinking",
+      "Infiltrate",
+      "Marksman",
+      "Nimble",
+      "Sharpshooter 1"
+    ],
+    "weapons": [
+      {
+        "name": "Martial Arts",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": []
+      },
+      {
+        "name": "Iden's DLT-20A Rifle",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": [
+          "High Velocity",
+          "Pierce 1"
+        ]
+      },
+      {
+        "name": "Iden's TL-50 Repeater",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "red": 2,
+          "black": 2,
+          "white": 1
+        },
+        "keywords": [
+          "Critical 1",
+          "Impact 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Training",
+      "Training",
+      "Gear",
+      "Grenades"
+    ],
+    "points": 115
+  },
+  {
+    "id": "empire/commander/imperial_officer.json",
+    "source": "data/units/empire/commander/imperial_officer.json",
+    "name": "Imperial Officer",
+    "title": "Ruthless Efficiency",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Equip: Command",
+      "Inspire 1"
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": []
+      },
+      {
+        "name": "Blaster Pistol",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 2,
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Training",
+      "Training",
+      "Gear",
+      "Gear",
+      "Armament"
+    ],
+    "points": 55
+  },
+  {
+    "id": "empire/commander/moff_gideon.json",
+    "source": "data/units/empire/commander/moff_gideon.json",
+    "name": "Moff Gideon",
+    "title": "Long Live the Empire",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Observe 1",
+      "Entourage: Imperial Dark Troopers",
+      "Ruthless",
+      "Sharpshooter 1",
+      "Tactical 1"
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Gideon's Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 1,
+          "black": 2
+        },
+        "keywords": [
+          "Pierce 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Training",
+      "Gear",
+      "Armament"
+    ],
+    "points": 80
+  },
+  {
+    "id": "empire/corps/df-90_mortar_trooper.json",
+    "source": "data/units/empire/corps/df-90_mortar_trooper.json",
+    "name": "DF-90 Mortar Trooper",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Corps",
+    "unit_type": "Emplacement Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 3,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Detachment: Shoretroopers",
+      "Fire Support",
+      "Full Pivot",
+      "Prepared Position",
+      "Reposition",
+      "Sentinel"
+    ],
+    "weapons": [
+      {
+        "name": "E-22 Blaster Rifle",
+        "range": {
+          "min": 0,
+          "max": 3
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "DF-90 Mortar",
+        "range": {
+          "min": 3,
+          "max": 4
+        },
+        "dice": {
+          "white": 3
+        },
+        "keywords": [
+          "Fixed: Front",
+          "Critical 1",
+          "Cumbersome",
+          "Suppressive"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Comms"
+    ]
+  },
+  {
+    "id": "empire/corps/shoretroopers.json",
+    "source": "data/units/empire/corps/shoretroopers.json",
+    "name": "Shoretroopers",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Coordinate: Emplacement Trooper",
+      "Prepared Position"
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-22 Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": [
+          "Long Shot"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Personnel",
+      "Training",
+      "Gear",
+      "Grenades"
+    ],
+    "points": 46
+  },
+  {
+    "id": "empire/corps/snowtroopers.json",
+    "source": "data/units/empire/corps/snowtroopers.json",
+    "name": "Snowtroopers",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Steady"
+    ],
+    "weapons": [
+      {
+        "name": "Bludgeon",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-11 Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Personnel",
+      "Gear",
+      "Grenades"
+    ],
+    "points": 42
+  },
+  {
+    "id": "empire/corps/stormtroopers.json",
+    "source": "data/units/empire/corps/stormtroopers.json",
+    "name": "Stormtroopers",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Precise 1"
+    ],
+    "weapons": [
+      {
+        "name": "Bludgeon",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "white": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-11 Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Personnel",
+      "Gear",
+      "Grenades"
+    ],
+    "points": 42
+  },
+  {
+    "id": "empire/corps/stromtrooper_riot_squad.json",
+    "source": "data/units/empire/corps/stromtrooper_riot_squad.json",
+    "name": "Stormtrooper Riot Squad",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Charge",
+      "Hold the Line"
+    ],
+    "weapons": [
+      {
+        "name": "Stun Baton",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": [
+          "Suppressive"
+        ]
+      },
+      {
+        "name": "E-11 Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Heavy Weapon",
+      "Personnel",
+      "Training",
+      "Gear"
+    ],
+    "points": 44
+  },
+  {
+    "id": "empire/heavy/at-st.json",
+    "source": "data/units/empire/heavy/at-st.json",
+    "name": "AT-ST",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Heavy",
+    "unit_type": "Ground Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 11,
+      "resilience": 8,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Armor 5",
+      "Arsenal 2",
+      "Weak Point 1: Rear"
+    ],
+    "weapons": [
+      {
+        "name": "Fence-Cutting Blades",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 4
+        },
+        "keywords": []
+      },
+      {
+        "name": "MS-4 Twin Blaster",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "red": 2,
+          "black": 2,
+          "white": 2
+        },
+        "keywords": [
+          "Fixed: Front",
+          "Impact 3"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Pilot",
+      "Hardpoint",
+      "Hardpoint",
+      "Hardpoint",
+      "Comms"
+    ],
+    "points": 145
+  },
+  {
+    "id": "empire/heavy/imperial_dark_troopers.json",
+    "source": "data/units/empire/heavy/imperial_dark_troopers.json",
+    "name": "Imperial Dark Troopers",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Heavy",
+    "unit_type": "Droid Trooper",
+    "squad_size": 3,
+    "stats": {
+      "health": 2,
+      "courage": "None",
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Armor 3",
+      "Plodding",
+      "Unconcerned",
+      "Unstoppable"
+    ],
+    "weapons": [
+      {
+        "name": "Crushing Punch",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1,
+          "white": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-11D Blaster",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Programming",
+      "Heavy Weapon",
+      "Heavy Weapon",
+      "Personnel"
+    ],
+    "points": 95
+  },
+  {
+    "id": "empire/heavy/laatle_patrol_transport.json",
+    "source": "data/units/empire/heavy/laatle_patrol_transport.json",
+    "name": "LAAT/le Patrol Transport",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Heavy",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 8,
+      "resilience": 6,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Armor 5",
+      "Arsenal 2",
+      "Cover 1",
+      "Hover: Air 2",
+      "Immune: Blast, Melee, Range 1 Weapons",
+      "Transport"
+    ],
+    "weapons": [
+      {
+        "name": "Twin Laser Cannons",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "red": 2,
+          "black": 2
+        },
+        "keywords": [
+          "Impact 1",
+          "Fixed: Front"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Pilot",
+      "Comms",
+      "Ordnance",
+      "Ordnance",
+      "Door Gunner"
+    ]
+  },
+  {
+    "id": "empire/heavy/tx-225_gavw_occupier_tank.json",
+    "source": "data/units/empire/heavy/tx-225_gavw_occupier_tank.json",
+    "name": "TX-225 GAVw Occupier Tank",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Heavy",
+    "unit_type": "Ground Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 8,
+      "resilience": 6,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Armor 5",
+      "Arsenal 2",
+      "Reposition",
+      "Transport",
+      "Weak Point 1: Sides"
+    ],
+    "weapons": [
+      {
+        "name": "Twin Cannons",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 1,
+          "black": 1
+        },
+        "keywords": [
+          "Suppressive",
+          "Fixed: Front"
+        ]
+      },
+      {
+        "name": "Quad Cannons",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "red": 2,
+          "black": 2
+        },
+        "keywords": [
+          "Impact 2",
+          "Fixed: Front"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Pilot",
+      "Hardpoint",
+      "Comms"
+    ],
+    "points": 125
+  },
+  {
+    "id": "empire/operative/agent_kallus.json",
+    "source": "data/units/empire/operative/agent_kallus.json",
+    "name": "Agent Kallus",
+    "title": "Hunter of Spectres",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Observe 2",
+      "Bounty",
+      "Charge",
+      "Direct: Commander Trooper Unit",
+      "Immune: Melee Pierce",
+      "Interrogate"
+    ],
+    "weapons": [
+      {
+        "name": "J-19 Bo-Rifle",
+        "range": {
+          "min": 0,
+          "max": 2
+        },
+        "dice": {
+          "red": 1,
+          "black": 3
+        },
+        "keywords": [
+          "Critical 1",
+          "Lethal 1",
+          "Long Shot"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Training",
+      "Gear"
+    ],
+    "points": 70
+  },
+  {
+    "id": "empire/operative/darth_vader.json",
+    "source": "data/units/empire/operative/darth_vader.json",
+    "name": "Darth Vader",
+    "title": "The Emperor's Apprentice",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 7,
+      "courage": 3,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Deflect",
+      "Immune: Pierce",
+      "Jedi Hunter",
+      "Master of the Force 1",
+      "Relentless"
+    ],
+    "weapons": [
+      {
+        "name": "Vader's Lightsaber",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 5
+        },
+        "keywords": [
+          "Impact 3",
+          "Pierce 3"
+        ]
+      },
+      {
+        "name": "Force Throw",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": [
+          "Blast",
+          "Scatter"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Force",
+      "Training",
+      "Training"
+    ],
+    "points": 155
+  },
+  {
+    "id": "empire/operative/fifth_brother.json",
+    "source": "data/units/empire/operative/fifth_brother.json",
+    "name": "Fifth Brother",
+    "title": "The Kill Is Mine",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Block",
+      "Dauntless",
+      "Enrage 2",
+      "Immune: Pierce"
+    ],
+    "weapons": [
+      {
+        "name": "Spinning Lightsaber",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 5
+        },
+        "keywords": [
+          "Impact 2",
+          "Pierce 1",
+          "Ram 2"
+        ]
+      },
+      {
+        "name": "Thrown Lightsaber",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": [
+          "Impact 2",
+          "Pierce 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Training",
+      "Training"
+    ],
+    "points": 97
+  },
+  {
+    "id": "empire/operative/imperial_agent.json",
+    "source": "data/units/empire/operative/imperial_agent.json",
+    "name": "Imperial Agent",
+    "title": "Bringing Order to the Galaxy",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Equip: Command",
+      "Relentless"
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": []
+      },
+      {
+        "name": "Blaster Pistol",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 2,
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Training",
+      "Gear",
+      "Gear",
+      "Armament"
+    ],
+    "points": 50
+  },
+  {
+    "id": "empire/operative/seventh_sister.json",
+    "source": "data/units/empire/operative/seventh_sister.json",
+    "name": "Seventh Sister",
+    "title": "Compelled to Inflict Pain",
+    "faction": "Galactic Empire",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Jump 1",
+      "Associate: Fifth Brother",
+      "Block",
+      "Charge",
+      "Disciplined 1",
+      "Immune: Pierce",
+      "Interrogate"
+    ],
+    "weapons": [
+      {
+        "name": "Spinning Lightsaber",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 5
+        },
+        "keywords": [
+          "Impact 2",
+          "Pierce 1"
+        ]
+      },
+      {
+        "name": "Thrown Lightsaber",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": [
+          "Impact 2",
+          "Pierce 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Training",
+      "Training"
+    ],
+    "points": 102
+  },
+  {
+    "id": "empire/special_forces/imperial_death_troopers.json",
+    "source": "data/units/empire/special_forces/imperial_death_troopers.json",
+    "name": "Imperial Death Troopers",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Disciplined 1",
+      "Precise 2",
+      "Ready 1"
+    ],
+    "weapons": [
+      {
+        "name": "Close Quarters Combat",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "SE-14r Light Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-11D Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Training",
+      "Comms",
+      "Gear",
+      "Armament",
+      "Grenades"
+    ],
+    "points": 66
+  },
+  {
+    "id": "empire/special_forces/imperial_probe_droid.json",
+    "source": "data/units/empire/special_forces/imperial_probe_droid.json",
+    "name": "Imperial Probe Droid",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Special Forces",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 4,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Observe 3",
+      "Self-Destruct 3",
+      "Detachment: Special Forces",
+      "Disengage",
+      "Infiltrate",
+      "Hover: Air 1"
+    ],
+    "weapons": [
+      {
+        "name": "Light Blaster",
+        "range": {
+          "min": 0,
+          "max": 1
+        },
+        "dice": {
+          "white": 2,
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Comms"
+    ]
+  },
+  {
+    "id": "empire/special_forces/imperial_special_forces.json",
+    "source": "data/units/empire/special_forces/imperial_special_forces.json",
+    "name": "Imperial Special Forces",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Infiltrate",
+      "Marksman",
+      "Reliable 1"
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-11 Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Training",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Gear"
+    ],
+    "points": 54
+  },
+  {
+    "id": "empire/special_forces/Imperial_special_forces_inferno_squad.json",
+    "source": "data/units/empire/special_forces/Imperial_special_forces_inferno_squad.json",
+    "name": "Imperial Special Forces",
+    "title": "Inferno Squad",
+    "faction": "Galactic Empire",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 2,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Equip: Del Meeko, Gideon Hask",
+      "Infiltrate",
+      "Marksman",
+      "Reliable 1",
+      "Retinue: Iden Versio"
+    ],
+    "weapons": [
+      {
+        "name": "Close Quarters Combat",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-11 Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Gear"
+    ],
+    "points": 98
+  },
+  {
+    "id": "empire/special_forces/scout_troopers.json",
+    "source": "data/units/empire/special_forces/scout_troopers.json",
+    "name": "Scout Troopers",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Low Profile",
+      "Scout 3",
+      "Sharpshooter 1"
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "EC-17 Hold-out Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Gear"
+    ],
+    "points": 48
+  },
+  {
+    "id": "empire/support/74-z_speeder_bikes.json",
+    "source": "data/units/empire/support/74-z_speeder_bikes.json",
+    "name": "74-Z Speeder Bikes",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Support",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 2,
+    "stats": {
+      "health": 3,
+      "resilience": "None",
+      "speed": 3,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Cover 1",
+      "Speeder 1"
+    ],
+    "weapons": [
+      {
+        "name": "EC-17 Hold-out Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Blaster Cannon",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "red": 1,
+          "black": 1,
+          "white": 1
+        },
+        "keywords": [
+          "Fixed: Front",
+          "Impact 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Comms"
+    ],
+    "points": 70
+  },
+  {
+    "id": "empire/support/dewback_rider.json",
+    "source": "data/units/empire/support/dewback_rider.json",
+    "name": "Dewback Rider",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Support",
+    "unit_type": "Creature Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Armor 1",
+      "Relentless",
+      "Reposition",
+      "Spur",
+      "Unhindered"
+    ],
+    "weapons": [
+      {
+        "name": "Shock Prod & Claws",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 3,
+          "white": 3
+        },
+        "keywords": [
+          "Critical 2",
+          "Suppressive"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Comms",
+      "Armament"
+    ],
+    "points": 70
+  },
+  {
+    "id": "empire/support/e-web_heavy_blaster_team.json",
+    "source": "data/units/empire/support/e-web_heavy_blaster_team.json",
+    "name": "E-Web Heavy Blaster Team",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Support",
+    "unit_type": "Emplacement Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 4,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Prepared Position",
+      "Reposition",
+      "Sentinel"
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Blaster Rifles",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-Web Heavy Blaster",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "red": 1,
+          "black": 2,
+          "white": 2
+        },
+        "keywords": [
+          "Cumbersome",
+          "Fixed: Front",
+          "Impact 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Comms",
+      "Generator"
+    ],
+    "points": 60
+  },
+  {
+    "id": "empire/support/range_troopers.json",
+    "source": "data/units/empire/support/range_troopers.json",
+    "name": "Range Troopers",
+    "title": "None",
+    "faction": "Galactic Empire",
+    "rank": "Support",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Advanced Targeting: Trooper 1",
+      "Armor 1",
+      "Indomitable",
+      "Scale",
+      "Spur"
+    ],
+    "weapons": [
+      {
+        "name": "Gription Boot Kick",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-10R Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Personnel",
+      "Grenades",
+      "Gear"
+    ],
+    "points": 60
+  },
+  {
+    "id": "empire/support/scout_troopers_strike_team.json",
+    "source": "data/units/empire/support/scout_troopers_strike_team.json",
+    "name": "Scout Troopers",
+    "title": "Strike Team",
+    "faction": "Galactic Empire",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Detachment: Special Forces Scout Troopers",
+      "Heavy Weapon Team",
+      "Incognito",
+      "Low Profile",
+      "Prepared Position"
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "EC-17 Hold-out Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Gear"
+    ],
+    "points": 22
   },
   {
     "id": "mercenary/commander/pyke_syndicate_capo.json",
@@ -2258,6 +4139,58 @@
     "points": 95
   },
   {
+    "id": "republic/commander/ahsoka_tano.json",
+    "source": "data/units/republic/commander/ahsoka_tano.json",
+    "name": "Ahsoka Tano",
+    "title": "Padawan Commander",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 3,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Jump 2",
+      "Associate: Anakin Skywalker",
+      "Deflect",
+      "Immune: Pierce",
+      "Independent: Recover",
+      "Scout 1",
+      "Shien Mastery"
+    ],
+    "weapons": [
+      {
+        "name": "Ahsoka's Lightsabers",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 3,
+          "white": 5
+        },
+        "keywords": [
+          "Impact 2",
+          "Pierce 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Training",
+      "Training"
+    ],
+    "points": 110
+  },
+  {
     "id": "republic/commander/anakin_skywalker.json",
     "source": "data/units/republic/commander/anakin_skywalker.json",
     "name": "Anakin Skywalker",
@@ -2327,6 +4260,1496 @@
       "Training": 2
     },
     "points": 170
+  },
+  {
+    "id": "republic/commander/chewbacca.json",
+    "source": "data/units/republic/commander/chewbacca.json",
+    "name": "Chewbacca",
+    "title": "Hero of Kashyyyk",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Wookiee Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 9,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Enrage 4",
+      "Guardian 2: Commander",
+      "Reliable 2",
+      "Scale"
+    ],
+    "weapons": [
+      {
+        "name": "Overwhelm",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 4
+        },
+        "keywords": [
+          "Lethal 1"
+        ]
+      },
+      {
+        "name": "Chewbacca's Bowcaster",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "red": 2,
+          "white": 2
+        },
+        "keywords": [
+          "Critical 1",
+          "Impact 1",
+          "Pierce 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Training",
+      "Comms"
+    ],
+    "points": 90
+  },
+  {
+    "id": "republic/commander/clone_captain_rex.json",
+    "source": "data/units/republic/commander/clone_captain_rex.json",
+    "name": "Clone Captain Rex",
+    "title": "Honorable Soldier",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Clone Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Gunslinger",
+      "Scout 1",
+      "Scouting Party 2",
+      "Sharpshooter 1",
+      "Tactical 1"
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-17 Hand Blasters",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 3
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Training",
+      "Comms",
+      "Comms",
+      "Gear"
+    ],
+    "points": 95
+  },
+  {
+    "id": "republic/commander/clone_commander.json",
+    "source": "data/units/republic/commander/clone_commander.json",
+    "name": "Clone Commander",
+    "title": "Trained for Leadership",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Clone Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 4,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Bolster 2",
+      "Direct: Corps Clone Trooper Unit",
+      "Sharpshooter 1"
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-15 Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Training",
+      "Comms"
+    ],
+    "points": 60
+  },
+  {
+    "id": "republic/commander/clone_commander_cody.json",
+    "source": "data/units/republic/commander/clone_commander_cody.json",
+    "name": "Clone Commander Cody",
+    "title": "Leader of the 212th",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Clone Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Observe 2",
+      "Jump 1",
+      "Take Cover 1",
+      "Direct: Vehicle",
+      "Target 1"
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-15A Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "red": 2,
+          "black": 1,
+          "white": 1
+        },
+        "keywords": [
+          "Lethal 1",
+          "Impact 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Training",
+      "Comms"
+    ],
+    "points": 95
+  },
+  {
+    "id": "republic/commander/jedi_knight_general.json",
+    "source": "data/units/republic/commander/jedi_knight_general.json",
+    "name": "Jedi Knight General",
+    "title": "Strong in the Force",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Deflect",
+      "Equip: Command, Training",
+      "Immune: Pierce",
+      "Master of the Force 1"
+    ],
+    "weapons": [],
+    "upgrade_slots": [
+      "Force",
+      "Force",
+      "Force",
+      "Training",
+      "Training",
+      "Armament"
+    ],
+    "points": 105
+  },
+  {
+    "id": "republic/commander/mace_windu.json",
+    "source": "data/units/republic/commander/mace_windu.json",
+    "name": "Mace Windu",
+    "title": "Jedi Council",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Jump 1",
+      "Charge",
+      "Compel: Corps Trooper",
+      "Deflect",
+      "Immune: Pierce",
+      "Master of the Force 1",
+      "Vaapad Mastery"
+    ],
+    "weapons": [
+      {
+        "name": "Windu's Lightsaber",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 3,
+          "black": 1,
+          "white": 2
+        },
+        "keywords": [
+          "Impact 2",
+          "Pierce 2"
+        ]
+      },
+      {
+        "name": "Force Crush",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 4
+        },
+        "keywords": [
+          "Blast",
+          "Immobilize 1",
+          "Suppressive"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Force",
+      "Force",
+      "Command",
+      "Training",
+      "Training"
+    ],
+    "points": 165
+  },
+  {
+    "id": "republic/commander/obi-wan_kenobi.json",
+    "source": "data/units/republic/commander/obi-wan_kenobi.json",
+    "name": "Obi-Wan Kenobi",
+    "title": "Civilized Warrior",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Jump 1",
+      "Charge",
+      "Deflect",
+      "Guardian 3",
+      "Immune: Pierce",
+      "Master of the Force 1",
+      "Soresu Mastery"
+    ],
+    "weapons": [
+      {
+        "name": "Obi-Wan's Lightsaber",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2,
+          "black": 2,
+          "white": 2
+        },
+        "keywords": [
+          "Critical 2",
+          "Impact 2",
+          "Pierce 2"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Force",
+      "Command",
+      "Training"
+    ],
+    "points": 150
+  },
+  {
+    "id": "republic/commander/wookiee_chieftain.json",
+    "source": "data/units/republic/commander/wookiee_chieftain.json",
+    "name": "Wookiee Chieftain",
+    "title": "Clan Leader",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Wookiee Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 7,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Agile 1",
+      "Charge",
+      "Duelist",
+      "Indomitable",
+      "Scale"
+    ],
+    "weapons": [
+      {
+        "name": "Ancestral Weapon",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2,
+          "black": 2,
+          "white": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Chieftain's Bowcaster",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 4
+        },
+        "keywords": [
+          "Impact 1",
+          "Pierce 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Training",
+      "Training",
+      "Comms"
+    ],
+    "points": 100
+  },
+  {
+    "id": "republic/commander/yoda.json",
+    "source": "data/units/republic/commander/yoda.json",
+    "name": "Yoda",
+    "title": "Grand Master of the Jedi Order",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 4,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Guidance: Trooper",
+      "Ataru Mastery",
+      "Deflect",
+      "Immune: Pierce",
+      "Master of the Force 2"
+    ],
+    "weapons": [
+      {
+        "name": "Yoda's Lightsaber",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 4
+        },
+        "keywords": [
+          "Impact 2",
+          "Pierce 2"
+        ]
+      },
+      {
+        "name": "Force Wave",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 4
+        },
+        "keywords": [
+          "Blast",
+          "Suppressive"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Force",
+      "Force",
+      "Training"
+    ],
+    "points": 150
+  },
+  {
+    "id": "republic/corps/clone_trooper_infantry.json",
+    "source": "data/units/republic/corps/clone_trooper_infantry.json",
+    "name": "Clone Trooper Infantry",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Corps",
+    "unit_type": "Clone Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Reliable 1"
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-15A Blaster Carbine",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Clone",
+      "Heavy Weapon",
+      "Personnel",
+      "Training",
+      "Training",
+      "Comms",
+      "Gear"
+    ],
+    "points": 56
+  },
+  {
+    "id": "republic/corps/clone_trooper_marksmen.json",
+    "source": "data/units/republic/corps/clone_trooper_marksmen.json",
+    "name": "Clone Trooper Marksmen",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Corps",
+    "unit_type": "Clone Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Prepared Position",
+      "Marksman"
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-15A Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": [
+          "Long Shot"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Personnel",
+      "Training",
+      "Training",
+      "Comms"
+    ],
+    "points": 50
+  },
+  {
+    "id": "republic/heavy/infantry_support_platform.json",
+    "source": "data/units/republic/heavy/infantry_support_platform.json",
+    "name": "Infantry Support Platform",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Support",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 7,
+      "resilience": 5,
+      "speed": 1,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Armor 3",
+      "Cover 1",
+      "Hover: Ground",
+      "Weak Point 1: Rear, Sides"
+    ],
+    "weapons": [
+      {
+        "name": "DC-15A Blaster Rifles",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Pilot",
+      "Hardpoint",
+      "Comms"
+    ],
+    "points": 65
+  },
+  {
+    "id": "republic/heavy/laatle_patrol_transport.json",
+    "source": "data/units/republic/heavy/laatle_patrol_transport.json",
+    "name": "LAAT/le Patrol Transport",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Support",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 8,
+      "resilience": 6,
+      "speed": 1,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Armor 5",
+      "Arsenal 2",
+      "Cover 1",
+      "Hover: Air 2",
+      "Immune: Blast, Melee, Range 1 Weapons",
+      "Transport"
+    ],
+    "weapons": [
+      {
+        "name": "Twin Laser Cannons",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "red": 2,
+          "black": 2
+        },
+        "keywords": [
+          "Fixed: Front",
+          "Impact 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Pilot",
+      "Comms",
+      "Ordnance",
+      "Ordnance"
+    ]
+  },
+  {
+    "id": "republic/heavy/saber-class_tank.json",
+    "source": "data/units/republic/heavy/saber-class_tank.json",
+    "name": "Saber-class Tank",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Heavy",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 9,
+      "resilience": 6,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Armor 5",
+      "Arsenal 2",
+      "Hover: Ground",
+      "Outmaneuver",
+      "Weak Point 1: Rear, Sides"
+    ],
+    "weapons": [
+      {
+        "name": "Heavy Laser Cannons",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "red": 2,
+          "black": 2
+        },
+        "keywords": [
+          "Critical 1",
+          "Fixed: Front",
+          "Impact 2"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Pilot",
+      "Hardpoint",
+      "Comms",
+      "Ordnance",
+      "Ordnance"
+    ]
+  },
+  {
+    "id": "republic/operative/jedi_knight.json",
+    "source": "data/units/republic/operative/jedi_knight.json",
+    "name": "Jedi Knight",
+    "title": "Keeper of the Peace",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Deflect",
+      "Equip: Command, Training",
+      "Immune: Pierce"
+    ],
+    "weapons": [],
+    "upgrade_slots": [
+      "Force",
+      "Force",
+      "Training",
+      "Armament"
+    ],
+    "points": 85
+  },
+  {
+    "id": "republic/operative/padme_amidala.json",
+    "source": "data/units/republic/operative/padme_amidala.json",
+    "name": "Padmé Amidala",
+    "title": "Spirited Senator",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Bolster 2",
+      "Agile 1",
+      "Inspire 2",
+      "Nimble",
+      "Sharpshooter 2"
+    ],
+    "weapons": [
+      {
+        "name": "Martial Arts",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": []
+      },
+      {
+        "name": "Padmé's Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 3
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Training",
+      "Comms"
+    ]
+  },
+  {
+    "id": "republic/operative/r2_d2.json",
+    "source": "data/units/republic/operative/r2_d2.json",
+    "name": "R2-D2",
+    "title": "Hero of a Thousand Devices",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 4,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Repair 2: Capacity 2",
+      "Inconspicuous",
+      "Infiltrate",
+      "Secret Mission"
+    ],
+    "weapons": [
+      {
+        "name": "Electro-Shock",
+        "range": {
+          "min": 0,
+          "max": 1
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": [
+          "Suppressive"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Comms"
+    ],
+    "points": 55
+  },
+  {
+    "id": "republic/operative/the_bad_batch.json",
+    "source": "data/units/republic/operative/the_bad_batch.json",
+    "name": "The Bad Batch",
+    "title": "Clone Force 99",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Clone Trooper",
+    "squad_size": 0,
+    "stats": {
+      "health": 2,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Equip: Crosshair, Echo, Hunter, Tech, Wrecker",
+      "Impervious",
+      "Scale",
+      "Sharpshooter 1",
+      "Steady",
+      "We're Not Regs"
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-17 Hand Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "white": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": []
+  },
+  {
+    "id": "republic/special_forces/arc_troopers.json",
+    "source": "data/units/republic/special_forces/arc_troopers.json",
+    "name": "ARC Troopers",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Special Forces",
+    "unit_type": "Clone Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Charge",
+      "Impervious",
+      "Scale",
+      "Scout 2",
+      "Sharpshooter 1",
+      "Tactical 1"
+    ],
+    "weapons": [
+      {
+        "name": "DC-17 Hand Blasters",
+        "range": {
+          "min": 0,
+          "max": 2
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Personnel",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Comms",
+      "Gear"
+    ],
+    "points": 70
+  },
+  {
+    "id": "republic/special_forces/arf_troopers.json",
+    "source": "data/units/republic/special_forces/arf_troopers.json",
+    "name": "ARF Troopers",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Special Forces",
+    "unit_type": "Clone Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Observe 2",
+      "Scout 1",
+      "Low Profile",
+      "Unhindered"
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-15A Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Personnel",
+      "Training",
+      "Training",
+      "Grenades",
+      "Gear"
+    ],
+    "points": 66
+  },
+  {
+    "id": "republic/special_forces/wookiee_warriors.json",
+    "source": "data/units/republic/special_forces/wookiee_warriors.json",
+    "name": "Wookiee Warriors",
+    "title": "Kashyyyk Defenders",
+    "faction": "Galactic Republic",
+    "rank": "Special Forces",
+    "unit_type": "Wookiee Trooper",
+    "squad_size": 3,
+    "stats": {
+      "health": 3,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Indomitable",
+      "Scale",
+      "Sharpshooter 1"
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "white": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "X1 Carbine",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Training",
+      "Comms",
+      "Gear"
+    ],
+    "points": 62
+  },
+  {
+    "id": "republic/special_forces/wookiee_warriors_melee.json",
+    "source": "data/units/republic/special_forces/wookiee_warriors_melee.json",
+    "name": "Wookiee Warriors",
+    "title": "Noble Fighters",
+    "faction": "Galactic Republic",
+    "rank": "Special Forces",
+    "unit_type": "Wookiee Trooper",
+    "squad_size": 3,
+    "stats": {
+      "health": 3,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Charge",
+      "Duelist",
+      "Indomitable",
+      "Scale"
+    ],
+    "weapons": [
+      {
+        "name": "Ryyk Blade",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Kashyyyk Pistol",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 1,
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Heavy Weapon",
+      "Training",
+      "Training",
+      "Comms",
+      "Gear"
+    ],
+    "points": 62
+  },
+  {
+    "id": "republic/support/at_rt.json",
+    "source": "data/units/republic/support/at_rt.json",
+    "name": "AT-RT",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Support",
+    "unit_type": "Ground Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "resilience": 4,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Hit",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Armor 2",
+      "Climbing Vehicle",
+      "Expert Climber",
+      "Scout 1"
+    ],
+    "weapons": [
+      {
+        "name": "Grappling Claws",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 3
+        },
+        "keywords": [
+          "Impact 1"
+        ]
+      },
+      {
+        "name": "Rocket Launcher",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 2,
+          "white": 1
+        },
+        "keywords": [
+          "Critical 1",
+          "Impact 1"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Hardpoint",
+      "Comms"
+    ]
+  },
+  {
+    "id": "republic/support/barc_speeder.json",
+    "source": "data/units/republic/support/barc_speeder.json",
+    "name": "BARC Speeder",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Support",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "resilience": 3,
+      "speed": 3,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Arsenal 2",
+      "Cover 1",
+      "Speeder 1"
+    ],
+    "weapons": [
+      {
+        "name": "DC-15A Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "Twin Blaster Cannon",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "red": 1,
+          "black": 1,
+          "white": 1
+        },
+        "keywords": [
+          "Fixed: Front"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Comms",
+      "Pilot"
+    ],
+    "points": 59
+  },
+  {
+    "id": "republic/support/clone_commandos.json",
+    "source": "data/units/republic/support/clone_commandos.json",
+    "name": "Clone Commandos",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Special Forces",
+    "unit_type": "Clone Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Complete the Mission",
+      "Equip: Katarn Pattern Armor",
+      "Infiltrate",
+      "Recharge 1",
+      "Shielded 1",
+      "Target 1"
+    ],
+    "weapons": [
+      {
+        "name": "Gauntlet Vibroblade",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-17M ICWS Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 1,
+          "white": 1
+        },
+        "keywords": [
+          "Suppressive"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Grenades",
+      "Armament",
+      "Gear"
+    ],
+    "points": 90
+  },
+  {
+    "id": "republic/support/clone_commandos_delta_squad.json",
+    "source": "data/units/republic/support/clone_commandos_delta_squad.json",
+    "name": "Clone Commandos",
+    "title": "Delta Squad",
+    "faction": "Galactic Republic",
+    "rank": "Special Forces",
+    "unit_type": "Clone Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": "-",
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      "Complete the Mission",
+      "Equip: Katarn Pattern Armor",
+      "Independent: Recover",
+      "Infiltrate",
+      "Recharge 1",
+      "Shielded 1",
+      "Target 2"
+    ],
+    "weapons": [
+      {
+        "name": "Gauntlet Vibroblade",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-17M ICWS Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": [
+          "Suppressive"
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Training",
+      "Grenades",
+      "Armament",
+      "Gear"
+    ]
+  },
+  {
+    "id": "republic/support/raddaugh_gnasp_fluttercraft.json",
+    "source": "data/units/republic/support/raddaugh_gnasp_fluttercraft.json",
+    "name": "Raddaugh Gnasp Fluttercraft",
+    "title": "None",
+    "faction": "Galactic Republic",
+    "rank": "Support",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "resilience": 3,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      "Cover 2",
+      "Immune: Blast, Melee, Range 1 Weapons",
+      "Reposition",
+      "Speeder 2"
+    ],
+    "weapons": [
+      {
+        "name": "Pilot's Kashyyyk Pistol",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 1,
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Comms",
+      "Pilot"
+    ],
+    "points": 55
   },
   {
     "id": "separatists/commander/count_dooku.json",

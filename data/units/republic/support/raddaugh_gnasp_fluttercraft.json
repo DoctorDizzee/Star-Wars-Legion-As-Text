@@ -1,0 +1,42 @@
+{
+  "name": "Raddaugh Gnasp Fluttercraft",
+  "title": "None",
+  "faction": "Galactic Republic",
+  "rank": "Support",
+  "unit_type": "Repulsor Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "resilience": 3,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Cover 2",
+    "Immune: Blast, Melee, Range 1 Weapons",
+    "Reposition",
+    "Speeder 2"
+  ],
+  "weapons": [
+    {
+      "name": "Pilot's Kashyyyk Pistol",
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 1,
+        "white": 1
+      },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Comms",
+    "Pilot"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Padmé Amidala",
+  "title": "Spirited Senator",
+  "faction": "Galactic Republic",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "courage": 3,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Bolster 2",
+    "Agile 1",
+    "Inspire 2",
+    "Nimble",
+    "Sharpshooter 2"
+  ],
+  "weapons": [
+    {
+      "name": "Martial Arts",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 3
+      },
+      "keywords": []
+    },
+    {
+      "name": "Padmé's Blaster",
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "red": 3
+      },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Training",
+    "Comms"
+  ]
+}

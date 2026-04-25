@@ -1,0 +1,56 @@
+{
+  "name": "ARF Troopers",
+  "title": "None",
+  "faction": "Galactic Republic",
+  "rank": "Special Forces",
+  "unit_type": "Clone Trooper",
+  "squad_size": 4,
+  "stats": {
+    "health": 1,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Observe 2",
+    "Scout 1",
+    "Low Profile",
+    "Unhindered"
+  ],
+  "weapons": [
+    {
+      "name": "Unarmed",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 1
+      },
+      "keywords": []
+    },
+    {
+      "name": "DC-15A Blaster Rifle",
+      "range": {
+        "min": 1,
+        "max": 4
+      },
+      "dice": {
+        "black": 1
+      },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Heavy Weapon",
+    "Personnel",
+    "Training",
+    "Training",
+    "Grenades",
+    "Gear"
+  ]
+}

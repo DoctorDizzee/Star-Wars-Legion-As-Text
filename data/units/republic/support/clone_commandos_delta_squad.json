@@ -1,0 +1,60 @@
+{
+  "name": "Clone Commandos",
+  "title": "Delta Squad",
+  "faction": "Galactic Republic",
+  "rank": "Special Forces",
+  "unit_type": "Clone Trooper",
+  "squad_size": 4,
+  "stats": {
+    "health": 1,
+    "courage": "-",
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Complete the Mission",
+    "Equip: Katarn Pattern Armor",
+    "Independent: Recover",
+    "Infiltrate",
+    "Recharge 1",
+    "Shielded 1",
+    "Target 2"
+  ],
+  "weapons": [
+    {
+      "name": "Gauntlet Vibroblade",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 2
+      },
+      "keywords": []
+    },
+    {
+      "name": "DC-17M ICWS Blaster",
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 2
+      },
+      "keywords": [
+        "Suppressive"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Training",
+    "Training",
+    "Grenades",
+    "Armament",
+    "Gear"
+  ]
+}

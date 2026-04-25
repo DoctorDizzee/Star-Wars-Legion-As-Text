@@ -22,8 +22,13 @@
   "weapons": [
     {
       "name": "Contempt",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 1
+      },
       "keywords": []
     }
   ],

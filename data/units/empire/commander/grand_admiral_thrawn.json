@@ -27,14 +27,24 @@
   "weapons": [
     {
       "name": "Chiss Martial Arts",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 4 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 4
+      },
       "keywords": []
     },
     {
       "name": "Thrawn's Blaster",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 3 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "red": 3
+      },
       "keywords": []
     }
   ],

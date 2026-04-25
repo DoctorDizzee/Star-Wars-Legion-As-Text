@@ -25,21 +25,44 @@
   "weapons": [
     {
       "name": "Martial Arts",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 3 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 3
+      },
       "keywords": []
     },
     {
       "name": "Iden's DLT-20A Rifle",
-      "range": { "min": 1, "max": 4 },
-      "dice": { "black": 2 },
-      "keywords": ["High Velocity", "Pierce 1"]
+      "range": {
+        "min": 1,
+        "max": 4
+      },
+      "dice": {
+        "black": 2
+      },
+      "keywords": [
+        "High Velocity",
+        "Pierce 1"
+      ]
     },
     {
       "name": "Iden's TL-50 Repeater",
-      "range": { "min": 1, "max": 3 },
-      "dice": { "red": 2, "black": 2, "white": 1 },
-      "keywords": ["Critical 1", "Impact 1"]
+      "range": {
+        "min": 1,
+        "max": 3
+      },
+      "dice": {
+        "red": 2,
+        "black": 2,
+        "white": 1
+      },
+      "keywords": [
+        "Critical 1",
+        "Impact 1"
+      ]
     }
   ],
   "upgrade_slots": [

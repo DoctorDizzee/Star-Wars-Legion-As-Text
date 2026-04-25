@@ -1,0 +1,52 @@
+{
+  "name": "Obi-Wan Kenobi",
+  "title": "Civilized Warrior",
+  "faction": "Galactic Republic",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "courage": 3,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Jump 1",
+    "Charge",
+    "Deflect",
+    "Guardian 3",
+    "Immune: Pierce",
+    "Master of the Force 1",
+    "Soresu Mastery"
+  ],
+  "weapons": [
+    {
+      "name": "Obi-Wan's Lightsaber",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 2,
+        "black": 2,
+        "white": 2
+      },
+      "keywords": [
+        "Critical 2",
+        "Impact 2",
+        "Pierce 2"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Command",
+    "Training"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Clone Commander Cody",
+  "title": "Leader of the 212th",
+  "faction": "Galactic Republic",
+  "rank": "Commander",
+  "unit_type": "Clone Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Observe 2",
+    "Jump 1",
+    "Take Cover 1",
+    "Direct: Vehicle",
+    "Target 1"
+  ],
+  "weapons": [
+    {
+      "name": "Combat Training",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 2
+      },
+      "keywords": []
+    },
+    {
+      "name": "DC-15A Blaster Rifle",
+      "range": {
+        "min": 1,
+        "max": 4
+      },
+      "dice": {
+        "red": 2,
+        "black": 1,
+        "white": 1
+      },
+      "keywords": [
+        "Lethal 1",
+        "Impact 1"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Training",
+    "Comms"
+  ]
+}

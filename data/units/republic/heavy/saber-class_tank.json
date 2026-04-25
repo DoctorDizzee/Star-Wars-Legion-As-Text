@@ -1,0 +1,50 @@
+{
+  "name": "Saber-class Tank",
+  "title": "None",
+  "faction": "Galactic Republic",
+  "rank": "Heavy",
+  "unit_type": "Repulsor Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 9,
+    "resilience": 6,
+    "speed": 1,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Armor 5",
+    "Arsenal 2",
+    "Hover: Ground",
+    "Outmaneuver",
+    "Weak Point 1: Rear, Sides"
+  ],
+  "weapons": [
+    {
+      "name": "Heavy Laser Cannons",
+      "range": {
+        "min": 1,
+        "max": 4
+      },
+      "dice": {
+        "red": 2,
+        "black": 2
+      },
+      "keywords": [
+        "Critical 1",
+        "Fixed: Front",
+        "Impact 2"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Pilot",
+    "Hardpoint",
+    "Comms",
+    "Ordnance",
+    "Ordnance"
+  ]
+}

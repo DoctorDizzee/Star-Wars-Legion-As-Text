@@ -1,0 +1,48 @@
+{
+  "name": "ARC Troopers",
+  "title": "None",
+  "faction": "Galactic Republic",
+  "rank": "Special Forces",
+  "unit_type": "Clone Trooper",
+  "squad_size": 4,
+  "stats": {
+    "health": 1,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Charge",
+    "Impervious",
+    "Scale",
+    "Scout 2",
+    "Sharpshooter 1",
+    "Tactical 1"
+  ],
+  "weapons": [
+    {
+      "name": "DC-17 Hand Blasters",
+      "range": {
+        "min": 0,
+        "max": 2
+      },
+      "dice": {
+        "black": 2
+      },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Heavy Weapon",
+    "Personnel",
+    "Training",
+    "Grenades",
+    "Comms",
+    "Comms",
+    "Gear"
+  ]
+}

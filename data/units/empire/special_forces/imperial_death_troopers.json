@@ -23,20 +23,35 @@
   "weapons": [
     {
       "name": "Close Quarters Combat",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 1
+      },
       "keywords": []
     },
     {
       "name": "SE-14r Light Blaster",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 2 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 2
+      },
       "keywords": []
     },
     {
       "name": "E-11D Blaster Rifle",
-      "range": { "min": 1, "max": 3 },
-      "dice": { "black": 1 },
+      "range": {
+        "min": 1,
+        "max": 3
+      },
+      "dice": {
+        "black": 1
+      },
       "keywords": []
     }
   ],

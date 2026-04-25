@@ -25,15 +25,31 @@
   "weapons": [
     {
       "name": "Vader's Lightsaber",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 5 },
-      "keywords": ["Impact 3", "Pierce 3"]
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 5
+      },
+      "keywords": [
+        "Impact 3",
+        "Pierce 3"
+      ]
     },
     {
       "name": "Force Throw",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 2 },
-      "keywords": ["Blast", "Scatter"]
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 2
+      },
+      "keywords": [
+        "Blast",
+        "Scatter"
+      ]
     }
   ],
   "upgrade_slots": [

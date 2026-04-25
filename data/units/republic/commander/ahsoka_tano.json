@@ -1,0 +1,49 @@
+{
+  "name": "Ahsoka Tano",
+  "title": "Padawan Commander",
+  "faction": "Galactic Republic",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 3,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Jump 2",
+    "Associate: Anakin Skywalker",
+    "Deflect",
+    "Immune: Pierce",
+    "Independent: Recover",
+    "Scout 1",
+    "Shien Mastery"
+  ],
+  "weapons": [
+    {
+      "name": "Ahsoka's Lightsabers",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 3,
+        "white": 5
+      },
+      "keywords": [
+        "Impact 2",
+        "Pierce 1"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Training",
+    "Training"
+  ]
+}

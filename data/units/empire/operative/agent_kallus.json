@@ -26,9 +26,19 @@
   "weapons": [
     {
       "name": "J-19 Bo-Rifle",
-      "range": { "min": 0, "max": 2 },
-      "dice": { "red": 1, "black": 3 },
-      "keywords": ["Critical 1", "Lethal 1", "Long Shot"]
+      "range": {
+        "min": 0,
+        "max": 2
+      },
+      "dice": {
+        "red": 1,
+        "black": 3
+      },
+      "keywords": [
+        "Critical 1",
+        "Lethal 1",
+        "Long Shot"
+      ]
     }
   ],
   "upgrade_slots": [

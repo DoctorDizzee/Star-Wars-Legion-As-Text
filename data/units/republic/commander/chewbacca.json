@@ -1,0 +1,60 @@
+{
+  "name": "Chewbacca",
+  "title": "Hero of Kashyyyk",
+  "faction": "Galactic Republic",
+  "rank": "Commander",
+  "unit_type": "Wookiee Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 9,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "White",
+    "surges": {
+      "attack": "Hit",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Enrage 4",
+    "Guardian 2: Commander",
+    "Reliable 2",
+    "Scale"
+  ],
+  "weapons": [
+    {
+      "name": "Overwhelm",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 4
+      },
+      "keywords": [
+        "Lethal 1"
+      ]
+    },
+    {
+      "name": "Chewbacca's Bowcaster",
+      "range": {
+        "min": 1,
+        "max": 3
+      },
+      "dice": {
+        "red": 2,
+        "white": 2
+      },
+      "keywords": [
+        "Critical 1",
+        "Impact 1",
+        "Pierce 1"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Training",
+    "Training",
+    "Comms"
+  ]
+}

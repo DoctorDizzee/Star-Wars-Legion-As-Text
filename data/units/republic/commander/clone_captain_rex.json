@@ -1,0 +1,56 @@
+{
+  "name": "Clone Captain Rex",
+  "title": "Honorable Soldier",
+  "faction": "Galactic Republic",
+  "rank": "Commander",
+  "unit_type": "Clone Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Gunslinger",
+    "Scout 1",
+    "Scouting Party 2",
+    "Sharpshooter 1",
+    "Tactical 1"
+  ],
+  "weapons": [
+    {
+      "name": "Combat Training",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 2
+      },
+      "keywords": []
+    },
+    {
+      "name": "DC-17 Hand Blasters",
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "red": 3
+      },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Command",
+    "Training",
+    "Comms",
+    "Comms",
+    "Gear"
+  ]
+}

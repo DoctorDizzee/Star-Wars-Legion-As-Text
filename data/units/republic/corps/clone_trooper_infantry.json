@@ -1,0 +1,54 @@
+{
+  "name": "Clone Trooper Infantry",
+  "title": "None",
+  "faction": "Galactic Republic",
+  "rank": "Corps",
+  "unit_type": "Clone Trooper",
+  "squad_size": 4,
+  "stats": {
+    "health": 1,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Reliable 1"
+  ],
+  "weapons": [
+    {
+      "name": "Unarmed",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 1
+      },
+      "keywords": []
+    },
+    {
+      "name": "DC-15A Blaster Carbine",
+      "range": {
+        "min": 1,
+        "max": 3
+      },
+      "dice": {
+        "black": 1
+      },
+      "keywords": []
+    }
+  ],
+  "upgrade_slots": [
+    "Clone",
+    "Heavy Weapon",
+    "Personnel",
+    "Training",
+    "Training",
+    "Comms",
+    "Gear"
+  ]
+}

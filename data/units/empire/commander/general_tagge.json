@@ -24,14 +24,24 @@
   "weapons": [
     {
       "name": "Unarmed",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 1
+      },
       "keywords": []
     },
     {
       "name": "Tagge's Blaster",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 3 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 3
+      },
       "keywords": []
     }
   ],

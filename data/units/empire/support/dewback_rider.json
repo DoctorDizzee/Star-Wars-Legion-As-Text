@@ -25,9 +25,18 @@
   "weapons": [
     {
       "name": "Shock Prod & Claws",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 3, "white": 3 },
-      "keywords": ["Critical 2", "Suppressive"]
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 3,
+        "white": 3
+      },
+      "keywords": [
+        "Critical 2",
+        "Suppressive"
+      ]
     }
   ],
   "upgrade_slots": [

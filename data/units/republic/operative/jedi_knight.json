@@ -1,0 +1,30 @@
+{
+  "name": "Jedi Knight",
+  "title": "Keeper of the Peace",
+  "faction": "Galactic Republic",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 2,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "None",
+      "defense": "None"
+    }
+  },
+  "keywords": [
+    "Deflect",
+    "Equip: Command, Training",
+    "Immune: Pierce"
+  ],
+  "weapons": [],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Training",
+    "Armament"
+  ]
+}

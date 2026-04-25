@@ -1,0 +1,61 @@
+{
+  "name": "Yoda",
+  "title": "Grand Master of the Jedi Order",
+  "faction": "Galactic Republic",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 5,
+    "courage": 4,
+    "speed": 1,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Guidance: Trooper",
+    "Ataru Mastery",
+    "Deflect",
+    "Immune: Pierce",
+    "Master of the Force 2"
+  ],
+  "weapons": [
+    {
+      "name": "Yoda's Lightsaber",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 4
+      },
+      "keywords": [
+        "Impact 2",
+        "Pierce 2"
+      ]
+    },
+    {
+      "name": "Force Wave",
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 4
+      },
+      "keywords": [
+        "Blast",
+        "Suppressive"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Force",
+    "Training"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Mace Windu",
+  "title": "Jedi Council",
+  "faction": "Galactic Republic",
+  "rank": "Commander",
+  "unit_type": "Trooper",
+  "squad_size": 1,
+  "stats": {
+    "health": 6,
+    "courage": 3,
+    "speed": 2,
+    "defense_die": "Red",
+    "surges": {
+      "attack": "Critical",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Jump 1",
+    "Charge",
+    "Compel: Corps Trooper",
+    "Deflect",
+    "Immune: Pierce",
+    "Master of the Force 1",
+    "Vaapad Mastery"
+  ],
+  "weapons": [
+    {
+      "name": "Windu's Lightsaber",
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 3,
+        "black": 1,
+        "white": 2
+      },
+      "keywords": [
+        "Impact 2",
+        "Pierce 2"
+      ]
+    },
+    {
+      "name": "Force Crush",
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 4
+      },
+      "keywords": [
+        "Blast",
+        "Immobilize 1",
+        "Suppressive"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Force",
+    "Force",
+    "Force",
+    "Command",
+    "Training",
+    "Training"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "LAAT/le Patrol Transport",
+  "title": "None",
+  "faction": "Galactic Republic",
+  "rank": "Support",
+  "unit_type": "Repulsor Vehicle",
+  "squad_size": 1,
+  "stats": {
+    "health": 8,
+    "resilience": 6,
+    "speed": 1,
+    "defense_die": "White",
+    "surges": {
+      "attack": "None",
+      "defense": "Block"
+    }
+  },
+  "keywords": [
+    "Armor 5",
+    "Arsenal 2",
+    "Cover 1",
+    "Hover: Air 2",
+    "Immune: Blast, Melee, Range 1 Weapons",
+    "Transport"
+  ],
+  "weapons": [
+    {
+      "name": "Twin Laser Cannons",
+      "range": {
+        "min": 1,
+        "max": 3
+      },
+      "dice": {
+        "red": 2,
+        "black": 2
+      },
+      "keywords": [
+        "Fixed: Front",
+        "Impact 1"
+      ]
+    }
+  ],
+  "upgrade_slots": [
+    "Pilot",
+    "Comms",
+    "Ordnance",
+    "Ordnance"
+  ]
+}

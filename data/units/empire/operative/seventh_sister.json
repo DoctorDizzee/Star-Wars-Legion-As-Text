@@ -27,15 +27,31 @@
   "weapons": [
     {
       "name": "Spinning Lightsaber",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 5 },
-      "keywords": ["Impact 2", "Pierce 1"]
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 5
+      },
+      "keywords": [
+        "Impact 2",
+        "Pierce 1"
+      ]
     },
     {
       "name": "Thrown Lightsaber",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 3 },
-      "keywords": ["Impact 2", "Pierce 1"]
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 3
+      },
+      "keywords": [
+        "Impact 2",
+        "Pierce 1"
+      ]
     }
   ],
   "upgrade_slots": [
