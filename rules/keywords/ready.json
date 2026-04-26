@@ -1,0 +1,8 @@
+{
+  "name": "Ready X",
+  "slug": "ready",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "After a unit with the Ready X keyword makes a Standby action, it gains X Aim tokens.",
+  "description": "After a unit with the Ready X keyword makes a Standby action, it gains X Aim tokens."
+}

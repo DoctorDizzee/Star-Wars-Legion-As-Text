@@ -1,0 +1,8 @@
+{
+  "name": "Ion X",
+  "slug": "ion",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a Vehicle or Droid Trooper unit suffers 1 or more Wounds from an attack that has the Ion X keyword in the Attack Pool, after the attack is resolved, it gains X Ion tokens. When a unit starts its Activation with 1 or more Ion tokens, roll 1 white defense die for each Ion token it has. If any Blank results are rolled, that unit makes 1 fewer action during that Activation. At the end of a unit’s Activation, it removes any Ion tokens that it has. If an Attack Pool includes the Ion X keyword, at the start of the Modify Attack Dice step, before resolving other effects the defending unit must flip 1 active Shield token, if able, for each a or b result in the attack roll, to a maximum of X tokens flipped.",
+  "description": "When a Vehicle or Droid Trooper unit suffers 1 or more Wounds from an attack that has the Ion X keyword in the Attack Pool, after the attack is resolved, it gains X Ion tokens. When a unit starts its Activation with 1 or more Ion tokens, roll 1 white defense die for each Ion token it has. If any Blank results are rolled, that unit makes 1 fewer action during that Activation. At the end of a unit’s Activation, it removes any Ion tokens that it has. If an Attack Pool includes the Ion X keyword, at the start of the Modify Attack Dice step, before resolving other effects the defending unit must flip 1 active Shield token, if able, for each a or b result in the attack roll, to a maximum of X tokens flipped."
+}

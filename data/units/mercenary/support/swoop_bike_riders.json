@@ -16,25 +16,49 @@
     }
   },
   "keywords": [
-    "Mercenary: Rebel Alliance, Galactic Republic",
-    "Cover 1",
-    "Independent: Aim 1 or Dodge 1",
-    "Reinforcements",
-    "Speeder 1"
+    {
+      "ref": "keywords/mercenary_rebel_alliance_galactic_republic"
+    },
+    {
+      "ref": "keywords/cover_1"
+    },
+    {
+      "ref": "keywords/independent_aim_1_or_dodge_1"
+    },
+    {
+      "ref": "keywords/reinforcements"
+    },
+    {
+      "ref": "keywords/speeder_1"
+    }
   ],
   "weapons": [
     {
       "name": "Vibro-Ax",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 1, "white": 2 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 1,
+        "white": 2
+      },
       "keywords": [
-        "Overrun 2"
+        {
+          "ref": "keywords/overrun_2"
+        }
       ]
     },
     {
       "name": "Heavy Blaster Pistol",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 1, "black": 1 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "red": 1,
+        "black": 1
+      },
       "keywords": []
     }
   ],

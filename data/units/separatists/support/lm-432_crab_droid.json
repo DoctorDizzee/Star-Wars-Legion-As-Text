@@ -16,22 +16,47 @@
     }
   },
   "keywords": [
-    "Armor 2",
-    "Climbing Vehicle",
-    "Programmed",
-    "Reposition",
-    "Scale",
-    "Scout 1",
-    "Scouting Party 1"
+    {
+      "ref": "keywords/armor_2"
+    },
+    {
+      "ref": "keywords/climbing_vehicle"
+    },
+    {
+      "ref": "keywords/programmed"
+    },
+    {
+      "ref": "keywords/reposition"
+    },
+    {
+      "ref": "keywords/scale"
+    },
+    {
+      "ref": "keywords/scout_1"
+    },
+    {
+      "ref": "keywords/scouting_party_1"
+    }
   ],
   "weapons": [
     {
       "name": "Crab Claws",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 2, "black": 1, "white": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 2,
+        "black": 1,
+        "white": 1
+      },
       "keywords": [
-        "Impact 2",
-        "Pierce 1"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     }
   ],

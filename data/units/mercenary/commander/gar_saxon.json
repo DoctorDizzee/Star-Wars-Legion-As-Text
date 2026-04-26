@@ -16,25 +16,49 @@
     }
   },
   "keywords": [
-    "Jump 2",
-    "Allies of Convenience",
-    "Compel",
-    "Impervious",
-    "Sharpshooter 1"
+    {
+      "ref": "keywords/jump_2"
+    },
+    {
+      "ref": "keywords/allies_of_convenience"
+    },
+    {
+      "ref": "keywords/compel"
+    },
+    {
+      "ref": "keywords/impervious"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    }
   ],
   "weapons": [
     {
       "name": "Combat Training",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 2 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 2
+      },
       "keywords": []
     },
     {
       "name": "Gar's Blaster Pistol",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 1, "black": 2, "white": 1 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "red": 1,
+        "black": 2,
+        "white": 1
+      },
       "keywords": [
-        "Pierce 1"
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     }
   ],

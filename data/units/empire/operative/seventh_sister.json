@@ -16,13 +16,27 @@
     }
   },
   "keywords": [
-    "Jump 1",
-    "Associate: Fifth Brother",
-    "Block",
-    "Charge",
-    "Disciplined 1",
-    "Immune: Pierce",
-    "Interrogate"
+    {
+      "ref": "keywords/jump_1"
+    },
+    {
+      "ref": "keywords/associate_fifth_brother"
+    },
+    {
+      "ref": "keywords/block"
+    },
+    {
+      "ref": "keywords/charge"
+    },
+    {
+      "ref": "keywords/disciplined_1"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    },
+    {
+      "ref": "keywords/interrogate"
+    }
   ],
   "weapons": [
     {
@@ -35,8 +49,12 @@
         "black": 5
       },
       "keywords": [
-        "Impact 2",
-        "Pierce 1"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     },
     {
@@ -49,8 +67,12 @@
         "black": 3
       },
       "keywords": [
-        "Impact 2",
-        "Pierce 1"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     }
   ],

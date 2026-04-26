@@ -2,6 +2,7 @@
   "name": "Duelist",
   "slug": "duelist",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the Duelist keyword makes a Melee attack, if it spends 1 or more Aim tokens during the Reroll Attack Dice step, the Attack Pool gains the Pierce 1 weapon keyword. While a unit with the Duelist keyword defends against a Melee attack, if it spends at least 1 Dodge token during the Apply Dodge and Cover step, it gains the Immune: Pierce keyword. A unit with the Duelist keyword gets these effects in addition to the normal effects of spending Aim or Dodge tokens.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Duelist keyword makes a Melee attack, if it spends 1 or more Aim tokens during the Reroll Attack Dice step, the Attack Pool gains the Pierce 1 weapon keyword. While a unit with the Duelist keyword defends against a Melee attack, if it spends at least 1 Dodge token during the Apply Dodge and Cover step, it gains the Immune: Pierce keyword. A unit with the Duelist keyword gets these effects in addition to the normal effects of spending Aim or Dodge tokens."
 }

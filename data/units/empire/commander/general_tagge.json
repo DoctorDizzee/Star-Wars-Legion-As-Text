@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Calculate Odds",
-    "Equip: Logistical Prowess",
-    "Exemplar",
-    "Inspire 1"
+    {
+      "ref": "keywords/calculate_odds"
+    },
+    {
+      "ref": "keywords/equip_logistical_prowess"
+    },
+    {
+      "ref": "keywords/exemplar"
+    },
+    {
+      "ref": "keywords/inspire"
+    }
   ],
   "weapons": [
     {

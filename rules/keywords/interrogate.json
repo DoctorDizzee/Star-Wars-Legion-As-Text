@@ -1,0 +1,8 @@
+{
+  "name": "Interrogate",
+  "slug": "interrogate",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "During the Command Phase, if a player reveals a Command Card that belongs to a unit within 1 of 1 or more enemy units with the Interrogate keyword and there would be a tie for priority, treat that Command Card as having 1 more pip. JAR'KAI MASTERY When a unit with the Jar'Kai Mastery keyword makes a Melee attack,  it may spend any number of Dodge tokens after converting attack surges during the Convert Attack Surges step. For each Dodge token spent in this way, change a Blank result to a a result, a a result to a b result, or spend 2 Dodge tokens to change a Blank result to a b result.",
+  "description": "During the Command Phase, if a player reveals a Command Card that belongs to a unit within 1 of 1 or more enemy units with the Interrogate keyword and there would be a tie for priority, treat that Command Card as having 1 more pip. JAR'KAI MASTERY When a unit with the Jar'Kai Mastery keyword makes a Melee attack,  it may spend any number of Dodge tokens after converting attack surges during the Convert Attack Surges step. For each Dodge token spent in this way, change a Blank result to a a result, a a result to a b result, or spend 2 Dodge tokens to change a Blank result to a b result."
+}

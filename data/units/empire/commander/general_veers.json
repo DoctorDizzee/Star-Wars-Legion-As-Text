@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Guidance: Ground Vehicle",
-    "Spotter 2",
-    "Exemplar",
-    "Inspire 1",
-    "Sharpshooter 1"
+    {
+      "ref": "keywords/guidance_ground_vehicle"
+    },
+    {
+      "ref": "keywords/spotter_2"
+    },
+    {
+      "ref": "keywords/exemplar"
+    },
+    {
+      "ref": "keywords/inspire"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    }
   ],
   "weapons": [
     {

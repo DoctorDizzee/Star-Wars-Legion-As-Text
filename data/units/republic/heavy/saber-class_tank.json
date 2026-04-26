@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Armor 5",
-    "Arsenal 2",
-    "Hover: Ground",
-    "Outmaneuver",
-    "Weak Point 1: Rear, Sides"
+    {
+      "ref": "keywords/armor_5"
+    },
+    {
+      "ref": "keywords/arsenal_2"
+    },
+    {
+      "ref": "keywords/hover_ground"
+    },
+    {
+      "ref": "keywords/outmaneuver"
+    },
+    {
+      "ref": "keywords/weak_point_1_rear_sides"
+    }
   ],
   "weapons": [
     {
@@ -34,9 +44,15 @@
         "black": 2
       },
       "keywords": [
-        "Critical 1",
-        "Fixed: Front",
-        "Impact 2"
+        {
+          "ref": "keywords/critical_1"
+        },
+        {
+          "ref": "keywords/fixed_front"
+        },
+        {
+          "ref": "keywords/impact_2"
+        }
       ]
     }
   ],

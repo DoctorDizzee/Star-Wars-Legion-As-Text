@@ -16,8 +16,12 @@
     }
   },
   "keywords": [
-    "Coordinate: Emplacement Trooper",
-    "Prepared Position"
+    {
+      "ref": "keywords/coordinate_emplacement_trooper"
+    },
+    {
+      "ref": "keywords/prepared_position"
+    }
   ],
   "weapons": [
     {
@@ -41,7 +45,9 @@
         "black": 1
       },
       "keywords": [
-        "Long Shot"
+        {
+          "ref": "keywords/long_shot"
+        }
       ]
     }
   ],

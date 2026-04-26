@@ -2,6 +2,7 @@
   "name": "Guidance",
   "slug": "guidance",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "As a Card or Free Card action, a unit with the Guidance keyword may choose another allied unit of the speci/f_ied unit type within 2. The chosen unit makes a free non-Attack action.51IMMUNE: 1 WEAPONS An Attack Pool that is assigned to a unit with the Immune: 1 Weapons keyword cannot contain weapons with a maximum Range of 1.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "As a Card or Free Card action, a unit with the Guidance keyword may choose another allied unit of the speci/f_ied unit type within 2. The chosen unit makes a free non-Attack action.51IMMUNE: 1 WEAPONS An Attack Pool that is assigned to a unit with the Immune: 1 Weapons keyword cannot contain weapons with a maximum Range of 1."
 }

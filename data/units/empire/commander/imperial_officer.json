@@ -16,8 +16,12 @@
     }
   },
   "keywords": [
-    "Equip: Command",
-    "Inspire 1"
+    {
+      "ref": "keywords/equip_command"
+    },
+    {
+      "ref": "keywords/inspire"
+    }
   ],
   "weapons": [
     {

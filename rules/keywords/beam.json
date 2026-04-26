@@ -1,0 +1,8 @@
+{
+  "name": "Beam X",
+  "slug": "beam",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "If a weapon with the Beam X keyword is in a unit’s Attack Pool during the Declare Additional Defender step, that unit may declare up to X additional attacks, forming Attack Pools using only the weapon with the Beam X keyword, even though the weapon has already been added to an Attack Pool. These additional attacks do not generate further attacks. Each additional attack must be against a different defending unit that is within 1 of the last defending unit declared. These additional attacks must be in LOS of the attacking unit but do not have to be within the maximum Range of the weapon with the Beam X keyword. Units may not use the Beam X and Gunslinger keywords during the same attack.",
+  "description": "If a weapon with the Beam X keyword is in a unit’s Attack Pool during the Declare Additional Defender step, that unit may declare up to X additional attacks, forming Attack Pools using only the weapon with the Beam X keyword, even though the weapon has already been added to an Attack Pool. These additional attacks do not generate further attacks. Each additional attack must be against a different defending unit that is within 1 of the last defending unit declared. These additional attacks must be in LOS of the attacking unit but do not have to be within the maximum Range of the weapon with the Beam X keyword. Units may not use the Beam X and Gunslinger keywords during the same attack."
+}

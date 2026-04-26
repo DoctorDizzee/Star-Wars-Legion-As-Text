@@ -9,5 +9,7 @@
     "Effect: Convert standard Hits to Crits, up to the X value.",
     "Interaction Note: This happens before the defender applies the Armor keyword."
   ],
-  "last_updated": "2024-04-22"
+  "last_updated": "2024-04-22",
+  "description": "When a unit attacks, if its Attack Pool has the Impact X keyword and the defending unit has the Armor X keyword, the attacking unit can modify up to X a results to b results during the Modify Attack Dice step.",
+  "source": "Rulebook PDF"
 }

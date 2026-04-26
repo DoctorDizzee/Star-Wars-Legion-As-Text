@@ -16,20 +16,34 @@
     }
   },
   "keywords": [
-    "AI: Attack",
-    "Coordinate: Droid Trooper"
+    {
+      "ref": "keywords/ai_attack"
+    },
+    {
+      "ref": "keywords/coordinate_droid_trooper"
+    }
   ],
   "weapons": [
     {
       "name": "Bludgeon",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "white": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "white": 1
+      },
       "keywords": []
     },
     {
       "name": "E-5 Blaster Rifle",
-      "range": { "min": 1, "max": 3 },
-      "dice": { "white": 1 },
+      "range": {
+        "min": 1,
+        "max": 3
+      },
+      "dice": {
+        "white": 1
+      },
       "keywords": []
     }
   ],

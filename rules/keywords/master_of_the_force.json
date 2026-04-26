@@ -2,6 +2,7 @@
   "name": "Master of the Force",
   "slug": "master_of_the_force",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the Master of the Force X keyword ends its Activation, it may ready up to X of its exhausted Force /unie906 Upgrade Cards.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Master of the Force X keyword ends its Activation, it may ready up to X of its exhausted Force /unie906 Upgrade Cards."
 }

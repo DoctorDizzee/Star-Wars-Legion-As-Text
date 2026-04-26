@@ -1,0 +1,8 @@
+{
+  "name": "Self-preservation",
+  "slug": "self_preservation",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit with the Self-Preservation keyword cannot use the unit of units that are not of the same Aﬃliation when checking for Panic.",
+  "description": "A unit with the Self-Preservation keyword cannot use the unit of units that are not of the same Aﬃliation when checking for Panic."
+}

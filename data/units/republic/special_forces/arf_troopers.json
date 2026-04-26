@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Observe 2",
-    "Scout 1",
-    "Low Profile",
-    "Unhindered"
+    {
+      "ref": "keywords/observe_2"
+    },
+    {
+      "ref": "keywords/scout_1"
+    },
+    {
+      "ref": "keywords/low_profile"
+    },
+    {
+      "ref": "keywords/unhindered"
+    }
   ],
   "weapons": [
     {

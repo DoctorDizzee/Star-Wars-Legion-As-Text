@@ -2,6 +2,7 @@
   "name": "Low Profile",
   "slug": "low_profile",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the Low Pro/f_ile keyword would roll 1 or more defense dice during the Roll Cover Pool step, it rolls 1 fewer defense die and instead adds an additional d result to the Cover Pool after rolling.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Low Pro/f_ile keyword would roll 1 or more defense dice during the Roll Cover Pool step, it rolls 1 fewer defense die and instead adds an additional d result to the Cover Pool after rolling."
 }

@@ -16,9 +16,15 @@
     }
   },
   "keywords": [
-    "Indomitable",
-    "Scale",
-    "Sharpshooter 1"
+    {
+      "ref": "keywords/indomitable"
+    },
+    {
+      "ref": "keywords/scale"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    }
   ],
   "weapons": [
     {

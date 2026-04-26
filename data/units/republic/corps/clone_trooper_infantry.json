@@ -16,7 +16,9 @@
     }
   },
   "keywords": [
-    "Reliable 1"
+    {
+      "ref": "keywords/reliable_1"
+    }
   ],
   "weapons": [
     {

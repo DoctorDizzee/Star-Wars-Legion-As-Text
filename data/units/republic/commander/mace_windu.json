@@ -16,13 +16,27 @@
     }
   },
   "keywords": [
-    "Jump 1",
-    "Charge",
-    "Compel: Corps Trooper",
-    "Deflect",
-    "Immune: Pierce",
-    "Master of the Force 1",
-    "Vaapad Mastery"
+    {
+      "ref": "keywords/jump_1"
+    },
+    {
+      "ref": "keywords/charge"
+    },
+    {
+      "ref": "keywords/compel_corps_trooper"
+    },
+    {
+      "ref": "keywords/deflect"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    },
+    {
+      "ref": "keywords/master_of_the_force_1"
+    },
+    {
+      "ref": "keywords/vaapad_mastery"
+    }
   ],
   "weapons": [
     {
@@ -37,8 +51,12 @@
         "white": 2
       },
       "keywords": [
-        "Impact 2",
-        "Pierce 2"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_2"
+        }
       ]
     },
     {
@@ -51,9 +69,15 @@
         "black": 4
       },
       "keywords": [
-        "Blast",
-        "Immobilize 1",
-        "Suppressive"
+        {
+          "ref": "keywords/blast"
+        },
+        {
+          "ref": "keywords/immobilize_1"
+        },
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     }
   ],

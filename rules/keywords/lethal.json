@@ -2,6 +2,7 @@
   "name": "Lethal",
   "slug": "lethal",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit makes an attack with an Attack Pool that has Lethal X, it can spend up to X Aim tokens during the Modify Attack Dice step. If it does, the Attack Pool gains Pierce 1 for each Aim token spent. The attacking unit may not reroll dice with any Aim tokens spent in this way.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit makes an attack with an Attack Pool that has Lethal X, it can spend up to X Aim tokens during the Modify Attack Dice step. If it does, the Attack Pool gains Pierce 1 for each Aim token spent. The attacking unit may not reroll dice with any Aim tokens spent in this way."
 }

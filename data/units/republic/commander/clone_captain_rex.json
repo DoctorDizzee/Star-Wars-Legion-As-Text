@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Gunslinger",
-    "Scout 1",
-    "Scouting Party 2",
-    "Sharpshooter 1",
-    "Tactical 1"
+    {
+      "ref": "keywords/gunslinger"
+    },
+    {
+      "ref": "keywords/scout_1"
+    },
+    {
+      "ref": "keywords/scouting_party_2"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    },
+    {
+      "ref": "keywords/tactical_1"
+    }
   ],
   "weapons": [
     {

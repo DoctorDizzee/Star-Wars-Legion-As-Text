@@ -2,6 +2,7 @@
   "name": "Uncanny Luck",
   "slug": "uncanny_luck",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "While a unit with the Uncanny Luck X keyword defends, it may reroll up to X defense dice during the Reroll Defense Dice step. Any dice rerolled with the Uncanny Luck X keyword must be rerolled at the same time, and each die cannot be rerolled more than once.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "While a unit with the Uncanny Luck X keyword defends, it may reroll up to X defense dice during the Reroll Defense Dice step. Any dice rerolled with the Uncanny Luck X keyword must be rerolled at the same time, and each die cannot be rerolled more than once."
 }

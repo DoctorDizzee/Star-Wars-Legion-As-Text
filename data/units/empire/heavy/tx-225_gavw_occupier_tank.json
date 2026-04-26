@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Armor 5",
-    "Arsenal 2",
-    "Reposition",
-    "Transport",
-    "Weak Point 1: Sides"
+    {
+      "ref": "keywords/armor_5"
+    },
+    {
+      "ref": "keywords/arsenal_2"
+    },
+    {
+      "ref": "keywords/reposition"
+    },
+    {
+      "ref": "keywords/transport"
+    },
+    {
+      "ref": "keywords/weak_point_1_sides"
+    }
   ],
   "weapons": [
     {
@@ -34,8 +44,12 @@
         "black": 1
       },
       "keywords": [
-        "Suppressive",
-        "Fixed: Front"
+        {
+          "ref": "keywords/suppressive"
+        },
+        {
+          "ref": "keywords/fixed_front"
+        }
       ]
     },
     {
@@ -49,8 +63,12 @@
         "black": 2
       },
       "keywords": [
-        "Impact 2",
-        "Fixed: Front"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/fixed_front"
+        }
       ]
     }
   ],

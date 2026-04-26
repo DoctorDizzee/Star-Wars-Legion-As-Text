@@ -16,13 +16,27 @@
     }
   },
   "keywords": [
-    "Jump 2",
-    "Associate: Anakin Skywalker",
-    "Deflect",
-    "Immune: Pierce",
-    "Independent: Recover",
-    "Scout 1",
-    "Shien Mastery"
+    {
+      "ref": "keywords/jump_2"
+    },
+    {
+      "ref": "keywords/associate_anakin_skywalker"
+    },
+    {
+      "ref": "keywords/deflect"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    },
+    {
+      "ref": "keywords/independent_recover"
+    },
+    {
+      "ref": "keywords/scout_1"
+    },
+    {
+      "ref": "keywords/shien_mastery"
+    }
   ],
   "weapons": [
     {
@@ -36,8 +50,12 @@
         "white": 5
       },
       "keywords": [
-        "Impact 2",
-        "Pierce 1"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     }
   ],

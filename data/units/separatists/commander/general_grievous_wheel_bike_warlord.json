@@ -16,34 +16,75 @@
     }
   },
   "keywords": [
-    "Armor 1",
-    "Climbing Vehicle",
-    "Command Vehicle 2",
-    "Entourage: TSMEU-6 Wheel Bikes",
-    "Immune: Melee Pierce",
-    "Mobile"
+    {
+      "ref": "keywords/armor_1"
+    },
+    {
+      "ref": "keywords/climbing_vehicle"
+    },
+    {
+      "ref": "keywords/command_vehicle_2"
+    },
+    {
+      "ref": "keywords/entourage_tsmeu_6_wheel_bikes"
+    },
+    {
+      "ref": "keywords/immune_melee_pierce"
+    },
+    {
+      "ref": "keywords/mobile"
+    }
   ],
   "weapons": [
     {
       "name": "Trophy Lightsabers",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 1, "black": 3, "white": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 1,
+        "black": 3,
+        "white": 1
+      },
       "keywords": [
-        "Impact 2",
-        "Overrun 1",
-        "Pierce 1",
-        "Ram 1",
-        "Scatter"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/overrun_1"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        },
+        {
+          "ref": "keywords/ram_1"
+        },
+        {
+          "ref": "keywords/scatter"
+        }
       ]
     },
     {
       "name": "Laser Cannon and Pistol",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 1, "black": 2 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "red": 1,
+        "black": 2
+      },
       "keywords": [
-        "Fixed: Front",
-        "Impact 1",
-        "Pierce 1"
+        {
+          "ref": "keywords/fixed_front"
+        },
+        {
+          "ref": "keywords/impact_1"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     }
   ],

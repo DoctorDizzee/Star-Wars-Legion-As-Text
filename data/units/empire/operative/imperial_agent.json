@@ -16,8 +16,12 @@
     }
   },
   "keywords": [
-    "Equip: Command",
-    "Relentless"
+    {
+      "ref": "keywords/equip_command"
+    },
+    {
+      "ref": "keywords/relentless"
+    }
   ],
   "weapons": [
     {

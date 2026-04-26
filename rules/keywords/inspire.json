@@ -2,6 +2,7 @@
   "name": "Inspire",
   "slug": "inspire",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2.",
+  "official_rules_text": "When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2.",
+  "source": "Rulebook PDF"
 }

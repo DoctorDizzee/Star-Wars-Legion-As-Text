@@ -16,9 +16,15 @@
     }
   },
   "keywords": [
-    "Bolster 2",
-    "Direct: Corps Clone Trooper Unit",
-    "Sharpshooter 1"
+    {
+      "ref": "keywords/bolster_2"
+    },
+    {
+      "ref": "keywords/direct_corps_clone_trooper_unit"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    }
   ],
   "weapons": [
     {

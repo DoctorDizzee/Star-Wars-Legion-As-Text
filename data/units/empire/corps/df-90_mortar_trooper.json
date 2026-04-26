@@ -16,12 +16,24 @@
     }
   },
   "keywords": [
-    "Detachment: Shoretroopers",
-    "Fire Support",
-    "Full Pivot",
-    "Prepared Position",
-    "Reposition",
-    "Sentinel"
+    {
+      "ref": "keywords/detachment_shoretroopers"
+    },
+    {
+      "ref": "keywords/fire_support"
+    },
+    {
+      "ref": "keywords/full_pivot"
+    },
+    {
+      "ref": "keywords/prepared_position"
+    },
+    {
+      "ref": "keywords/reposition"
+    },
+    {
+      "ref": "keywords/sentinel"
+    }
   ],
   "weapons": [
     {
@@ -45,10 +57,18 @@
         "white": 3
       },
       "keywords": [
-        "Fixed: Front",
-        "Critical 1",
-        "Cumbersome",
-        "Suppressive"
+        {
+          "ref": "keywords/fixed_front"
+        },
+        {
+          "ref": "keywords/critical_1"
+        },
+        {
+          "ref": "keywords/cumbersome"
+        },
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     }
   ],

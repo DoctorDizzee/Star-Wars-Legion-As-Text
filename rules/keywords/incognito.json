@@ -1,0 +1,8 @@
+{
+  "name": "Incognito",
+  "slug": "incognito",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit with the Incognito keyword cannot be attacked by enemy units that are not within 1 of it, cannot Contest Objectives, and cannot provide Backup. If a unit with the Incognito keyword ever makes an attack or defends against an attack, it loses the Incognito keyword for the remainder of the game. Additionally, at the beginning of a unit with the Incognito keyword’s Activation, it may choose to lose the Incognito keyword for the remainder of the game.",
+  "description": "A unit with the Incognito keyword cannot be attacked by enemy units that are not within 1 of it, cannot Contest Objectives, and cannot provide Backup. If a unit with the Incognito keyword ever makes an attack or defends against an attack, it loses the Incognito keyword for the remainder of the game. Additionally, at the beginning of a unit with the Incognito keyword’s Activation, it may choose to lose the Incognito keyword for the remainder of the game."
+}

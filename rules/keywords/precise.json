@@ -1,0 +1,8 @@
+{
+  "name": "Precise X",
+  "slug": "precise",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "Each time a unit with the Precise X keyword spends an Aim token during the Reroll Attack Dice step, it can reroll up to X additional attack dice per Aim token spent.",
+  "description": "Each time a unit with the Precise X keyword spends an Aim token during the Reroll Attack Dice step, it can reroll up to X additional attack dice per Aim token spent."
+}

@@ -16,16 +16,30 @@
     }
   },
   "keywords": [
-    "Mercenary: Galactic Empire, Separatist Alliance",
-    "Aid: Black Sun",
-    "Dauntless",
-    "Independent: Aim 1"
+    {
+      "ref": "keywords/mercenary_galactic_empire_separatist_alliance"
+    },
+    {
+      "ref": "keywords/aid_black_sun"
+    },
+    {
+      "ref": "keywords/dauntless"
+    },
+    {
+      "ref": "keywords/independent_aim_1"
+    }
   ],
   "weapons": [
     {
       "name": "Vigo's Double Blaster",
-      "range": { "min": 0, "max": 2 },
-      "dice": { "black": 2, "white": 2 },
+      "range": {
+        "min": 0,
+        "max": 2
+      },
+      "dice": {
+        "black": 2,
+        "white": 2
+      },
       "keywords": []
     }
   ],

@@ -2,6 +2,7 @@
   "name": "Makashi Mastery",
   "slug": "makashi_mastery",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the Makashi Mastery keyword makes a Melee attack, it can reduce the Pierce X value of a weapon in the Attack Pool by 1 during the Choose Weapons and Gather Dice step. If it does, the defender cannot use the Immune: Melee Pierce, Immune: Pierce, and/or Impervious keywords during this attack.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Makashi Mastery keyword makes a Melee attack, it can reduce the Pierce X value of a weapon in the Attack Pool by 1 during the Choose Weapons and Gather Dice step. If it does, the defender cannot use the Immune: Melee Pierce, Immune: Pierce, and/or Impervious keywords during this attack."
 }

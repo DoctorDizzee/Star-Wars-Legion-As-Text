@@ -2,6 +2,7 @@
   "name": "Enrage",
   "slug": "enrage",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the Enrage X keyword has Wound tokens greater than or equal to X, that unit gains the Charge keyword and its unit becomes “-” . If a unit with the Enrage X keyword has Wound tokens greater than or equal to X but removes Wound tokens through an effect so that it has fewer than X, it no longer bene/f_its from the Enrage X keyword until it has Wound tokens greater than or equal to X again.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Enrage X keyword has Wound tokens greater than or equal to X, that unit gains the Charge keyword and its unit becomes “-” . If a unit with the Enrage X keyword has Wound tokens greater than or equal to X but removes Wound tokens through an effect so that it has fewer than X, it no longer bene/f_its from the Enrage X keyword until it has Wound tokens greater than or equal to X again."
 }

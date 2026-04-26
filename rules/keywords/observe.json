@@ -1,0 +1,8 @@
+{
+  "name": "Observe X",
+  "slug": "observe",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "As a Card action, a unit with the Observe X keyword can choose an enemy unit within 3 and in LOS. The chosen enemy unit gains X Observation tokens. Observation tokens are removed during the Remove Tokens step of the End Phase. When an allied unit makes an attack, during the Reroll Attack Dice step it may spend any number of Observation tokens that belong to the defending unit. The attacking unit rerolls 1 attack die for each Observation token spent in this way. Observation tokens are spent 1 at a time, and the same die can be rerolled multiple times by spending subsequent Observation tokens or Aim tokens. An attacking unit may spend Aim tokens and Observation tokens in any order.",
+  "description": "As a Card action, a unit with the Observe X keyword can choose an enemy unit within 3 and in LOS. The chosen enemy unit gains X Observation tokens. Observation tokens are removed during the Remove Tokens step of the End Phase. When an allied unit makes an attack, during the Reroll Attack Dice step it may spend any number of Observation tokens that belong to the defending unit. The attacking unit rerolls 1 attack die for each Observation token spent in this way. Observation tokens are spent 1 at a time, and the same die can be rerolled multiple times by spending subsequent Observation tokens or Aim tokens. An attacking unit may spend Aim tokens and Observation tokens in any order."
+}

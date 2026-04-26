@@ -16,38 +16,78 @@
     }
   },
   "keywords": [
-    "Armor 5",
-    "Arsenal 2",
-    "Inspire 3",
-    "Incognito",
-    "Weak Point 1: Rear"
+    {
+      "ref": "keywords/armor_5"
+    },
+    {
+      "ref": "keywords/arsenal_2"
+    },
+    {
+      "ref": "keywords/inspire"
+    },
+    {
+      "ref": "keywords/incognito"
+    },
+    {
+      "ref": "keywords/weak_point_1_rear"
+    }
   ],
   "weapons": [
     {
       "name": "Grenade Launcher",
-      "range": { "min": 0, "max": 2 },
-      "dice": { "black": 2 },
+      "range": {
+        "min": 0,
+        "max": 2
+      },
+      "dice": {
+        "black": 2
+      },
       "keywords": [
-        "Fixed: Front",
-        "Blast"
+        {
+          "ref": "keywords/fixed_front"
+        },
+        {
+          "ref": "keywords/blast"
+        }
       ]
     },
     {
       "name": "88 Twin Light Blaster",
-      "range": { "min": 0, "max": 3 },
-      "dice": { "red": 1, "white": 1, "black": 1 },
+      "range": {
+        "min": 0,
+        "max": 3
+      },
+      "dice": {
+        "red": 1,
+        "white": 1,
+        "black": 1
+      },
       "keywords": [
-        "Fixed: Front",
-        "Impact 1"
+        {
+          "ref": "keywords/fixed_front"
+        },
+        {
+          "ref": "keywords/impact_1"
+        }
       ]
     },
     {
       "name": "MS-4 Twin Blaster",
-      "range": { "min": 1, "max": 4 },
-      "dice": { "red": 2, "black": 2 },
+      "range": {
+        "min": 1,
+        "max": 4
+      },
+      "dice": {
+        "red": 2,
+        "black": 2
+      },
       "keywords": [
-        "Fixed: Front",
-        "Impact 3"
+        {
+          "ref": "keywords/fixed_front"
+        },
+        {
+          "ref": "keywords/impact_3"
+        }
       ]
     }
   ],

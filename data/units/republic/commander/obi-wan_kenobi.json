@@ -16,13 +16,27 @@
     }
   },
   "keywords": [
-    "Jump 1",
-    "Charge",
-    "Deflect",
-    "Guardian 3",
-    "Immune: Pierce",
-    "Master of the Force 1",
-    "Soresu Mastery"
+    {
+      "ref": "keywords/jump_1"
+    },
+    {
+      "ref": "keywords/charge"
+    },
+    {
+      "ref": "keywords/deflect"
+    },
+    {
+      "ref": "keywords/guardian_3"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    },
+    {
+      "ref": "keywords/master_of_the_force_1"
+    },
+    {
+      "ref": "keywords/soresu_mastery"
+    }
   ],
   "weapons": [
     {
@@ -37,9 +51,15 @@
         "white": 2
       },
       "keywords": [
-        "Critical 2",
-        "Impact 2",
-        "Pierce 2"
+        {
+          "ref": "keywords/critical_2"
+        },
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_2"
+        }
       ]
     }
   ],

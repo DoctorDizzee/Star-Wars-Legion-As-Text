@@ -16,7 +16,9 @@
     }
   },
   "keywords": [
-    "Steady"
+    {
+      "ref": "keywords/steady"
+    }
   ],
   "weapons": [
     {

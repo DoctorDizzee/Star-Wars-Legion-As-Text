@@ -2,6 +2,7 @@
   "name": "Take Cover",
   "slug": "take_cover",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "As a Card or Free Card action, a unit with the Take Cover X keyword can choose up to X allied units within 2. Each chosen unit gains 1 Dodge token.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "As a Card or Free Card action, a unit with the Take Cover X keyword can choose up to X allied units within 2. Each chosen unit gains 1 Dodge token."
 }

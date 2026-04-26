@@ -16,12 +16,24 @@
     }
   },
   "keywords": [
-    "Observe 3",
-    "Self-Destruct 3",
-    "Detachment: Special Forces",
-    "Disengage",
-    "Infiltrate",
-    "Hover: Air 1"
+    {
+      "ref": "keywords/observe_3"
+    },
+    {
+      "ref": "keywords/self_destruct_3"
+    },
+    {
+      "ref": "keywords/detachment_special_forces"
+    },
+    {
+      "ref": "keywords/disengage"
+    },
+    {
+      "ref": "keywords/infiltrate"
+    },
+    {
+      "ref": "keywords/hover_air_1"
+    }
   ],
   "weapons": [
     {

@@ -2,6 +2,7 @@
   "name": "Ram",
   "slug": "ram",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "While a unit makes an attack with an Attack Pool that has the Ram X keyword, during the Modify Attack Dice step, it may change X results to b results if it meets either of the following conditions: • The unit leader has a notched base and the unit made at least 1 full Standard Move at its Speed during the same Activation as an attack using Ram X. • The unit leader has an unnotched base and the unit made at least 1 Move during the same Activation as an attack using Ram X.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "While a unit makes an attack with an Attack Pool that has the Ram X keyword, during the Modify Attack Dice step, it may change X results to b results if it meets either of the following conditions: • The unit leader has a notched base and the unit made at least 1 full Standard Move at its Speed during the same Activation as an attack using Ram X. • The unit leader has an unnotched base and the unit made at least 1 Move during the same Activation as an attack using Ram X."
 }

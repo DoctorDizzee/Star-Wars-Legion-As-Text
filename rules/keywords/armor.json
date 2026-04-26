@@ -2,6 +2,7 @@
   "name": "Armor",
   "slug": "armor",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "Official rulebook text not available from extracted source.",
+  "source": "Unit dataset cross-reference",
+  "official_rules_text": "Official rulebook text not available from extracted source."
 }

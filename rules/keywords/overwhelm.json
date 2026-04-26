@@ -1,0 +1,8 @@
+{
+  "name": "Overwhelm",
+  "slug": "overwhelm",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit attacks with an Attack Pool that has 1 or more weapons with the Overwhelm keyword , if it spends at least 1 Aim token during the Reroll Dice step, the defending unit gains 1 Suppression token during the Assign Suppression Token to Defender step.",
+  "description": "When a unit attacks with an Attack Pool that has 1 or more weapons with the Overwhelm keyword , if it spends at least 1 Aim token during the Reroll Dice step, the defending unit gains 1 Suppression token during the Assign Suppression Token to Defender step."
+}

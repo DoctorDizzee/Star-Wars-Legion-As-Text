@@ -1,0 +1,8 @@
+{
+  "name": "Anti-personnel X",
+  "slug": "anti_personnel",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit makes an attack that has the Anti-Personnel X keyword in the Attack Pool, if the defending unit is a Trooper unit, upgrade X of that weapon’s attack dice.",
+  "description": "When a unit makes an attack that has the Anti-Personnel X keyword in the Attack Pool, if the defending unit is a Trooper unit, upgrade X of that weapon’s attack dice."
+}

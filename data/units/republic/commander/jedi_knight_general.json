@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Deflect",
-    "Equip: Command, Training",
-    "Immune: Pierce",
-    "Master of the Force 1"
+    {
+      "ref": "keywords/deflect"
+    },
+    {
+      "ref": "keywords/equip_command_training"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    },
+    {
+      "ref": "keywords/master_of_the_force_1"
+    }
   ],
   "weapons": [],
   "upgrade_slots": [

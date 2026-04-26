@@ -1,0 +1,8 @@
+{
+  "name": "Master Storyteller",
+  "slug": "master_storyteller",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "As a Card action, a unit with the Master Storyteller keyword may choose up to X allied unit units within 2, where X is the current Round number. Each chosen unit gains 2 Surge tokens.",
+  "description": "As a Card action, a unit with the Master Storyteller keyword may choose up to X allied unit units within 2, where X is the current Round number. Each chosen unit gains 2 Surge tokens."
+}

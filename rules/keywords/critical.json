@@ -1,0 +1,8 @@
+{
+  "name": "Critical X",
+  "slug": "critical",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit attacks, if the Critical X keyword is in the Attack Pool, during the Convert Surges step it may convert up to X c results to b results.",
+  "description": "When a unit attacks, if the Critical X keyword is in the Attack Pool, during the Convert Surges step it may convert up to X c results to b results."
+}

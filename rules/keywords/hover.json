@@ -2,6 +2,7 @@
   "name": "Hover",
   "slug": "hover",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "A unit with the Hover: Ground or Hover: Air X keyword can make Standby actions during the Make Actions step and can gain and spend Standby tokens. A unit with the Hover: Ground or Hover: Air X keyword can make Reverse Moves. A unit with the Hover: Ground keyword is treated as a Ground Vehicle by other units for all LOS purposes. For all other game effects, the unit is still treated as a Repulsor Vehicle. A unit with the Hover: Air X keyword ignores terrain of height X or lower while Moving and may end a movement overlapping such terrain.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit with the Hover: Ground or Hover: Air X keyword can make Standby actions during the Make Actions step and can gain and spend Standby tokens. A unit with the Hover: Ground or Hover: Air X keyword can make Reverse Moves. A unit with the Hover: Ground keyword is treated as a Ground Vehicle by other units for all LOS purposes. For all other game effects, the unit is still treated as a Repulsor Vehicle. A unit with the Hover: Air X keyword ignores terrain of height X or lower while Moving and may end a movement overlapping such terrain."
 }

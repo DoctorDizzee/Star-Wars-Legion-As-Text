@@ -16,8 +16,12 @@
     }
   },
   "keywords": [
-    "Pulling the Strings: Galactic Empire Trooper",
-    "Entourage: Darth Vader"
+    {
+      "ref": "keywords/pulling_the_strings_galactic_empire_trooper"
+    },
+    {
+      "ref": "keywords/entourage_darth_vader"
+    }
   ],
   "weapons": [
     {

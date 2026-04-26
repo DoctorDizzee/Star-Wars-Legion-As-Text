@@ -2,6 +2,7 @@
   "name": "Versatile",
   "slug": "versatile",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "Units can make Ranged attacks with a weapon that has the Versatile keyword even when they are Engaged. A weapon with the Versatile keyword that is both a Ranged weapon and a Melee weapon can be used to make either a Ranged attack or a Melee attack.POISON X A non-Droid Trooper Trooper unit that suffers 1 or more Wounds caused by an Attack Pool that has the Poison X keyword gains X Poison tokens. When a unit with 1 or more Poison tokens ends its Activation, it suffers 1 Wound for each Poison token it has, then removes all of its Poison tokens.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "Units can make Ranged attacks with a weapon that has the Versatile keyword even when they are Engaged. A weapon with the Versatile keyword that is both a Ranged weapon and a Melee weapon can be used to make either a Ranged attack or a Melee attack.POISON X A non-Droid Trooper Trooper unit that suffers 1 or more Wounds caused by an Attack Pool that has the Poison X keyword gains X Poison tokens. When a unit with 1 or more Poison tokens ends its Activation, it suffers 1 Wound for each Poison token it has, then removes all of its Poison tokens."
 }

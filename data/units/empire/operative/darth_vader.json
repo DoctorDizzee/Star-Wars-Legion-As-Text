@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Deflect",
-    "Immune: Pierce",
-    "Jedi Hunter",
-    "Master of the Force 1",
-    "Relentless"
+    {
+      "ref": "keywords/deflect"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    },
+    {
+      "ref": "keywords/jedi_hunter"
+    },
+    {
+      "ref": "keywords/master_of_the_force_1"
+    },
+    {
+      "ref": "keywords/relentless"
+    }
   ],
   "weapons": [
     {
@@ -33,8 +43,12 @@
         "red": 5
       },
       "keywords": [
-        "Impact 3",
-        "Pierce 3"
+        {
+          "ref": "keywords/impact_3"
+        },
+        {
+          "ref": "keywords/pierce_3"
+        }
       ]
     },
     {
@@ -47,8 +61,12 @@
         "black": 2
       },
       "keywords": [
-        "Blast",
-        "Scatter"
+        {
+          "ref": "keywords/blast"
+        },
+        {
+          "ref": "keywords/scatter"
+        }
       ]
     }
   ],

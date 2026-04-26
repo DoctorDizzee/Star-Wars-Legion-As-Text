@@ -1,0 +1,8 @@
+{
+  "name": "Primitive",
+  "slug": "primitive",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit attacks, if its Attack Pool has the Primitive keyword and the defending unit has the Armor X keyword, after resolving any instances of the Impact X keyword during the Modify Attack Dice step, the attacking unit must modify all b results to a results.",
+  "description": "When a unit attacks, if its Attack Pool has the Primitive keyword and the defending unit has the Armor X keyword, after resolving any instances of the Impact X keyword during the Modify Attack Dice step, the attacking unit must modify all b results to a results."
+}

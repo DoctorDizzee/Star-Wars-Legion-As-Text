@@ -2,6 +2,7 @@
   "name": "Sharpshooter",
   "slug": "sharpshooter",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "During the Determine Cover step, a unit with the Sharpshooter X keyword subtracts X from the numerical value of the defender’s Cover. For example, a unit with heavy Cover and 1 Suppression token that is attacked by a unit with Sharpshooter 1 has light Cover.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "During the Determine Cover step, a unit with the Sharpshooter X keyword subtracts X from the numerical value of the defender’s Cover. For example, a unit with heavy Cover and 1 Suppression token that is attacked by a unit with Sharpshooter 1 has light Cover."
 }

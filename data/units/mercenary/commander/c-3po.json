@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Master Storyteller",
-    "Compel: Ewok Trooper",
-    "Divine Influence",
-    "Infiltrate"
+    {
+      "ref": "keywords/master_storyteller"
+    },
+    {
+      "ref": "keywords/compel_ewok_trooper"
+    },
+    {
+      "ref": "keywords/divine_influence"
+    },
+    {
+      "ref": "keywords/infiltrate"
+    }
   ],
   "weapons": [],
   "upgrade_slots": []

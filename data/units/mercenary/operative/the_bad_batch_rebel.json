@@ -16,27 +16,53 @@
     }
   },
   "keywords": [
-    "Mercenary: Rebel Alliance",
-    "Equip: Echo, Hunter, Wrecker, Tech",
-    "Impervious",
-    "Scale",
-    "Steady",
-    "Sharpshooter 1",
-    "We're Not Regs"
+    {
+      "ref": "keywords/mercenary_rebel_alliance"
+    },
+    {
+      "ref": "keywords/equip_echo_hunter_wrecker_tech"
+    },
+    {
+      "ref": "keywords/impervious"
+    },
+    {
+      "ref": "keywords/scale"
+    },
+    {
+      "ref": "keywords/steady"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    },
+    {
+      "ref": "keywords/were_not_regs"
+    }
   ],
   "weapons": [
     {
       "name": "Advanced Training",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 1
+      },
       "keywords": []
     },
     {
       "name": "DC-17 Blaster Pistols",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "white": 2 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "white": 2
+      },
       "keywords": []
     }
   ],
-  "upgrade_slots": ["Omega"]
+  "upgrade_slots": [
+    "Omega"
+  ]
 }

@@ -16,9 +16,15 @@
     }
   },
   "keywords": [
-    "Arsenal 2",
-    "Cover 1",
-    "Speeder 1"
+    {
+      "ref": "keywords/arsenal_2"
+    },
+    {
+      "ref": "keywords/cover_1"
+    },
+    {
+      "ref": "keywords/speeder_1"
+    }
   ],
   "weapons": [
     {
@@ -44,7 +50,9 @@
         "white": 1
       },
       "keywords": [
-        "Fixed: Front"
+        {
+          "ref": "keywords/fixed_front"
+        }
       ]
     }
   ],

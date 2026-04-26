@@ -1,0 +1,8 @@
+{
+  "name": "Spray",
+  "slug": "spray",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a miniature adds a weapon that has the Spray keyword to an Attack Pool, that weapon adds its dice a number of times equal to the number of miniatures in the defending unit that are in LOS of the miniature using that weapon. For example, if an AT-RT with a flamethrower attacks a unit of 3 Death Troopers, since the flamethrower has the Spray keyword and an attack value of 2 black die, the flamethrower contributes6 black attack dice to the Attack Pool.",
+  "description": "When a miniature adds a weapon that has the Spray keyword to an Attack Pool, that weapon adds its dice a number of times equal to the number of miniatures in the defending unit that are in LOS of the miniature using that weapon. For example, if an AT-RT with a flamethrower attacks a unit of 3 Death Troopers, since the flamethrower has the Spray keyword and an attack value of 2 black die, the flamethrower contributes6 black attack dice to the Attack Pool."
+}

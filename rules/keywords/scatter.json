@@ -2,6 +2,7 @@
   "name": "Scatter",
   "slug": "scatter",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit attacks a small based Trooper unit with an Attack Pool that has the Scatter keyword, after the attack is resolved, it may place any of the non-unit leader miniatures in the defending unit in Cohesion.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit attacks a small based Trooper unit with an Attack Pool that has the Scatter keyword, after the attack is resolved, it may place any of the non-unit leader miniatures in the defending unit in Cohesion."
 }

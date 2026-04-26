@@ -16,21 +16,43 @@
     }
   },
   "keywords": [
-    "AI: Attack",
-    "Generator 1",
-    "Reposition",
-    "Shielded 4",
-    "Unconcerned",
-    "Wheel Mode"
+    {
+      "ref": "keywords/ai_attack"
+    },
+    {
+      "ref": "keywords/generator_1"
+    },
+    {
+      "ref": "keywords/reposition"
+    },
+    {
+      "ref": "keywords/shielded_4"
+    },
+    {
+      "ref": "keywords/unconcerned"
+    },
+    {
+      "ref": "keywords/wheel_mode"
+    }
   ],
   "weapons": [
     {
       "name": "Dual Blaster Cannons",
-      "range": { "min": 0, "max": 3 },
-      "dice": { "red": 1, "black": 2 },
+      "range": {
+        "min": 0,
+        "max": 3
+      },
+      "dice": {
+        "red": 1,
+        "black": 2
+      },
       "keywords": [
-        "Immune: Deflect",
-        "Suppressive"
+        {
+          "ref": "keywords/immune_deflect"
+        },
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     }
   ],

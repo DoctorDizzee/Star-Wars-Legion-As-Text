@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Armor 5",
-    "Hover: Ground",
-    "Reposition",
-    "Transport",
-    "Weak Point 2: Rear"
+    {
+      "ref": "keywords/armor_5"
+    },
+    {
+      "ref": "keywords/hover_ground"
+    },
+    {
+      "ref": "keywords/reposition"
+    },
+    {
+      "ref": "keywords/transport"
+    },
+    {
+      "ref": "keywords/weak_point_2_rear"
+    }
   ],
   "weapons": [],
   "upgrade_slots": [

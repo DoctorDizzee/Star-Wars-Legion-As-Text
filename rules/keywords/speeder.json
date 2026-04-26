@@ -2,6 +2,7 @@
   "name": "Speeder",
   "slug": "speeder",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "A unit with the Speeder X keyword can Move over or end its movement on terrain equal to or less than height X. Additionally, when a unit with the Speeder X keyword on notched bases makes a Move, it skips step 1 of the notched base movement. A unit with the Speeder X keyword must make a free compulsory Move action at the start or end of its Make Actions step. If a unit with the Speeder X keyword makes more than 1 non-compulsory Move action during its Activation, it may not claim Asset tokens that Activation. Additionally, a unit with the Speeder X keyword that has claimed an Asset token can make only 1 non-compulsory Move action during its Activation.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit with the Speeder X keyword can Move over or end its movement on terrain equal to or less than height X. Additionally, when a unit with the Speeder X keyword on notched bases makes a Move, it skips step 1 of the notched base movement. A unit with the Speeder X keyword must make a free compulsory Move action at the start or end of its Make Actions step. If a unit with the Speeder X keyword makes more than 1 non-compulsory Move action during its Activation, it may not claim Asset tokens that Activation. Additionally, a unit with the Speeder X keyword that has claimed an Asset token can make only 1 non-compulsory Move action during its Activation."
 }

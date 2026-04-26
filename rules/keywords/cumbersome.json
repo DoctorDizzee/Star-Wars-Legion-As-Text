@@ -1,0 +1,8 @@
+{
+  "name": "Cumbersome",
+  "slug": "cumbersome",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit adds a weapon with the Cumbersome keyword to an Attack Pool, it downgrades each of that weapon's attack dice if that unit has made any Moves during the same Activation.",
+  "description": "When a unit adds a weapon with the Cumbersome keyword to an Attack Pool, it downgrades each of that weapon's attack dice if that unit has made any Moves during the same Activation."
+}

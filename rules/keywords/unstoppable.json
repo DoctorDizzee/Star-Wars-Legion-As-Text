@@ -1,0 +1,8 @@
+{
+  "name": "Unstoppable",
+  "slug": "unstoppable",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit with the Unstoppable keyword is eligible to activate during the Activation Phase while it has 1 or fewer Order tokens. /T_his unit may never have more than 1 faceup Order token. While this unit is not defeated, when its controlling player is creating their Order Pool, they add an additional Order token corresponding to this unit’s Rank to their Order Pool.",
+  "description": "A unit with the Unstoppable keyword is eligible to activate during the Activation Phase while it has 1 or fewer Order tokens. /T_his unit may never have more than 1 faceup Order token. While this unit is not defeated, when its controlling player is creating their Order Pool, they add an additional Order token corresponding to this unit’s Rank to their Order Pool."
+}

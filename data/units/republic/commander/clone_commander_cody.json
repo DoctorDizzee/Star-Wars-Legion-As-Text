@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Observe 2",
-    "Jump 1",
-    "Take Cover 1",
-    "Direct: Vehicle",
-    "Target 1"
+    {
+      "ref": "keywords/observe_2"
+    },
+    {
+      "ref": "keywords/jump_1"
+    },
+    {
+      "ref": "keywords/take_cover_1"
+    },
+    {
+      "ref": "keywords/direct_vehicle"
+    },
+    {
+      "ref": "keywords/target_1"
+    }
   ],
   "weapons": [
     {
@@ -46,8 +56,12 @@
         "white": 1
       },
       "keywords": [
-        "Lethal 1",
-        "Impact 1"
+        {
+          "ref": "keywords/lethal_1"
+        },
+        {
+          "ref": "keywords/impact_1"
+        }
       ]
     }
   ],

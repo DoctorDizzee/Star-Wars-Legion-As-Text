@@ -1,0 +1,8 @@
+{
+  "name": "Immobilize X",
+  "slug": "immobilize",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit that suffers 1 or more Wounds from an attack that has Immobilize X in the Attack Pool gains X Immobilize tokens. When a unit makes a Move, its Speed is reduced by 1 for each Immobilize token it has. After modifiers, if a unit is Speed is 0 it cannot make Moves of any kind. At the end of a unit’s Activation, it removes any Immobilize tokens that it has. When a unit makes a Move, apply any effects that increase the unit’s Speed before applying any effects that reduce its Speed.",
+  "description": "A unit that suffers 1 or more Wounds from an attack that has Immobilize X in the Attack Pool gains X Immobilize tokens. When a unit makes a Move, its Speed is reduced by 1 for each Immobilize token it has. After modifiers, if a unit is Speed is 0 it cannot make Moves of any kind. At the end of a unit’s Activation, it removes any Immobilize tokens that it has. When a unit makes a Move, apply any effects that increase the unit’s Speed before applying any effects that reduce its Speed."
+}

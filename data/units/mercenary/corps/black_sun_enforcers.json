@@ -16,23 +16,43 @@
     }
   },
   "keywords": [
-    "Mercenary: Galactic Empire, Separatist Alliance",
-    "Dauntless",
-    "Independent: Aim 1",
-    "Precise 1",
-    "Self-Preservation"
+    {
+      "ref": "keywords/mercenary_galactic_empire_separatist_alliance"
+    },
+    {
+      "ref": "keywords/dauntless"
+    },
+    {
+      "ref": "keywords/independent_aim_1"
+    },
+    {
+      "ref": "keywords/precise_1"
+    },
+    {
+      "ref": "keywords/self_preservation"
+    }
   ],
   "weapons": [
     {
       "name": "Close Quarters Combat",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 1
+      },
       "keywords": []
     },
     {
       "name": "Double Blaster",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "white": 2 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "white": 2
+      },
       "keywords": []
     }
   ],

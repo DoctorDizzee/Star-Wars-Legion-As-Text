@@ -16,9 +16,15 @@
     }
   },
   "keywords": [
-    "Disciplined 1",
-    "Precise 2",
-    "Ready 1"
+    {
+      "ref": "keywords/disciplined_1"
+    },
+    {
+      "ref": "keywords/precise_2"
+    },
+    {
+      "ref": "keywords/ready_1"
+    }
   ],
   "weapons": [
     {

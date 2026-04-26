@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Armor 3",
-    "Plodding",
-    "Unconcerned",
-    "Unstoppable"
+    {
+      "ref": "keywords/armor_3"
+    },
+    {
+      "ref": "keywords/plodding"
+    },
+    {
+      "ref": "keywords/unconcerned"
+    },
+    {
+      "ref": "keywords/unstoppable"
+    }
   ],
   "weapons": [
     {

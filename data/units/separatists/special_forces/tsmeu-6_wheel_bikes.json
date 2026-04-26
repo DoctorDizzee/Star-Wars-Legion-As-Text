@@ -16,27 +16,52 @@
     }
   },
   "keywords": [
-    "AI: Dodge",
-    "Armor 1",
-    "Climbing Vehicle",
-    "Mobile"
+    {
+      "ref": "keywords/ai_dodge"
+    },
+    {
+      "ref": "keywords/armor_1"
+    },
+    {
+      "ref": "keywords/climbing_vehicle"
+    },
+    {
+      "ref": "keywords/mobile"
+    }
   ],
   "weapons": [
     {
       "name": "Spiked Wheel",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 3 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 3
+      },
       "keywords": [
-        "Overrun 2"
+        {
+          "ref": "keywords/overrun_2"
+        }
       ]
     },
     {
       "name": "Double Laser Cannon",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "red": 1, "white": 1 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "red": 1,
+        "white": 1
+      },
       "keywords": [
-        "Fixed: Front",
-        "Impact 1"
+        {
+          "ref": "keywords/fixed_front"
+        },
+        {
+          "ref": "keywords/impact_1"
+        }
       ]
     }
   ],

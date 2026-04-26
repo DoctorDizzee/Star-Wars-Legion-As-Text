@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Observe 1",
-    "Entourage: Imperial Dark Troopers",
-    "Ruthless",
-    "Sharpshooter 1",
-    "Tactical 1"
+    {
+      "ref": "keywords/observe_1"
+    },
+    {
+      "ref": "keywords/entourage_imperial_dark_troopers"
+    },
+    {
+      "ref": "keywords/ruthless"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    },
+    {
+      "ref": "keywords/tactical_1"
+    }
   ],
   "weapons": [
     {
@@ -45,7 +55,9 @@
         "black": 2
       },
       "keywords": [
-        "Pierce 1"
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     }
   ],

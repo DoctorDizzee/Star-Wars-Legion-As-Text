@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Block",
-    "Dauntless",
-    "Enrage 2",
-    "Immune: Pierce"
+    {
+      "ref": "keywords/block"
+    },
+    {
+      "ref": "keywords/dauntless"
+    },
+    {
+      "ref": "keywords/enrage_2"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    }
   ],
   "weapons": [
     {
@@ -32,9 +40,15 @@
         "black": 5
       },
       "keywords": [
-        "Impact 2",
-        "Pierce 1",
-        "Ram 2"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        },
+        {
+          "ref": "keywords/ram_2"
+        }
       ]
     },
     {
@@ -47,8 +61,12 @@
         "black": 3
       },
       "keywords": [
-        "Impact 2",
-        "Pierce 1"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     }
   ],

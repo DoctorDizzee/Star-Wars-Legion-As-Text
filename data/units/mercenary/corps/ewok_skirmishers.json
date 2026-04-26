@@ -16,15 +16,26 @@
     }
   },
   "keywords": [
-    "Mercenary: Rebel Alliance",
-    "Low Profile",
-    "Unhindered"
+    {
+      "ref": "keywords/mercenary_rebel_alliance"
+    },
+    {
+      "ref": "keywords/low_profile"
+    },
+    {
+      "ref": "keywords/unhindered"
+    }
   ],
   "weapons": [
     {
       "name": "Spear",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 1
+      },
       "keywords": []
     }
   ],

@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Cover 2",
-    "Immune: Blast, Melee, Range 1 Weapons",
-    "Reposition",
-    "Speeder 2"
+    {
+      "ref": "keywords/cover_2"
+    },
+    {
+      "ref": "keywords/immune_blast_melee_range_1_weapons"
+    },
+    {
+      "ref": "keywords/reposition"
+    },
+    {
+      "ref": "keywords/speeder_2"
+    }
   ],
   "weapons": [
     {

@@ -1,0 +1,8 @@
+{
+  "name": "Teamwork: Unit Name",
+  "slug": "teamwork_unit_name",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "While a unit with the Teamwork keyword is within 2 of an allied unit that has the unit name speci/f_ied by the Teamwork keyword, if either unit gains 1 or more Aim tokens or 1 or more Dodge tokens, the other unit gains 1 token of the same type.",
+  "description": "While a unit with the Teamwork keyword is within 2 of an allied unit that has the unit name speci/f_ied by the Teamwork keyword, if either unit gains 1 or more Aim tokens or 1 or more Dodge tokens, the other unit gains 1 token of the same type."
+}

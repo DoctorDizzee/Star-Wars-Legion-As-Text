@@ -1,0 +1,8 @@
+{
+  "name": "Smoke X",
+  "slug": "smoke",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit that has the Smoke X keyword can make the Smoke X action to place X Smoke tokens comepletely within 1 and in LOS of its unit leader. Smoke tokens cannot overlap any Objective, Advantage, Charge, or other Smoke tokens and must be placed on a flat surface.",
+  "description": "A unit that has the Smoke X keyword can make the Smoke X action to place X Smoke tokens comepletely within 1 and in LOS of its unit leader. Smoke tokens cannot overlap any Objective, Advantage, Charge, or other Smoke tokens and must be placed on a flat surface."
+}

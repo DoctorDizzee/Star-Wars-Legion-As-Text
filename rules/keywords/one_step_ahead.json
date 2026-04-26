@@ -2,6 +2,7 @@
   "name": "One Step Ahead",
   "slug": "one_step_ahead",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "If 1 or more allied units have the One Step Ahead keyword, during the Resolve Command Card Effects step, after revealing Command Cards but before resolving Command Card effects, if the number of pips on the revealed Command Cards do not match, 1 allied unit with the One Step Ahead keyword on the battle/f_ield may make a Speed-1 Move. If the number of pips do match, and there is 1 or more allied units with the One Step Ahead keyword on the battle/f_ield, choose an allied unit on the battle/f_ield. The chosen unit may make a Speed-1 Move.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "If 1 or more allied units have the One Step Ahead keyword, during the Resolve Command Card Effects step, after revealing Command Cards but before resolving Command Card effects, if the number of pips on the revealed Command Cards do not match, 1 allied unit with the One Step Ahead keyword on the battle/f_ield may make a Speed-1 Move. If the number of pips do match, and there is 1 or more allied units with the One Step Ahead keyword on the battle/f_ield, choose an allied unit on the battle/f_ield. The chosen unit may make a Speed-1 Move."
 }

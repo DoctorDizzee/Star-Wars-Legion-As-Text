@@ -1,0 +1,8 @@
+{
+  "name": "Override",
+  "slug": "override",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When an allied unit with the AI keyword starts its Activation within 3 of 1 or more allied units that have the Override keyword, choose 1 of those units that has the Override keyword",
+  "description": "When an allied unit with the AI keyword starts its Activation within 3 of 1 or more allied units that have the Override keyword, choose 1 of those units that has the Override keyword"
+}

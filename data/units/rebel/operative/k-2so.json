@@ -12,14 +12,29 @@
     "defense": "Critical"
   },
   "speed": 2,
-  "upgrade_slots": ["Grenades", "Armament"],
+  "upgrade_slots": [
+    "Grenades",
+    "Armament"
+  ],
   "keywords": [
-    "[action] Calculate Odds",
-    "Armor 1",
-    "Detachment: Cassian Andor",
-    "Incognito",
-    "Infiltrate",
-    "Teamwork: Cassian Andor"
+    {
+      "ref": "keywords/action_calculate_odds"
+    },
+    {
+      "ref": "keywords/armor_1"
+    },
+    {
+      "ref": "keywords/detachment_cassian_andor"
+    },
+    {
+      "ref": "keywords/incognito"
+    },
+    {
+      "ref": "keywords/infiltrate"
+    },
+    {
+      "ref": "keywords/teamwork_cassian_andor"
+    }
   ],
   "weapons": [
     {

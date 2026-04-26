@@ -1,0 +1,8 @@
+{
+  "name": "Shien Mastery",
+  "slug": "shien_mastery",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Shien Mastery keyword uses the De/f_lect keyword, the attacker suffers 1 Wound for each e result in the defense roll instead of any other Wounds De/f_lect would cause. Additionally, when a unit with the Shien Mastery keyword is the defending unit of a Ranged attack, if it does not suffer Wounds from that attack, it does not gain Suppression tokens during the Assign Suppression Token to Defender step of that attack.",
+  "description": "When a unit with the Shien Mastery keyword uses the De/f_lect keyword, the attacker suffers 1 Wound for each e result in the defense roll instead of any other Wounds De/f_lect would cause. Additionally, when a unit with the Shien Mastery keyword is the defending unit of a Ranged attack, if it does not suffer Wounds from that attack, it does not gain Suppression tokens during the Assign Suppression Token to Defender step of that attack."
+}

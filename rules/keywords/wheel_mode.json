@@ -1,0 +1,8 @@
+{
+  "name": "Wheel Mode",
+  "slug": "wheel_mode",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "At the start of its Activation, a unit with the Wheel Mode keyword may change its Speed to 3 until the end of that Activation. If it does, until the end of the Round, it loses the Unconcerned keyword, gains the AI: Move and Cover 2 keywords, and cannot flip its active Shield tokens. To indicate that a unit of Droidekas is using the Wheel Mode keyword, a player may replace their standing Droideka miniatures with ball-form Droideka miniatures, or simply mark the unit with a Wheel Mode token until the end of the Round. Players should use the ball-form Droideka miniatures only when the unit uses the Wheel Mode keyword and only for the duration of that Round. At the end of the Round, any ball-form Droideka miniatures should be replaced with standing Droideka miniatures.",
+  "description": "At the start of its Activation, a unit with the Wheel Mode keyword may change its Speed to 3 until the end of that Activation. If it does, until the end of the Round, it loses the Unconcerned keyword, gains the AI: Move and Cover 2 keywords, and cannot flip its active Shield tokens. To indicate that a unit of Droidekas is using the Wheel Mode keyword, a player may replace their standing Droideka miniatures with ball-form Droideka miniatures, or simply mark the unit with a Wheel Mode token until the end of the Round. Players should use the ball-form Droideka miniatures only when the unit uses the Wheel Mode keyword and only for the duration of that Round. At the end of the Round, any ball-form Droideka miniatures should be replaced with standing Droideka miniatures."
+}

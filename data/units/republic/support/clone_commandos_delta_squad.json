@@ -16,13 +16,27 @@
     }
   },
   "keywords": [
-    "Complete the Mission",
-    "Equip: Katarn Pattern Armor",
-    "Independent: Recover",
-    "Infiltrate",
-    "Recharge 1",
-    "Shielded 1",
-    "Target 2"
+    {
+      "ref": "keywords/complete_the_mission"
+    },
+    {
+      "ref": "keywords/equip_katarn_pattern_armor"
+    },
+    {
+      "ref": "keywords/independent_recover"
+    },
+    {
+      "ref": "keywords/infiltrate"
+    },
+    {
+      "ref": "keywords/recharge_1"
+    },
+    {
+      "ref": "keywords/shielded_1"
+    },
+    {
+      "ref": "keywords/target_2"
+    }
   ],
   "weapons": [
     {
@@ -46,7 +60,9 @@
         "black": 2
       },
       "keywords": [
-        "Suppressive"
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     }
   ],

@@ -1,0 +1,8 @@
+{
+  "name": "Self-destruct X",
+  "slug": "self_destruct",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit may make a Self-Destruct X Card action only if it has a number of Wound tokens equal to or greater than half of its Wound threshold, rounding up. For each unit within 1 and in LOS, roll X black attack dice, completely resolving each roll before moving to the next unit. /T_hat unit suffers 1 Wound for each c and b result rolled, then gains 1 Suppression token for each a result rolled. After all rolls are resolved, this unit is defeated.",
+  "description": "A unit may make a Self-Destruct X Card action only if it has a number of Wound tokens equal to or greater than half of its Wound threshold, rounding up. For each unit within 1 and in LOS, roll X black attack dice, completely resolving each roll before moving to the next unit. /T_hat unit suffers 1 Wound for each c and b result rolled, then gains 1 Suppression token for each a result rolled. After all rolls are resolved, this unit is defeated."
+}

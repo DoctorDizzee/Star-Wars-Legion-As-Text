@@ -16,12 +16,24 @@
     }
   },
   "keywords": [
-    "Observe 2",
-    "Bounty",
-    "Charge",
-    "Direct: Commander Trooper Unit",
-    "Immune: Melee Pierce",
-    "Interrogate"
+    {
+      "ref": "keywords/observe_2"
+    },
+    {
+      "ref": "keywords/bounty"
+    },
+    {
+      "ref": "keywords/charge"
+    },
+    {
+      "ref": "keywords/direct_commander_trooper_unit"
+    },
+    {
+      "ref": "keywords/immune_melee_pierce"
+    },
+    {
+      "ref": "keywords/interrogate"
+    }
   ],
   "weapons": [
     {
@@ -35,9 +47,15 @@
         "black": 3
       },
       "keywords": [
-        "Critical 1",
-        "Lethal 1",
-        "Long Shot"
+        {
+          "ref": "keywords/critical_1"
+        },
+        {
+          "ref": "keywords/lethal_1"
+        },
+        {
+          "ref": "keywords/long_shot"
+        }
       ]
     }
   ],

@@ -2,6 +2,7 @@
   "name": "Inconspicuous",
   "slug": "inconspicuous",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "While a unit with the Inconspicuous keyword has 1 or more Suppression tokens, attacking enemy units must target another unit, if able. When a unit with the Inconspicuous keyword Rallies, it may choose to not remove any number of Suppression tokens, including 0.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "While a unit with the Inconspicuous keyword has 1 or more Suppression tokens, attacking enemy units must target another unit, if able. When a unit with the Inconspicuous keyword Rallies, it may choose to not remove any number of Suppression tokens, including 0."
 }

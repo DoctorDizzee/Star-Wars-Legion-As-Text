@@ -16,12 +16,24 @@
     }
   },
   "keywords": [
-    "Charge",
-    "Impervious",
-    "Scale",
-    "Scout 2",
-    "Sharpshooter 1",
-    "Tactical 1"
+    {
+      "ref": "keywords/charge"
+    },
+    {
+      "ref": "keywords/impervious"
+    },
+    {
+      "ref": "keywords/scale"
+    },
+    {
+      "ref": "keywords/scout_2"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    },
+    {
+      "ref": "keywords/tactical_1"
+    }
   ],
   "weapons": [
     {

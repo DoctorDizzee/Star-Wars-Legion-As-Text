@@ -2,6 +2,7 @@
   "name": "Tactical",
   "slug": "tactical",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the Tactical X keyword makes a Standard Move as part of an action or free action, after the effect is resolved, it gains X Aim tokens.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Tactical X keyword makes a Standard Move as part of an action or free action, after the effect is resolved, it gains X Aim tokens."
 }

@@ -1,0 +1,8 @@
+{
+  "name": "Target X",
+  "slug": "target",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "After a unit with the Target X keyword is issued an Order, it gains X Aim tokens.",
+  "description": "After a unit with the Target X keyword is issued an Order, it gains X Aim tokens."
+}

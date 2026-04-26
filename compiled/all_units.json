@@ -84,11 +84,21 @@
       }
     },
     "keywords": [
-      "Spotter 1",
-      "Compel",
-      "Cunning",
-      "Entourage: Imperial Death Troopers",
-      "Exemplar"
+      {
+        "ref": "keywords/spotter_1"
+      },
+      {
+        "ref": "keywords/compel"
+      },
+      {
+        "ref": "keywords/cunning"
+      },
+      {
+        "ref": "keywords/entourage_imperial_death_troopers"
+      },
+      {
+        "ref": "keywords/exemplar"
+      }
     ],
     "weapons": [
       {
@@ -141,10 +151,18 @@
       }
     },
     "keywords": [
-      "Calculate Odds",
-      "Equip: Logistical Prowess",
-      "Exemplar",
-      "Inspire 1"
+      {
+        "ref": "keywords/calculate_odds"
+      },
+      {
+        "ref": "keywords/equip_logistical_prowess"
+      },
+      {
+        "ref": "keywords/exemplar"
+      },
+      {
+        "ref": "keywords/inspire"
+      }
     ],
     "weapons": [
       {
@@ -199,11 +217,21 @@
       }
     },
     "keywords": [
-      "Guidance: Ground Vehicle",
-      "Spotter 2",
-      "Exemplar",
-      "Inspire 1",
-      "Sharpshooter 1"
+      {
+        "ref": "keywords/guidance_ground_vehicle"
+      },
+      {
+        "ref": "keywords/spotter_2"
+      },
+      {
+        "ref": "keywords/exemplar"
+      },
+      {
+        "ref": "keywords/inspire"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
     ],
     "weapons": [
       {
@@ -256,13 +284,27 @@
       }
     },
     "keywords": [
-      "Strategize 2",
-      "Cunning",
-      "Direct: Galactic Empire Unit",
-      "Duelist",
-      "Exemplar",
-      "One Step Ahead",
-      "Tactical 1"
+      {
+        "ref": "keywords/strategize_2"
+      },
+      {
+        "ref": "keywords/cunning"
+      },
+      {
+        "ref": "keywords/direct_galactic_empire_unit"
+      },
+      {
+        "ref": "keywords/duelist"
+      },
+      {
+        "ref": "keywords/exemplar"
+      },
+      {
+        "ref": "keywords/one_step_ahead"
+      },
+      {
+        "ref": "keywords/tactical_1"
+      }
     ],
     "weapons": [
       {
@@ -317,8 +359,12 @@
       }
     },
     "keywords": [
-      "Pulling the Strings: Galactic Empire Trooper",
-      "Entourage: Darth Vader"
+      {
+        "ref": "keywords/pulling_the_strings_galactic_empire_trooper"
+      },
+      {
+        "ref": "keywords/entourage_darth_vader"
+      }
     ],
     "weapons": [
       {
@@ -360,11 +406,21 @@
       }
     },
     "keywords": [
-      "Quick Thinking",
-      "Infiltrate",
-      "Marksman",
-      "Nimble",
-      "Sharpshooter 1"
+      {
+        "ref": "keywords/quick_thinking"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/marksman"
+      },
+      {
+        "ref": "keywords/nimble"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
     ],
     "weapons": [
       {
@@ -388,8 +444,12 @@
           "black": 2
         },
         "keywords": [
-          "High Velocity",
-          "Pierce 1"
+          {
+            "ref": "keywords/high_velocity"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          }
         ]
       },
       {
@@ -404,8 +464,12 @@
           "white": 1
         },
         "keywords": [
-          "Critical 1",
-          "Impact 1"
+          {
+            "ref": "keywords/critical_1"
+          },
+          {
+            "ref": "keywords/impact_1"
+          }
         ]
       }
     ],
@@ -438,8 +502,12 @@
       }
     },
     "keywords": [
-      "Equip: Command",
-      "Inspire 1"
+      {
+        "ref": "keywords/equip_command"
+      },
+      {
+        "ref": "keywords/inspire"
+      }
     ],
     "weapons": [
       {
@@ -497,11 +565,21 @@
       }
     },
     "keywords": [
-      "Observe 1",
-      "Entourage: Imperial Dark Troopers",
-      "Ruthless",
-      "Sharpshooter 1",
-      "Tactical 1"
+      {
+        "ref": "keywords/observe_1"
+      },
+      {
+        "ref": "keywords/entourage_imperial_dark_troopers"
+      },
+      {
+        "ref": "keywords/ruthless"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      },
+      {
+        "ref": "keywords/tactical_1"
+      }
     ],
     "weapons": [
       {
@@ -526,7 +604,9 @@
           "black": 2
         },
         "keywords": [
-          "Pierce 1"
+          {
+            "ref": "keywords/pierce_1"
+          }
         ]
       }
     ],
@@ -559,12 +639,24 @@
       }
     },
     "keywords": [
-      "Detachment: Shoretroopers",
-      "Fire Support",
-      "Full Pivot",
-      "Prepared Position",
-      "Reposition",
-      "Sentinel"
+      {
+        "ref": "keywords/detachment_shoretroopers"
+      },
+      {
+        "ref": "keywords/fire_support"
+      },
+      {
+        "ref": "keywords/full_pivot"
+      },
+      {
+        "ref": "keywords/prepared_position"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/sentinel"
+      }
     ],
     "weapons": [
       {
@@ -588,10 +680,18 @@
           "white": 3
         },
         "keywords": [
-          "Fixed: Front",
-          "Critical 1",
-          "Cumbersome",
-          "Suppressive"
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/critical_1"
+          },
+          {
+            "ref": "keywords/cumbersome"
+          },
+          {
+            "ref": "keywords/suppressive"
+          }
         ]
       }
     ],
@@ -619,8 +719,12 @@
       }
     },
     "keywords": [
-      "Coordinate: Emplacement Trooper",
-      "Prepared Position"
+      {
+        "ref": "keywords/coordinate_emplacement_trooper"
+      },
+      {
+        "ref": "keywords/prepared_position"
+      }
     ],
     "weapons": [
       {
@@ -644,7 +748,9 @@
           "black": 1
         },
         "keywords": [
-          "Long Shot"
+          {
+            "ref": "keywords/long_shot"
+          }
         ]
       }
     ],
@@ -677,7 +783,9 @@
       }
     },
     "keywords": [
-      "Steady"
+      {
+        "ref": "keywords/steady"
+      }
     ],
     "weapons": [
       {
@@ -731,7 +839,9 @@
       }
     },
     "keywords": [
-      "Precise 1"
+      {
+        "ref": "keywords/precise_1"
+      }
     ],
     "weapons": [
       {
@@ -785,8 +895,12 @@
       }
     },
     "keywords": [
-      "Charge",
-      "Hold the Line"
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/hold_the_line"
+      }
     ],
     "weapons": [
       {
@@ -799,7 +913,9 @@
           "black": 1
         },
         "keywords": [
-          "Suppressive"
+          {
+            "ref": "keywords/suppressive"
+          }
         ]
       },
       {
@@ -843,9 +959,15 @@
       }
     },
     "keywords": [
-      "Armor 5",
-      "Arsenal 2",
-      "Weak Point 1: Rear"
+      {
+        "ref": "keywords/armor_5"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/weak_point_1_rear"
+      }
     ],
     "weapons": [
       {
@@ -871,8 +993,12 @@
           "white": 2
         },
         "keywords": [
-          "Fixed: Front",
-          "Impact 3"
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/impact_3"
+          }
         ]
       }
     ],
@@ -905,10 +1031,18 @@
       }
     },
     "keywords": [
-      "Armor 3",
-      "Plodding",
-      "Unconcerned",
-      "Unstoppable"
+      {
+        "ref": "keywords/armor_3"
+      },
+      {
+        "ref": "keywords/plodding"
+      },
+      {
+        "ref": "keywords/unconcerned"
+      },
+      {
+        "ref": "keywords/unstoppable"
+      }
     ],
     "weapons": [
       {
@@ -963,12 +1097,24 @@
       }
     },
     "keywords": [
-      "Armor 5",
-      "Arsenal 2",
-      "Cover 1",
-      "Hover: Air 2",
-      "Immune: Blast, Melee, Range 1 Weapons",
-      "Transport"
+      {
+        "ref": "keywords/armor_5"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/cover_1"
+      },
+      {
+        "ref": "keywords/hover_air_2"
+      },
+      {
+        "ref": "keywords/immune_blast_melee_range_1_weapons"
+      },
+      {
+        "ref": "keywords/transport"
+      }
     ],
     "weapons": [
       {
@@ -982,8 +1128,12 @@
           "black": 2
         },
         "keywords": [
-          "Impact 1",
-          "Fixed: Front"
+          {
+            "ref": "keywords/impact_1"
+          },
+          {
+            "ref": "keywords/fixed_front"
+          }
         ]
       }
     ],
@@ -1015,11 +1165,21 @@
       }
     },
     "keywords": [
-      "Armor 5",
-      "Arsenal 2",
-      "Reposition",
-      "Transport",
-      "Weak Point 1: Sides"
+      {
+        "ref": "keywords/armor_5"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/transport"
+      },
+      {
+        "ref": "keywords/weak_point_1_sides"
+      }
     ],
     "weapons": [
       {
@@ -1033,8 +1193,12 @@
           "black": 1
         },
         "keywords": [
-          "Suppressive",
-          "Fixed: Front"
+          {
+            "ref": "keywords/suppressive"
+          },
+          {
+            "ref": "keywords/fixed_front"
+          }
         ]
       },
       {
@@ -1048,8 +1212,12 @@
           "black": 2
         },
         "keywords": [
-          "Impact 2",
-          "Fixed: Front"
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/fixed_front"
+          }
         ]
       }
     ],
@@ -1080,12 +1248,24 @@
       }
     },
     "keywords": [
-      "Observe 2",
-      "Bounty",
-      "Charge",
-      "Direct: Commander Trooper Unit",
-      "Immune: Melee Pierce",
-      "Interrogate"
+      {
+        "ref": "keywords/observe_2"
+      },
+      {
+        "ref": "keywords/bounty"
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/direct_commander_trooper_unit"
+      },
+      {
+        "ref": "keywords/immune_melee_pierce"
+      },
+      {
+        "ref": "keywords/interrogate"
+      }
     ],
     "weapons": [
       {
@@ -1099,9 +1279,15 @@
           "black": 3
         },
         "keywords": [
-          "Critical 1",
-          "Lethal 1",
-          "Long Shot"
+          {
+            "ref": "keywords/critical_1"
+          },
+          {
+            "ref": "keywords/lethal_1"
+          },
+          {
+            "ref": "keywords/long_shot"
+          }
         ]
       }
     ],
@@ -1132,11 +1318,21 @@
       }
     },
     "keywords": [
-      "Deflect",
-      "Immune: Pierce",
-      "Jedi Hunter",
-      "Master of the Force 1",
-      "Relentless"
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/jedi_hunter"
+      },
+      {
+        "ref": "keywords/master_of_the_force_1"
+      },
+      {
+        "ref": "keywords/relentless"
+      }
     ],
     "weapons": [
       {
@@ -1149,8 +1345,12 @@
           "red": 5
         },
         "keywords": [
-          "Impact 3",
-          "Pierce 3"
+          {
+            "ref": "keywords/impact_3"
+          },
+          {
+            "ref": "keywords/pierce_3"
+          }
         ]
       },
       {
@@ -1163,8 +1363,12 @@
           "black": 2
         },
         "keywords": [
-          "Blast",
-          "Scatter"
+          {
+            "ref": "keywords/blast"
+          },
+          {
+            "ref": "keywords/scatter"
+          }
         ]
       }
     ],
@@ -1196,10 +1400,18 @@
       }
     },
     "keywords": [
-      "Block",
-      "Dauntless",
-      "Enrage 2",
-      "Immune: Pierce"
+      {
+        "ref": "keywords/block"
+      },
+      {
+        "ref": "keywords/dauntless"
+      },
+      {
+        "ref": "keywords/enrage_2"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      }
     ],
     "weapons": [
       {
@@ -1212,9 +1424,15 @@
           "black": 5
         },
         "keywords": [
-          "Impact 2",
-          "Pierce 1",
-          "Ram 2"
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          },
+          {
+            "ref": "keywords/ram_2"
+          }
         ]
       },
       {
@@ -1227,8 +1445,12 @@
           "black": 3
         },
         "keywords": [
-          "Impact 2",
-          "Pierce 1"
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          }
         ]
       }
     ],
@@ -1259,8 +1481,12 @@
       }
     },
     "keywords": [
-      "Equip: Command",
-      "Relentless"
+      {
+        "ref": "keywords/equip_command"
+      },
+      {
+        "ref": "keywords/relentless"
+      }
     ],
     "weapons": [
       {
@@ -1317,13 +1543,27 @@
       }
     },
     "keywords": [
-      "Jump 1",
-      "Associate: Fifth Brother",
-      "Block",
-      "Charge",
-      "Disciplined 1",
-      "Immune: Pierce",
-      "Interrogate"
+      {
+        "ref": "keywords/jump_1"
+      },
+      {
+        "ref": "keywords/associate_fifth_brother"
+      },
+      {
+        "ref": "keywords/block"
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/disciplined_1"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/interrogate"
+      }
     ],
     "weapons": [
       {
@@ -1336,8 +1576,12 @@
           "black": 5
         },
         "keywords": [
-          "Impact 2",
-          "Pierce 1"
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          }
         ]
       },
       {
@@ -1350,8 +1594,12 @@
           "black": 3
         },
         "keywords": [
-          "Impact 2",
-          "Pierce 1"
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          }
         ]
       }
     ],
@@ -1382,9 +1630,15 @@
       }
     },
     "keywords": [
-      "Disciplined 1",
-      "Precise 2",
-      "Ready 1"
+      {
+        "ref": "keywords/disciplined_1"
+      },
+      {
+        "ref": "keywords/precise_2"
+      },
+      {
+        "ref": "keywords/ready_1"
+      }
     ],
     "weapons": [
       {
@@ -1451,12 +1705,24 @@
       }
     },
     "keywords": [
-      "Observe 3",
-      "Self-Destruct 3",
-      "Detachment: Special Forces",
-      "Disengage",
-      "Infiltrate",
-      "Hover: Air 1"
+      {
+        "ref": "keywords/observe_3"
+      },
+      {
+        "ref": "keywords/self_destruct_3"
+      },
+      {
+        "ref": "keywords/detachment_special_forces"
+      },
+      {
+        "ref": "keywords/disengage"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/hover_air_1"
+      }
     ],
     "weapons": [
       {
@@ -1496,9 +1762,15 @@
       }
     },
     "keywords": [
-      "Infiltrate",
-      "Marksman",
-      "Reliable 1"
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/marksman"
+      },
+      {
+        "ref": "keywords/reliable_1"
+      }
     ],
     "weapons": [
       {
@@ -1554,11 +1826,21 @@
       }
     },
     "keywords": [
-      "Equip: Del Meeko, Gideon Hask",
-      "Infiltrate",
-      "Marksman",
-      "Reliable 1",
-      "Retinue: Iden Versio"
+      {
+        "ref": "keywords/equip_del_meeko_gideon_hask"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/marksman"
+      },
+      {
+        "ref": "keywords/reliable_1"
+      },
+      {
+        "ref": "keywords/retinue_iden_versio"
+      }
     ],
     "weapons": [
       {
@@ -1613,9 +1895,15 @@
       }
     },
     "keywords": [
-      "Low Profile",
-      "Scout 3",
-      "Sharpshooter 1"
+      {
+        "ref": "keywords/low_profile"
+      },
+      {
+        "ref": "keywords/scout_3"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
     ],
     "weapons": [
       {
@@ -1670,8 +1958,12 @@
       }
     },
     "keywords": [
-      "Cover 1",
-      "Speeder 1"
+      {
+        "ref": "keywords/cover_1"
+      },
+      {
+        "ref": "keywords/speeder_1"
+      }
     ],
     "weapons": [
       {
@@ -1697,8 +1989,12 @@
           "white": 1
         },
         "keywords": [
-          "Fixed: Front",
-          "Impact 1"
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/impact_1"
+          }
         ]
       }
     ],
@@ -1727,11 +2023,21 @@
       }
     },
     "keywords": [
-      "Armor 1",
-      "Relentless",
-      "Reposition",
-      "Spur",
-      "Unhindered"
+      {
+        "ref": "keywords/armor_1"
+      },
+      {
+        "ref": "keywords/relentless"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/spur"
+      },
+      {
+        "ref": "keywords/unhindered"
+      }
     ],
     "weapons": [
       {
@@ -1745,8 +2051,12 @@
           "white": 3
         },
         "keywords": [
-          "Critical 2",
-          "Suppressive"
+          {
+            "ref": "keywords/critical_2"
+          },
+          {
+            "ref": "keywords/suppressive"
+          }
         ]
       }
     ],
@@ -1777,9 +2087,15 @@
       }
     },
     "keywords": [
-      "Prepared Position",
-      "Reposition",
-      "Sentinel"
+      {
+        "ref": "keywords/prepared_position"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/sentinel"
+      }
     ],
     "weapons": [
       {
@@ -1816,9 +2132,15 @@
           "white": 2
         },
         "keywords": [
-          "Cumbersome",
-          "Fixed: Front",
-          "Impact 1"
+          {
+            "ref": "keywords/cumbersome"
+          },
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/impact_1"
+          }
         ]
       }
     ],
@@ -1848,11 +2170,21 @@
       }
     },
     "keywords": [
-      "Advanced Targeting: Trooper 1",
-      "Armor 1",
-      "Indomitable",
-      "Scale",
-      "Spur"
+      {
+        "ref": "keywords/advanced_targeting_trooper_1"
+      },
+      {
+        "ref": "keywords/armor_1"
+      },
+      {
+        "ref": "keywords/indomitable"
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/spur"
+      }
     ],
     "weapons": [
       {
@@ -1906,11 +2238,21 @@
       }
     },
     "keywords": [
-      "Detachment: Special Forces Scout Troopers",
-      "Heavy Weapon Team",
-      "Incognito",
-      "Low Profile",
-      "Prepared Position"
+      {
+        "ref": "keywords/detachment_special_forces_scout_troopers"
+      },
+      {
+        "ref": "keywords/heavy_weapon_team"
+      },
+      {
+        "ref": "keywords/incognito"
+      },
+      {
+        "ref": "keywords/low_profile"
+      },
+      {
+        "ref": "keywords/prepared_position"
+      }
     ],
     "weapons": [
       {
@@ -1944,6 +2286,171 @@
       "Gear"
     ],
     "points": 22
+  },
+  {
+    "id": "mercenary/commander/black_sun_vigo.json",
+    "source": "data/units/mercenary/commander/black_sun_vigo.json",
+    "name": "Black Sun Vigo",
+    "title": "None",
+    "faction": "Shadow Collective",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 4,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_galactic_empire_separatist_alliance"
+      },
+      {
+        "ref": "keywords/aid_black_sun"
+      },
+      {
+        "ref": "keywords/dauntless"
+      },
+      {
+        "ref": "keywords/independent_aim_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Vigo's Double Blaster",
+        "range": {
+          "min": 0,
+          "max": 2
+        },
+        "dice": {
+          "black": 2,
+          "white": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Gear"
+    ],
+    "points": 50
+  },
+  {
+    "id": "mercenary/commander/c-3po.json",
+    "source": "data/units/mercenary/commander/c-3po.json",
+    "name": "C-3PO",
+    "title": "Golden God",
+    "faction": "Rebel Alliance",
+    "rank": "Commander",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 3,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/master_storyteller"
+      },
+      {
+        "ref": "keywords/compel_ewok_trooper"
+      },
+      {
+        "ref": "keywords/divine_influence"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      }
+    ],
+    "weapons": [],
+    "upgrade_slots": []
+  },
+  {
+    "id": "mercenary/commander/gar_saxon.json",
+    "source": "data/units/mercenary/commander/gar_saxon.json",
+    "name": "Gar Saxon",
+    "title": "Militant Commander",
+    "faction": "Shadow Collective",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_2"
+      },
+      {
+        "ref": "keywords/allies_of_convenience"
+      },
+      {
+        "ref": "keywords/compel"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Gar's Blaster Pistol",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 1,
+          "black": 2,
+          "white": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Comms",
+      "Armament",
+      "Armament"
+    ]
   },
   {
     "id": "mercenary/commander/pyke_syndicate_capo.json",
@@ -2012,6 +2519,1536 @@
       "Gear": 1
     },
     "points": 42
+  },
+  {
+    "id": "mercenary/commander/wicket.json",
+    "source": "data/units/mercenary/commander/wicket.json",
+    "name": "Wicket",
+    "title": "Hero of Bright Tree",
+    "faction": "Rebel Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_rebel_alliance"
+      },
+      {
+        "ref": "keywords/independent_dodge_1"
+      },
+      {
+        "ref": "keywords/low_profile"
+      },
+      {
+        "ref": "keywords/nimble"
+      },
+      {
+        "ref": "keywords/relentless"
+      },
+      {
+        "ref": "keywords/scout_1"
+      },
+      {
+        "ref": "keywords/scouting_party_2"
+      },
+      {
+        "ref": "keywords/unhindered"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Spear",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2,
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      },
+      {
+        "name": "Sling",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          },
+          {
+            "ref": "keywords/primitive"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Training",
+      "Training"
+    ],
+    "points": 64
+  },
+  {
+    "id": "mercenary/corps/black_sun_enforcers.json",
+    "source": "data/units/mercenary/corps/black_sun_enforcers.json",
+    "name": "Black Sun Enforcers",
+    "title": "None",
+    "faction": "Shadow Collective",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_galactic_empire_separatist_alliance"
+      },
+      {
+        "ref": "keywords/dauntless"
+      },
+      {
+        "ref": "keywords/independent_aim_1"
+      },
+      {
+        "ref": "keywords/precise_1"
+      },
+      {
+        "ref": "keywords/self_preservation"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Close Quarters Combat",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "Double Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "white": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Heavy Weapon",
+      "Comms",
+      "Gear"
+    ],
+    "points": 50
+  },
+  {
+    "id": "mercenary/corps/ewok_skirmishers.json",
+    "source": "data/units/mercenary/corps/ewok_skirmishers.json",
+    "name": "Ewok Skirmishers",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 6,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_rebel_alliance"
+      },
+      {
+        "ref": "keywords/low_profile"
+      },
+      {
+        "ref": "keywords/unhindered"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Spear",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Heavy Weapon",
+      "Heavy Weapon",
+      "Training"
+    ],
+    "points": 40
+  },
+  {
+    "id": "mercenary/corps/pyke_syndicate_foot_soldiers.json",
+    "source": "data/units/mercenary/corps/pyke_syndicate_foot_soldiers.json",
+    "name": "Pyke Syndicate Foot Soldiers",
+    "title": "None",
+    "faction": "Shadow Collective",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_galactic_empire_rebel_alliance_galactic_republic_separatist_alliance"
+      },
+      {
+        "ref": "keywords/danger_sense_2"
+      },
+      {
+        "ref": "keywords/independent_dodge_1"
+      },
+      {
+        "ref": "keywords/outmaneuver"
+      },
+      {
+        "ref": "keywords/self_preservation"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Stun Baton",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "P13 Long Blaster",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Heavy Weapon",
+      "Comms",
+      "Gear"
+    ],
+    "points": 42
+  },
+  {
+    "id": "mercenary/heavy/a-a5_speeder_truck.json",
+    "source": "data/units/mercenary/heavy/a-a5_speeder_truck.json",
+    "name": "A-A5 Speeder Truck",
+    "title": "None",
+    "faction": "Mercenary",
+    "rank": "Heavy",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 8,
+      "resilience": 6,
+      "speed": 1,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/armor_5"
+      },
+      {
+        "ref": "keywords/hover_ground"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/transport"
+      },
+      {
+        "ref": "keywords/weak_point_2_rear"
+      }
+    ],
+    "weapons": [],
+    "upgrade_slots": [
+      "Pilot",
+      "Hardpoint",
+      "Comms",
+      "Passenger",
+      "Passenger"
+    ],
+    "points": 75
+  },
+  {
+    "id": "mercenary/heavy/chewbacca.json",
+    "source": "data/units/mercenary/heavy/chewbacca.json",
+    "name": "Chewbacca",
+    "title": "Let the Wookiee Win",
+    "faction": "Rebel Alliance",
+    "rank": "Heavy",
+    "unit_type": "Ground Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 11,
+      "resilience": 8,
+      "speed": 0,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/armor_5"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/inspire"
+      },
+      {
+        "ref": "keywords/incognito"
+      },
+      {
+        "ref": "keywords/weak_point_1_rear"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Grenade Launcher",
+        "range": {
+          "min": 0,
+          "max": 2
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/blast"
+          }
+        ]
+      },
+      {
+        "name": "88 Twin Light Blaster",
+        "range": {
+          "min": 0,
+          "max": 3
+        },
+        "dice": {
+          "red": 1,
+          "white": 1,
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/impact_1"
+          }
+        ]
+      },
+      {
+        "name": "MS-4 Twin Blaster",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "red": 2,
+          "black": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/impact_3"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [],
+    "points": 180
+  },
+  {
+    "id": "mercenary/heavy/wlo-5_speeder_tank.json",
+    "source": "data/units/mercenary/heavy/wlo-5_speeder_tank.json",
+    "name": "WLO-5 Speeder Tank",
+    "title": "None",
+    "faction": "Mercenary",
+    "rank": "Heavy",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 10,
+      "resilience": 6,
+      "speed": 0,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_galactic_empire_rebel_alliance_galactic_republic_separatist_alliance"
+      },
+      {
+        "ref": "keywords/armor_5"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/hover_ground"
+      },
+      {
+        "ref": "keywords/transport"
+      },
+      {
+        "ref": "keywords/weak_point_2_rear"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Anti-Personnel Lasers",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "white": 2,
+          "black": 3
+        },
+        "keywords": [
+          {
+            "ref": "keywords/fixed_front"
+          }
+        ]
+      },
+      {
+        "name": "Heavy Laser Cannon",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "red": 1,
+          "white": 2,
+          "black": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact_2"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Pilot",
+      "Comms",
+      "Passenger"
+    ],
+    "points": 100
+  },
+  {
+    "id": "mercenary/operative/boba_fett_empire.json",
+    "source": "data/units/mercenary/operative/boba_fett_empire.json",
+    "name": "Boba Fett",
+    "title": "Infamous Bounty Hunter",
+    "faction": "Mercenary",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_2"
+      },
+      {
+        "ref": "keywords/mercenary_galactic_empire"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/bounty"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/independent_aim_1_or_dodge_1"
+      },
+      {
+        "ref": "keywords/sharpshooter_2"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Boot Spikes",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 3
+        },
+        "keywords": []
+      },
+      {
+        "name": "Integrated Rockets",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact_1"
+          },
+          {
+            "ref": "keywords/versatile"
+          }
+        ]
+      },
+      {
+        "name": "EE-3 Carbine Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Comms"
+    ],
+    "points": 130
+  },
+  {
+    "id": "mercenary/operative/boba_fett_rebel.json",
+    "source": "data/units/mercenary/operative/boba_fett_rebel.json",
+    "name": "Boba Fett",
+    "title": "Daimyo of Mos Espa",
+    "faction": "Mercenary",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_1"
+      },
+      {
+        "ref": "keywords/mercenary_rebel_alliance"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/independent_standby_1"
+      },
+      {
+        "ref": "keywords/sentinel"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      },
+      {
+        "ref": "keywords/tactical_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Gaderffii Stick",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 3,
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "EE-3 Carbine Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Training",
+      "Comms",
+      "Comms"
+    ],
+    "points": 120
+  },
+  {
+    "id": "mercenary/operative/bossk.json",
+    "source": "data/units/mercenary/operative/bossk.json",
+    "name": "Bossk",
+    "title": "Trandoshan Terror",
+    "faction": "Mercenary",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 7,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_galactic_empire_separatist_alliance"
+      },
+      {
+        "ref": "keywords/bounty"
+      },
+      {
+        "ref": "keywords/enrage_3"
+      },
+      {
+        "ref": "keywords/independent_surge_2"
+      },
+      {
+        "ref": "keywords/regenerate_3"
+      },
+      {
+        "ref": "keywords/scale"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Frenzy",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1,
+          "black": 1,
+          "white": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      },
+      {
+        "name": "Mortar Rifle",
+        "range": {
+          "min": 2,
+          "max": 4
+        },
+        "dice": {
+          "red": 1,
+          "black": 4
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          },
+          {
+            "ref": "keywords/suppressive"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Training",
+      "Comms"
+    ],
+    "points": 105
+  },
+  {
+    "id": "mercenary/operative/cad_bane.json",
+    "source": "data/units/mercenary/operative/cad_bane.json",
+    "name": "Cad Bane",
+    "title": "Needs No Introduction",
+    "faction": "Mercenary",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_1"
+      },
+      {
+        "ref": "keywords/mercenary_galactic_empire_separatist_alliance"
+      },
+      {
+        "ref": "keywords/bounty"
+      },
+      {
+        "ref": "keywords/danger_sense_3"
+      },
+      {
+        "ref": "keywords/independent_dodge_2"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      },
+      {
+        "ref": "keywords/steady"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Martial Arts",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": []
+      },
+      {
+        "name": "LL-30 Blaster Pistols",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 4
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Armament",
+      "Gear"
+    ],
+    "points": 105
+  },
+  {
+    "id": "mercenary/operative/din_djarin.json",
+    "source": "data/units/mercenary/operative/din_djarin.json",
+    "name": "Din Djarin",
+    "title": "The Mandalorian",
+    "faction": "Mercenary",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_galactic_empire_rebel_alliance"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/bounty"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/independent_aim_1_and_dodge_1"
+      },
+      {
+        "ref": "keywords/tactical_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Vibroknife",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/lethal_1"
+          }
+        ]
+      },
+      {
+        "name": "IB-94 Blaster Pistol",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 2,
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/lethal_1"
+          },
+          {
+            "ref": "keywords/long_shot"
+          },
+          {
+            "ref": "keywords/versatile"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Comms",
+      "Armament"
+    ],
+    "points": 95
+  },
+  {
+    "id": "mercenary/operative/ig-11.json",
+    "source": "data/units/mercenary/operative/ig-11.json",
+    "name": "IG-11",
+    "title": "Nurse and Protect",
+    "faction": "Mercenary",
+    "rank": "Commander",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_galactic_empire_rebel_alliance"
+      },
+      {
+        "ref": "keywords/armor_1"
+      },
+      {
+        "ref": "keywords/gunslinger"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/programmed"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Overwhelm",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 4
+        },
+        "keywords": []
+      },
+      {
+        "name": "Modified E-11 Blaster",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "white": 2,
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      },
+      {
+        "name": "Modified DLT-20A",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "white": 1,
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Programming",
+      "Training",
+      "Grenades",
+      "Comms"
+    ],
+    "points": 105
+  },
+  {
+    "id": "mercenary/operative/ig-88.json",
+    "source": "data/units/mercenary/operative/ig-88.json",
+    "name": "IG-88",
+    "title": "Notorious Assassin Droid",
+    "faction": "Mercenary",
+    "rank": "Commander",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_galactic_empire"
+      },
+      {
+        "ref": "keywords/armor_1"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/bounty"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Vibrocleaver",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1,
+          "white": 1,
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      },
+      {
+        "name": "Modified E-11 Blaster",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "white": 2,
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          },
+          {
+            "ref": "keywords/versatile"
+          }
+        ]
+      },
+      {
+        "name": "Modified DLT-20A",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "white": 1,
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Grenades",
+      "Comms"
+    ],
+    "points": 110
+  },
+  {
+    "id": "mercenary/operative/maul.json",
+    "source": "data/units/mercenary/operative/maul.json",
+    "name": "Maul",
+    "title": "A Rival",
+    "faction": "Shadow Collective",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_1"
+      },
+      {
+        "ref": "keywords/allies_of_convenience"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/juyo_mastery"
+      },
+      {
+        "ref": "keywords/wound_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Maul's Lightsaber",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 4,
+          "white": 4
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_2"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Force",
+      "Command",
+      "Training",
+      "Armament"
+    ],
+    "points": 130
+  },
+  {
+    "id": "mercenary/operative/the_bad_batch_rebel.json",
+    "source": "data/units/mercenary/operative/the_bad_batch_rebel.json",
+    "name": "The Bad Batch",
+    "title": "Clone Force 99",
+    "faction": "Mercenary",
+    "rank": "Commander",
+    "unit_type": "Clone Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 2,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_rebel_alliance"
+      },
+      {
+        "ref": "keywords/equip_echo_hunter_wrecker_tech"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/steady"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      },
+      {
+        "ref": "keywords/were_not_regs"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Advanced Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-17 Blaster Pistols",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "white": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Omega"
+    ]
+  },
+  {
+    "id": "mercenary/operative/the_bad_batch_republic.json",
+    "source": "data/units/mercenary/operative/the_bad_batch_republic.json",
+    "name": "The Bad Batch",
+    "title": "Clone Force 99",
+    "faction": "Galactic Republic",
+    "rank": "Commander",
+    "unit_type": "Clone Trooper",
+    "squad_size": 0,
+    "stats": {
+      "health": 2,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/equip_crosshair_echo_hunter_tech_wrecker"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      },
+      {
+        "ref": "keywords/steady"
+      },
+      {
+        "ref": "keywords/were_not_regs"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Combat Training",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "DC-17 Hand Blaster",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "white": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": []
+  },
+  {
+    "id": "mercenary/special_forces/ewok_slingers.json",
+    "source": "data/units/mercenary/special_forces/ewok_slingers.json",
+    "name": "Ewok Slingers",
+    "title": "None",
+    "faction": "Rebel Alliance",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 6,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_rebel_alliance"
+      },
+      {
+        "ref": "keywords/independent_surge_1"
+      },
+      {
+        "ref": "keywords/low_profile"
+      },
+      {
+        "ref": "keywords/target_1"
+      },
+      {
+        "ref": "keywords/unhindered"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Stones",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "white": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "Slings",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "white": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/primitive"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Heavy Weapon",
+      "Heavy Weapon",
+      "Training"
+    ],
+    "points": 38
+  },
+  {
+    "id": "mercenary/special_forces/mandalorian_super_commandos.json",
+    "source": "data/units/mercenary/special_forces/mandalorian_super_commandos.json",
+    "name": "Mandalorian Super Commandos",
+    "title": "None",
+    "faction": "Shadow Collective",
+    "rank": "Special Forces",
+    "unit_type": "Trooper",
+    "squad_size": 3,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_2"
+      },
+      {
+        "ref": "keywords/defend_1"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/independent_aim_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "WESTAR-35 Blasters",
+        "range": {
+          "min": 0,
+          "max": 2
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Blaster Carbines",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "white": 1,
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Armament",
+      "Gear"
+    ],
+    "points": 66
+  },
+  {
+    "id": "mercenary/support/swoop_bike_riders.json",
+    "source": "data/units/mercenary/support/swoop_bike_riders.json",
+    "name": "Swoop Bike Riders",
+    "title": "None",
+    "faction": "Mercenary",
+    "rank": "Support",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 2,
+    "stats": {
+      "health": 3,
+      "resilience": "-",
+      "speed": 3,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/mercenary_rebel_alliance_galactic_republic"
+      },
+      {
+        "ref": "keywords/cover_1"
+      },
+      {
+        "ref": "keywords/independent_aim_1_or_dodge_1"
+      },
+      {
+        "ref": "keywords/reinforcements"
+      },
+      {
+        "ref": "keywords/speeder_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Vibro-Ax",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1,
+          "white": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/overrun_2"
+          }
+        ]
+      },
+      {
+        "name": "Heavy Blaster Pistol",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 1,
+          "black": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Comms"
+    ],
+    "points": 70
   },
   {
     "id": "rebel/commander/han_solo.json",
@@ -3247,6 +5284,57 @@
     "points": 75
   },
   {
+    "id": "rebel/operative/k-2so.json",
+    "source": "data/units/rebel/operative/k-2so.json",
+    "name": "K-2SO",
+    "subtitle": "Sardonic Security Droid",
+    "type": "Droid Trooper",
+    "rank": "Operative",
+    "points": 0,
+    "health": 5,
+    "courage": 2,
+    "defense_die": "Red",
+    "surge": {
+      "attack": "None",
+      "defense": "Critical"
+    },
+    "speed": 2,
+    "upgrade_slots": [
+      "Grenades",
+      "Armament"
+    ],
+    "keywords": [
+      {
+        "ref": "keywords/action_calculate_odds"
+      },
+      {
+        "ref": "keywords/armor_1"
+      },
+      {
+        "ref": "keywords/detachment_cassian_andor"
+      },
+      {
+        "ref": "keywords/incognito"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/teamwork_cassian_andor"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Overpower",
+        "range": "melee",
+        "dice": {
+          "red": 4
+        },
+        "keywords": []
+      }
+    ]
+  },
+  {
     "id": "rebel/operative/luke_skywalker.json",
     "source": "data/units/rebel/operative/luke_skywalker.json",
     "name": "Luke Skywalker",
@@ -4158,13 +6246,27 @@
       }
     },
     "keywords": [
-      "Jump 2",
-      "Associate: Anakin Skywalker",
-      "Deflect",
-      "Immune: Pierce",
-      "Independent: Recover",
-      "Scout 1",
-      "Shien Mastery"
+      {
+        "ref": "keywords/jump_2"
+      },
+      {
+        "ref": "keywords/associate_anakin_skywalker"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/independent_recover"
+      },
+      {
+        "ref": "keywords/scout_1"
+      },
+      {
+        "ref": "keywords/shien_mastery"
+      }
     ],
     "weapons": [
       {
@@ -4178,8 +6280,12 @@
           "white": 5
         },
         "keywords": [
-          "Impact 2",
-          "Pierce 1"
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          }
         ]
       }
     ],
@@ -4281,10 +6387,18 @@
       }
     },
     "keywords": [
-      "Enrage 4",
-      "Guardian 2: Commander",
-      "Reliable 2",
-      "Scale"
+      {
+        "ref": "keywords/enrage_4"
+      },
+      {
+        "ref": "keywords/guardian_2_commander"
+      },
+      {
+        "ref": "keywords/reliable_2"
+      },
+      {
+        "ref": "keywords/scale"
+      }
     ],
     "weapons": [
       {
@@ -4297,7 +6411,9 @@
           "red": 4
         },
         "keywords": [
-          "Lethal 1"
+          {
+            "ref": "keywords/lethal_1"
+          }
         ]
       },
       {
@@ -4311,9 +6427,15 @@
           "white": 2
         },
         "keywords": [
-          "Critical 1",
-          "Impact 1",
-          "Pierce 1"
+          {
+            "ref": "keywords/critical_1"
+          },
+          {
+            "ref": "keywords/impact_1"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          }
         ]
       }
     ],
@@ -4344,11 +6466,21 @@
       }
     },
     "keywords": [
-      "Gunslinger",
-      "Scout 1",
-      "Scouting Party 2",
-      "Sharpshooter 1",
-      "Tactical 1"
+      {
+        "ref": "keywords/gunslinger"
+      },
+      {
+        "ref": "keywords/scout_1"
+      },
+      {
+        "ref": "keywords/scouting_party_2"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      },
+      {
+        "ref": "keywords/tactical_1"
+      }
     ],
     "weapons": [
       {
@@ -4403,9 +6535,15 @@
       }
     },
     "keywords": [
-      "Bolster 2",
-      "Direct: Corps Clone Trooper Unit",
-      "Sharpshooter 1"
+      {
+        "ref": "keywords/bolster_2"
+      },
+      {
+        "ref": "keywords/direct_corps_clone_trooper_unit"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
     ],
     "weapons": [
       {
@@ -4458,11 +6596,21 @@
       }
     },
     "keywords": [
-      "Observe 2",
-      "Jump 1",
-      "Take Cover 1",
-      "Direct: Vehicle",
-      "Target 1"
+      {
+        "ref": "keywords/observe_2"
+      },
+      {
+        "ref": "keywords/jump_1"
+      },
+      {
+        "ref": "keywords/take_cover_1"
+      },
+      {
+        "ref": "keywords/direct_vehicle"
+      },
+      {
+        "ref": "keywords/target_1"
+      }
     ],
     "weapons": [
       {
@@ -4488,8 +6636,12 @@
           "white": 1
         },
         "keywords": [
-          "Lethal 1",
-          "Impact 1"
+          {
+            "ref": "keywords/lethal_1"
+          },
+          {
+            "ref": "keywords/impact_1"
+          }
         ]
       }
     ],
@@ -4520,10 +6672,18 @@
       }
     },
     "keywords": [
-      "Deflect",
-      "Equip: Command, Training",
-      "Immune: Pierce",
-      "Master of the Force 1"
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/equip_command_training"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/master_of_the_force_1"
+      }
     ],
     "weapons": [],
     "upgrade_slots": [
@@ -4556,13 +6716,27 @@
       }
     },
     "keywords": [
-      "Jump 1",
-      "Charge",
-      "Compel: Corps Trooper",
-      "Deflect",
-      "Immune: Pierce",
-      "Master of the Force 1",
-      "Vaapad Mastery"
+      {
+        "ref": "keywords/jump_1"
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/compel_corps_trooper"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/master_of_the_force_1"
+      },
+      {
+        "ref": "keywords/vaapad_mastery"
+      }
     ],
     "weapons": [
       {
@@ -4577,8 +6751,12 @@
           "white": 2
         },
         "keywords": [
-          "Impact 2",
-          "Pierce 2"
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_2"
+          }
         ]
       },
       {
@@ -4591,9 +6769,15 @@
           "black": 4
         },
         "keywords": [
-          "Blast",
-          "Immobilize 1",
-          "Suppressive"
+          {
+            "ref": "keywords/blast"
+          },
+          {
+            "ref": "keywords/immobilize_1"
+          },
+          {
+            "ref": "keywords/suppressive"
+          }
         ]
       }
     ],
@@ -4627,13 +6811,27 @@
       }
     },
     "keywords": [
-      "Jump 1",
-      "Charge",
-      "Deflect",
-      "Guardian 3",
-      "Immune: Pierce",
-      "Master of the Force 1",
-      "Soresu Mastery"
+      {
+        "ref": "keywords/jump_1"
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/guardian_3"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/master_of_the_force_1"
+      },
+      {
+        "ref": "keywords/soresu_mastery"
+      }
     ],
     "weapons": [
       {
@@ -4648,9 +6846,15 @@
           "white": 2
         },
         "keywords": [
-          "Critical 2",
-          "Impact 2",
-          "Pierce 2"
+          {
+            "ref": "keywords/critical_2"
+          },
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_2"
+          }
         ]
       }
     ],
@@ -4682,11 +6886,21 @@
       }
     },
     "keywords": [
-      "Agile 1",
-      "Charge",
-      "Duelist",
-      "Indomitable",
-      "Scale"
+      {
+        "ref": "keywords/agile_1"
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/duelist"
+      },
+      {
+        "ref": "keywords/indomitable"
+      },
+      {
+        "ref": "keywords/scale"
+      }
     ],
     "weapons": [
       {
@@ -4712,8 +6926,12 @@
           "black": 4
         },
         "keywords": [
-          "Impact 1",
-          "Pierce 1"
+          {
+            "ref": "keywords/impact_1"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          }
         ]
       }
     ],
@@ -4745,11 +6963,21 @@
       }
     },
     "keywords": [
-      "Guidance: Trooper",
-      "Ataru Mastery",
-      "Deflect",
-      "Immune: Pierce",
-      "Master of the Force 2"
+      {
+        "ref": "keywords/guidance_trooper"
+      },
+      {
+        "ref": "keywords/ataru_mastery"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/master_of_the_force_2"
+      }
     ],
     "weapons": [
       {
@@ -4762,8 +6990,12 @@
           "red": 4
         },
         "keywords": [
-          "Impact 2",
-          "Pierce 2"
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_2"
+          }
         ]
       },
       {
@@ -4776,8 +7008,12 @@
           "black": 4
         },
         "keywords": [
-          "Blast",
-          "Suppressive"
+          {
+            "ref": "keywords/blast"
+          },
+          {
+            "ref": "keywords/suppressive"
+          }
         ]
       }
     ],
@@ -4809,7 +7045,9 @@
       }
     },
     "keywords": [
-      "Reliable 1"
+      {
+        "ref": "keywords/reliable_1"
+      }
     ],
     "weapons": [
       {
@@ -4866,8 +7104,12 @@
       }
     },
     "keywords": [
-      "Prepared Position",
-      "Marksman"
+      {
+        "ref": "keywords/prepared_position"
+      },
+      {
+        "ref": "keywords/marksman"
+      }
     ],
     "weapons": [
       {
@@ -4891,7 +7133,9 @@
           "black": 1
         },
         "keywords": [
-          "Long Shot"
+          {
+            "ref": "keywords/long_shot"
+          }
         ]
       }
     ],
@@ -4924,10 +7168,18 @@
       }
     },
     "keywords": [
-      "Armor 3",
-      "Cover 1",
-      "Hover: Ground",
-      "Weak Point 1: Rear, Sides"
+      {
+        "ref": "keywords/armor_3"
+      },
+      {
+        "ref": "keywords/cover_1"
+      },
+      {
+        "ref": "keywords/hover_ground"
+      },
+      {
+        "ref": "keywords/weak_point_1_rear_sides"
+      }
     ],
     "weapons": [
       {
@@ -4969,12 +7221,24 @@
       }
     },
     "keywords": [
-      "Armor 5",
-      "Arsenal 2",
-      "Cover 1",
-      "Hover: Air 2",
-      "Immune: Blast, Melee, Range 1 Weapons",
-      "Transport"
+      {
+        "ref": "keywords/armor_5"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/cover_1"
+      },
+      {
+        "ref": "keywords/hover_air_2"
+      },
+      {
+        "ref": "keywords/immune_blast_melee_range_1_weapons"
+      },
+      {
+        "ref": "keywords/transport"
+      }
     ],
     "weapons": [
       {
@@ -4988,8 +7252,12 @@
           "black": 2
         },
         "keywords": [
-          "Fixed: Front",
-          "Impact 1"
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/impact_1"
+          }
         ]
       }
     ],
@@ -5020,11 +7288,21 @@
       }
     },
     "keywords": [
-      "Armor 5",
-      "Arsenal 2",
-      "Hover: Ground",
-      "Outmaneuver",
-      "Weak Point 1: Rear, Sides"
+      {
+        "ref": "keywords/armor_5"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/hover_ground"
+      },
+      {
+        "ref": "keywords/outmaneuver"
+      },
+      {
+        "ref": "keywords/weak_point_1_rear_sides"
+      }
     ],
     "weapons": [
       {
@@ -5038,9 +7316,15 @@
           "black": 2
         },
         "keywords": [
-          "Critical 1",
-          "Fixed: Front",
-          "Impact 2"
+          {
+            "ref": "keywords/critical_1"
+          },
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/impact_2"
+          }
         ]
       }
     ],
@@ -5072,9 +7356,15 @@
       }
     },
     "keywords": [
-      "Deflect",
-      "Equip: Command, Training",
-      "Immune: Pierce"
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/equip_command_training"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      }
     ],
     "weapons": [],
     "upgrade_slots": [
@@ -5105,11 +7395,21 @@
       }
     },
     "keywords": [
-      "Bolster 2",
-      "Agile 1",
-      "Inspire 2",
-      "Nimble",
-      "Sharpshooter 2"
+      {
+        "ref": "keywords/bolster_2"
+      },
+      {
+        "ref": "keywords/agile_1"
+      },
+      {
+        "ref": "keywords/inspire"
+      },
+      {
+        "ref": "keywords/nimble"
+      },
+      {
+        "ref": "keywords/sharpshooter_2"
+      }
     ],
     "weapons": [
       {
@@ -5161,10 +7461,18 @@
       }
     },
     "keywords": [
-      "Repair 2: Capacity 2",
-      "Inconspicuous",
-      "Infiltrate",
-      "Secret Mission"
+      {
+        "ref": "keywords/repair_2_capacity_2"
+      },
+      {
+        "ref": "keywords/inconspicuous"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/secret_mission"
+      }
     ],
     "weapons": [
       {
@@ -5177,7 +7485,9 @@
           "black": 3
         },
         "keywords": [
-          "Suppressive"
+          {
+            "ref": "keywords/suppressive"
+          }
         ]
       }
     ],
@@ -5185,59 +7495,6 @@
       "Comms"
     ],
     "points": 55
-  },
-  {
-    "id": "republic/operative/the_bad_batch.json",
-    "source": "data/units/republic/operative/the_bad_batch.json",
-    "name": "The Bad Batch",
-    "title": "Clone Force 99",
-    "faction": "Galactic Republic",
-    "rank": "Commander",
-    "unit_type": "Clone Trooper",
-    "squad_size": 0,
-    "stats": {
-      "health": 2,
-      "courage": 3,
-      "speed": 2,
-      "defense_die": "Red",
-      "surges": {
-        "attack": "None",
-        "defense": "None"
-      }
-    },
-    "keywords": [
-      "Equip: Crosshair, Echo, Hunter, Tech, Wrecker",
-      "Impervious",
-      "Scale",
-      "Sharpshooter 1",
-      "Steady",
-      "We're Not Regs"
-    ],
-    "weapons": [
-      {
-        "name": "Combat Training",
-        "range": {
-          "min": 0,
-          "max": 0
-        },
-        "dice": {
-          "red": 1
-        },
-        "keywords": []
-      },
-      {
-        "name": "DC-17 Hand Blaster",
-        "range": {
-          "min": 1,
-          "max": 2
-        },
-        "dice": {
-          "white": 2
-        },
-        "keywords": []
-      }
-    ],
-    "upgrade_slots": []
   },
   {
     "id": "republic/special_forces/arc_troopers.json",
@@ -5259,12 +7516,24 @@
       }
     },
     "keywords": [
-      "Charge",
-      "Impervious",
-      "Scale",
-      "Scout 2",
-      "Sharpshooter 1",
-      "Tactical 1"
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/scout_2"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      },
+      {
+        "ref": "keywords/tactical_1"
+      }
     ],
     "weapons": [
       {
@@ -5310,10 +7579,18 @@
       }
     },
     "keywords": [
-      "Observe 2",
-      "Scout 1",
-      "Low Profile",
-      "Unhindered"
+      {
+        "ref": "keywords/observe_2"
+      },
+      {
+        "ref": "keywords/scout_1"
+      },
+      {
+        "ref": "keywords/low_profile"
+      },
+      {
+        "ref": "keywords/unhindered"
+      }
     ],
     "weapons": [
       {
@@ -5369,9 +7646,15 @@
       }
     },
     "keywords": [
-      "Indomitable",
-      "Scale",
-      "Sharpshooter 1"
+      {
+        "ref": "keywords/indomitable"
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
     ],
     "weapons": [
       {
@@ -5425,10 +7708,18 @@
       }
     },
     "keywords": [
-      "Charge",
-      "Duelist",
-      "Indomitable",
-      "Scale"
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/duelist"
+      },
+      {
+        "ref": "keywords/indomitable"
+      },
+      {
+        "ref": "keywords/scale"
+      }
     ],
     "weapons": [
       {
@@ -5484,10 +7775,18 @@
       }
     },
     "keywords": [
-      "Armor 2",
-      "Climbing Vehicle",
-      "Expert Climber",
-      "Scout 1"
+      {
+        "ref": "keywords/armor_2"
+      },
+      {
+        "ref": "keywords/climbing_vehicle"
+      },
+      {
+        "ref": "keywords/expert_climber"
+      },
+      {
+        "ref": "keywords/scout_1"
+      }
     ],
     "weapons": [
       {
@@ -5500,7 +7799,9 @@
           "red": 3
         },
         "keywords": [
-          "Impact 1"
+          {
+            "ref": "keywords/impact_1"
+          }
         ]
       },
       {
@@ -5514,8 +7815,12 @@
           "white": 1
         },
         "keywords": [
-          "Critical 1",
-          "Impact 1"
+          {
+            "ref": "keywords/critical_1"
+          },
+          {
+            "ref": "keywords/impact_1"
+          }
         ]
       }
     ],
@@ -5544,9 +7849,15 @@
       }
     },
     "keywords": [
-      "Arsenal 2",
-      "Cover 1",
-      "Speeder 1"
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/cover_1"
+      },
+      {
+        "ref": "keywords/speeder_1"
+      }
     ],
     "weapons": [
       {
@@ -5572,7 +7883,9 @@
           "white": 1
         },
         "keywords": [
-          "Fixed: Front"
+          {
+            "ref": "keywords/fixed_front"
+          }
         ]
       }
     ],
@@ -5602,12 +7915,24 @@
       }
     },
     "keywords": [
-      "Complete the Mission",
-      "Equip: Katarn Pattern Armor",
-      "Infiltrate",
-      "Recharge 1",
-      "Shielded 1",
-      "Target 1"
+      {
+        "ref": "keywords/complete_the_mission"
+      },
+      {
+        "ref": "keywords/equip_katarn_pattern_armor"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/recharge_1"
+      },
+      {
+        "ref": "keywords/shielded_1"
+      },
+      {
+        "ref": "keywords/target_1"
+      }
     ],
     "weapons": [
       {
@@ -5632,7 +7957,9 @@
           "white": 1
         },
         "keywords": [
-          "Suppressive"
+          {
+            "ref": "keywords/suppressive"
+          }
         ]
       }
     ],
@@ -5664,13 +7991,27 @@
       }
     },
     "keywords": [
-      "Complete the Mission",
-      "Equip: Katarn Pattern Armor",
-      "Independent: Recover",
-      "Infiltrate",
-      "Recharge 1",
-      "Shielded 1",
-      "Target 2"
+      {
+        "ref": "keywords/complete_the_mission"
+      },
+      {
+        "ref": "keywords/equip_katarn_pattern_armor"
+      },
+      {
+        "ref": "keywords/independent_recover"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/recharge_1"
+      },
+      {
+        "ref": "keywords/shielded_1"
+      },
+      {
+        "ref": "keywords/target_2"
+      }
     ],
     "weapons": [
       {
@@ -5694,7 +8035,9 @@
           "black": 2
         },
         "keywords": [
-          "Suppressive"
+          {
+            "ref": "keywords/suppressive"
+          }
         ]
       }
     ],
@@ -5726,10 +8069,18 @@
       }
     },
     "keywords": [
-      "Cover 2",
-      "Immune: Blast, Melee, Range 1 Weapons",
-      "Reposition",
-      "Speeder 2"
+      {
+        "ref": "keywords/cover_2"
+      },
+      {
+        "ref": "keywords/immune_blast_melee_range_1_weapons"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/speeder_2"
+      }
     ],
     "weapons": [
       {
@@ -5842,5 +8193,1803 @@
       "Command": 1
     },
     "points": 165
+  },
+  {
+    "id": "separatists/commander/general_grievous.json",
+    "source": "data/units/separatists/commander/general_grievous.json",
+    "name": "General Grievous",
+    "title": "Sinister Cyborg",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 8,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/block"
+      },
+      {
+        "ref": "keywords/entourage_ig_100_magnaguard"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/jedi_hunter"
+      },
+      {
+        "ref": "keywords/relentless"
+      },
+      {
+        "ref": "keywords/scale"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Trophy Lightsabers",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2,
+          "black": 2,
+          "white": 4
+        },
+        "keywords": [
+          {
+            "ref": "keywords/critical_1"
+          },
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_2"
+          }
+        ]
+      },
+      {
+        "name": "DT-57 \"Annihilator\"",
+        "range": {
+          "min": 0,
+          "max": 2
+        },
+        "dice": {
+          "black": 2,
+          "white": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/critical_1"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          },
+          {
+            "ref": "keywords/versatile"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Training",
+      "Comms"
+    ],
+    "points": 130
+  },
+  {
+    "id": "separatists/commander/general_grievous_wheel_bike_warlord.json",
+    "source": "data/units/separatists/commander/general_grievous_wheel_bike_warlord.json",
+    "name": "General Grievous",
+    "title": "Wheel Bike Warlord",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Ground Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 8,
+      "resilience": "-",
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/armor_1"
+      },
+      {
+        "ref": "keywords/climbing_vehicle"
+      },
+      {
+        "ref": "keywords/command_vehicle_2"
+      },
+      {
+        "ref": "keywords/entourage_tsmeu_6_wheel_bikes"
+      },
+      {
+        "ref": "keywords/immune_melee_pierce"
+      },
+      {
+        "ref": "keywords/mobile"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Trophy Lightsabers",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1,
+          "black": 3,
+          "white": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/overrun_1"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          },
+          {
+            "ref": "keywords/ram_1"
+          },
+          {
+            "ref": "keywords/scatter"
+          }
+        ]
+      },
+      {
+        "name": "Laser Cannon and Pistol",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 1,
+          "black": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/impact_1"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Training",
+      "Comms",
+      "Gear"
+    ],
+    "points": 150
+  },
+  {
+    "id": "separatists/commander/kalani.json",
+    "source": "data/units/separatists/commander/kalani.json",
+    "name": "Kalani",
+    "title": "Super Tactical Droid",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/strategize_2"
+      },
+      {
+        "ref": "keywords/direct_ai_unit"
+      },
+      {
+        "ref": "keywords/exemplar"
+      },
+      {
+        "ref": "keywords/reinforcements"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Combat Expertise",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": [
+          {
+            "ref": "keywords/lethal_1"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Command",
+      "Grenades",
+      "Comms"
+    ],
+    "points": 85
+  },
+  {
+    "id": "separatists/commander/kraken.json",
+    "source": "data/units/separatists/commander/kraken.json",
+    "name": "Kraken",
+    "title": "Super Tactical Droid",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/strategize_1"
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/exemplar"
+      },
+      {
+        "ref": "keywords/override"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Overwhelm",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 4
+        },
+        "keywords": [
+          {
+            "ref": "keywords/lethal_1"
+          }
+        ]
+      },
+      {
+        "name": "Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "red": 3
+        },
+        "keywords": [
+          {
+            "ref": "keywords/lethal_1"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Training",
+      "Grenades",
+      "Comms"
+    ],
+    "points": 80
+  },
+  {
+    "id": "separatists/commander/poggle_the_lesser.json",
+    "source": "data/units/separatists/commander/poggle_the_lesser.json",
+    "name": "Poggle the Lesser",
+    "title": "Public Leader of the Geonosians",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 4,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_2"
+      },
+      {
+        "ref": "keywords/compel_separatist_alliance_trooper"
+      },
+      {
+        "ref": "keywords/entourage_b2_super_battle_droids"
+      },
+      {
+        "ref": "keywords/override"
+      },
+      {
+        "ref": "keywords/weighed_down"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Staff of Command",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Concealed Blaster",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Command",
+      "Grenades",
+      "Comms"
+    ],
+    "points": 55
+  },
+  {
+    "id": "separatists/commander/super_tactical_command_droid.json",
+    "source": "data/units/separatists/commander/super_tactical_command_droid.json",
+    "name": "Super Tactical Command Droid",
+    "title": "Command and Control Droid",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/equip_training"
+      },
+      {
+        "ref": "keywords/override"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Aggression Protocol",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1,
+          "white": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-5 Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Command",
+      "Command",
+      "Command",
+      "Training",
+      "Grenades",
+      "Comms",
+      "Armament"
+    ],
+    "points": 70
+  },
+  {
+    "id": "separatists/commander/t-series_tactical_droid.json",
+    "source": "data/units/separatists/commander/t-series_tactical_droid.json",
+    "name": "T-Series Tactical Droid",
+    "title": "Programmed for Strategy",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 4,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/bolster_2"
+      },
+      {
+        "ref": "keywords/direct_droid_trooper_unit"
+      },
+      {
+        "ref": "keywords/exemplar"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Bludgeon",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Command",
+      "Grenades",
+      "Comms"
+    ],
+    "points": 60
+  },
+  {
+    "id": "separatists/corps/b1_battle_droids.json",
+    "source": "data/units/separatists/corps/b1_battle_droids.json",
+    "name": "B1 Battle Droids",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Corps",
+    "unit_type": "Droid Trooper",
+    "squad_size": 6,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/ai_attack"
+      },
+      {
+        "ref": "keywords/coordinate_droid_trooper"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Bludgeon",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "white": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-5 Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Heavy Weapon",
+      "Grenades"
+    ],
+    "points": 38
+  },
+  {
+    "id": "separatists/corps/b2_super_battle_droids.json",
+    "source": "data/units/separatists/corps/b2_super_battle_droids.json",
+    "name": "B2 Super Battle Droids",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Corps",
+    "unit_type": "Droid Trooper",
+    "squad_size": 3,
+    "stats": {
+      "health": 2,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/ai_attack"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Wrist Rockets",
+        "range": {
+          "min": 1,
+          "max": 1
+        },
+        "dice": {
+          "red": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact_1"
+          }
+        ]
+      },
+      {
+        "name": "Arm Cannons",
+        "range": {
+          "min": 0,
+          "max": 2
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Heavy Weapon",
+      "Grenades"
+    ],
+    "points": 64
+  },
+  {
+    "id": "separatists/corps/geonosian_warriors.json",
+    "source": "data/units/separatists/corps/geonosian_warriors.json",
+    "name": "Geonosian Warriors",
+    "title": "Soldiers of the Hive",
+    "faction": "Separatist Alliance",
+    "rank": "Corps",
+    "unit_type": "Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 1,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_3"
+      },
+      {
+        "ref": "keywords/death_from_above"
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/weighed_down"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Spears",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "Sonic Blasters",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 1,
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Heavy Weapon"
+    ],
+    "points": 45
+  },
+  {
+    "id": "separatists/heavy/aat_battle_tank.json",
+    "source": "data/units/separatists/heavy/aat_battle_tank.json",
+    "name": "AAT Battle Tank",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Heavy",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 9,
+      "resilience": 6,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/ai_attack"
+      },
+      {
+        "ref": "keywords/armor_5"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/barrage"
+      },
+      {
+        "ref": "keywords/hover_ground"
+      },
+      {
+        "ref": "keywords/weak_point_2_rear"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Anti-Personnel Lasers",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": [
+          {
+            "ref": "keywords/fixed_front"
+          }
+        ]
+      },
+      {
+        "name": "Artillery Cannon",
+        "range": {
+          "min": 2,
+          "max": 4
+        },
+        "dice": {
+          "red": 4
+        },
+        "keywords": [
+          {
+            "ref": "keywords/critical_2"
+          },
+          {
+            "ref": "keywords/high_velocity"
+          },
+          {
+            "ref": "keywords/impact_2"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Pilot",
+      "Comms",
+      "Ordnance",
+      "Ordnance"
+    ],
+    "points": 150
+  },
+  {
+    "id": "separatists/heavy/aqua_droids.json",
+    "source": "data/units/separatists/heavy/aqua_droids.json",
+    "name": "Aqua Droids",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Heavy",
+    "unit_type": "Heavy Droid Trooper",
+    "squad_size": 3,
+    "stats": {
+      "health": 3,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/ai_attack"
+      },
+      {
+        "ref": "keywords/armor_2"
+      },
+      {
+        "ref": "keywords/infiltrate"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/unconcerned"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Crushing Punch",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact_1"
+          }
+        ]
+      },
+      {
+        "name": "Laser Cannon",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 1,
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Comms"
+    ],
+    "points": 78
+  },
+  {
+    "id": "separatists/heavy/persuader-class_tank_droid.json",
+    "source": "data/units/separatists/heavy/persuader-class_tank_droid.json",
+    "name": "Persuader-class Tank Droid",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Heavy",
+    "unit_type": "Ground Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 11,
+      "resilience": 7,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/armor_5"
+      },
+      {
+        "ref": "keywords/arsenal_2"
+      },
+      {
+        "ref": "keywords/programmed"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/transport"
+      },
+      {
+        "ref": "keywords/weak_point_1_sides"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Ion Cannons",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 1,
+          "white": 1,
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/critical_1"
+          },
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/impact_1"
+          },
+          {
+            "ref": "keywords/ion_1"
+          }
+        ]
+      },
+      {
+        "name": "Heavy Blasters",
+        "range": {
+          "min": 1,
+          "max": 4
+        },
+        "dice": {
+          "red": 1,
+          "white": 2,
+          "black": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/critical_1"
+          },
+          {
+            "ref": "keywords/fixed_front"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Programming",
+      "Comms",
+      "Ordnance",
+      "Ordnance"
+    ],
+    "points": 130
+  },
+  {
+    "id": "separatists/operative/asajj_ventress.json",
+    "source": "data/units/separatists/operative/asajj_ventress.json",
+    "name": "Asajj Ventress",
+    "title": "Separatist Assassin",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_2"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/independent_dodge_1"
+      },
+      {
+        "ref": "keywords/indomitable"
+      },
+      {
+        "ref": "keywords/jarkai_mastery"
+      },
+      {
+        "ref": "keywords/relentless"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Asajj's Lightsabers",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 8
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_2"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Force",
+      "Training",
+      "Training"
+    ],
+    "points": 115
+  },
+  {
+    "id": "separatists/operative/maul.json",
+    "source": "data/units/separatists/operative/maul.json",
+    "name": "Maul",
+    "title": "Impatient Apprentice",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "courage": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_1"
+      },
+      {
+        "ref": "keywords/deflect"
+      },
+      {
+        "ref": "keywords/immune_pierce"
+      },
+      {
+        "ref": "keywords/juyo_mastery"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Maul's Lightsaber",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 4,
+          "white": 4
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_2"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Force",
+      "Training",
+      "Training"
+    ],
+    "points": 115
+  },
+  {
+    "id": "separatists/operative/sun_fac.json",
+    "source": "data/units/separatists/operative/sun_fac.json",
+    "name": "Sun Fac",
+    "title": "Ruthless Lieutenant",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_3"
+      },
+      {
+        "ref": "keywords/cover_1"
+      },
+      {
+        "ref": "keywords/death_from_above"
+      },
+      {
+        "ref": "keywords/direct_geonosian_warriors"
+      },
+      {
+        "ref": "keywords/retinue_poggle_the_lesser"
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/weighed_down"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Force Pike",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2,
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      },
+      {
+        "name": "Sonic Carbine",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "red": 1,
+          "black": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/suppressive"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Training",
+      "Grenades",
+      "Comms"
+    ],
+    "points": 55
+  },
+  {
+    "id": "separatists/operative/super_tactical_command_droid.json",
+    "source": "data/units/separatists/operative/super_tactical_command_droid.json",
+    "name": "Super Tactical Command Droid",
+    "title": "Auxiliary Command Droid",
+    "faction": "Separatist Alliance",
+    "rank": "Commander",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "courage": 3,
+      "speed": 1,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/aid_droid_trooper"
+      },
+      {
+        "ref": "keywords/equip_training"
+      },
+      {
+        "ref": "keywords/override"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Aggression Protocol",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1,
+          "white": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "E-5 Blaster Rifle",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Force",
+      "Command",
+      "Command",
+      "Grenades",
+      "Comms",
+      "Armament",
+      "Armament"
+    ],
+    "points": 60
+  },
+  {
+    "id": "separatists/special_forces/bx-series_droid_commandos.json",
+    "source": "data/units/separatists/special_forces/bx-series_droid_commandos.json",
+    "name": "BX-Series Droid Commandos",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Special Forces",
+    "unit_type": "Droid Trooper",
+    "squad_size": 4,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/jump_1"
+      },
+      {
+        "ref": "keywords/ai_dodge_move"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/scout_3"
+      },
+      {
+        "ref": "keywords/sharpshooter_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "Commando E-5 Blaster",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Training",
+      "Grenades",
+      "Armament",
+      "Gear"
+    ],
+    "points": 60
+  },
+  {
+    "id": "separatists/special_forces/ig-100_magnaguard.json",
+    "source": "data/units/separatists/special_forces/ig-100_magnaguard.json",
+    "name": "IG-100 MagnaGuard",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Special Forces",
+    "unit_type": "Droid Trooper",
+    "squad_size": 3,
+    "stats": {
+      "health": 2,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/ai_dodge_move"
+      },
+      {
+        "ref": "keywords/charge"
+      },
+      {
+        "ref": "keywords/guardian_2_commander"
+      },
+      {
+        "ref": "keywords/immune_melee_pierce"
+      },
+      {
+        "ref": "keywords/retinue_commander"
+      },
+      {
+        "ref": "keywords/unhindered"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Electrostaff",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      },
+      {
+        "name": "Precision Laser Dart",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "black": 1,
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Training",
+      "Training",
+      "Grenades",
+      "Gear"
+    ],
+    "points": 72
+  },
+  {
+    "id": "separatists/special_forces/tsmeu-6_wheel_bikes.json",
+    "source": "data/units/separatists/special_forces/tsmeu-6_wheel_bikes.json",
+    "name": "TSMEU-6 Wheel Bikes",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Special Forces",
+    "unit_type": "Ground Vehicle",
+    "squad_size": 2,
+    "stats": {
+      "health": 3,
+      "resilience": "-",
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/ai_dodge"
+      },
+      {
+        "ref": "keywords/armor_1"
+      },
+      {
+        "ref": "keywords/climbing_vehicle"
+      },
+      {
+        "ref": "keywords/mobile"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Spiked Wheel",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": [
+          {
+            "ref": "keywords/overrun_2"
+          }
+        ]
+      },
+      {
+        "name": "Double Laser Cannon",
+        "range": {
+          "min": 1,
+          "max": 2
+        },
+        "dice": {
+          "red": 1,
+          "white": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/impact_1"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Pilot",
+      "Training",
+      "Grenades",
+      "Comms"
+    ],
+    "points": 90
+  },
+  {
+    "id": "separatists/support/bx-series_droid_commandos.json",
+    "source": "data/units/separatists/support/bx-series_droid_commandos.json",
+    "name": "BX-Series Droid Commandos",
+    "title": "Strike Team",
+    "faction": "Separatist Alliance",
+    "rank": "Support",
+    "unit_type": "Droid Trooper",
+    "squad_size": 1,
+    "stats": {
+      "health": 1,
+      "courage": 2,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/ai_dodge"
+      },
+      {
+        "ref": "keywords/detachment_bx_series_droid_commandos"
+      },
+      {
+        "ref": "keywords/heavy_weapon_team"
+      },
+      {
+        "ref": "keywords/impervious"
+      },
+      {
+        "ref": "keywords/incognito"
+      },
+      {
+        "ref": "keywords/prepared_position"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Unarmed",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "black": 1
+        },
+        "keywords": []
+      },
+      {
+        "name": "Commando E-5 Blaster",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 2
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Personnel",
+      "Training",
+      "Grenades",
+      "Armament",
+      "Gear"
+    ]
+  },
+  {
+    "id": "separatists/support/droidekas.json",
+    "source": "data/units/separatists/support/droidekas.json",
+    "name": "Droidekas",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Support",
+    "unit_type": "Heavy Droid Trooper",
+    "squad_size": 2,
+    "stats": {
+      "health": 3,
+      "courage": 2,
+      "speed": 1,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/ai_attack"
+      },
+      {
+        "ref": "keywords/generator_1"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/shielded_4"
+      },
+      {
+        "ref": "keywords/unconcerned"
+      },
+      {
+        "ref": "keywords/wheel_mode"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Dual Blaster Cannons",
+        "range": {
+          "min": 0,
+          "max": 3
+        },
+        "dice": {
+          "red": 1,
+          "black": 2
+        },
+        "keywords": [
+          {
+            "ref": "keywords/immune_deflect"
+          },
+          {
+            "ref": "keywords/suppressive"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Comms"
+    ],
+    "points": 67
+  },
+  {
+    "id": "separatists/support/dsd1_dwarf_spider_droid.json",
+    "source": "data/units/separatists/support/dsd1_dwarf_spider_droid.json",
+    "name": "DSD1 Dwarf Spider Droid",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Support",
+    "unit_type": "Ground Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 6,
+      "resilience": 4,
+      "speed": 1,
+      "defense_die": "White",
+      "surges": {
+        "attack": "Critical",
+        "defense": "Block"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/self_destruct_3"
+      },
+      {
+        "ref": "keywords/armor_3"
+      },
+      {
+        "ref": "keywords/climbing_vehicle"
+      },
+      {
+        "ref": "keywords/expert_climber"
+      },
+      {
+        "ref": "keywords/programmed"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Wicked Kick",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 1,
+          "black": 1,
+          "white": 1
+        },
+        "keywords": []
+      }
+    ],
+    "upgrade_slots": [
+      "Programming",
+      "Hardpoint",
+      "Comms"
+    ],
+    "points": 50
+  },
+  {
+    "id": "separatists/support/lm-432_crab_droid.json",
+    "source": "data/units/separatists/support/lm-432_crab_droid.json",
+    "name": "LM-432 Crab Droid",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Support",
+    "unit_type": "Ground Vehicle",
+    "squad_size": 1,
+    "stats": {
+      "health": 5,
+      "resilience": 3,
+      "speed": 2,
+      "defense_die": "Red",
+      "surges": {
+        "attack": "Critical",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/armor_2"
+      },
+      {
+        "ref": "keywords/climbing_vehicle"
+      },
+      {
+        "ref": "keywords/programmed"
+      },
+      {
+        "ref": "keywords/reposition"
+      },
+      {
+        "ref": "keywords/scale"
+      },
+      {
+        "ref": "keywords/scout_1"
+      },
+      {
+        "ref": "keywords/scouting_party_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Crab Claws",
+        "range": {
+          "min": 0,
+          "max": 0
+        },
+        "dice": {
+          "red": 2,
+          "black": 1,
+          "white": 1
+        },
+        "keywords": [
+          {
+            "ref": "keywords/impact_2"
+          },
+          {
+            "ref": "keywords/pierce_1"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Programming",
+      "Hardpoint",
+      "Comms"
+    ],
+    "points": 70
+  },
+  {
+    "id": "separatists/support/stap_riders.json",
+    "source": "data/units/separatists/support/stap_riders.json",
+    "name": "STAP Riders",
+    "title": "None",
+    "faction": "Separatist Alliance",
+    "rank": "Support",
+    "unit_type": "Repulsor Vehicle",
+    "squad_size": 2,
+    "stats": {
+      "health": 3,
+      "resilience": "-",
+      "speed": 3,
+      "defense_die": "White",
+      "surges": {
+        "attack": "None",
+        "defense": "None"
+      }
+    },
+    "keywords": [
+      {
+        "ref": "keywords/agile_1"
+      },
+      {
+        "ref": "keywords/ai_move"
+      },
+      {
+        "ref": "keywords/coordinate_droid_trooper_vehicle"
+      },
+      {
+        "ref": "keywords/cover_1"
+      },
+      {
+        "ref": "keywords/speeder_1"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Dual Blaster Cannons",
+        "range": {
+          "min": 1,
+          "max": 3
+        },
+        "dice": {
+          "black": 3
+        },
+        "keywords": [
+          {
+            "ref": "keywords/fixed_front"
+          },
+          {
+            "ref": "keywords/critical_1"
+          }
+        ]
+      }
+    ],
+    "upgrade_slots": [
+      "Comms"
+    ],
+    "points": 70
   }
 ]

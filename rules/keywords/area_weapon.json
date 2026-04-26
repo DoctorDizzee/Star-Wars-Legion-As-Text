@@ -1,0 +1,8 @@
+{
+  "name": "Area Weapon",
+  "slug": "area_weapon",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A weapon with a yellow Range icon is an area weapon. When using an area weapon, make a separate attack against each unit, allied and enemy, that is in LOS and within the Range indicated by the number on the Range icon, even if that unit is Engaged. Attacks made by area weapons are always Ranged attacks. Area weapons can never be in an Attack Pool made by a unit and must always be the only weapon in an Attack Pool.",
+  "description": "A weapon with a yellow Range icon is an area weapon. When using an area weapon, make a separate attack against each unit, allied and enemy, that is in LOS and within the Range indicated by the number on the Range icon, even if that unit is Engaged. Attacks made by area weapons are always Ranged attacks. Area weapons can never be in an Attack Pool made by a unit and must always be the only weapon in an Attack Pool."
+}

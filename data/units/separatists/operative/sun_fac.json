@@ -16,29 +16,59 @@
     }
   },
   "keywords": [
-    "Jump 3",
-    "Cover 1",
-    "Death From Above",
-    "Direct: Geonosian Warriors",
-    "Retinue: Poggle the Lesser",
-    "Scale",
-    "Weighed Down"
+    {
+      "ref": "keywords/jump_3"
+    },
+    {
+      "ref": "keywords/cover_1"
+    },
+    {
+      "ref": "keywords/death_from_above"
+    },
+    {
+      "ref": "keywords/direct_geonosian_warriors"
+    },
+    {
+      "ref": "keywords/retinue_poggle_the_lesser"
+    },
+    {
+      "ref": "keywords/scale"
+    },
+    {
+      "ref": "keywords/weighed_down"
+    }
   ],
   "weapons": [
     {
       "name": "Force Pike",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 2, "black": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 2,
+        "black": 1
+      },
       "keywords": [
-        "Pierce 1"
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     },
     {
       "name": "Sonic Carbine",
-      "range": { "min": 1, "max": 3 },
-      "dice": { "red": 1, "black": 1 },
+      "range": {
+        "min": 1,
+        "max": 3
+      },
+      "dice": {
+        "red": 1,
+        "black": 1
+      },
       "keywords": [
-        "Suppressive"
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     }
   ],

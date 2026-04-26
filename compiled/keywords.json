@@ -1,0 +1,2559 @@
+{
+  "action_calculate_odds": {
+    "name": "Action Calculate Odds",
+    "slug": "action_calculate_odds",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "advanced_targeting_trooper_1": {
+    "name": "Advanced Targeting Trooper 1",
+    "slug": "advanced_targeting_trooper_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "agile": {
+    "name": "Agile",
+    "slug": "agile",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "agile_1": {
+    "name": "Agile 1",
+    "slug": "agile_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "ai_attack": {
+    "name": "Ai Attack",
+    "slug": "ai_attack",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "ai_dodge": {
+    "name": "Ai Dodge",
+    "slug": "ai_dodge",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "ai_dodge_move": {
+    "name": "Ai Dodge Move",
+    "slug": "ai_dodge_move",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "ai_move": {
+    "name": "Ai Move",
+    "slug": "ai_move",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "aid": {
+    "name": "Aid",
+    "slug": "aid",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "aid_black_sun": {
+    "name": "Aid Black Sun",
+    "slug": "aid_black_sun",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "aid_droid_trooper": {
+    "name": "Aid Droid Trooper",
+    "slug": "aid_droid_trooper",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "allies_of_convenience": {
+    "name": "Allies of Convenience",
+    "slug": "allies_of_convenience",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "anti_materiel": {
+    "name": "Anti-materiel X",
+    "slug": "anti_materiel",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit makes an attack that has the Anti-Materiel X keyword in the Attack Pool, if the defending unit is a Vehicle unit, upgrade X of that weapon’s attack dice.",
+    "description": "When a unit makes an attack that has the Anti-Materiel X keyword in the Attack Pool, if the defending unit is a Vehicle unit, upgrade X of that weapon’s attack dice."
+  },
+  "anti_personnel": {
+    "name": "Anti-personnel X",
+    "slug": "anti_personnel",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit makes an attack that has the Anti-Personnel X keyword in the Attack Pool, if the defending unit is a Trooper unit, upgrade X of that weapon’s attack dice.",
+    "description": "When a unit makes an attack that has the Anti-Personnel X keyword in the Attack Pool, if the defending unit is a Trooper unit, upgrade X of that weapon’s attack dice."
+  },
+  "area_weapon": {
+    "name": "Area Weapon",
+    "slug": "area_weapon",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A weapon with a yellow Range icon is an area weapon. When using an area weapon, make a separate attack against each unit, allied and enemy, that is in LOS and within the Range indicated by the number on the Range icon, even if that unit is Engaged. Attacks made by area weapons are always Ranged attacks. Area weapons can never be in an Attack Pool made by a unit and must always be the only weapon in an Attack Pool.",
+    "description": "A weapon with a yellow Range icon is an area weapon. When using an area weapon, make a separate attack against each unit, allied and enemy, that is in LOS and within the Range indicated by the number on the Range icon, even if that unit is Engaged. Attacks made by area weapons are always Ranged attacks. Area weapons can never be in an Attack Pool made by a unit and must always be the only weapon in an Attack Pool."
+  },
+  "arm_x_charge_token_type": {
+    "name": "Arm X: Charge Token Type",
+    "slug": "arm_x_charge_token_type",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit that is equipped with a card that has the Arm X: Charge Token Type keyword can make the Arm X action. When a unit makes the Arm X action, the unit places X Charge tokens (Advantage) of the speci/f_ied type and matching its controlling player’s color completely within 1 and LOS of its unit leader. Charge tokens cannot overlap any Objective, Advantage, or other Charge tokens and must be placed on a flat surface.",
+    "description": "A unit that is equipped with a card that has the Arm X: Charge Token Type keyword can make the Arm X action. When a unit makes the Arm X action, the unit places X Charge tokens (Advantage) of the speci/f_ied type and matching its controlling player’s color completely within 1 and LOS of its unit leader. Charge tokens cannot overlap any Objective, Advantage, or other Charge tokens and must be placed on a flat surface."
+  },
+  "armor": {
+    "name": "Armor",
+    "slug": "armor",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "armor_1": {
+    "name": "Armor 1",
+    "slug": "armor_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "armor_2": {
+    "name": "Armor 2",
+    "slug": "armor_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "armor_3": {
+    "name": "Armor 3",
+    "slug": "armor_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "armor_5": {
+    "name": "Armor 5",
+    "slug": "armor_5",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "arsenal": {
+    "name": "Arsenal",
+    "slug": "arsenal",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "arsenal_2": {
+    "name": "Arsenal 2",
+    "slug": "arsenal_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "assault": {
+    "name": "Assault X",
+    "slug": "assault",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a weapon with the Assault X keyword is added to an Attack Pool, if the defending unit is within 1 of the attacking unit's unit leader, you may upgrade X of that weapon's attack dice.",
+    "description": "When a weapon with the Assault X keyword is added to an Attack Pool, if the defending unit is within 1 of the attacking unit's unit leader, you may upgrade X of that weapon's attack dice."
+  },
+  "associate_anakin_skywalker": {
+    "name": "Associate Anakin Skywalker",
+    "slug": "associate_anakin_skywalker",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "associate_fifth_brother": {
+    "name": "Associate Fifth Brother",
+    "slug": "associate_fifth_brother",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "ataru_mastery": {
+    "name": "Ataru Mastery",
+    "slug": "ataru_mastery",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "bane_tokens": {
+    "name": "Bane Tokens",
+    "slug": "bane_tokens",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "Cad Bane has a set of 3 unique Bane tokens that he can place on the battle/f_ield. Bane tokens are double-sided, with a uniform back and 3 different images on the front, each linked to a unique effect. Bane tokens must be placed facedown on the battle/f_ield and cannot overlap Objective or Advantage tokens. Bane tokens are enemy effects. Each player may only have 1 copy of each different Bane token on the battle/f_ield at the same time. When an enemy miniature Moves, Deploys, or is placed within 1 of an enemy Bane token, if that miniature has LOS to the token, that Bane token is revealed. Miniatures can Move through but not overlap Bane tokens. When a Bane token is revealed, it has 1 of the following effects: Here I Am: If Cad Bane is not on the battle/f_ield and is not defeated, his Here I Am token is replaced by his miniature. Then, Cad Bane issues himself an Order. •If Cad Bane is on the battle/f_ield, his Here I Am token is replaced by his miniature. Any tokens assigned to Cad Baneremain assigned to him. •If Cad Bane is defeated, the token is removed. • At the start of each Round, starting with the blue player, a player may reveal an allied Here I Am token and resolve it. Smoke and Mirrors: The token is removed. Kablamo!: The token detonates using the weapon pro/f_ile on Cad Bane’s I Make the Rules Now Command Card, then the token is removed.",
+    "description": "Cad Bane has a set of 3 unique Bane tokens that he can place on the battle/f_ield. Bane tokens are double-sided, with a uniform back and 3 different images on the front, each linked to a unique effect. Bane tokens must be placed facedown on the battle/f_ield and cannot overlap Objective or Advantage tokens. Bane tokens are enemy effects. Each player may only have 1 copy of each different Bane token on the battle/f_ield at the same time. When an enemy miniature Moves, Deploys, or is placed within 1 of an enemy Bane token, if that miniature has LOS to the token, that Bane token is revealed. Miniatures can Move through but not overlap Bane tokens. When a Bane token is revealed, it has 1 of the following effects: Here I Am: If Cad Bane is not on the battle/f_ield and is not defeated, his Here I Am token is replaced by his miniature. Then, Cad Bane issues himself an Order. •If Cad Bane is on the battle/f_ield, his Here I Am token is replaced by his miniature. Any tokens assigned to Cad Baneremain assigned to him. •If Cad Bane is defeated, the token is removed. • At the start of each Round, starting with the blue player, a player may reveal an allied Here I Am token and resolve it. Smoke and Mirrors: The token is removed. Kablamo!: The token detonates using the weapon pro/f_ile on Cad Bane’s I Make the Rules Now Command Card, then the token is removed."
+  },
+  "barrage": {
+    "name": "Barrage",
+    "slug": "barrage",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "beam": {
+    "name": "Beam X",
+    "slug": "beam",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "If a weapon with the Beam X keyword is in a unit’s Attack Pool during the Declare Additional Defender step, that unit may declare up to X additional attacks, forming Attack Pools using only the weapon with the Beam X keyword, even though the weapon has already been added to an Attack Pool. These additional attacks do not generate further attacks. Each additional attack must be against a different defending unit that is within 1 of the last defending unit declared. These additional attacks must be in LOS of the attacking unit but do not have to be within the maximum Range of the weapon with the Beam X keyword. Units may not use the Beam X and Gunslinger keywords during the same attack.",
+    "description": "If a weapon with the Beam X keyword is in a unit’s Attack Pool during the Declare Additional Defender step, that unit may declare up to X additional attacks, forming Attack Pools using only the weapon with the Beam X keyword, even though the weapon has already been added to an Attack Pool. These additional attacks do not generate further attacks. Each additional attack must be against a different defending unit that is within 1 of the last defending unit declared. These additional attacks must be in LOS of the attacking unit but do not have to be within the maximum Range of the weapon with the Beam X keyword. Units may not use the Beam X and Gunslinger keywords during the same attack."
+  },
+  "blast": {
+    "name": "Blast",
+    "slug": "blast",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A defending unit cannot use light or heavy Cover during the Apply Dodge and Cover step to cancel hit a results produced by an Attack Pool that contains the Blast keyword.",
+    "description": "A defending unit cannot use light or heavy Cover during the Apply Dodge and Cover step to cancel hit a results produced by an Attack Pool that contains the Blast keyword."
+  },
+  "block": {
+    "name": "Block",
+    "slug": "block",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "bolster_2": {
+    "name": "Bolster 2",
+    "slug": "bolster_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "bounty": {
+    "name": "Bounty",
+    "slug": "bounty",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "calculate_odds": {
+    "name": "Calculate Odds",
+    "slug": "calculate_odds",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "charge": {
+    "name": "Charge",
+    "slug": "charge",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "climbing_vehicle": {
+    "name": "Climbing Vehicle",
+    "slug": "climbing_vehicle",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "command_vehicle_2": {
+    "name": "Command Vehicle 2",
+    "slug": "command_vehicle_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "compel": {
+    "name": "Compel",
+    "slug": "compel",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "compel_corps_trooper": {
+    "name": "Compel Corps Trooper",
+    "slug": "compel_corps_trooper",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "compel_ewok_trooper": {
+    "name": "Compel Ewok Trooper",
+    "slug": "compel_ewok_trooper",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "compel_separatist_alliance_trooper": {
+    "name": "Compel Separatist Alliance Trooper",
+    "slug": "compel_separatist_alliance_trooper",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "complete_the_mission": {
+    "name": "Complete The Mission",
+    "slug": "complete_the_mission",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "compulsory_move": {
+    "name": "Compulsory Move",
+    "slug": "compulsory_move",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A compulsory Move is a free Move action. To make a compulsory Move, the unit makes a full Standard  Move at its Speed. If it cannot do so, or if a full Move would cause any part of the unit leader’s base to be outside the battle/f_ield, it can make a partial Move instead, ending its movement as far along the Movement Tool as possible.",
+    "description": "A compulsory Move is a free Move action. To make a compulsory Move, the unit makes a full Standard  Move at its Speed. If it cannot do so, or if a full Move would cause any part of the unit leader’s base to be outside the battle/f_ield, it can make a partial Move instead, ending its movement as far along the Movement Tool as possible."
+  },
+  "coordinate": {
+    "name": "Coordinate",
+    "slug": "coordinate",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "coordinate_droid_trooper": {
+    "name": "Coordinate Droid Trooper",
+    "slug": "coordinate_droid_trooper",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "coordinate_droid_trooper_vehicle": {
+    "name": "Coordinate Droid Trooper Vehicle",
+    "slug": "coordinate_droid_trooper_vehicle",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "coordinate_emplacement_trooper": {
+    "name": "Coordinate Emplacement Trooper",
+    "slug": "coordinate_emplacement_trooper",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "cover": {
+    "name": "Cover",
+    "slug": "cover",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "cover_1": {
+    "name": "Cover 1",
+    "slug": "cover_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "cover_2": {
+    "name": "Cover 2",
+    "slug": "cover_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "critical": {
+    "name": "Critical X",
+    "slug": "critical",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit attacks, if the Critical X keyword is in the Attack Pool, during the Convert Surges step it may convert up to X c results to b results.",
+    "description": "When a unit attacks, if the Critical X keyword is in the Attack Pool, during the Convert Surges step it may convert up to X c results to b results."
+  },
+  "critical_1": {
+    "name": "Critical 1",
+    "slug": "critical_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "critical_2": {
+    "name": "Critical 2",
+    "slug": "critical_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "cumbersome": {
+    "name": "Cumbersome",
+    "slug": "cumbersome",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit adds a weapon with the Cumbersome keyword to an Attack Pool, it downgrades each of that weapon's attack dice if that unit has made any Moves during the same Activation.",
+    "description": "When a unit adds a weapon with the Cumbersome keyword to an Attack Pool, it downgrades each of that weapon's attack dice if that unit has made any Moves during the same Activation."
+  },
+  "cunning": {
+    "name": "Cunning",
+    "slug": "cunning",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "cycle": {
+    "name": "Cycle",
+    "slug": "cycle",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "At the end of a unit’s Activation, ready each of its exhausted Upgrade Cards with the Cycle keyword that was not used during that Activation. Only using the weapon, keywords, or other card text on the card counts as using that Upgrade Card.",
+    "description": "At the end of a unit’s Activation, ready each of its exhausted Upgrade Cards with the Cycle keyword that was not used during that Activation. Only using the weapon, keywords, or other card text on the card counts as using that Upgrade Card."
+  },
+  "danger_sense": {
+    "name": "Danger Sense",
+    "slug": "danger_sense",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "danger_sense_2": {
+    "name": "Danger Sense 2",
+    "slug": "danger_sense_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "danger_sense_3": {
+    "name": "Danger Sense 3",
+    "slug": "danger_sense_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "dauntless": {
+    "name": "Dauntless",
+    "slug": "dauntless",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "death_from_above": {
+    "name": "Death From Above",
+    "slug": "death_from_above",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "defend": {
+    "name": "Defend",
+    "slug": "defend",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "defend_1": {
+    "name": "Defend 1",
+    "slug": "defend_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "deflect": {
+    "name": "Deflect",
+    "slug": "deflect",
+    "type": "Unit Keyword",
+    "timing": "During Attack: Defense",
+    "official_rules_text": "While a unit with the Deflect keyword is defending against a ranged attack, if it spends a dodge token, it gains \"Surge: Block\". Furthermore, if it spends a dodge token and the attack is ranged, the attacker suffers 1 wound for each surge result rolled by the defender during the Roll Defense Dice step.",
+    "ai_processing_logic": [
+      "Condition 1: Attack must be Ranged.",
+      "Effect 1 (Defense): Defender's surge chart temporarily becomes Surge to Block.",
+      "Effect 2 (Damage): Attacker suffers 1 wound if the defender rolls any Surge result (max 1).",
+      "Exceptions: Does not trigger in melee."
+    ],
+    "last_updated": "2024-04-22"
+  },
+  "detachment_bx_series_droid_commandos": {
+    "name": "Detachment Bx Series Droid Commandos",
+    "slug": "detachment_bx_series_droid_commandos",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "detachment_cassian_andor": {
+    "name": "Detachment Cassian Andor",
+    "slug": "detachment_cassian_andor",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "detachment_shoretroopers": {
+    "name": "Detachment Shoretroopers",
+    "slug": "detachment_shoretroopers",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "detachment_special_forces": {
+    "name": "Detachment Special Forces",
+    "slug": "detachment_special_forces",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "detachment_special_forces_scout_troopers": {
+    "name": "Detachment Special Forces Scout Troopers",
+    "slug": "detachment_special_forces_scout_troopers",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "detonate_x_charge_type": {
+    "name": "Detonate X: (charge Type)",
+    "slug": "detonate_x_charge_type",
+    "type": "Weapon Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "After a unit attacks, Moves, or makes an action, each unit that has a weapon with the Detonate X keyword may Detonate up to X allied Charge tokens (Advantage) of the speci/f_ied type. If a token would detonate, that token detonates before any other abilities or effects that occur after a unit Moves or makes an action, with the exception of spending a Standby token which can be spent by a unit before the token detonates. If both players have units that could detonate Charge tokens, the player that does not control the unit that just made the attack, Move, or action may use their unit’s Detonate X keyword first. When a token detonates, make a separate attack against each unit, allied and enemy, that has LOS to the token and is in Range of the area weapon, using the surge conversion chart and weapon keywords on the card for the token being detonated. The detonating token is considered the attacking unit when making attacks, meaning that it cannot spend Aim tokens or modify attack dice, regardless of any abilities on the unit that placed the token. After a token detonates, remove it from the battle/f_ield.",
+    "description": "After a unit attacks, Moves, or makes an action, each unit that has a weapon with the Detonate X keyword may Detonate up to X allied Charge tokens (Advantage) of the speci/f_ied type. If a token would detonate, that token detonates before any other abilities or effects that occur after a unit Moves or makes an action, with the exception of spending a Standby token which can be spent by a unit before the token detonates. If both players have units that could detonate Charge tokens, the player that does not control the unit that just made the attack, Move, or action may use their unit’s Detonate X keyword first. When a token detonates, make a separate attack against each unit, allied and enemy, that has LOS to the token and is in Range of the area weapon, using the surge conversion chart and weapon keywords on the card for the token being detonated. The detonating token is considered the attacking unit when making attacks, meaning that it cannot spend Aim tokens or modify attack dice, regardless of any abilities on the unit that placed the token. After a token detonates, remove it from the battle/f_ield."
+  },
+  "direct": {
+    "name": "Direct",
+    "slug": "direct",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "direct_ai_unit": {
+    "name": "Direct Ai Unit",
+    "slug": "direct_ai_unit",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "direct_commander_trooper_unit": {
+    "name": "Direct Commander Trooper Unit",
+    "slug": "direct_commander_trooper_unit",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "direct_corps_clone_trooper_unit": {
+    "name": "Direct Corps Clone Trooper Unit",
+    "slug": "direct_corps_clone_trooper_unit",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "direct_droid_trooper_unit": {
+    "name": "Direct Droid Trooper Unit",
+    "slug": "direct_droid_trooper_unit",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "direct_galactic_empire_unit": {
+    "name": "Direct Galactic Empire Unit",
+    "slug": "direct_galactic_empire_unit",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "direct_geonosian_warriors": {
+    "name": "Direct Geonosian Warriors",
+    "slug": "direct_geonosian_warriors",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "direct_vehicle": {
+    "name": "Direct Vehicle",
+    "slug": "direct_vehicle",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "disciplined_1": {
+    "name": "Disciplined 1",
+    "slug": "disciplined_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "disengage": {
+    "name": "Disengage",
+    "slug": "disengage",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "divine_influence": {
+    "name": "Divine Influence",
+    "slug": "divine_influence",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "Other  alliedunit Trooper units gain Guardian 2: C-3PO while they are within 1 and in LOS of an allied C-3PO. While allied unit Trooper units within 1 and in LOS of an allied C-3PO use Guardian X, they may cancel b results as if they were a results.",
+    "description": "Other  alliedunit Trooper units gain Guardian 2: C-3PO while they are within 1 and in LOS of an allied C-3PO. While allied unit Trooper units within 1 and in LOS of an allied C-3PO use Guardian X, they may cancel b results as if they were a results."
+  },
+  "djem_so_mastery": {
+    "name": "Djem So Mastery",
+    "slug": "djem_so_mastery",
+    "type": "Keyword",
+    "description": "When a unit with the Djem So Mastery keyword defends against a Melee attack, during the Compare Results step, the attacking unit suffers 1 Wound if the attack roll contains 1 or more Blank results.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Djem So Mastery keyword defends against a Melee attack, during the Compare Results step, the attacking unit suffers 1 Wound if the attack roll contains 1 or more Blank results."
+  },
+  "duelist": {
+    "name": "Duelist",
+    "slug": "duelist",
+    "type": "Keyword",
+    "description": "When a unit with the Duelist keyword makes a Melee attack, if it spends 1 or more Aim tokens during the Reroll Attack Dice step, the Attack Pool gains the Pierce 1 weapon keyword. While a unit with the Duelist keyword defends against a Melee attack, if it spends at least 1 Dodge token during the Apply Dodge and Cover step, it gains the Immune: Pierce keyword. A unit with the Duelist keyword gets these effects in addition to the normal effects of spending Aim or Dodge tokens.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Duelist keyword makes a Melee attack, if it spends 1 or more Aim tokens during the Reroll Attack Dice step, the Attack Pool gains the Pierce 1 weapon keyword. While a unit with the Duelist keyword defends against a Melee attack, if it spends at least 1 Dodge token during the Apply Dodge and Cover step, it gains the Immune: Pierce keyword. A unit with the Duelist keyword gets these effects in addition to the normal effects of spending Aim or Dodge tokens."
+  },
+  "enrage": {
+    "name": "Enrage",
+    "slug": "enrage",
+    "type": "Keyword",
+    "description": "When a unit with the Enrage X keyword has Wound tokens greater than or equal to X, that unit gains the Charge keyword and its unit becomes “-” . If a unit with the Enrage X keyword has Wound tokens greater than or equal to X but removes Wound tokens through an effect so that it has fewer than X, it no longer bene/f_its from the Enrage X keyword until it has Wound tokens greater than or equal to X again.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Enrage X keyword has Wound tokens greater than or equal to X, that unit gains the Charge keyword and its unit becomes “-” . If a unit with the Enrage X keyword has Wound tokens greater than or equal to X but removes Wound tokens through an effect so that it has fewer than X, it no longer bene/f_its from the Enrage X keyword until it has Wound tokens greater than or equal to X again."
+  },
+  "enrage_2": {
+    "name": "Enrage 2",
+    "slug": "enrage_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "enrage_3": {
+    "name": "Enrage 3",
+    "slug": "enrage_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "enrage_4": {
+    "name": "Enrage 4",
+    "slug": "enrage_4",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "entourage_b2_super_battle_droids": {
+    "name": "Entourage B2 Super Battle Droids",
+    "slug": "entourage_b2_super_battle_droids",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "entourage_darth_vader": {
+    "name": "Entourage Darth Vader",
+    "slug": "entourage_darth_vader",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "entourage_ig_100_magnaguard": {
+    "name": "Entourage Ig 100 Magnaguard",
+    "slug": "entourage_ig_100_magnaguard",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "entourage_imperial_dark_troopers": {
+    "name": "Entourage Imperial Dark Troopers",
+    "slug": "entourage_imperial_dark_troopers",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "entourage_imperial_death_troopers": {
+    "name": "Entourage Imperial Death Troopers",
+    "slug": "entourage_imperial_death_troopers",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "entourage_tsmeu_6_wheel_bikes": {
+    "name": "Entourage Tsmeu 6 Wheel Bikes",
+    "slug": "entourage_tsmeu_6_wheel_bikes",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "entourage_unit_name": {
+    "name": "Entourage: Unit Name",
+    "slug": "entourage_unit_name",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "During Army Building, for each unit a player includes with the Entourage keyword, 1 unit speci/f_ied by the Entourage keyword does not count its Rank towards the maximum Rank requirements for that Rank. /T_his can allow a player to bring more units of a specific Rank than Rank requirements allow. In the Command Phase, during the Issue Orders step, a unit with the Entourage keyword may issue an Order to an allied unit within 2 that has the name speci/f_ied by the Entourage keyword.",
+    "description": "During Army Building, for each unit a player includes with the Entourage keyword, 1 unit speci/f_ied by the Entourage keyword does not count its Rank towards the maximum Rank requirements for that Rank. /T_his can allow a player to bring more units of a specific Rank than Rank requirements allow. In the Command Phase, during the Issue Orders step, a unit with the Entourage keyword may issue an Order to an allied unit within 2 that has the name speci/f_ied by the Entourage keyword."
+  },
+  "equip": {
+    "name": "Equip",
+    "slug": "equip",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "equip_command": {
+    "name": "Equip Command",
+    "slug": "equip_command",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "equip_command_training": {
+    "name": "Equip Command Training",
+    "slug": "equip_command_training",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "equip_crosshair_echo_hunter_tech_wrecker": {
+    "name": "Equip Crosshair Echo Hunter Tech Wrecker",
+    "slug": "equip_crosshair_echo_hunter_tech_wrecker",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "equip_del_meeko_gideon_hask": {
+    "name": "Equip Del Meeko Gideon Hask",
+    "slug": "equip_del_meeko_gideon_hask",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "equip_echo_hunter_wrecker_tech": {
+    "name": "Equip Echo Hunter Wrecker Tech",
+    "slug": "equip_echo_hunter_wrecker_tech",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "equip_katarn_pattern_armor": {
+    "name": "Equip Katarn Pattern Armor",
+    "slug": "equip_katarn_pattern_armor",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "equip_logistical_prowess": {
+    "name": "Equip Logistical Prowess",
+    "slug": "equip_logistical_prowess",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "equip_training": {
+    "name": "Equip Training",
+    "slug": "equip_training",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "exemplar": {
+    "name": "Exemplar",
+    "slug": "exemplar",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "expert_climber": {
+    "name": "Expert Climber",
+    "slug": "expert_climber",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "eyes_on_the_prize_keyword": {
+    "name": "Eyes On The Prize: Keyword",
+    "slug": "eyes_on_the_prize_keyword",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While a unit with the Eyes on the Prize keyword has its unit leader within 7 of 1 or more Objective tokens or is holding 1 or more Objective tokens, it has the listed keyword.",
+    "description": "While a unit with the Eyes on the Prize keyword has its unit leader within 7 of 1 or more Objective tokens or is holding 1 or more Objective tokens, it has the listed keyword."
+  },
+  "field_commander": {
+    "name": "Field Commander",
+    "slug": "field_commander",
+    "type": "Keyword",
+    "description": "During Army Building, an army that includes a unit with the Field Commander keyword may ignore the minimum p Rank requirement. If a player’s army contains no p  units during Setup but does contain a unit with the Field Commander keyword, that unit gains a Commander token. When a player reveals a non- p  or o specific Command Card, they may nominate an allied unit with the Field Commander keyword to be Commander and issue Orders. A unit with the Field Commander keyword is not a p  and only counts as one for the purposes of issuing Orders with a Command Card during the Command Phase. A unit with the Field Commander keyword counts as a p  of that Faction or Aﬃliation when building a Command Hand. Additionally, if an allied Unit is within 3 of the unit with the Commander token and both units share the same Faction or Aﬃliation, that allied unit may treat the unit with the Field Commander keyword as a p  unit with a unit of 2. While the chosen enemy unit is attacking the unit with the Distract keyword, each miniature in the enemy unit must choose an eligible weapon to contribute to an Attack Pool. The enemy unit may only declare additional defenders and form additional Attack Pools if, after first forming an Attack Pool with eligible weapons, there are still weapons usable by miniatures in the unit that were not eligible to be added to the first Attack Pool. When a unit uses the Distract keyword, if it has the Inconspicuous keyword, it loses Inconspicuous until the end of the Round.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "During Army Building, an army that includes a unit with the Field Commander keyword may ignore the minimum p Rank requirement. If a player’s army contains no p  units during Setup but does contain a unit with the Field Commander keyword, that unit gains a Commander token. When a player reveals a non- p  or o specific Command Card, they may nominate an allied unit with the Field Commander keyword to be Commander and issue Orders. A unit with the Field Commander keyword is not a p  and only counts as one for the purposes of issuing Orders with a Command Card during the Command Phase. A unit with the Field Commander keyword counts as a p  of that Faction or Aﬃliation when building a Command Hand. Additionally, if an allied Unit is within 3 of the unit with the Commander token and both units share the same Faction or Aﬃliation, that allied unit may treat the unit with the Field Commander keyword as a p  unit with a unit of 2. While the chosen enemy unit is attacking the unit with the Distract keyword, each miniature in the enemy unit must choose an eligible weapon to contribute to an Attack Pool. The enemy unit may only declare additional defenders and form additional Attack Pools if, after first forming an Attack Pool with eligible weapons, there are still weapons usable by miniatures in the unit that were not eligible to be added to the first Attack Pool. When a unit uses the Distract keyword, if it has the Inconspicuous keyword, it loses Inconspicuous until the end of the Round."
+  },
+  "fire_support": {
+    "name": "Fire Support",
+    "slug": "fire_support",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "fixed": {
+    "name": "Fixed",
+    "slug": "fixed",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "fixed_front": {
+    "name": "Fixed Front",
+    "slug": "fixed_front",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "fixed_front_sides_rear": {
+    "name": "Fixed: Front/sides/rear",
+    "slug": "fixed_front_sides_rear",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "To add a weapon that has the Fixed: Front/Sides/Rear keyword to an Attack Pool, the defending unit must have at least 1 of its miniatures' bases partially inside 1 of the speci/f_ied /f_iring arcs of the attacking miniature.",
+    "description": "To add a weapon that has the Fixed: Front/Sides/Rear keyword to an Attack Pool, the defending unit must have at least 1 of its miniatures' bases partially inside 1 of the speci/f_ied /f_iring arcs of the attacking miniature."
+  },
+  "flexible_response": {
+    "name": "Flexible Response X",
+    "slug": "flexible_response",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "During Army Building, a unit with the Flexible Response keyword must equip X /unie907 upgrades.",
+    "description": "During Army Building, a unit with the Flexible Response keyword must equip X /unie907 upgrades."
+  },
+  "full_pivot": {
+    "name": "Full Pivot",
+    "slug": "full_pivot",
+    "type": "Keyword",
+    "description": "When a unit with the Full Pivot keyword makes a Pivot, it may Pivot up to 360°.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Full Pivot keyword makes a Pivot, it may Pivot up to 360°."
+  },
+  "generator": {
+    "name": "Generator X",
+    "slug": "generator",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "During the End Phase, a unit with the Generator X keyword may flip up to X inactive Shield tokens to their active side.",
+    "description": "During the End Phase, a unit with the Generator X keyword may flip up to X inactive Shield tokens to their active side."
+  },
+  "generator_1": {
+    "name": "Generator 1",
+    "slug": "generator_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "graffiti_tokens": {
+    "name": "Graffiti Tokens",
+    "slug": "graffiti_tokens",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A Graﬃti token (Advantage) represents a striking image or symbol painted onto the terrain of the battle/f_ield. Graﬃti tokens affect a unit’s morale. Players should place the Graﬃti token flat on a surface. During a unit's Rally step, it may roll 1 additional die if it has LOS to and is within 2 of an allied Graﬃti token. If it has LOS and is within 2 of an enemy Graﬃti token, it must roll 1 fewer die, to a minimum of 1. Graﬃti tokens remain in play until the end of the game. Units may Move through and end a movement overlapping Graﬃti tokens.",
+    "description": "A Graﬃti token (Advantage) represents a striking image or symbol painted onto the terrain of the battle/f_ield. Graﬃti tokens affect a unit’s morale. Players should place the Graﬃti token flat on a surface. During a unit's Rally step, it may roll 1 additional die if it has LOS to and is within 2 of an allied Graﬃti token. If it has LOS and is within 2 of an enemy Graﬃti token, it must roll 1 fewer die, to a minimum of 1. Graﬃti tokens remain in play until the end of the game. Units may Move through and end a movement overlapping Graﬃti tokens."
+  },
+  "guardian": {
+    "name": "Guardian",
+    "slug": "guardian",
+    "type": "Keyword",
+    "description": "While an allied Trooper unit within 1 and in LOS of a unit that has the Guardian X keyword defends against a Ranged attack, it may cancel up to X hit a results during the Modify Attack Dice step. For each hit a result canceled in this way, the unit with the Guardian X keyword rolls 1 defense die matching the one on its Unit Card. After converting any defense surge e results according to its surge chart or by using Surge tokens, the unit with the Guardian X keyword gains 1 Suppression token,then suffers 1 Wound for each Blank result. A defending unit that has the Guardian X keyword used on it gains a Suppression token as normal. A unit cannot use Guardian X if the defending unit also has the Guardian X keyword. If multiple allied units can use the Guardian X keyword during an attack, the player who controls those units declares which unit is using the Guardian X keyword and resolves their ability before choosing whether to declare that another unit is using the Guardian X keyword. A unit cannot use Guardian X if it has a number of Suppression tokens equal to or greater than its unit. The Pierce X keyword can be used to cancel block d results on defense dice rolled by a unit using Guardian X; treat canceled block d results as Blank results. After using Pierce X in this way, any unused Pierce X value can still be used to cancel block d results rolled by the defending unit. Additionally, a unit with the Guardian X keyword cannot bene/f_it from Backup and ignores the m Rank requirement to provide Backup.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While an allied Trooper unit within 1 and in LOS of a unit that has the Guardian X keyword defends against a Ranged attack, it may cancel up to X hit a results during the Modify Attack Dice step. For each hit a result canceled in this way, the unit with the Guardian X keyword rolls 1 defense die matching the one on its Unit Card. After converting any defense surge e results according to its surge chart or by using Surge tokens, the unit with the Guardian X keyword gains 1 Suppression token,then suffers 1 Wound for each Blank result. A defending unit that has the Guardian X keyword used on it gains a Suppression token as normal. A unit cannot use Guardian X if the defending unit also has the Guardian X keyword. If multiple allied units can use the Guardian X keyword during an attack, the player who controls those units declares which unit is using the Guardian X keyword and resolves their ability before choosing whether to declare that another unit is using the Guardian X keyword. A unit cannot use Guardian X if it has a number of Suppression tokens equal to or greater than its unit. The Pierce X keyword can be used to cancel block d results on defense dice rolled by a unit using Guardian X; treat canceled block d results as Blank results. After using Pierce X in this way, any unused Pierce X value can still be used to cancel block d results rolled by the defending unit. Additionally, a unit with the Guardian X keyword cannot bene/f_it from Backup and ignores the m Rank requirement to provide Backup."
+  },
+  "guardian_2_commander": {
+    "name": "Guardian 2 Commander",
+    "slug": "guardian_2_commander",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "guardian_3": {
+    "name": "Guardian 3",
+    "slug": "guardian_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "guidance": {
+    "name": "Guidance",
+    "slug": "guidance",
+    "type": "Keyword",
+    "description": "As a Card or Free Card action, a unit with the Guidance keyword may choose another allied unit of the speci/f_ied unit type within 2. The chosen unit makes a free non-Attack action.51IMMUNE: 1 WEAPONS An Attack Pool that is assigned to a unit with the Immune: 1 Weapons keyword cannot contain weapons with a maximum Range of 1.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "As a Card or Free Card action, a unit with the Guidance keyword may choose another allied unit of the speci/f_ied unit type within 2. The chosen unit makes a free non-Attack action.51IMMUNE: 1 WEAPONS An Attack Pool that is assigned to a unit with the Immune: 1 Weapons keyword cannot contain weapons with a maximum Range of 1."
+  },
+  "guidance_ground_vehicle": {
+    "name": "Guidance Ground Vehicle",
+    "slug": "guidance_ground_vehicle",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "guidance_trooper": {
+    "name": "Guidance Trooper",
+    "slug": "guidance_trooper",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "gunslinger": {
+    "name": "Gunslinger",
+    "slug": "gunslinger",
+    "type": "Keyword",
+    "description": "When a unit with the Gunslinger keyword reaches the Declare Additional Defender step, it may declare an additional defender and create an Attack Pool consisting solely of a Ranged weapon that has already been contributed to another Attack Pool. The Gunslinger keyword can only be used once per attack sequence.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Gunslinger keyword reaches the Declare Additional Defender step, it may declare an additional defender and create an Attack Pool consisting solely of a Ranged weapon that has already been contributed to another Attack Pool. The Gunslinger keyword can only be used once per attack sequence."
+  },
+  "heavy_weapon_team": {
+    "name": "Heavy Weapon Team",
+    "slug": "heavy_weapon_team",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Heavy Weapon Team keyword must equip a /unie907 Upgrade Card. The miniature added to the unit with this Upgrade Card becomes the unit leader.",
+    "description": "A unit with the Heavy Weapon Team keyword must equip a /unie907 Upgrade Card. The miniature added to the unit with this Upgrade Card becomes the unit leader."
+  },
+  "high_velocity": {
+    "name": "High Velocity",
+    "slug": "high_velocity",
+    "type": "Weapon Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit that defends against an attack that only has weapons with High Velocity in its Attack Pool cannot spend Dodge tokens during the Apply Dodge and Cover step.WEAPON KEYWORDS",
+    "description": "A unit that defends against an attack that only has weapons with High Velocity in its Attack Pool cannot spend Dodge tokens during the Apply Dodge and Cover step.WEAPON KEYWORDS"
+  },
+  "hold_the_line": {
+    "name": "Hold The Line",
+    "slug": "hold_the_line",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While a unit with the Hold the Line keyword is engaged, it gains c : a and e : d.",
+    "description": "While a unit with the Hold the Line keyword is engaged, it gains c : a and e : d."
+  },
+  "hover": {
+    "name": "Hover",
+    "slug": "hover",
+    "type": "Keyword",
+    "description": "A unit with the Hover: Ground or Hover: Air X keyword can make Standby actions during the Make Actions step and can gain and spend Standby tokens. A unit with the Hover: Ground or Hover: Air X keyword can make Reverse Moves. A unit with the Hover: Ground keyword is treated as a Ground Vehicle by other units for all LOS purposes. For all other game effects, the unit is still treated as a Repulsor Vehicle. A unit with the Hover: Air X keyword ignores terrain of height X or lower while Moving and may end a movement overlapping such terrain.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Hover: Ground or Hover: Air X keyword can make Standby actions during the Make Actions step and can gain and spend Standby tokens. A unit with the Hover: Ground or Hover: Air X keyword can make Reverse Moves. A unit with the Hover: Ground keyword is treated as a Ground Vehicle by other units for all LOS purposes. For all other game effects, the unit is still treated as a Repulsor Vehicle. A unit with the Hover: Air X keyword ignores terrain of height X or lower while Moving and may end a movement overlapping such terrain."
+  },
+  "hover_air_1": {
+    "name": "Hover Air 1",
+    "slug": "hover_air_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "hover_air_2": {
+    "name": "Hover Air 2",
+    "slug": "hover_air_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "hover_ground": {
+    "name": "Hover Ground",
+    "slug": "hover_ground",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "immobilize": {
+    "name": "Immobilize X",
+    "slug": "immobilize",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit that suffers 1 or more Wounds from an attack that has Immobilize X in the Attack Pool gains X Immobilize tokens. When a unit makes a Move, its Speed is reduced by 1 for each Immobilize token it has. After modifiers, if a unit is Speed is 0 it cannot make Moves of any kind. At the end of a unit’s Activation, it removes any Immobilize tokens that it has. When a unit makes a Move, apply any effects that increase the unit’s Speed before applying any effects that reduce its Speed.",
+    "description": "A unit that suffers 1 or more Wounds from an attack that has Immobilize X in the Attack Pool gains X Immobilize tokens. When a unit makes a Move, its Speed is reduced by 1 for each Immobilize token it has. After modifiers, if a unit is Speed is 0 it cannot make Moves of any kind. At the end of a unit’s Activation, it removes any Immobilize tokens that it has. When a unit makes a Move, apply any effects that increase the unit’s Speed before applying any effects that reduce its Speed."
+  },
+  "immobilize_1": {
+    "name": "Immobilize 1",
+    "slug": "immobilize_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "immune": {
+    "name": "Immune",
+    "slug": "immune",
+    "type": "Keyword",
+    "description": "While a unit with the Immune: Blast keyword is defending, the effects of the Blast keyword are ignored.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While a unit with the Immune: Blast keyword is defending, the effects of the Blast keyword are ignored."
+  },
+  "immune_blast_melee_range_1_weapons": {
+    "name": "Immune Blast Melee Range 1 Weapons",
+    "slug": "immune_blast_melee_range_1_weapons",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "immune_deflect": {
+    "name": "Immune Deflect",
+    "slug": "immune_deflect",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "immune_melee_pierce": {
+    "name": "Immune Melee Pierce",
+    "slug": "immune_melee_pierce",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "immune_pierce": {
+    "name": "Immune Pierce",
+    "slug": "immune_pierce",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "impact": {
+    "name": "Impact",
+    "slug": "impact",
+    "type": "Weapon Keyword",
+    "timing": "During Attack: Offense",
+    "official_rules_text": "While attacking a unit that has Armor, change up to X Hit results to Critical results.",
+    "ai_processing_logic": [
+      "Condition 1: Target unit must have the Armor keyword.",
+      "Effect: Convert standard Hits to Crits, up to the X value.",
+      "Interaction Note: This happens before the defender applies the Armor keyword."
+    ],
+    "last_updated": "2024-04-22",
+    "description": "When a unit attacks, if its Attack Pool has the Impact X keyword and the defending unit has the Armor X keyword, the attacking unit can modify up to X a results to b results during the Modify Attack Dice step.",
+    "source": "Rulebook PDF"
+  },
+  "impact_1": {
+    "name": "Impact 1",
+    "slug": "impact_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "impact_2": {
+    "name": "Impact 2",
+    "slug": "impact_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "impact_3": {
+    "name": "Impact 3",
+    "slug": "impact_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "impervious": {
+    "name": "Impervious",
+    "slug": "impervious",
+    "type": "Keyword",
+    "description": "While a unit with the Impervious keyword is defending, it rolls a number of extra defense dice during the Roll Defense Dice step equal to the total Pierce X value of weapons in the Attack Pool. If a unit with Impervious also has the Immune: Pierce keyword, then it does not roll extra defense dice for the Impervious keyword when defending against an attack with the Pierce X keyword.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While a unit with the Impervious keyword is defending, it rolls a number of extra defense dice during the Roll Defense Dice step equal to the total Pierce X value of weapons in the Attack Pool. If a unit with Impervious also has the Immune: Pierce keyword, then it does not roll extra defense dice for the Impervious keyword when defending against an attack with the Pierce X keyword."
+  },
+  "incognito": {
+    "name": "Incognito",
+    "slug": "incognito",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Incognito keyword cannot be attacked by enemy units that are not within 1 of it, cannot Contest Objectives, and cannot provide Backup. If a unit with the Incognito keyword ever makes an attack or defends against an attack, it loses the Incognito keyword for the remainder of the game. Additionally, at the beginning of a unit with the Incognito keyword’s Activation, it may choose to lose the Incognito keyword for the remainder of the game.",
+    "description": "A unit with the Incognito keyword cannot be attacked by enemy units that are not within 1 of it, cannot Contest Objectives, and cannot provide Backup. If a unit with the Incognito keyword ever makes an attack or defends against an attack, it loses the Incognito keyword for the remainder of the game. Additionally, at the beginning of a unit with the Incognito keyword’s Activation, it may choose to lose the Incognito keyword for the remainder of the game."
+  },
+  "inconspicuous": {
+    "name": "Inconspicuous",
+    "slug": "inconspicuous",
+    "type": "Keyword",
+    "description": "While a unit with the Inconspicuous keyword has 1 or more Suppression tokens, attacking enemy units must target another unit, if able. When a unit with the Inconspicuous keyword Rallies, it may choose to not remove any number of Suppression tokens, including 0.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While a unit with the Inconspicuous keyword has 1 or more Suppression tokens, attacking enemy units must target another unit, if able. When a unit with the Inconspicuous keyword Rallies, it may choose to not remove any number of Suppression tokens, including 0."
+  },
+  "independent": {
+    "name": "Independent",
+    "slug": "independent",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "independent_aim_1": {
+    "name": "Independent Aim 1",
+    "slug": "independent_aim_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "independent_aim_1_and_dodge_1": {
+    "name": "Independent Aim 1 And Dodge 1",
+    "slug": "independent_aim_1_and_dodge_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "independent_aim_1_or_dodge_1": {
+    "name": "Independent Aim 1 Or Dodge 1",
+    "slug": "independent_aim_1_or_dodge_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "independent_dodge_1": {
+    "name": "Independent Dodge 1",
+    "slug": "independent_dodge_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "independent_dodge_2": {
+    "name": "Independent Dodge 2",
+    "slug": "independent_dodge_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "independent_recover": {
+    "name": "Independent Recover",
+    "slug": "independent_recover",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "independent_standby_1": {
+    "name": "Independent Standby 1",
+    "slug": "independent_standby_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "independent_surge_1": {
+    "name": "Independent Surge 1",
+    "slug": "independent_surge_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "independent_surge_2": {
+    "name": "Independent Surge 2",
+    "slug": "independent_surge_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "independent_token_x_action": {
+    "name": "Independent: Token X/ Action",
+    "slug": "independent_token_x_action",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "At the start of the Activation Phase, if a unit with the Independent keyword does not have an Order token, that unit may gain X of the listed token(s) or make the listed action as a free action.",
+    "description": "At the start of the Activation Phase, if a unit with the Independent keyword does not have an Order token, that unit may gain X of the listed token(s) or make the listed action as a free action."
+  },
+  "indomitable": {
+    "name": "Indomitable",
+    "slug": "indomitable",
+    "type": "Keyword",
+    "description": "When a unit that has the Indomitable keyword Rallies, it rolls red defense dice instead of white defense dice.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit that has the Indomitable keyword Rallies, it rolls red defense dice instead of white defense dice."
+  },
+  "infiltrate": {
+    "name": "Infiltrate",
+    "slug": "infiltrate",
+    "type": "Keyword",
+    "description": "When a unit with the In/f_iltrate keyword starts its Activaiton, if it is undeployed, it may Deploy by placing the unit leader of that unit completely within allied Territory. Then the remaining miniatures in that unit are placed in Cohesion with their unit leader and completely within allied Territory. Miniatures cannot overlap impassable terrain when they are placed using In/f_iltrate.HUNTED During Setup, if 1 or more enemy units have the Bounty keyword, each unit with the Hunted keyword gains 1 Bounty token. I’M PART OF THE SQUAD TOO A unit with the I’m Part of the Squad Too keyword is Contesting an Objective token if its unit leader is within 1 of that Objective token instead of 7.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the In/f_iltrate keyword starts its Activaiton, if it is undeployed, it may Deploy by placing the unit leader of that unit completely within allied Territory. Then the remaining miniatures in that unit are placed in Cohesion with their unit leader and completely within allied Territory. Miniatures cannot overlap impassable terrain when they are placed using In/f_iltrate.HUNTED During Setup, if 1 or more enemy units have the Bounty keyword, each unit with the Hunted keyword gains 1 Bounty token. I’M PART OF THE SQUAD TOO A unit with the I’m Part of the Squad Too keyword is Contesting an Objective token if its unit leader is within 1 of that Objective token instead of 7."
+  },
+  "inspire": {
+    "name": "Inspire",
+    "slug": "inspire",
+    "type": "Keyword",
+    "description": "When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2.",
+    "official_rules_text": "When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2.",
+    "source": "Rulebook PDF"
+  },
+  "interrogate": {
+    "name": "Interrogate",
+    "slug": "interrogate",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "During the Command Phase, if a player reveals a Command Card that belongs to a unit within 1 of 1 or more enemy units with the Interrogate keyword and there would be a tie for priority, treat that Command Card as having 1 more pip. JAR'KAI MASTERY When a unit with the Jar'Kai Mastery keyword makes a Melee attack,  it may spend any number of Dodge tokens after converting attack surges during the Convert Attack Surges step. For each Dodge token spent in this way, change a Blank result to a a result, a a result to a b result, or spend 2 Dodge tokens to change a Blank result to a b result.",
+    "description": "During the Command Phase, if a player reveals a Command Card that belongs to a unit within 1 of 1 or more enemy units with the Interrogate keyword and there would be a tie for priority, treat that Command Card as having 1 more pip. JAR'KAI MASTERY When a unit with the Jar'Kai Mastery keyword makes a Melee attack,  it may spend any number of Dodge tokens after converting attack surges during the Convert Attack Surges step. For each Dodge token spent in this way, change a Blank result to a a result, a a result to a b result, or spend 2 Dodge tokens to change a Blank result to a b result."
+  },
+  "ion": {
+    "name": "Ion X",
+    "slug": "ion",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a Vehicle or Droid Trooper unit suffers 1 or more Wounds from an attack that has the Ion X keyword in the Attack Pool, after the attack is resolved, it gains X Ion tokens. When a unit starts its Activation with 1 or more Ion tokens, roll 1 white defense die for each Ion token it has. If any Blank results are rolled, that unit makes 1 fewer action during that Activation. At the end of a unit’s Activation, it removes any Ion tokens that it has. If an Attack Pool includes the Ion X keyword, at the start of the Modify Attack Dice step, before resolving other effects the defending unit must flip 1 active Shield token, if able, for each a or b result in the attack roll, to a maximum of X tokens flipped.",
+    "description": "When a Vehicle or Droid Trooper unit suffers 1 or more Wounds from an attack that has the Ion X keyword in the Attack Pool, after the attack is resolved, it gains X Ion tokens. When a unit starts its Activation with 1 or more Ion tokens, roll 1 white defense die for each Ion token it has. If any Blank results are rolled, that unit makes 1 fewer action during that Activation. At the end of a unit’s Activation, it removes any Ion tokens that it has. If an Attack Pool includes the Ion X keyword, at the start of the Modify Attack Dice step, before resolving other effects the defending unit must flip 1 active Shield token, if able, for each a or b result in the attack roll, to a maximum of X tokens flipped."
+  },
+  "ion_1": {
+    "name": "Ion 1",
+    "slug": "ion_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "jarkai_mastery": {
+    "name": "Jar'Kai Mastery",
+    "slug": "jarkai_mastery",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "jedi_hunter": {
+    "name": "Jedi Hunter",
+    "slug": "jedi_hunter",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Jedi Hunter keyword attacks a unit with a /unie906 upgrade icon on its upgrade bar, the attacking unit gains c:b until the end of that attack.",
+    "description": "When a unit with the Jedi Hunter keyword attacks a unit with a /unie906 upgrade icon on its upgrade bar, the attacking unit gains c:b until the end of that attack."
+  },
+  "jump": {
+    "name": "Jump",
+    "slug": "jump",
+    "type": "Keyword",
+    "description": "A unit that has the Jump X keyword can make the Jump X Card action any time it could make a Move action. The unit makes a Move action as normal and can ignore or end its movement on top of terrain that is height X or lower. While making a Move with the Jump X action, a unit ignores the effects of diﬃcult terrain and other miniatures with a height equal to or lower than X. When making a Move with the Jump X action, a unit may place the Movement Tool overlapping impassable terrain but may not end its Move overlapping it. When a unit makes the Jump X action, measure height from that unit’s starting position.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit that has the Jump X keyword can make the Jump X Card action any time it could make a Move action. The unit makes a Move action as normal and can ignore or end its movement on top of terrain that is height X or lower. While making a Move with the Jump X action, a unit ignores the effects of diﬃcult terrain and other miniatures with a height equal to or lower than X. When making a Move with the Jump X action, a unit may place the Movement Tool overlapping impassable terrain but may not end its Move overlapping it. When a unit makes the Jump X action, measure height from that unit’s starting position."
+  },
+  "jump_1": {
+    "name": "Jump 1",
+    "slug": "jump_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "jump_2": {
+    "name": "Jump 2",
+    "slug": "jump_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "jump_3": {
+    "name": "Jump 3",
+    "slug": "jump_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "juyo_mastery": {
+    "name": "Juyo Mastery",
+    "slug": "juyo_mastery",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While a unit with the Juyo Mastery keyword has 1 or more Wound tokens, it can make 1 additional action during its Make Actions step. A unit with Juyo Mastery may only make 2 Move actions during its Activation, including free actions.",
+    "description": "While a unit with the Juyo Mastery keyword has 1 or more Wound tokens, it can make 1 additional action during its Make Actions step. A unit with Juyo Mastery may only make 2 Move actions during its Activation, including free actions."
+  },
+  "latent_power": {
+    "name": "Latent Power",
+    "slug": "latent_power",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Latent Power keyword ends its Activation, it may gain 1 Suppression token to roll 1 red defense die. If it does, on a e result, choose an enemy unit within 1 of this miniature. The chosen unit gains 2 Suppression tokens and 2 Immobilize tokens. On a Blank result, remove 1 Wound or 1 Poison token from an allied non-Droid Trooper Trooper unit within 1 of this miniature.53that is not Panicked. The chosen unit may gain 1 Suppression token. If it does, the activating unit ignores the AI keyword during its Activation.",
+    "description": "When a unit with the Latent Power keyword ends its Activation, it may gain 1 Suppression token to roll 1 red defense die. If it does, on a e result, choose an enemy unit within 1 of this miniature. The chosen unit gains 2 Suppression tokens and 2 Immobilize tokens. On a Blank result, remove 1 Wound or 1 Poison token from an allied non-Droid Trooper Trooper unit within 1 of this miniature.53that is not Panicked. The chosen unit may gain 1 Suppression token. If it does, the activating unit ignores the AI keyword during its Activation."
+  },
+  "leader": {
+    "name": "Leader",
+    "slug": "leader",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A miniature with the Leader keyword is treated as a unit’s unit leader for all rules purposes. If a miniature with the Leader keyword and a Wound threshold of 2 or more is defeated while in a unit with a Wound threshold of 1, replace 1 of the remaining miniatures in that unit as normal, then assign the miniature with the Leader keyword 1 Wound token. Each unit may only equip 1 upgrade card with the Leader keyword.",
+    "description": "A miniature with the Leader keyword is treated as a unit’s unit leader for all rules purposes. If a miniature with the Leader keyword and a Wound threshold of 2 or more is defeated while in a unit with a Wound threshold of 1, replace 1 of the remaining miniatures in that unit as normal, then assign the miniature with the Leader keyword 1 Wound token. Each unit may only equip 1 upgrade card with the Leader keyword."
+  },
+  "lethal": {
+    "name": "Lethal",
+    "slug": "lethal",
+    "type": "Keyword",
+    "description": "When a unit makes an attack with an Attack Pool that has Lethal X, it can spend up to X Aim tokens during the Modify Attack Dice step. If it does, the Attack Pool gains Pierce 1 for each Aim token spent. The attacking unit may not reroll dice with any Aim tokens spent in this way.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit makes an attack with an Attack Pool that has Lethal X, it can spend up to X Aim tokens during the Modify Attack Dice step. If it does, the Attack Pool gains Pierce 1 for each Aim token spent. The attacking unit may not reroll dice with any Aim tokens spent in this way."
+  },
+  "lethal_1": {
+    "name": "Lethal 1",
+    "slug": "lethal_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "long_shot": {
+    "name": "Long Shot",
+    "slug": "long_shot",
+    "type": "Keyword",
+    "description": "When a unit with 1 or more weapons  that have the Long Shot keyword makes an attack, before choosing an enemy unit to attack during the Declare Defender step, it may spend 1 Aim token to increase the maximum Range of each weapon with the Longshot keyword  by 1 until the end of that attack sequence. The attacking unit may not reroll dice with any Aim tokens spent in this way. Only 1 Aim token may be spent in this way per attack sequence.OVERRUN X A weapon with a red overrun Range icon ( 8) is an Overrun weapon and can only be used during Overrun attacks. Overrun attacks are not Ranged or Melee attacks. A unit may make X Overrun attacks during its activation. A unit with an Overrun weapon can make an Overrun attack after it makes a Standard Move in which the Movement Tool or one of its miniatures’ bases overlapped an enemy miniature’s base. After the Move is resolved, the unit with the Overrun weapon makes an attack against the unit it moved through, and ignores Range when making this attack. A unit can only form 1 Attack Pool when making an Overrun attack, and only weapons with the Overrun X keyword can be added to the Attack Pool. The Overrun weapon is only added to the Attack Pool once, even if there are multiple miniatures in the unit. If a unit can make multiple Overrun attacks during its Activation, it must make a separate Move through an enemy unit for each Overrun attack.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with 1 or more weapons  that have the Long Shot keyword makes an attack, before choosing an enemy unit to attack during the Declare Defender step, it may spend 1 Aim token to increase the maximum Range of each weapon with the Longshot keyword  by 1 until the end of that attack sequence. The attacking unit may not reroll dice with any Aim tokens spent in this way. Only 1 Aim token may be spent in this way per attack sequence.OVERRUN X A weapon with a red overrun Range icon ( 8) is an Overrun weapon and can only be used during Overrun attacks. Overrun attacks are not Ranged or Melee attacks. A unit may make X Overrun attacks during its activation. A unit with an Overrun weapon can make an Overrun attack after it makes a Standard Move in which the Movement Tool or one of its miniatures’ bases overlapped an enemy miniature’s base. After the Move is resolved, the unit with the Overrun weapon makes an attack against the unit it moved through, and ignores Range when making this attack. A unit can only form 1 Attack Pool when making an Overrun attack, and only weapons with the Overrun X keyword can be added to the Attack Pool. The Overrun weapon is only added to the Attack Pool once, even if there are multiple miniatures in the unit. If a unit can make multiple Overrun attacks during its Activation, it must make a separate Move through an enemy unit for each Overrun attack."
+  },
+  "low_profile": {
+    "name": "Low Profile",
+    "slug": "low_profile",
+    "type": "Keyword",
+    "description": "When a unit with the Low Pro/f_ile keyword would roll 1 or more defense dice during the Roll Cover Pool step, it rolls 1 fewer defense die and instead adds an additional d result to the Cover Pool after rolling.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Low Pro/f_ile keyword would roll 1 or more defense dice during the Roll Cover Pool step, it rolls 1 fewer defense die and instead adds an additional d result to the Cover Pool after rolling."
+  },
+  "makashi_mastery": {
+    "name": "Makashi Mastery",
+    "slug": "makashi_mastery",
+    "type": "Keyword",
+    "description": "When a unit with the Makashi Mastery keyword makes a Melee attack, it can reduce the Pierce X value of a weapon in the Attack Pool by 1 during the Choose Weapons and Gather Dice step. If it does, the defender cannot use the Immune: Melee Pierce, Immune: Pierce, and/or Impervious keywords during this attack.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Makashi Mastery keyword makes a Melee attack, it can reduce the Pierce X value of a weapon in the Attack Pool by 1 during the Choose Weapons and Gather Dice step. If it does, the defender cannot use the Immune: Melee Pierce, Immune: Pierce, and/or Impervious keywords during this attack."
+  },
+  "marksman": {
+    "name": "Marksman",
+    "slug": "marksman",
+    "type": "Keyword",
+    "description": "A unit with the Marksman keyword may spend any number of Aim tokens after converting attack surges during the Convert Attack Surges step. For each Aim token spent in this way, instead of rerolling dice, change 1 Blank result to a a result, 1 a result to a b result, or spend 2 Aim tokens to change 1 Blank result to a b result.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Marksman keyword may spend any number of Aim tokens after converting attack surges during the Convert Attack Surges step. For each Aim token spent in this way, instead of rerolling dice, change 1 Blank result to a a result, 1 a result to a b result, or spend 2 Aim tokens to change 1 Blank result to a b result."
+  },
+  "master_of_the_force": {
+    "name": "Master of the Force",
+    "slug": "master_of_the_force",
+    "type": "Keyword",
+    "description": "When a unit with the Master of the Force X keyword ends its Activation, it may ready up to X of its exhausted Force /unie906 Upgrade Cards.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Master of the Force X keyword ends its Activation, it may ready up to X of its exhausted Force /unie906 Upgrade Cards."
+  },
+  "master_of_the_force_1": {
+    "name": "Master Of The Force 1",
+    "slug": "master_of_the_force_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "master_of_the_force_2": {
+    "name": "Master Of The Force 2",
+    "slug": "master_of_the_force_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "master_storyteller": {
+    "name": "Master Storyteller",
+    "slug": "master_storyteller",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "As a Card action, a unit with the Master Storyteller keyword may choose up to X allied unit units within 2, where X is the current Round number. Each chosen unit gains 2 Surge tokens.",
+    "description": "As a Card action, a unit with the Master Storyteller keyword may choose up to X allied unit units within 2, where X is the current Round number. Each chosen unit gains 2 Surge tokens."
+  },
+  "mechanized_infantry": {
+    "name": "Mechanized Infantry",
+    "slug": "mechanized_infantry",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "At the start of the Activation Phase, each unit with the Mechanized Infantry keyword may choose a different allied vehicle unit within 2. If they do, the unit with the Mechanized Infantry keyword and each chosen unit gain 1 Aim token or 1 Dodge token.",
+    "description": "At the start of the Activation Phase, each unit with the Mechanized Infantry keyword may choose a different allied vehicle unit within 2. If they do, the unit with the Mechanized Infantry keyword and each chosen unit gain 1 Aim token or 1 Dodge token."
+  },
+  "mercenary": {
+    "name": "Mercenary",
+    "slug": "mercenary",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "mercenary_faction": {
+    "name": "Mercenary: Faction",
+    "slug": "mercenary_faction",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Mercenary: Faction keyword is a Mercenary unit. The Faction(s) speci/f_ied by the Mercenary: Faction keyword can include that unit in an army as a Mercenary unit.",
+    "description": "A unit with the Mercenary: Faction keyword is a Mercenary unit. The Faction(s) speci/f_ied by the Mercenary: Faction keyword can include that unit in an army as a Mercenary unit."
+  },
+  "mercenary_galactic_empire": {
+    "name": "Mercenary Galactic Empire",
+    "slug": "mercenary_galactic_empire",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "mercenary_galactic_empire_rebel_alliance": {
+    "name": "Mercenary Galactic Empire Rebel Alliance",
+    "slug": "mercenary_galactic_empire_rebel_alliance",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "mercenary_galactic_empire_rebel_alliance_galactic_republic_separatist_alliance": {
+    "name": "Mercenary Galactic Empire Rebel Alliance Galactic Republic Separatist Alliance",
+    "slug": "mercenary_galactic_empire_rebel_alliance_galactic_republic_separatist_alliance",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "mercenary_galactic_empire_separatist_alliance": {
+    "name": "Mercenary Galactic Empire Separatist Alliance",
+    "slug": "mercenary_galactic_empire_separatist_alliance",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "mercenary_rebel_alliance": {
+    "name": "Mercenary Rebel Alliance",
+    "slug": "mercenary_rebel_alliance",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "mercenary_rebel_alliance_galactic_republic": {
+    "name": "Mercenary Rebel Alliance Galactic Republic",
+    "slug": "mercenary_rebel_alliance_galactic_republic",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "mobile": {
+    "name": "Mobile",
+    "slug": "mobile",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit on notched bases with the Mobile keyword makes a move, it skips step 1 of the notched base movement section, rotating the unit leader's base. A unit with the Mobile keyword must make a free compulsory Move action at the start or end of its Make Actions step. A unit with the Mobile keyword cannot make Reverse Moves. INSPIRE X When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2.",
+    "description": "When a unit on notched bases with the Mobile keyword makes a move, it skips step 1 of the notched base movement section, rotating the unit leader's base. A unit with the Mobile keyword must make a free compulsory Move action at the start or end of its Make Actions step. A unit with the Mobile keyword cannot make Reverse Moves. INSPIRE X When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2."
+  },
+  "nimble": {
+    "name": "Nimble",
+    "slug": "nimble",
+    "type": "Keyword",
+    "description": "When a unit with the Nimble keyword defends against an attack and spends at least 1 Dodge token during any point of the attack sequence, after the attack is resolved, it gains 1 Dodge token.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Nimble keyword defends against an attack and spends at least 1 Dodge token during any point of the attack sequence, after the attack is resolved, it gains 1 Dodge token."
+  },
+  "noncombatant": {
+    "name": "Noncombatant",
+    "slug": "noncombatant",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A miniature with the Noncombatant keyword cannot add any weapons to Attack Pools, and any Wounds suffered must be assigned to non-unit leader miniatures without the Noncombatant keyword, if able. If a miniature with the Noncombatant keyword already has 1 or more Wound tokens, it must be assigned Wounds before miniatures that do not have Wound tokens. If the unit leader miniature in a unit with the Noncombatant keyword is defeated, a Noncombatant miniature cannot be replaced by a new unit leader miniature unless there are no other miniatures without the Noncombatant keyword.UPGRADE AND",
+    "description": "A miniature with the Noncombatant keyword cannot add any weapons to Attack Pools, and any Wounds suffered must be assigned to non-unit leader miniatures without the Noncombatant keyword, if able. If a miniature with the Noncombatant keyword already has 1 or more Wound tokens, it must be assigned Wounds before miniatures that do not have Wound tokens. If the unit leader miniature in a unit with the Noncombatant keyword is defeated, a Noncombatant miniature cannot be replaced by a new unit leader miniature unless there are no other miniatures without the Noncombatant keyword.UPGRADE AND"
+  },
+  "observe": {
+    "name": "Observe X",
+    "slug": "observe",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "As a Card action, a unit with the Observe X keyword can choose an enemy unit within 3 and in LOS. The chosen enemy unit gains X Observation tokens. Observation tokens are removed during the Remove Tokens step of the End Phase. When an allied unit makes an attack, during the Reroll Attack Dice step it may spend any number of Observation tokens that belong to the defending unit. The attacking unit rerolls 1 attack die for each Observation token spent in this way. Observation tokens are spent 1 at a time, and the same die can be rerolled multiple times by spending subsequent Observation tokens or Aim tokens. An attacking unit may spend Aim tokens and Observation tokens in any order.",
+    "description": "As a Card action, a unit with the Observe X keyword can choose an enemy unit within 3 and in LOS. The chosen enemy unit gains X Observation tokens. Observation tokens are removed during the Remove Tokens step of the End Phase. When an allied unit makes an attack, during the Reroll Attack Dice step it may spend any number of Observation tokens that belong to the defending unit. The attacking unit rerolls 1 attack die for each Observation token spent in this way. Observation tokens are spent 1 at a time, and the same die can be rerolled multiple times by spending subsequent Observation tokens or Aim tokens. An attacking unit may spend Aim tokens and Observation tokens in any order."
+  },
+  "observe_1": {
+    "name": "Observe 1",
+    "slug": "observe_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "observe_2": {
+    "name": "Observe 2",
+    "slug": "observe_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "observe_3": {
+    "name": "Observe 3",
+    "slug": "observe_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "one_step_ahead": {
+    "name": "One Step Ahead",
+    "slug": "one_step_ahead",
+    "type": "Keyword",
+    "description": "If 1 or more allied units have the One Step Ahead keyword, during the Resolve Command Card Effects step, after revealing Command Cards but before resolving Command Card effects, if the number of pips on the revealed Command Cards do not match, 1 allied unit with the One Step Ahead keyword on the battle/f_ield may make a Speed-1 Move. If the number of pips do match, and there is 1 or more allied units with the One Step Ahead keyword on the battle/f_ield, choose an allied unit on the battle/f_ield. The chosen unit may make a Speed-1 Move.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "If 1 or more allied units have the One Step Ahead keyword, during the Resolve Command Card Effects step, after revealing Command Cards but before resolving Command Card effects, if the number of pips on the revealed Command Cards do not match, 1 allied unit with the One Step Ahead keyword on the battle/f_ield may make a Speed-1 Move. If the number of pips do match, and there is 1 or more allied units with the One Step Ahead keyword on the battle/f_ield, choose an allied unit on the battle/f_ield. The chosen unit may make a Speed-1 Move."
+  },
+  "outmaneuver": {
+    "name": "Outmaneuver",
+    "slug": "outmaneuver",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Outmaneuver keyword can spend Dodge tokens to cancel b results during the Apply Dodge and Cover step.",
+    "description": "A unit with the Outmaneuver keyword can spend Dodge tokens to cancel b results during the Apply Dodge and Cover step."
+  },
+  "override": {
+    "name": "Override",
+    "slug": "override",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When an allied unit with the AI keyword starts its Activation within 3 of 1 or more allied units that have the Override keyword, choose 1 of those units that has the Override keyword",
+    "description": "When an allied unit with the AI keyword starts its Activation within 3 of 1 or more allied units that have the Override keyword, choose 1 of those units that has the Override keyword"
+  },
+  "overrun_1": {
+    "name": "Overrun 1",
+    "slug": "overrun_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "overrun_2": {
+    "name": "Overrun 2",
+    "slug": "overrun_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "overwhelm": {
+    "name": "Overwhelm",
+    "slug": "overwhelm",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit attacks with an Attack Pool that has 1 or more weapons with the Overwhelm keyword , if it spends at least 1 Aim token during the Reroll Dice step, the defending unit gains 1 Suppression token during the Assign Suppression Token to Defender step.",
+    "description": "When a unit attacks with an Attack Pool that has 1 or more weapons with the Overwhelm keyword , if it spends at least 1 Aim token during the Reroll Dice step, the defending unit gains 1 Suppression token during the Assign Suppression Token to Defender step."
+  },
+  "pierce": {
+    "name": "Pierce",
+    "slug": "pierce",
+    "type": "Keyword",
+    "description": "When a unit attacks with an Attack Pool that has Pierce X keyword it may cancel up to X d results during the Modify Defense Dice step. The Pierce X keyword can be used to cancel d results on defense dice rolled by a unit using the Guardian X keyword. When doing so, treat canceled d results as Blank results. After using the Pierce X keyword in this way, any unused Pierce X value can still be used to cancel d results rolled by the defending unit. For example, a unit with Pierce 3 attacks an enemy unit, and another enemy unit uses Guardian 2 to cancel 2 a results. After converting defense e results, the unit using Guardian has rolled 2 d results. The attacking unit uses Pierce to cancel the 2 d results and the unit using Guardian suffers 2 Wounds. Now the defending unit rolls defense dice and the attacking unit may cancel 1 more d result rolled by the defending unit since only 2 of its original Pierce 3 have been used so far.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit attacks with an Attack Pool that has Pierce X keyword it may cancel up to X d results during the Modify Defense Dice step. The Pierce X keyword can be used to cancel d results on defense dice rolled by a unit using the Guardian X keyword. When doing so, treat canceled d results as Blank results. After using the Pierce X keyword in this way, any unused Pierce X value can still be used to cancel d results rolled by the defending unit. For example, a unit with Pierce 3 attacks an enemy unit, and another enemy unit uses Guardian 2 to cancel 2 a results. After converting defense e results, the unit using Guardian has rolled 2 d results. The attacking unit uses Pierce to cancel the 2 d results and the unit using Guardian suffers 2 Wounds. Now the defending unit rolls defense dice and the attacking unit may cancel 1 more d result rolled by the defending unit since only 2 of its original Pierce 3 have been used so far."
+  },
+  "pierce_1": {
+    "name": "Pierce 1",
+    "slug": "pierce_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "pierce_2": {
+    "name": "Pierce 2",
+    "slug": "pierce_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "pierce_3": {
+    "name": "Pierce 3",
+    "slug": "pierce_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "plodding": {
+    "name": "Plodding",
+    "slug": "plodding",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Plodding keyword can only make 1 Move action during its Activation.",
+    "description": "A unit with the Plodding keyword can only make 1 Move action during its Activation."
+  },
+  "precise": {
+    "name": "Precise X",
+    "slug": "precise",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "Each time a unit with the Precise X keyword spends an Aim token during the Reroll Attack Dice step, it can reroll up to X additional attack dice per Aim token spent.",
+    "description": "Each time a unit with the Precise X keyword spends an Aim token during the Reroll Attack Dice step, it can reroll up to X additional attack dice per Aim token spent."
+  },
+  "precise_1": {
+    "name": "Precise 1",
+    "slug": "precise_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "precise_2": {
+    "name": "Precise 2",
+    "slug": "precise_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "prepared_position": {
+    "name": "Prepared Position",
+    "slug": "prepared_position",
+    "type": "Keyword",
+    "description": "During the Deploy in Prepared Positions step of Setup, a unit with the Prepared Position keyword may Deploy by placing the unit leader of that unit completely within allied Territory. Then the remaining miniatures in that unit are placed in Cohesion with their unit leader and within allied Territory. /T_hat unit then gains 1 Dodge token. Miniatures cannot overlap impassable terrain when they are placed using Prepared Position.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "During the Deploy in Prepared Positions step of Setup, a unit with the Prepared Position keyword may Deploy by placing the unit leader of that unit completely within allied Territory. Then the remaining miniatures in that unit are placed in Cohesion with their unit leader and within allied Territory. /T_hat unit then gains 1 Dodge token. Miniatures cannot overlap impassable terrain when they are placed using Prepared Position."
+  },
+  "primitive": {
+    "name": "Primitive",
+    "slug": "primitive",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit attacks, if its Attack Pool has the Primitive keyword and the defending unit has the Armor X keyword, after resolving any instances of the Impact X keyword during the Modify Attack Dice step, the attacking unit must modify all b results to a results.",
+    "description": "When a unit attacks, if its Attack Pool has the Primitive keyword and the defending unit has the Armor X keyword, after resolving any instances of the Impact X keyword during the Modify Attack Dice step, the attacking unit must modify all b results to a results."
+  },
+  "profit": {
+    "name": "Profit",
+    "slug": "profit",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "Keywords and stats that have an X value on the Unit Card of a unit with the My Mood is Based on Pro/f_it keyword have an X value equal to the number of pips on the Command Card that unit’s controlling player most recently played and revealed that Game, to a minimum of 1. If a player has not yet played and revealed a Command Card this Game, treat X as 1 instead.",
+    "description": "Keywords and stats that have an X value on the Unit Card of a unit with the My Mood is Based on Pro/f_it keyword have an X value equal to the number of pips on the Command Card that unit’s controlling player most recently played and revealed that Game, to a minimum of 1. If a player has not yet played and revealed a Command Card this Game, treat X as 1 instead."
+  },
+  "programmed": {
+    "name": "Programmed",
+    "slug": "programmed",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Programmed keyword must equip at least 1 /unie90e Upgrade Card during Army Building.",
+    "description": "A unit with the Programmed keyword must equip at least 1 /unie90e Upgrade Card during Army Building."
+  },
+  "pulling_the_strings": {
+    "name": "Pulling The Strings",
+    "slug": "pulling_the_strings",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "As a Card action, a unit with the Pulling the Strings keyword may choose another allied Trooper unit within 2. The chosen unit may make a free Attack action or a free Move action.",
+    "description": "As a Card action, a unit with the Pulling the Strings keyword may choose another allied Trooper unit within 2. The chosen unit may make a free Attack action or a free Move action."
+  },
+  "pulling_the_strings_galactic_empire_trooper": {
+    "name": "Pulling The Strings Galactic Empire Trooper",
+    "slug": "pulling_the_strings_galactic_empire_trooper",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "quick_thinking": {
+    "name": "Quick Thinking",
+    "slug": "quick_thinking",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit makes the Quick /T_hinking Card action, it gains 1 Aim and 1 Dodge token.",
+    "description": "When a unit makes the Quick /T_hinking Card action, it gains 1 Aim and 1 Dodge token."
+  },
+  "ram": {
+    "name": "Ram",
+    "slug": "ram",
+    "type": "Keyword",
+    "description": "While a unit makes an attack with an Attack Pool that has the Ram X keyword, during the Modify Attack Dice step, it may change X results to b results if it meets either of the following conditions: • The unit leader has a notched base and the unit made at least 1 full Standard Move at its Speed during the same Activation as an attack using Ram X. • The unit leader has an unnotched base and the unit made at least 1 Move during the same Activation as an attack using Ram X.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While a unit makes an attack with an Attack Pool that has the Ram X keyword, during the Modify Attack Dice step, it may change X results to b results if it meets either of the following conditions: • The unit leader has a notched base and the unit made at least 1 full Standard Move at its Speed during the same Activation as an attack using Ram X. • The unit leader has an unnotched base and the unit made at least 1 Move during the same Activation as an attack using Ram X."
+  },
+  "ram_1": {
+    "name": "Ram 1",
+    "slug": "ram_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "ram_2": {
+    "name": "Ram 2",
+    "slug": "ram_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "ready": {
+    "name": "Ready X",
+    "slug": "ready",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "After a unit with the Ready X keyword makes a Standby action, it gains X Aim tokens.",
+    "description": "After a unit with the Ready X keyword makes a Standby action, it gains X Aim tokens."
+  },
+  "ready_1": {
+    "name": "Ready 1",
+    "slug": "ready_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "recharge": {
+    "name": "Recharge X",
+    "slug": "recharge",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Recharge X keyword makes a Recover action, it may flip up to X inactive Shield tokens from their inactive side to their active side.",
+    "description": "When a unit with the Recharge X keyword makes a Recover action, it may flip up to X inactive Shield tokens from their inactive side to their active side."
+  },
+  "recharge_1": {
+    "name": "Recharge 1",
+    "slug": "recharge_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "reconfigure": {
+    "name": "Reconfigure",
+    "slug": "reconfigure",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit equipped with an Upgrade Card that has the Reconfigure keyword makes a Recover action,  that unit's controlling player may flip that Upgrade Card to a different side in addition to any other effects of that Recover action. If an Upgrade Card has the exhaust icon, using the Reconfigure ability does not cause that Upgrade Card to be exhausted.",
+    "description": "When a unit equipped with an Upgrade Card that has the Reconfigure keyword makes a Recover action,  that unit's controlling player may flip that Upgrade Card to a different side in addition to any other effects of that Recover action. If an Upgrade Card has the exhaust icon, using the Reconfigure ability does not cause that Upgrade Card to be exhausted."
+  },
+  "regenerate_3": {
+    "name": "Regenerate 3",
+    "slug": "regenerate_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "reinforcements": {
+    "name": "Reinforcements",
+    "slug": "reinforcements",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "At the start of the End Phase of the first Round, a Unit with the Reinforcements keyword may make a Speed-1 Move.If a unit with the Mobile keyword makes more than 1 non-compulsory Move action during its Activation, it may not claim Asset tokens that Activation. Additionally, a unit with the Mobile keyword that has claimed an Asset token can make only 1 non-compulsory Move action during its Activation.",
+    "description": "At the start of the End Phase of the first Round, a Unit with the Reinforcements keyword may make a Speed-1 Move.If a unit with the Mobile keyword makes more than 1 non-compulsory Move action during its Activation, it may not claim Asset tokens that Activation. Additionally, a unit with the Mobile keyword that has claimed an Asset token can make only 1 non-compulsory Move action during its Activation."
+  },
+  "relentless": {
+    "name": "Relentless",
+    "slug": "relentless",
+    "type": "Keyword",
+    "description": "After a unit that has the Relentless keyword makes a Move action during its Activation, it may make a free Attack action.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "After a unit that has the Relentless keyword makes a Move action during its Activation, it may make a free Attack action."
+  },
+  "reliable": {
+    "name": "Reliable X",
+    "slug": "reliable",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Reliable X keyword gains X surge tokens at the start of each Activation Phase.",
+    "description": "A unit with the Reliable X keyword gains X surge tokens at the start of each Activation Phase."
+  },
+  "reliable_1": {
+    "name": "Reliable 1",
+    "slug": "reliable_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "reliable_2": {
+    "name": "Reliable 2",
+    "slug": "reliable_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "repair_2": {
+    "name": "Repair 2",
+    "slug": "repair_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "repair_2_capacity_2": {
+    "name": "Repair 2 Capacity 2",
+    "slug": "repair_2_capacity_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "repair_x_capacity_y": {
+    "name": "Repair X: Capacity Y",
+    "slug": "repair_x_capacity_y",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit uses the Repair X: Capacity Y Card or Free Card action, choose an allied Droid Trooper or Vehicle unit within 1 and LOS and place 1 Wound token on the card that has the Repair X: Capacity Y keyword. Remove a total of up to 1 Wound, Ion, and/or Vehicle Damage tokens from the chosen unit or Restore up to X miniatures to that unit. /T_his ability cannot be used if the card that has the Repair X: Capacity Y keyword has a number of Wound tokens on it equal to or exceeding Y . Wound tokens on cards are not considered to be on units and do not count toward a unit’s Wound /T_hreshold, nor can they be removed by abilities that remove Wound tokens from units. A unit that has multiple Repair X: Capacity Y actions treats each keyword as a separate action, and can use each action once during its Activation, even if the unit has access to mutiple identical actions from different sources.",
+    "description": "When a unit uses the Repair X: Capacity Y Card or Free Card action, choose an allied Droid Trooper or Vehicle unit within 1 and LOS and place 1 Wound token on the card that has the Repair X: Capacity Y keyword. Remove a total of up to 1 Wound, Ion, and/or Vehicle Damage tokens from the chosen unit or Restore up to X miniatures to that unit. /T_his ability cannot be used if the card that has the Repair X: Capacity Y keyword has a number of Wound tokens on it equal to or exceeding Y . Wound tokens on cards are not considered to be on units and do not count toward a unit’s Wound /T_hreshold, nor can they be removed by abilities that remove Wound tokens from units. A unit that has multiple Repair X: Capacity Y actions treats each keyword as a separate action, and can use each action once during its Activation, even if the unit has access to mutiple identical actions from different sources."
+  },
+  "reposition": {
+    "name": "Reposition",
+    "slug": "reposition",
+    "type": "Keyword",
+    "description": "When a unit with the Reposition keyword makes a Standard Move, it may make a Pivot either before or after making that Standard Move.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Reposition keyword makes a Standard Move, it may make a Pivot either before or after making that Standard Move."
+  },
+  "restore": {
+    "name": "Restore",
+    "slug": "restore",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "Some abilities, such as the Treat and Repair keywords or certain card effects, allow a player to Restore miniatures to allied units. To Restore a miniature to a unit, that unit must have had 1 or more miniatures defeated that Round. Choose a miniature that was defeated during the current Round and place that miniature on the battle/f_ield in Cohesion with its unit leader. Then, give that miniature a number of Wound tokens equal to 1 less than the Wound threshold indicated on its Upgrade Card or Unit Card.6304.21.2026 • Tokens section updated • Barricades callout updated• Area Terrain updated• Commanders and Checking for Panic callout updated• Null Courage updated•Standard Move updated • Silhouette section updated• Trooper section updated• Droid Trooper section updated• Heavy Trooper section added• Heavy Droid Trooper section added• Resiliency section updated• AI keyword updated• Complete the Mission keyword updated• Command Vehicle X keyword updated• Cunning keyword updated• Divine In/f_luence keyword updated• Eyes on the Prize keyword added.• Field Commander keyword updated• Guardian X keyword updated• Immune: Melee keyword updated•Mobile keyword updated • Mechanized Infantry keyword added• Override keyword updated• Shielded X keyword updated• Speeder X Compulsory Move section updated• Swashbuckler keyword added• Wheel Mode keyword updated• Fixed: Front/Sides/Read keyword updated• Arm X: Charge Token Type keyword updated• Detonate X: (Charge Type) keyword updated• Assault X keyword added•Long Shot keyword updated • Overwhelm keyword added• Sniper Team keyword added• Divulge keyword updated• Graﬃti Tokens section updatedCHANGE LOGDodge Token Standby Token Aim Token Wound Tokens Ion Token Objective Tokens Condition Tokens Order Tokens Panic Token Commander Token Vehicle Damage Tokens Active and Inactive Shield Tokens Charge Tokens Surge Token Smoke Token Observation Token Poison Token Poison Immobilize Token Immobilize Red and Blue Graffiti Tokens Bane Tokens Suppression Tokens Operative Marker Token",
+    "description": "Some abilities, such as the Treat and Repair keywords or certain card effects, allow a player to Restore miniatures to allied units. To Restore a miniature to a unit, that unit must have had 1 or more miniatures defeated that Round. Choose a miniature that was defeated during the current Round and place that miniature on the battle/f_ield in Cohesion with its unit leader. Then, give that miniature a number of Wound tokens equal to 1 less than the Wound threshold indicated on its Upgrade Card or Unit Card.6304.21.2026 • Tokens section updated • Barricades callout updated• Area Terrain updated• Commanders and Checking for Panic callout updated• Null Courage updated•Standard Move updated • Silhouette section updated• Trooper section updated• Droid Trooper section updated• Heavy Trooper section added• Heavy Droid Trooper section added• Resiliency section updated• AI keyword updated• Complete the Mission keyword updated• Command Vehicle X keyword updated• Cunning keyword updated• Divine In/f_luence keyword updated• Eyes on the Prize keyword added.• Field Commander keyword updated• Guardian X keyword updated• Immune: Melee keyword updated•Mobile keyword updated • Mechanized Infantry keyword added• Override keyword updated• Shielded X keyword updated• Speeder X Compulsory Move section updated• Swashbuckler keyword added• Wheel Mode keyword updated• Fixed: Front/Sides/Read keyword updated• Arm X: Charge Token Type keyword updated• Detonate X: (Charge Type) keyword updated• Assault X keyword added•Long Shot keyword updated • Overwhelm keyword added• Sniper Team keyword added• Divulge keyword updated• Graﬃti Tokens section updatedCHANGE LOGDodge Token Standby Token Aim Token Wound Tokens Ion Token Objective Tokens Condition Tokens Order Tokens Panic Token Commander Token Vehicle Damage Tokens Active and Inactive Shield Tokens Charge Tokens Surge Token Smoke Token Observation Token Poison Token Poison Immobilize Token Immobilize Red and Blue Graffiti Tokens Bane Tokens Suppression Tokens Operative Marker Token"
+  },
+  "retinue": {
+    "name": "Retinue",
+    "slug": "retinue",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "retinue_commander": {
+    "name": "Retinue Commander",
+    "slug": "retinue_commander",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "retinue_iden_versio": {
+    "name": "Retinue Iden Versio",
+    "slug": "retinue_iden_versio",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "retinue_poggle_the_lesser": {
+    "name": "Retinue Poggle The Lesser",
+    "slug": "retinue_poggle_the_lesser",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "retinue_unit_unit_type": {
+    "name": "Retinue: Unit/unit Type",
+    "slug": "retinue_unit_unit_type",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "At the start of each Activation Phase, if a unit with the Retinue keyword is within 2 of another allied unit or unit type speci/f_ied by the Retinue keyword, the unit with the Retinue keyword gains either 1 Aim or 1 Dodge token. Additionally, a unit with the Retinue keyword ignores the m Rank requirement to provide Backup to the speci/f_ied unit.",
+    "description": "At the start of each Activation Phase, if a unit with the Retinue keyword is within 2 of another allied unit or unit type speci/f_ied by the Retinue keyword, the unit with the Retinue keyword gains either 1 Aim or 1 Dodge token. Additionally, a unit with the Retinue keyword ignores the m Rank requirement to provide Backup to the speci/f_ied unit."
+  },
+  "ruthless": {
+    "name": "Ruthless",
+    "slug": "ruthless",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When an allied m Trooper unit with a faceup Order token starts its Activation within 2 and in LOS of a unit with the Ruthless keyword, that allied unit may suffer 1 Wound to make 1 free action.",
+    "description": "When an allied m Trooper unit with a faceup Order token starts its Activation within 2 and in LOS of a unit with the Ruthless keyword, that allied unit may suffer 1 Wound to make 1 free action."
+  },
+  "scale": {
+    "name": "Scale",
+    "slug": "scale",
+    "type": "Keyword",
+    "description": "When a unit with the Scale keyword makes a Climb, it may Move a vertical distance up to height 2. When a unit that has the Scale keyword makes a Move, it does not reduce its Speed for moving out of, into, or through diﬃcult terrain.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Scale keyword makes a Climb, it may Move a vertical distance up to height 2. When a unit that has the Scale keyword makes a Move, it does not reduce its Speed for moving out of, into, or through diﬃcult terrain."
+  },
+  "scatter": {
+    "name": "Scatter",
+    "slug": "scatter",
+    "type": "Keyword",
+    "description": "When a unit attacks a small based Trooper unit with an Attack Pool that has the Scatter keyword, after the attack is resolved, it may place any of the non-unit leader miniatures in the defending unit in Cohesion.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit attacks a small based Trooper unit with an Attack Pool that has the Scatter keyword, after the attack is resolved, it may place any of the non-unit leader miniatures in the defending unit in Cohesion."
+  },
+  "scout": {
+    "name": "Scout",
+    "slug": "scout",
+    "type": "Keyword",
+    "description": "When an undeployed unit with the Scout X keyword activates, at the start of its Make Actions step, it may Deploy by making a free Speed-X Move action, ignoring diﬃcult terrain. A unit can make this Move regardless of its Speed. The Scout X keyword is cumulative but cannot exceed 3. If a unit would ever have Scout X exceeding Scout 3, it has Scout 3 instead.55Mastery is using the Guardian X keyword, it may spend 1 Dodge token before converting any e results. If it does, it rerolls all its defense dice before converting e results. Each die cannot be rerolled more than once using Soresu Mastery.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When an undeployed unit with the Scout X keyword activates, at the start of its Make Actions step, it may Deploy by making a free Speed-X Move action, ignoring diﬃcult terrain. A unit can make this Move regardless of its Speed. The Scout X keyword is cumulative but cannot exceed 3. If a unit would ever have Scout X exceeding Scout 3, it has Scout 3 instead.55Mastery is using the Guardian X keyword, it may spend 1 Dodge token before converting any e results. If it does, it rerolls all its defense dice before converting e results. Each die cannot be rerolled more than once using Soresu Mastery."
+  },
+  "scout_1": {
+    "name": "Scout 1",
+    "slug": "scout_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "scout_2": {
+    "name": "Scout 2",
+    "slug": "scout_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "scout_3": {
+    "name": "Scout 3",
+    "slug": "scout_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "scouting_party": {
+    "name": "Scouting Party X",
+    "slug": "scouting_party",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "During Setup, each unit with the Scouting Party keyword may choose up to X allied Trooper units that do not have the Scout keyword that share the same Faction or Aﬃliation as the Scouting Party unit. Each chosen unit gains the Scout X keyword, where X is the Scout X value of the unit with the Scouting Party keyword.",
+    "description": "During Setup, each unit with the Scouting Party keyword may choose up to X allied Trooper units that do not have the Scout keyword that share the same Faction or Aﬃliation as the Scouting Party unit. Each chosen unit gains the Scout X keyword, where X is the Scout X value of the unit with the Scouting Party keyword."
+  },
+  "scouting_party_1": {
+    "name": "Scouting Party 1",
+    "slug": "scouting_party_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "scouting_party_2": {
+    "name": "Scouting Party 2",
+    "slug": "scouting_party_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "secret_mission": {
+    "name": "Secret Mission",
+    "slug": "secret_mission",
+    "type": "Keyword",
+    "description": "At the beginning of each Command Phase, if a unit with the Secret Mission keyword is completely within enemy Territory, it gains 1 Secret Mission token. A unit may only ever gain 1 Secret Mission token per game. When scoring VP during the End Phase, if a player controls 1 or more units that have a Secret Mission token and are within enemy Territory, that player may choose to remove those unit's Secret Mission tokens from the game. /T_hat player scores 1 VP for each Secret Mission token removed in this way.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "At the beginning of each Command Phase, if a unit with the Secret Mission keyword is completely within enemy Territory, it gains 1 Secret Mission token. A unit may only ever gain 1 Secret Mission token per game. When scoring VP during the End Phase, if a player controls 1 or more units that have a Secret Mission token and are within enemy Territory, that player may choose to remove those unit's Secret Mission tokens from the game. /T_hat player scores 1 VP for each Secret Mission token removed in this way."
+  },
+  "self_destruct": {
+    "name": "Self-destruct X",
+    "slug": "self_destruct",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit may make a Self-Destruct X Card action only if it has a number of Wound tokens equal to or greater than half of its Wound threshold, rounding up. For each unit within 1 and in LOS, roll X black attack dice, completely resolving each roll before moving to the next unit. /T_hat unit suffers 1 Wound for each c and b result rolled, then gains 1 Suppression token for each a result rolled. After all rolls are resolved, this unit is defeated.",
+    "description": "A unit may make a Self-Destruct X Card action only if it has a number of Wound tokens equal to or greater than half of its Wound threshold, rounding up. For each unit within 1 and in LOS, roll X black attack dice, completely resolving each roll before moving to the next unit. /T_hat unit suffers 1 Wound for each c and b result rolled, then gains 1 Suppression token for each a result rolled. After all rolls are resolved, this unit is defeated."
+  },
+  "self_destruct_3": {
+    "name": "Self Destruct 3",
+    "slug": "self_destruct_3",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "self_preservation": {
+    "name": "Self-preservation",
+    "slug": "self_preservation",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Self-Preservation keyword cannot use the unit of units that are not of the same Aﬃliation when checking for Panic.",
+    "description": "A unit with the Self-Preservation keyword cannot use the unit of units that are not of the same Aﬃliation when checking for Panic."
+  },
+  "sentinel": {
+    "name": "Sentinel",
+    "slug": "sentinel",
+    "type": "Keyword",
+    "description": "A unit with the Sentinel keyword can spend a Standby token after an enemy unit makes an attack, Move, or action within 3, rather than within 2.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Sentinel keyword can spend a Standby token after an enemy unit makes an attack, Move, or action within 3, rather than within 2."
+  },
+  "sharpshooter": {
+    "name": "Sharpshooter",
+    "slug": "sharpshooter",
+    "type": "Keyword",
+    "description": "During the Determine Cover step, a unit with the Sharpshooter X keyword subtracts X from the numerical value of the defender’s Cover. For example, a unit with heavy Cover and 1 Suppression token that is attacked by a unit with Sharpshooter 1 has light Cover.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "During the Determine Cover step, a unit with the Sharpshooter X keyword subtracts X from the numerical value of the defender’s Cover. For example, a unit with heavy Cover and 1 Suppression token that is attacked by a unit with Sharpshooter 1 has light Cover."
+  },
+  "sharpshooter_1": {
+    "name": "Sharpshooter 1",
+    "slug": "sharpshooter_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "sharpshooter_2": {
+    "name": "Sharpshooter 2",
+    "slug": "sharpshooter_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "shielded": {
+    "name": "Shielded X",
+    "slug": "shielded",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Shielded X keyword has X Shield tokens. Shield tokens belong to the unit and are not assigned to individual miniatures. If a unit gains the Shielded X keyword, it gains X REGENERATE X When a unit with the Regenerate X keyword ends its Activation, it rolls 1 white defense die for each Wound token it has, up to X. For each d or e result, it removes 1 Wound token.",
+    "description": "A unit with the Shielded X keyword has X Shield tokens. Shield tokens belong to the unit and are not assigned to individual miniatures. If a unit gains the Shielded X keyword, it gains X REGENERATE X When a unit with the Regenerate X keyword ends its Activation, it rolls 1 white defense die for each Wound token it has, up to X. For each d or e result, it removes 1 Wound token."
+  },
+  "shielded_1": {
+    "name": "Shielded 1",
+    "slug": "shielded_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "shielded_4": {
+    "name": "Shielded 4",
+    "slug": "shielded_4",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "shien_mastery": {
+    "name": "Shien Mastery",
+    "slug": "shien_mastery",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Shien Mastery keyword uses the De/f_lect keyword, the attacker suffers 1 Wound for each e result in the defense roll instead of any other Wounds De/f_lect would cause. Additionally, when a unit with the Shien Mastery keyword is the defending unit of a Ranged attack, if it does not suffer Wounds from that attack, it does not gain Suppression tokens during the Assign Suppression Token to Defender step of that attack.",
+    "description": "When a unit with the Shien Mastery keyword uses the De/f_lect keyword, the attacker suffers 1 Wound for each e result in the defense roll instead of any other Wounds De/f_lect would cause. Additionally, when a unit with the Shien Mastery keyword is the defending unit of a Ranged attack, if it does not suffer Wounds from that attack, it does not gain Suppression tokens during the Assign Suppression Token to Defender step of that attack."
+  },
+  "sidearm_melee_ranged": {
+    "name": "Sidearm: Melee/ranged",
+    "slug": "sidearm_melee_ranged",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "If an upgrade has the Sidearm: Melee keyword, the miniature added by that upgrade or that has that upgrade equipped cannot add any Melee weapons to Attack Pools other than any Melee weapons on the Upgrade Card with the Sidearm: Melee keyword. If an upgrade has the Sidearm: Ranged keyword, the miniature added by that upgrade or that has that upgrade equipped cannot add any Ranged weapons to Attack Pools other than any Ranged weapons on the Upgrade Card with the Sidearm: Ranged keyword. For example, the T-series Tactical Droid Upgrade Card provides a Ranged weapon and has the Sidearm: Ranged keyword. The miniature added by that upgrade can only use the weapon on the T-series Tactical Droid upgrade during a Ranged attack. /T_hat miniature may still use any available Melee weapon, such as the Melee weapon on the B1-Battle Droids Unit Card, during a Melee attack.",
+    "description": "If an upgrade has the Sidearm: Melee keyword, the miniature added by that upgrade or that has that upgrade equipped cannot add any Melee weapons to Attack Pools other than any Melee weapons on the Upgrade Card with the Sidearm: Melee keyword. If an upgrade has the Sidearm: Ranged keyword, the miniature added by that upgrade or that has that upgrade equipped cannot add any Ranged weapons to Attack Pools other than any Ranged weapons on the Upgrade Card with the Sidearm: Ranged keyword. For example, the T-series Tactical Droid Upgrade Card provides a Ranged weapon and has the Sidearm: Ranged keyword. The miniature added by that upgrade can only use the weapon on the T-series Tactical Droid upgrade during a Ranged attack. /T_hat miniature may still use any available Melee weapon, such as the Melee weapon on the B1-Battle Droids Unit Card, during a Melee attack."
+  },
+  "small": {
+    "name": "Small",
+    "slug": "small",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit that has 1 or more Counterpart miniatures with the Small keyword cannot be targeted with attacks if the attacking unit leader only has LOS to the Counterpart miniature with the Small keyword",
+    "description": "A unit that has 1 or more Counterpart miniatures with the Small keyword cannot be targeted with attacks if the attacking unit leader only has LOS to the Counterpart miniature with the Small keyword"
+  },
+  "smoke": {
+    "name": "Smoke X",
+    "slug": "smoke",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit that has the Smoke X keyword can make the Smoke X action to place X Smoke tokens comepletely within 1 and in LOS of its unit leader. Smoke tokens cannot overlap any Objective, Advantage, Charge, or other Smoke tokens and must be placed on a flat surface.",
+    "description": "A unit that has the Smoke X keyword can make the Smoke X action to place X Smoke tokens comepletely within 1 and in LOS of its unit leader. Smoke tokens cannot overlap any Objective, Advantage, Charge, or other Smoke tokens and must be placed on a flat surface."
+  },
+  "smoke_tokens": {
+    "name": "Smoke Tokens",
+    "slug": "smoke_tokens",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "Trooper units whose unit leader is within 1 of a Smoke token improve the numerical value of their Cover by 1 during the Determine Cover step. While a Trooper unit is attacking, if the attacking unit leader is within 1 of a Smoke token, the defending unit improves the numerical value of its Cover by 1. Effects that improve a unit’s Cover are cumulative. A unit cannot be affected by the same Smoke token more than once. Smoke tokens are removed during the Remove Tokens step of the End Phase. For example, a Trooper unit whose unit leader is within 1 of 2 Smoke tokens would improve the numerical value of its Cover by 2.",
+    "description": "Trooper units whose unit leader is within 1 of a Smoke token improve the numerical value of their Cover by 1 during the Determine Cover step. While a Trooper unit is attacking, if the attacking unit leader is within 1 of a Smoke token, the defending unit improves the numerical value of its Cover by 1. Effects that improve a unit’s Cover are cumulative. A unit cannot be affected by the same Smoke token more than once. Smoke tokens are removed during the Remove Tokens step of the End Phase. For example, a Trooper unit whose unit leader is within 1 of 2 Smoke tokens would improve the numerical value of its Cover by 2."
+  },
+  "sniper_team": {
+    "name": "Sniper Team",
+    "slug": "sniper_team",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a weapon with the Sniper Team keyword is the only weapon in an Attack Pool, if the attacking unit has not made a Move during its Activation and if each miniature in the attacking unit has LOS to 1 or more miniatures in the defending unit, upgrade each of that weapon’s attack dice. If you do, after the Convert Attack Surges step, you may cancel all the attack dice in the Attack Pool and skip to the Assign Suppression Token to Defender step. If 1 or more b results were cancelled in this way, the defending unit suffers 1 Wound.61DIVULGE Some Command Cards have the Divulge keyword. Command Cards that contain the Divulge keyword are divided by a horizontal line, which serves to visually separate the Divulge keyword effect from the normal Command Card effect. Some Divulge cards have multiple options, in this case the player must pick 1. These cards can be revealed at the start of the phase or step indicated by the Divulge keyword. If a card is revealed in this manner, resolve the text that follows the Divulge keyword. A card that is revealed in this way is not played and is returned to that player’s Command Hand at the end of the step in which it was Divulged. If a card with the Permanent keyword is Divulged, it does not return to a player's Command Hand and it remains in play. Players can Divulge as many Command Cards as they wish. If both players have Command Cards that are Divulged at the same time, the blue player can reveal their Command Card first. If this opportunity is declined, that card can no longer be Divulged.",
+    "description": "When a weapon with the Sniper Team keyword is the only weapon in an Attack Pool, if the attacking unit has not made a Move during its Activation and if each miniature in the attacking unit has LOS to 1 or more miniatures in the defending unit, upgrade each of that weapon’s attack dice. If you do, after the Convert Attack Surges step, you may cancel all the attack dice in the Attack Pool and skip to the Assign Suppression Token to Defender step. If 1 or more b results were cancelled in this way, the defending unit suffers 1 Wound.61DIVULGE Some Command Cards have the Divulge keyword. Command Cards that contain the Divulge keyword are divided by a horizontal line, which serves to visually separate the Divulge keyword effect from the normal Command Card effect. Some Divulge cards have multiple options, in this case the player must pick 1. These cards can be revealed at the start of the phase or step indicated by the Divulge keyword. If a card is revealed in this manner, resolve the text that follows the Divulge keyword. A card that is revealed in this way is not played and is returned to that player’s Command Hand at the end of the step in which it was Divulged. If a card with the Permanent keyword is Divulged, it does not return to a player's Command Hand and it remains in play. Players can Divulge as many Command Cards as they wish. If both players have Command Cards that are Divulged at the same time, the blue player can reveal their Command Card first. If this opportunity is declined, that card can no longer be Divulged."
+  },
+  "soresu_mastery": {
+    "name": "Soresu Mastery",
+    "slug": "soresu_mastery",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with Soresu Mastery defends against a Ranged attack, it may reroll all of its defense dice during the Reroll Defense Dice step. Additionally, when a unit with Soresu Mastery keyword",
+    "description": "When a unit with Soresu Mastery defends against a Ranged attack, it may reroll all of its defense dice during the Reroll Defense Dice step. Additionally, when a unit with Soresu Mastery keyword"
+  },
+  "special_issue_battle_force": {
+    "name": "Special Issue: Battle Force",
+    "slug": "special_issue_battle_force",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Special Issue keyword can only be included in an army using the speci/f_ied Battle Force.",
+    "description": "A unit with the Special Issue keyword can only be included in an army using the speci/f_ied Battle Force."
+  },
+  "speeder": {
+    "name": "Speeder",
+    "slug": "speeder",
+    "type": "Keyword",
+    "description": "A unit with the Speeder X keyword can Move over or end its movement on terrain equal to or less than height X. Additionally, when a unit with the Speeder X keyword on notched bases makes a Move, it skips step 1 of the notched base movement. A unit with the Speeder X keyword must make a free compulsory Move action at the start or end of its Make Actions step. If a unit with the Speeder X keyword makes more than 1 non-compulsory Move action during its Activation, it may not claim Asset tokens that Activation. Additionally, a unit with the Speeder X keyword that has claimed an Asset token can make only 1 non-compulsory Move action during its Activation.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Speeder X keyword can Move over or end its movement on terrain equal to or less than height X. Additionally, when a unit with the Speeder X keyword on notched bases makes a Move, it skips step 1 of the notched base movement. A unit with the Speeder X keyword must make a free compulsory Move action at the start or end of its Make Actions step. If a unit with the Speeder X keyword makes more than 1 non-compulsory Move action during its Activation, it may not claim Asset tokens that Activation. Additionally, a unit with the Speeder X keyword that has claimed an Asset token can make only 1 non-compulsory Move action during its Activation."
+  },
+  "speeder_1": {
+    "name": "Speeder 1",
+    "slug": "speeder_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "speeder_2": {
+    "name": "Speeder 2",
+    "slug": "speeder_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "spotter": {
+    "name": "Spotter",
+    "slug": "spotter",
+    "type": "Keyword",
+    "description": "As a Card or Free Card action, a unit with the Spotter X keyword can choose up to X allied units within 2. Each chosen unit gains 1 Aim token.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "As a Card or Free Card action, a unit with the Spotter X keyword can choose up to X allied units within 2. Each chosen unit gains 1 Aim token."
+  },
+  "spotter_1": {
+    "name": "Spotter 1",
+    "slug": "spotter_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "spotter_2": {
+    "name": "Spotter 2",
+    "slug": "spotter_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "spray": {
+    "name": "Spray",
+    "slug": "spray",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a miniature adds a weapon that has the Spray keyword to an Attack Pool, that weapon adds its dice a number of times equal to the number of miniatures in the defending unit that are in LOS of the miniature using that weapon. For example, if an AT-RT with a flamethrower attacks a unit of 3 Death Troopers, since the flamethrower has the Spray keyword and an attack value of 2 black die, the flamethrower contributes6 black attack dice to the Attack Pool.",
+    "description": "When a miniature adds a weapon that has the Spray keyword to an Attack Pool, that weapon adds its dice a number of times equal to the number of miniatures in the defending unit that are in LOS of the miniature using that weapon. For example, if an AT-RT with a flamethrower attacks a unit of 3 Death Troopers, since the flamethrower has the Spray keyword and an attack value of 2 black die, the flamethrower contributes6 black attack dice to the Attack Pool."
+  },
+  "spur": {
+    "name": "Spur",
+    "slug": "spur",
+    "type": "Keyword",
+    "description": "When a unit with the Spur keyword makes a Move, its controlling player may assign it 1 Suppression token. If they do, that unit increases its Speed by 1 during that Move to a maximum of 3. When a unit makes a Move, apply any effects that increase the unit’s Speed before applying any effects that reduce that unit’s Speed. For example, a unit that normally has a Speed of 1, but has 1 Immobilize token, can use the Spur keyword to make a Move with a total Speed of 1. However, a unit that normally has a Speed of 1, but has 2 Immobilize tokens, cannot use the Spur keyword to make a Move because its Speed would still be 0.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Spur keyword makes a Move, its controlling player may assign it 1 Suppression token. If they do, that unit increases its Speed by 1 during that Move to a maximum of 3. When a unit makes a Move, apply any effects that increase the unit’s Speed before applying any effects that reduce that unit’s Speed. For example, a unit that normally has a Speed of 1, but has 1 Immobilize token, can use the Spur keyword to make a Move with a total Speed of 1. However, a unit that normally has a Speed of 1, but has 2 Immobilize tokens, cannot use the Spur keyword to make a Move because its Speed would still be 0."
+  },
+  "stationary": {
+    "name": "Stationary",
+    "slug": "stationary",
+    "type": "Keyword",
+    "description": "A unit with the Stationary keyword cannot make Moves unless the Move is a Pivot. A unit with the Prepared Position and Stationary keywords must Deploy during the Deploy in Prepared Positions step of Setup.Shield tokens. Similarly, if a unit loses the Shielded X keyword it loses X Shield tokens. Shield tokens are double-sided, with an active side and an inactive side, and always enter play with their active side faceup. When a unit flips an active Shield token, that Shield token is flipped to its inactive side and is now inactive. When a unit flips an inactive Shield token, that Shield token is flipped to its active side and is now active. While defending against a Ranged attack, a defending unit may flip any number of its active Shield tokens to their inactive side during the Modify Attack Dice step to cancel 1 hit a or 1 critical b result for each Shield token flipped in this way.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Stationary keyword cannot make Moves unless the Move is a Pivot. A unit with the Prepared Position and Stationary keywords must Deploy during the Deploy in Prepared Positions step of Setup.Shield tokens. Similarly, if a unit loses the Shielded X keyword it loses X Shield tokens. Shield tokens are double-sided, with an active side and an inactive side, and always enter play with their active side faceup. When a unit flips an active Shield token, that Shield token is flipped to its inactive side and is now inactive. When a unit flips an inactive Shield token, that Shield token is flipped to its active side and is now active. While defending against a Ranged attack, a defending unit may flip any number of its active Shield tokens to their inactive side during the Modify Attack Dice step to cancel 1 hit a or 1 critical b result for each Shield token flipped in this way."
+  },
+  "steady": {
+    "name": "Steady",
+    "slug": "steady",
+    "type": "Keyword",
+    "description": "After a unit that has the Steady keyword makes a Move action during its Activation, it may make a free Attack action. Only Ranged weapons can be added to Attack Pools during this Attack action.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "After a unit that has the Steady keyword makes a Move action during its Activation, it may make a free Attack action. Only Ranged weapons can be added to Attack Pools during this Attack action."
+  },
+  "strafe_move": {
+    "name": "Strafe Move",
+    "slug": "strafe_move",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "If a unit with the Hover: Ground/Air X keyword has a base with side notches, the unit may make a Strafe Move as part of a Move action instead of moving normally. A Strafe Move is a normal notched base Standard Move with the following exceptions: • When making a full Strafe Move, instead of placing the Movement Tool in the front notch of the unit leader’s base, place it in one of the side notchs. Then place the opposite side notch of the unit leader’s base on the other end of the Movement Tool. • When making a partial Strafe Move, instead of placing the Movement Tool wholly in the front notch of the unit leader’s base at the start of the Move, place the Movement Tool wholly in one of the side notches. When ending a partial Strafe Move, the miniature must be placed in such a way so that the line of the two side notches on its base are parallel to the section of the Movement Tool the miniature reached at the farthest part of the move. • While making a Strafe Move, a unit reduces its Speed by 1 to a minimum of 1. FIRE SUPPORT After a unit with the Fire Support keyword is issued an Order, it gains a Standby token.",
+    "description": "If a unit with the Hover: Ground/Air X keyword has a base with side notches, the unit may make a Strafe Move as part of a Move action instead of moving normally. A Strafe Move is a normal notched base Standard Move with the following exceptions: • When making a full Strafe Move, instead of placing the Movement Tool in the front notch of the unit leader’s base, place it in one of the side notchs. Then place the opposite side notch of the unit leader’s base on the other end of the Movement Tool. • When making a partial Strafe Move, instead of placing the Movement Tool wholly in the front notch of the unit leader’s base at the start of the Move, place the Movement Tool wholly in one of the side notches. When ending a partial Strafe Move, the miniature must be placed in such a way so that the line of the two side notches on its base are parallel to the section of the Movement Tool the miniature reached at the farthest part of the move. • While making a Strafe Move, a unit reduces its Speed by 1 to a minimum of 1. FIRE SUPPORT After a unit with the Fire Support keyword is issued an Order, it gains a Standby token."
+  },
+  "strategize": {
+    "name": "Strategize X",
+    "slug": "strategize",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit makes the Strategize X action, it gains 1 Suppression token, then chooses X allied units within 2. Each chosen unit gains 1 Aim token and 1 Dodge token.",
+    "description": "When a unit makes the Strategize X action, it gains 1 Suppression token, then chooses X allied units within 2. Each chosen unit gains 1 Aim token and 1 Dodge token."
+  },
+  "strategize_1": {
+    "name": "Strategize 1",
+    "slug": "strategize_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "strategize_2": {
+    "name": "Strategize 2",
+    "slug": "strategize_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "suppressive": {
+    "name": "Suppressive",
+    "slug": "suppressive",
+    "type": "Keyword",
+    "description": "When a unit defends against an Attack Pool that has Suppressive, it gains 1 additional Suppression token during the Assign Suppression Token to Defender step.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit defends against an Attack Pool that has Suppressive, it gains 1 additional Suppression token during the Assign Suppression Token to Defender step."
+  },
+  "swashbuckler": {
+    "name": "Swashbuckler",
+    "slug": "swashbuckler",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Swashbuckler keyword spends 1 or more Aim tokens during an Attack action, after the effect is resolved, it gains 1 Dodge token.",
+    "description": "When a unit with the Swashbuckler keyword spends 1 or more Aim tokens during an Attack action, after the effect is resolved, it gains 1 Dodge token."
+  },
+  "tactical": {
+    "name": "Tactical",
+    "slug": "tactical",
+    "type": "Keyword",
+    "description": "When a unit with the Tactical X keyword makes a Standard Move as part of an action or free action, after the effect is resolved, it gains X Aim tokens.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit with the Tactical X keyword makes a Standard Move as part of an action or free action, after the effect is resolved, it gains X Aim tokens."
+  },
+  "tactical_1": {
+    "name": "Tactical 1",
+    "slug": "tactical_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "take_cover": {
+    "name": "Take Cover",
+    "slug": "take_cover",
+    "type": "Keyword",
+    "description": "As a Card or Free Card action, a unit with the Take Cover X keyword can choose up to X allied units within 2. Each chosen unit gains 1 Dodge token.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "As a Card or Free Card action, a unit with the Take Cover X keyword can choose up to X allied units within 2. Each chosen unit gains 1 Dodge token."
+  },
+  "take_cover_1": {
+    "name": "Take Cover 1",
+    "slug": "take_cover_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "target": {
+    "name": "Target X",
+    "slug": "target",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "After a unit with the Target X keyword is issued an Order, it gains X Aim tokens.",
+    "description": "After a unit with the Target X keyword is issued an Order, it gains X Aim tokens."
+  },
+  "target_1": {
+    "name": "Target 1",
+    "slug": "target_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "target_2": {
+    "name": "Target 2",
+    "slug": "target_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "teamwork": {
+    "name": "Teamwork",
+    "slug": "teamwork",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "teamwork_cassian_andor": {
+    "name": "Teamwork Cassian Andor",
+    "slug": "teamwork_cassian_andor",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "teamwork_unit_name": {
+    "name": "Teamwork: Unit Name",
+    "slug": "teamwork_unit_name",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While a unit with the Teamwork keyword is within 2 of an allied unit that has the unit name speci/f_ied by the Teamwork keyword, if either unit gains 1 or more Aim tokens or 1 or more Dodge tokens, the other unit gains 1 token of the same type.",
+    "description": "While a unit with the Teamwork keyword is within 2 of an allied unit that has the unit name speci/f_ied by the Teamwork keyword, if either unit gains 1 or more Aim tokens or 1 or more Dodge tokens, the other unit gains 1 token of the same type."
+  },
+  "tempted": {
+    "name": "Tempted",
+    "slug": "tempted",
+    "type": "Keyword",
+    "description": "If an allied unit is defeated by an enemy attack and the attacking unit is within 3 of a unit with the Tempted keyword, after the attack is resolved, that unit with the Tempted keyword may make a free Attack action or a Speed-2 Move ignoring diﬃcult terrain. A unit may use the Tempted keyword only once each Round.TRANSPORT During Setup, a unit with the Transport keyword may choose an allied m Trooper or n  Trooper unit to transport. During the first Round's Issue Orders step, a unit with the Transport keyword may issue an Order to the chosen unit. If the chosen unit is undeployed when the unit with the Transport keyword Deploys, after the effect is resolved, the unit with the Transport keyword Deploys by making a Speed-1 Move. Measure the start of this Move with both prongs of one side of the Movement Tool touching the base of the unit with the Transport keyword. A unit can make this Move regardless of its Speed. When the chosen unit Deploys in this way, the unit leader of that unit measures the vertical distance changed during that Move starting from the unit with the Transport keyword.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "If an allied unit is defeated by an enemy attack and the attacking unit is within 3 of a unit with the Tempted keyword, after the attack is resolved, that unit with the Tempted keyword may make a free Attack action or a Speed-2 Move ignoring diﬃcult terrain. A unit may use the Tempted keyword only once each Round.TRANSPORT During Setup, a unit with the Transport keyword may choose an allied m Trooper or n  Trooper unit to transport. During the first Round's Issue Orders step, a unit with the Transport keyword may issue an Order to the chosen unit. If the chosen unit is undeployed when the unit with the Transport keyword Deploys, after the effect is resolved, the unit with the Transport keyword Deploys by making a Speed-1 Move. Measure the start of this Move with both prongs of one side of the Movement Tool touching the base of the unit with the Transport keyword. A unit can make this Move regardless of its Speed. When the chosen unit Deploys in this way, the unit leader of that unit measures the vertical distance changed during that Move starting from the unit with the Transport keyword."
+  },
+  "tow_cable": {
+    "name": "Tow Cable",
+    "slug": "tow_cable",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "After a Vehicle suffers 1 or more Wounds from an attack that has Tow Cable in the Attack Pool, the attacking player makes a Pivot with that Vehicle, then it gains 1 Immobilize token.",
+    "description": "After a Vehicle suffers 1 or more Wounds from an attack that has Tow Cable in the Attack Pool, the attacking player makes a Pivot with that Vehicle, then it gains 1 Immobilize token."
+  },
+  "transport": {
+    "name": "Transport",
+    "slug": "transport",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "treat_x_capacity_y": {
+    "name": "Treat X: Capacity Y",
+    "slug": "treat_x_capacity_y",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit uses the Treat X: Capacity Y Card or Free Card action, choose an allied non-Droid Trooper Trooper  unit within 1 and LOS and place 1 Wound token on the card that has the Treat X: Capacity Y keyword. Remove a total of up to X Wound and/or Poison tokens from the chosen unit or Restore up to X miniatures to that unit. /T_his ability cannot be used if the card that has the Treat X: Capacity Y keyword has a number of Wound tokens on it equal to or exceeding Y . Wound tokens on cards are not considered to be on units and do not count toward a unit’s Wound threshold, nor can they be removed by abilities that remove Wound tokens from units. A unit that has multiple Treat X: Capacity Y actions treats each keyword as a separate action, and can use each action once during its Activation, even if the unit has access to mutiple identical actions from different sources.PERMANENT Some Command Cards have the Permanent keyword. Unlike ordinary Command Cards, these cards are not discarded from play during the End Phase and their effects persist as long as they are in play.",
+    "description": "When a unit uses the Treat X: Capacity Y Card or Free Card action, choose an allied non-Droid Trooper Trooper  unit within 1 and LOS and place 1 Wound token on the card that has the Treat X: Capacity Y keyword. Remove a total of up to X Wound and/or Poison tokens from the chosen unit or Restore up to X miniatures to that unit. /T_his ability cannot be used if the card that has the Treat X: Capacity Y keyword has a number of Wound tokens on it equal to or exceeding Y . Wound tokens on cards are not considered to be on units and do not count toward a unit’s Wound threshold, nor can they be removed by abilities that remove Wound tokens from units. A unit that has multiple Treat X: Capacity Y actions treats each keyword as a separate action, and can use each action once during its Activation, even if the unit has access to mutiple identical actions from different sources.PERMANENT Some Command Cards have the Permanent keyword. Unlike ordinary Command Cards, these cards are not discarded from play during the End Phase and their effects persist as long as they are in play."
+  },
+  "uncanny_luck": {
+    "name": "Uncanny Luck",
+    "slug": "uncanny_luck",
+    "type": "Keyword",
+    "description": "While a unit with the Uncanny Luck X keyword defends, it may reroll up to X defense dice during the Reroll Defense Dice step. Any dice rerolled with the Uncanny Luck X keyword must be rerolled at the same time, and each die cannot be rerolled more than once.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While a unit with the Uncanny Luck X keyword defends, it may reroll up to X defense dice during the Reroll Defense Dice step. Any dice rerolled with the Uncanny Luck X keyword must be rerolled at the same time, and each die cannot be rerolled more than once."
+  },
+  "unconcerned": {
+    "name": "Unconcerned",
+    "slug": "unconcerned",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Unconcerned keyword cannot bene/f_it from Cover, and miniatures in the unit cannot be Repaired or Restored.",
+    "description": "A unit with the Unconcerned keyword cannot bene/f_it from Cover, and miniatures in the unit cannot be Repaired or Restored."
+  },
+  "unhindered": {
+    "name": "Unhindered",
+    "slug": "unhindered",
+    "type": "Keyword",
+    "description": "When a unit that has the Unhindered keyword makes a Move, it does not reduce its Speed for moving out of, into, or through diﬃcult terrain.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "When a unit that has the Unhindered keyword makes a Move, it does not reduce its Speed for moving out of, into, or through diﬃcult terrain."
+  },
+  "unstoppable": {
+    "name": "Unstoppable",
+    "slug": "unstoppable",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "A unit with the Unstoppable keyword is eligible to activate during the Activation Phase while it has 1 or fewer Order tokens. /T_his unit may never have more than 1 faceup Order token. While this unit is not defeated, when its controlling player is creating their Order Pool, they add an additional Order token corresponding to this unit’s Rank to their Order Pool.",
+    "description": "A unit with the Unstoppable keyword is eligible to activate during the Activation Phase while it has 1 or fewer Order tokens. /T_his unit may never have more than 1 faceup Order token. While this unit is not defeated, when its controlling player is creating their Order Pool, they add an additional Order token corresponding to this unit’s Rank to their Order Pool."
+  },
+  "vaapad_mastery": {
+    "name": "Vaapad Mastery",
+    "slug": "vaapad_mastery",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "versatile": {
+    "name": "Versatile",
+    "slug": "versatile",
+    "type": "Keyword",
+    "description": "Units can make Ranged attacks with a weapon that has the Versatile keyword even when they are Engaged. A weapon with the Versatile keyword that is both a Ranged weapon and a Melee weapon can be used to make either a Ranged attack or a Melee attack.POISON X A non-Droid Trooper Trooper unit that suffers 1 or more Wounds caused by an Attack Pool that has the Poison X keyword gains X Poison tokens. When a unit with 1 or more Poison tokens ends its Activation, it suffers 1 Wound for each Poison token it has, then removes all of its Poison tokens.",
+    "source": "Rulebook PDF",
+    "official_rules_text": "Units can make Ranged attacks with a weapon that has the Versatile keyword even when they are Engaged. A weapon with the Versatile keyword that is both a Ranged weapon and a Melee weapon can be used to make either a Ranged attack or a Melee attack.POISON X A non-Droid Trooper Trooper unit that suffers 1 or more Wounds caused by an Attack Pool that has the Poison X keyword gains X Poison tokens. When a unit with 1 or more Poison tokens ends its Activation, it suffers 1 Wound for each Poison token it has, then removes all of its Poison tokens."
+  },
+  "weak_point_1_rear": {
+    "name": "Weak Point 1 Rear",
+    "slug": "weak_point_1_rear",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "weak_point_1_rear_sides": {
+    "name": "Weak Point 1 Rear Sides",
+    "slug": "weak_point_1_rear_sides",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "weak_point_1_sides": {
+    "name": "Weak Point 1 Sides",
+    "slug": "weak_point_1_sides",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "weak_point_2": {
+    "name": "Weak Point 2",
+    "slug": "weak_point_2",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "weak_point_2_rear": {
+    "name": "Weak Point 2 Rear",
+    "slug": "weak_point_2_rear",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "weak_point_x_front_rear_sides": {
+    "name": "Weak Point X: Front/rear/ Sides",
+    "slug": "weak_point_x_front_rear_sides",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "While a unit with the Weak Point X: Front/Rear/Sides keyword defends, if the attacking unit’s unit leader is at least partially inside the speci/f_ied /f_iring arc of the defending unit, the Attack Pool gains the Impact X keyword where X is equal to the value of Weak Point X. While a unit with the Weak Point X keyword defends against a Ranged attack made by an area weapon, treat the Charge token or Advantage token as the attacking unit leader.57WEIGHED DOWN A unit with the Weighed Down keyword cannot use the Jump keyword while it is holding 1 or more Objective tokens, WE'RE NOT REGS A unit with the We’re Not Regs keyword cannot spend Green tokens on other Clone Trooper units, and other Clone Trooper units cannot spend this unit’s Green tokens. Additionally, this unit cannot bene/f_it from Backup.",
+    "description": "While a unit with the Weak Point X: Front/Rear/Sides keyword defends, if the attacking unit’s unit leader is at least partially inside the speci/f_ied /f_iring arc of the defending unit, the Attack Pool gains the Impact X keyword where X is equal to the value of Weak Point X. While a unit with the Weak Point X keyword defends against a Ranged attack made by an area weapon, treat the Charge token or Advantage token as the attacking unit leader.57WEIGHED DOWN A unit with the Weighed Down keyword cannot use the Jump keyword while it is holding 1 or more Objective tokens, WE'RE NOT REGS A unit with the We’re Not Regs keyword cannot spend Green tokens on other Clone Trooper units, and other Clone Trooper units cannot spend this unit’s Green tokens. Additionally, this unit cannot bene/f_it from Backup."
+  },
+  "weighed_down": {
+    "name": "Weighed Down",
+    "slug": "weighed_down",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "were_not_regs": {
+    "name": "Were Not Regs",
+    "slug": "were_not_regs",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  },
+  "wheel_mode": {
+    "name": "Wheel Mode",
+    "slug": "wheel_mode",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "At the start of its Activation, a unit with the Wheel Mode keyword may change its Speed to 3 until the end of that Activation. If it does, until the end of the Round, it loses the Unconcerned keyword, gains the AI: Move and Cover 2 keywords, and cannot flip its active Shield tokens. To indicate that a unit of Droidekas is using the Wheel Mode keyword, a player may replace their standing Droideka miniatures with ball-form Droideka miniatures, or simply mark the unit with a Wheel Mode token until the end of the Round. Players should use the ball-form Droideka miniatures only when the unit uses the Wheel Mode keyword and only for the duration of that Round. At the end of the Round, any ball-form Droideka miniatures should be replaced with standing Droideka miniatures.",
+    "description": "At the start of its Activation, a unit with the Wheel Mode keyword may change its Speed to 3 until the end of that Activation. If it does, until the end of the Round, it loses the Unconcerned keyword, gains the AI: Move and Cover 2 keywords, and cannot flip its active Shield tokens. To indicate that a unit of Droidekas is using the Wheel Mode keyword, a player may replace their standing Droideka miniatures with ball-form Droideka miniatures, or simply mark the unit with a Wheel Mode token until the end of the Round. Players should use the ball-form Droideka miniatures only when the unit uses the Wheel Mode keyword and only for the duration of that Round. At the end of the Round, any ball-form Droideka miniatures should be replaced with standing Droideka miniatures."
+  },
+  "wound": {
+    "name": "Wound X",
+    "slug": "wound",
+    "type": "Keyword",
+    "source": "Rulebook PDF",
+    "official_rules_text": "The first time a unit with the Wound X keyword enters play, that unit suffers X Wounds.",
+    "description": "The first time a unit with the Wound X keyword enters play, that unit suffers X Wounds."
+  },
+  "wound_1": {
+    "name": "Wound 1",
+    "slug": "wound_1",
+    "type": "Keyword",
+    "description": "Official rulebook text not available from extracted source.",
+    "source": "Unit dataset cross-reference",
+    "official_rules_text": "Official rulebook text not available from extracted source."
+  }
+}

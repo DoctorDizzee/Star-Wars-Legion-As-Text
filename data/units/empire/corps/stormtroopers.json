@@ -16,7 +16,9 @@
     }
   },
   "keywords": [
-    "Precise 1"
+    {
+      "ref": "keywords/precise_1"
+    }
   ],
   "weapons": [
     {

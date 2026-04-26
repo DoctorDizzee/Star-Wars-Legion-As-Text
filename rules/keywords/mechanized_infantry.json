@@ -1,0 +1,8 @@
+{
+  "name": "Mechanized Infantry",
+  "slug": "mechanized_infantry",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "At the start of the Activation Phase, each unit with the Mechanized Infantry keyword may choose a different allied vehicle unit within 2. If they do, the unit with the Mechanized Infantry keyword and each chosen unit gain 1 Aim token or 1 Dodge token.",
+  "description": "At the start of the Activation Phase, each unit with the Mechanized Infantry keyword may choose a different allied vehicle unit within 2. If they do, the unit with the Mechanized Infantry keyword and each chosen unit gain 1 Aim token or 1 Dodge token."
+}

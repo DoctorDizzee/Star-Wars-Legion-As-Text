@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Armor 3",
-    "Cover 1",
-    "Hover: Ground",
-    "Weak Point 1: Rear, Sides"
+    {
+      "ref": "keywords/armor_3"
+    },
+    {
+      "ref": "keywords/cover_1"
+    },
+    {
+      "ref": "keywords/hover_ground"
+    },
+    {
+      "ref": "keywords/weak_point_1_rear_sides"
+    }
   ],
   "weapons": [
     {

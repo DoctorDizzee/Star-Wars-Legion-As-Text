@@ -1,0 +1,8 @@
+{
+  "name": "Tow Cable",
+  "slug": "tow_cable",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "After a Vehicle suffers 1 or more Wounds from an attack that has Tow Cable in the Attack Pool, the attacking player makes a Pivot with that Vehicle, then it gains 1 Immobilize token.",
+  "description": "After a Vehicle suffers 1 or more Wounds from an attack that has Tow Cable in the Attack Pool, the attacking player makes a Pivot with that Vehicle, then it gains 1 Immobilize token."
+}

@@ -16,13 +16,27 @@
     }
   },
   "keywords": [
-    "Strategize 2",
-    "Cunning",
-    "Direct: Galactic Empire Unit",
-    "Duelist",
-    "Exemplar",
-    "One Step Ahead",
-    "Tactical 1"
+    {
+      "ref": "keywords/strategize_2"
+    },
+    {
+      "ref": "keywords/cunning"
+    },
+    {
+      "ref": "keywords/direct_galactic_empire_unit"
+    },
+    {
+      "ref": "keywords/duelist"
+    },
+    {
+      "ref": "keywords/exemplar"
+    },
+    {
+      "ref": "keywords/one_step_ahead"
+    },
+    {
+      "ref": "keywords/tactical_1"
+    }
   ],
   "weapons": [
     {

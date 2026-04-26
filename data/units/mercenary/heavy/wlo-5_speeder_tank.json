@@ -16,28 +16,57 @@
     }
   },
   "keywords": [
-    "Mercenary: Galactic Empire, Rebel Alliance, Galactic Republic, Separatist Alliance",
-    "Armor 5",
-    "Arsenal 2",
-    "Hover: Ground",
-    "Transport",
-    "Weak Point 2: Rear"
+    {
+      "ref": "keywords/mercenary_galactic_empire_rebel_alliance_galactic_republic_separatist_alliance"
+    },
+    {
+      "ref": "keywords/armor_5"
+    },
+    {
+      "ref": "keywords/arsenal_2"
+    },
+    {
+      "ref": "keywords/hover_ground"
+    },
+    {
+      "ref": "keywords/transport"
+    },
+    {
+      "ref": "keywords/weak_point_2_rear"
+    }
   ],
   "weapons": [
     {
       "name": "Anti-Personnel Lasers",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "white": 2, "black": 3 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "white": 2,
+        "black": 3
+      },
       "keywords": [
-        "Fixed: Front"
+        {
+          "ref": "keywords/fixed_front"
+        }
       ]
     },
     {
       "name": "Heavy Laser Cannon",
-      "range": { "min": 1, "max": 3 },
-      "dice": { "red": 1, "white": 2, "black": 2 },
+      "range": {
+        "min": 1,
+        "max": 3
+      },
+      "dice": {
+        "red": 1,
+        "white": 2,
+        "black": 2
+      },
       "keywords": [
-        "Impact 2"
+        {
+          "ref": "keywords/impact_2"
+        }
       ]
     }
   ],

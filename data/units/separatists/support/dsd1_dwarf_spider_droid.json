@@ -16,17 +16,34 @@
     }
   },
   "keywords": [
-    "Self-Destruct 3",
-    "Armor 3",
-    "Climbing Vehicle",
-    "Expert Climber",
-    "Programmed"
+    {
+      "ref": "keywords/self_destruct_3"
+    },
+    {
+      "ref": "keywords/armor_3"
+    },
+    {
+      "ref": "keywords/climbing_vehicle"
+    },
+    {
+      "ref": "keywords/expert_climber"
+    },
+    {
+      "ref": "keywords/programmed"
+    }
   ],
   "weapons": [
     {
       "name": "Wicked Kick",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 1, "black": 1, "white": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 1,
+        "black": 1,
+        "white": 1
+      },
       "keywords": []
     }
   ],

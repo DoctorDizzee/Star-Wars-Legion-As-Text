@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Guidance: Trooper",
-    "Ataru Mastery",
-    "Deflect",
-    "Immune: Pierce",
-    "Master of the Force 2"
+    {
+      "ref": "keywords/guidance_trooper"
+    },
+    {
+      "ref": "keywords/ataru_mastery"
+    },
+    {
+      "ref": "keywords/deflect"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    },
+    {
+      "ref": "keywords/master_of_the_force_2"
+    }
   ],
   "weapons": [
     {
@@ -33,8 +43,12 @@
         "red": 4
       },
       "keywords": [
-        "Impact 2",
-        "Pierce 2"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_2"
+        }
       ]
     },
     {
@@ -47,8 +61,12 @@
         "black": 4
       },
       "keywords": [
-        "Blast",
-        "Suppressive"
+        {
+          "ref": "keywords/blast"
+        },
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     }
   ],

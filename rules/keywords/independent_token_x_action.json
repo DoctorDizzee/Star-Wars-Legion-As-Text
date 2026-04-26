@@ -1,0 +1,8 @@
+{
+  "name": "Independent: Token X/ Action",
+  "slug": "independent_token_x_action",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "At the start of the Activation Phase, if a unit with the Independent keyword does not have an Order token, that unit may gain X of the listed token(s) or make the listed action as a free action.",
+  "description": "At the start of the Activation Phase, if a unit with the Independent keyword does not have an Order token, that unit may gain X of the listed token(s) or make the listed action as a free action."
+}

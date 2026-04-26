@@ -2,6 +2,7 @@
   "name": "Full Pivot",
   "slug": "full_pivot",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the Full Pivot keyword makes a Pivot, it may Pivot up to 360°.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Full Pivot keyword makes a Pivot, it may Pivot up to 360°."
 }

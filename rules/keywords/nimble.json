@@ -2,6 +2,7 @@
   "name": "Nimble",
   "slug": "nimble",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the Nimble keyword defends against an attack and spends at least 1 Dodge token during any point of the attack sequence, after the attack is resolved, it gains 1 Dodge token.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Nimble keyword defends against an attack and spends at least 1 Dodge token during any point of the attack sequence, after the attack is resolved, it gains 1 Dodge token."
 }

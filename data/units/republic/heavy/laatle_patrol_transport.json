@@ -16,12 +16,24 @@
     }
   },
   "keywords": [
-    "Armor 5",
-    "Arsenal 2",
-    "Cover 1",
-    "Hover: Air 2",
-    "Immune: Blast, Melee, Range 1 Weapons",
-    "Transport"
+    {
+      "ref": "keywords/armor_5"
+    },
+    {
+      "ref": "keywords/arsenal_2"
+    },
+    {
+      "ref": "keywords/cover_1"
+    },
+    {
+      "ref": "keywords/hover_air_2"
+    },
+    {
+      "ref": "keywords/immune_blast_melee_range_1_weapons"
+    },
+    {
+      "ref": "keywords/transport"
+    }
   ],
   "weapons": [
     {
@@ -35,8 +47,12 @@
         "black": 2
       },
       "keywords": [
-        "Fixed: Front",
-        "Impact 1"
+        {
+          "ref": "keywords/fixed_front"
+        },
+        {
+          "ref": "keywords/impact_1"
+        }
       ]
     }
   ],

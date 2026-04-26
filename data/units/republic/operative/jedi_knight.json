@@ -16,9 +16,15 @@
     }
   },
   "keywords": [
-    "Deflect",
-    "Equip: Command, Training",
-    "Immune: Pierce"
+    {
+      "ref": "keywords/deflect"
+    },
+    {
+      "ref": "keywords/equip_command_training"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    }
   ],
   "weapons": [],
   "upgrade_slots": [

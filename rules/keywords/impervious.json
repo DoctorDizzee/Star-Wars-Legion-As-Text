@@ -2,6 +2,7 @@
   "name": "Impervious",
   "slug": "impervious",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "While a unit with the Impervious keyword is defending, it rolls a number of extra defense dice during the Roll Defense Dice step equal to the total Pierce X value of weapons in the Attack Pool. If a unit with Impervious also has the Immune: Pierce keyword, then it does not roll extra defense dice for the Impervious keyword when defending against an attack with the Pierce X keyword.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "While a unit with the Impervious keyword is defending, it rolls a number of extra defense dice during the Roll Defense Dice step equal to the total Pierce X value of weapons in the Attack Pool. If a unit with Impervious also has the Immune: Pierce keyword, then it does not roll extra defense dice for the Impervious keyword when defending against an attack with the Pierce X keyword."
 }

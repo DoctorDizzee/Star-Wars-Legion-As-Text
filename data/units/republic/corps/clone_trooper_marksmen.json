@@ -16,8 +16,12 @@
     }
   },
   "keywords": [
-    "Prepared Position",
-    "Marksman"
+    {
+      "ref": "keywords/prepared_position"
+    },
+    {
+      "ref": "keywords/marksman"
+    }
   ],
   "weapons": [
     {
@@ -41,7 +45,9 @@
         "black": 1
       },
       "keywords": [
-        "Long Shot"
+        {
+          "ref": "keywords/long_shot"
+        }
       ]
     }
   ],

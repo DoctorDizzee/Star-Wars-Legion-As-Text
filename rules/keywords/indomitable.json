@@ -2,6 +2,7 @@
   "name": "Indomitable",
   "slug": "indomitable",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit that has the Indomitable keyword Rallies, it rolls red defense dice instead of white defense dice.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit that has the Indomitable keyword Rallies, it rolls red defense dice instead of white defense dice."
 }

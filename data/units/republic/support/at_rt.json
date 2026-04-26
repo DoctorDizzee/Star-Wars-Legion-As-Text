@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Armor 2",
-    "Climbing Vehicle",
-    "Expert Climber",
-    "Scout 1"
+    {
+      "ref": "keywords/armor_2"
+    },
+    {
+      "ref": "keywords/climbing_vehicle"
+    },
+    {
+      "ref": "keywords/expert_climber"
+    },
+    {
+      "ref": "keywords/scout_1"
+    }
   ],
   "weapons": [
     {
@@ -32,7 +40,9 @@
         "red": 3
       },
       "keywords": [
-        "Impact 1"
+        {
+          "ref": "keywords/impact_1"
+        }
       ]
     },
     {
@@ -46,8 +56,12 @@
         "white": 1
       },
       "keywords": [
-        "Critical 1",
-        "Impact 1"
+        {
+          "ref": "keywords/critical_1"
+        },
+        {
+          "ref": "keywords/impact_1"
+        }
       ]
     }
   ],

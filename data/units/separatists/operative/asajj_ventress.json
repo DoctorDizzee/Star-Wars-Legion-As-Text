@@ -16,22 +16,45 @@
     }
   },
   "keywords": [
-    "Jump 2",
-    "Deflect",
-    "Immune: Pierce",
-    "Independent: Dodge 1",
-    "Indomitable",
-    "Jar'Kai Mastery",
-    "Relentless"
+    {
+      "ref": "keywords/jump_2"
+    },
+    {
+      "ref": "keywords/deflect"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    },
+    {
+      "ref": "keywords/independent_dodge_1"
+    },
+    {
+      "ref": "keywords/indomitable"
+    },
+    {
+      "ref": "keywords/jarkai_mastery"
+    },
+    {
+      "ref": "keywords/relentless"
+    }
   ],
   "weapons": [
     {
       "name": "Asajj's Lightsabers",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 8 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 8
+      },
       "keywords": [
-        "Impact 2",
-        "Pierce 2"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_2"
+        }
       ]
     }
   ],

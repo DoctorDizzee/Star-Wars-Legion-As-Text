@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Bolster 2",
-    "Agile 1",
-    "Inspire 2",
-    "Nimble",
-    "Sharpshooter 2"
+    {
+      "ref": "keywords/bolster_2"
+    },
+    {
+      "ref": "keywords/agile_1"
+    },
+    {
+      "ref": "keywords/inspire"
+    },
+    {
+      "ref": "keywords/nimble"
+    },
+    {
+      "ref": "keywords/sharpshooter_2"
+    }
   ],
   "weapons": [
     {

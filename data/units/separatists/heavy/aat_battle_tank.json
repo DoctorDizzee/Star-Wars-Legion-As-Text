@@ -16,30 +16,60 @@
     }
   },
   "keywords": [
-    "AI: Attack",
-    "Armor 5",
-    "Arsenal 2",
-    "Barrage",
-    "Hover: Ground",
-    "Weak Point 2: Rear"
+    {
+      "ref": "keywords/ai_attack"
+    },
+    {
+      "ref": "keywords/armor_5"
+    },
+    {
+      "ref": "keywords/arsenal_2"
+    },
+    {
+      "ref": "keywords/barrage"
+    },
+    {
+      "ref": "keywords/hover_ground"
+    },
+    {
+      "ref": "keywords/weak_point_2_rear"
+    }
   ],
   "weapons": [
     {
       "name": "Anti-Personnel Lasers",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 3 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 3
+      },
       "keywords": [
-        "Fixed: Front"
+        {
+          "ref": "keywords/fixed_front"
+        }
       ]
     },
     {
       "name": "Artillery Cannon",
-      "range": { "min": 2, "max": 4 },
-      "dice": { "red": 4 },
+      "range": {
+        "min": 2,
+        "max": 4
+      },
+      "dice": {
+        "red": 4
+      },
       "keywords": [
-        "Critical 2",
-        "High Velocity",
-        "Impact 2"
+        {
+          "ref": "keywords/critical_2"
+        },
+        {
+          "ref": "keywords/high_velocity"
+        },
+        {
+          "ref": "keywords/impact_2"
+        }
       ]
     }
   ],

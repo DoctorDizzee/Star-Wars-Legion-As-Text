@@ -1,0 +1,8 @@
+{
+  "name": "Retinue: Unit/unit Type",
+  "slug": "retinue_unit_unit_type",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "At the start of each Activation Phase, if a unit with the Retinue keyword is within 2 of another allied unit or unit type speci/f_ied by the Retinue keyword, the unit with the Retinue keyword gains either 1 Aim or 1 Dodge token. Additionally, a unit with the Retinue keyword ignores the m Rank requirement to provide Backup to the speci/f_ied unit.",
+  "description": "At the start of each Activation Phase, if a unit with the Retinue keyword is within 2 of another allied unit or unit type speci/f_ied by the Retinue keyword, the unit with the Retinue keyword gains either 1 Aim or 1 Dodge token. Additionally, a unit with the Retinue keyword ignores the m Rank requirement to provide Backup to the speci/f_ied unit."
+}

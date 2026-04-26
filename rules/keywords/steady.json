@@ -2,6 +2,7 @@
   "name": "Steady",
   "slug": "steady",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "After a unit that has the Steady keyword makes a Move action during its Activation, it may make a free Attack action. Only Ranged weapons can be added to Attack Pools during this Attack action.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "After a unit that has the Steady keyword makes a Move action during its Activation, it may make a free Attack action. Only Ranged weapons can be added to Attack Pools during this Attack action."
 }

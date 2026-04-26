@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Detachment: Special Forces Scout Troopers",
-    "Heavy Weapon Team",
-    "Incognito",
-    "Low Profile",
-    "Prepared Position"
+    {
+      "ref": "keywords/detachment_special_forces_scout_troopers"
+    },
+    {
+      "ref": "keywords/heavy_weapon_team"
+    },
+    {
+      "ref": "keywords/incognito"
+    },
+    {
+      "ref": "keywords/low_profile"
+    },
+    {
+      "ref": "keywords/prepared_position"
+    }
   ],
   "weapons": [
     {

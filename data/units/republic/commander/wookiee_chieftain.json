@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Agile 1",
-    "Charge",
-    "Duelist",
-    "Indomitable",
-    "Scale"
+    {
+      "ref": "keywords/agile_1"
+    },
+    {
+      "ref": "keywords/charge"
+    },
+    {
+      "ref": "keywords/duelist"
+    },
+    {
+      "ref": "keywords/indomitable"
+    },
+    {
+      "ref": "keywords/scale"
+    }
   ],
   "weapons": [
     {
@@ -46,8 +56,12 @@
         "black": 4
       },
       "keywords": [
-        "Impact 1",
-        "Pierce 1"
+        {
+          "ref": "keywords/impact_1"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     }
   ],

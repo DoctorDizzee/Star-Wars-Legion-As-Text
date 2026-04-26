@@ -16,29 +16,60 @@
     }
   },
   "keywords": [
-    "Mercenary: Galactic Empire, Separatist Alliance",
-    "Bounty",
-    "Enrage 3",
-    "Independent: Surge 2",
-    "Regenerate 3",
-    "Scale"
+    {
+      "ref": "keywords/mercenary_galactic_empire_separatist_alliance"
+    },
+    {
+      "ref": "keywords/bounty"
+    },
+    {
+      "ref": "keywords/enrage_3"
+    },
+    {
+      "ref": "keywords/independent_surge_2"
+    },
+    {
+      "ref": "keywords/regenerate_3"
+    },
+    {
+      "ref": "keywords/scale"
+    }
   ],
   "weapons": [
     {
       "name": "Frenzy",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 1, "black": 1, "white": 2 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 1,
+        "black": 1,
+        "white": 2
+      },
       "keywords": [
-        "Pierce 1"
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     },
     {
       "name": "Mortar Rifle",
-      "range": { "min": 2, "max": 4 },
-      "dice": { "red": 1, "black": 4 },
+      "range": {
+        "min": 2,
+        "max": 4
+      },
+      "dice": {
+        "red": 1,
+        "black": 4
+      },
       "keywords": [
-        "Pierce 1",
-        "Suppressive"
+        {
+          "ref": "keywords/pierce_1"
+        },
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     }
   ],

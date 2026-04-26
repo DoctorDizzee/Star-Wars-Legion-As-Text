@@ -1,0 +1,8 @@
+{
+  "name": "Blast",
+  "slug": "blast",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A defending unit cannot use light or heavy Cover during the Apply Dodge and Cover step to cancel hit a results produced by an Attack Pool that contains the Blast keyword.",
+  "description": "A defending unit cannot use light or heavy Cover during the Apply Dodge and Cover step to cancel hit a results produced by an Attack Pool that contains the Blast keyword."
+}

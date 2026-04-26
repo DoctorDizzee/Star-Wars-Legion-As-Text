@@ -1,0 +1,8 @@
+{
+  "name": "Small",
+  "slug": "small",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit that has 1 or more Counterpart miniatures with the Small keyword cannot be targeted with attacks if the attacking unit leader only has LOS to the Counterpart miniature with the Small keyword",
+  "description": "A unit that has 1 or more Counterpart miniatures with the Small keyword cannot be targeted with attacks if the attacking unit leader only has LOS to the Counterpart miniature with the Small keyword"
+}

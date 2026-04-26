@@ -2,6 +2,7 @@
   "name": "Infiltrate",
   "slug": "infiltrate",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the In/f_iltrate keyword starts its Activaiton, if it is undeployed, it may Deploy by placing the unit leader of that unit completely within allied Territory. Then the remaining miniatures in that unit are placed in Cohesion with their unit leader and completely within allied Territory. Miniatures cannot overlap impassable terrain when they are placed using In/f_iltrate.HUNTED During Setup, if 1 or more enemy units have the Bounty keyword, each unit with the Hunted keyword gains 1 Bounty token. I’M PART OF THE SQUAD TOO A unit with the I’m Part of the Squad Too keyword is Contesting an Objective token if its unit leader is within 1 of that Objective token instead of 7.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the In/f_iltrate keyword starts its Activaiton, if it is undeployed, it may Deploy by placing the unit leader of that unit completely within allied Territory. Then the remaining miniatures in that unit are placed in Cohesion with their unit leader and completely within allied Territory. Miniatures cannot overlap impassable terrain when they are placed using In/f_iltrate.HUNTED During Setup, if 1 or more enemy units have the Bounty keyword, each unit with the Hunted keyword gains 1 Bounty token. I’M PART OF THE SQUAD TOO A unit with the I’m Part of the Squad Too keyword is Contesting an Objective token if its unit leader is within 1 of that Objective token instead of 7."
 }

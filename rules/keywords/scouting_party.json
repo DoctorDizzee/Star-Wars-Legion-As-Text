@@ -1,0 +1,8 @@
+{
+  "name": "Scouting Party X",
+  "slug": "scouting_party",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "During Setup, each unit with the Scouting Party keyword may choose up to X allied Trooper units that do not have the Scout keyword that share the same Faction or Aﬃliation as the Scouting Party unit. Each chosen unit gains the Scout X keyword, where X is the Scout X value of the unit with the Scouting Party keyword.",
+  "description": "During Setup, each unit with the Scouting Party keyword may choose up to X allied Trooper units that do not have the Scout keyword that share the same Faction or Aﬃliation as the Scouting Party unit. Each chosen unit gains the Scout X keyword, where X is the Scout X value of the unit with the Scouting Party keyword."
+}

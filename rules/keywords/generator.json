@@ -1,0 +1,8 @@
+{
+  "name": "Generator X",
+  "slug": "generator",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "During the End Phase, a unit with the Generator X keyword may flip up to X inactive Shield tokens to their active side.",
+  "description": "During the End Phase, a unit with the Generator X keyword may flip up to X inactive Shield tokens to their active side."
+}

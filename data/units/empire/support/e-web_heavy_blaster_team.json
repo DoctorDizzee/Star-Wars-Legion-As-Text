@@ -16,9 +16,15 @@
     }
   },
   "keywords": [
-    "Prepared Position",
-    "Reposition",
-    "Sentinel"
+    {
+      "ref": "keywords/prepared_position"
+    },
+    {
+      "ref": "keywords/reposition"
+    },
+    {
+      "ref": "keywords/sentinel"
+    }
   ],
   "weapons": [
     {
@@ -55,9 +61,15 @@
         "white": 2
       },
       "keywords": [
-        "Cumbersome",
-        "Fixed: Front",
-        "Impact 1"
+        {
+          "ref": "keywords/cumbersome"
+        },
+        {
+          "ref": "keywords/fixed_front"
+        },
+        {
+          "ref": "keywords/impact_1"
+        }
       ]
     }
   ],

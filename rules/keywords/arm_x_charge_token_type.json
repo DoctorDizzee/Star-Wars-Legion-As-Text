@@ -1,0 +1,8 @@
+{
+  "name": "Arm X: Charge Token Type",
+  "slug": "arm_x_charge_token_type",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit that is equipped with a card that has the Arm X: Charge Token Type keyword can make the Arm X action. When a unit makes the Arm X action, the unit places X Charge tokens (Advantage) of the speci/f_ied type and matching its controlling player’s color completely within 1 and LOS of its unit leader. Charge tokens cannot overlap any Objective, Advantage, or other Charge tokens and must be placed on a flat surface.",
+  "description": "A unit that is equipped with a card that has the Arm X: Charge Token Type keyword can make the Arm X action. When a unit makes the Arm X action, the unit places X Charge tokens (Advantage) of the speci/f_ied type and matching its controlling player’s color completely within 1 and LOS of its unit leader. Charge tokens cannot overlap any Objective, Advantage, or other Charge tokens and must be placed on a flat surface."
+}

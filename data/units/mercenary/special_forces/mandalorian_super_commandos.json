@@ -16,22 +16,41 @@
     }
   },
   "keywords": [
-    "Jump 2",
-    "Defend 1",
-    "Impervious",
-    "Independent: Aim 1"
+    {
+      "ref": "keywords/jump_2"
+    },
+    {
+      "ref": "keywords/defend_1"
+    },
+    {
+      "ref": "keywords/impervious"
+    },
+    {
+      "ref": "keywords/independent_aim_1"
+    }
   ],
   "weapons": [
     {
       "name": "WESTAR-35 Blasters",
-      "range": { "min": 0, "max": 2 },
-      "dice": { "black": 2 },
+      "range": {
+        "min": 0,
+        "max": 2
+      },
+      "dice": {
+        "black": 2
+      },
       "keywords": []
     },
     {
       "name": "Blaster Carbines",
-      "range": { "min": 1, "max": 3 },
-      "dice": { "white": 1, "black": 1 },
+      "range": {
+        "min": 1,
+        "max": 3
+      },
+      "dice": {
+        "white": 1,
+        "black": 1
+      },
       "keywords": []
     }
   ],

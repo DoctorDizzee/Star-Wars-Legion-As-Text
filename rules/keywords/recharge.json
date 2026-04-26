@@ -1,0 +1,8 @@
+{
+  "name": "Recharge X",
+  "slug": "recharge",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Recharge X keyword makes a Recover action, it may flip up to X inactive Shield tokens from their inactive side to their active side.",
+  "description": "When a unit with the Recharge X keyword makes a Recover action, it may flip up to X inactive Shield tokens from their inactive side to their active side."
+}

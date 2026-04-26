@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Armor 1",
-    "Relentless",
-    "Reposition",
-    "Spur",
-    "Unhindered"
+    {
+      "ref": "keywords/armor_1"
+    },
+    {
+      "ref": "keywords/relentless"
+    },
+    {
+      "ref": "keywords/reposition"
+    },
+    {
+      "ref": "keywords/spur"
+    },
+    {
+      "ref": "keywords/unhindered"
+    }
   ],
   "weapons": [
     {
@@ -34,8 +44,12 @@
         "white": 3
       },
       "keywords": [
-        "Critical 2",
-        "Suppressive"
+        {
+          "ref": "keywords/critical_2"
+        },
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     }
   ],

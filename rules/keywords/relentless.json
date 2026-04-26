@@ -2,6 +2,7 @@
   "name": "Relentless",
   "slug": "relentless",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "After a unit that has the Relentless keyword makes a Move action during its Activation, it may make a free Attack action.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "After a unit that has the Relentless keyword makes a Move action during its Activation, it may make a free Attack action."
 }

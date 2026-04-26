@@ -16,35 +16,72 @@
     }
   },
   "keywords": [
-    "Mercenary: Galactic Empire",
-    "Armor 1",
-    "Arsenal 2",
-    "Bounty",
-    "Impervious",
-    "Sharpshooter 1"
+    {
+      "ref": "keywords/mercenary_galactic_empire"
+    },
+    {
+      "ref": "keywords/armor_1"
+    },
+    {
+      "ref": "keywords/arsenal_2"
+    },
+    {
+      "ref": "keywords/bounty"
+    },
+    {
+      "ref": "keywords/impervious"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    }
   ],
   "weapons": [
     {
       "name": "Vibrocleaver",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 1, "white": 1, "black": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 1,
+        "white": 1,
+        "black": 1
+      },
       "keywords": [
-        "Pierce 1"
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     },
     {
       "name": "Modified E-11 Blaster",
-      "range": { "min": 1, "max": 3 },
-      "dice": { "white": 2, "black": 1 },
+      "range": {
+        "min": 1,
+        "max": 3
+      },
+      "dice": {
+        "white": 2,
+        "black": 1
+      },
       "keywords": [
-        "Pierce 1",
-        "Versatile"
+        {
+          "ref": "keywords/pierce_1"
+        },
+        {
+          "ref": "keywords/versatile"
+        }
       ]
     },
     {
       "name": "Modified DLT-20A",
-      "range": { "min": 1, "max": 4 },
-      "dice": { "white": 1, "black": 2 },
+      "range": {
+        "min": 1,
+        "max": 4
+      },
+      "dice": {
+        "white": 1,
+        "black": 2
+      },
       "keywords": []
     }
   ],

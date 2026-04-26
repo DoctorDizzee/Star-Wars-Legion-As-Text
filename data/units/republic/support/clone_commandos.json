@@ -16,12 +16,24 @@
     }
   },
   "keywords": [
-    "Complete the Mission",
-    "Equip: Katarn Pattern Armor",
-    "Infiltrate",
-    "Recharge 1",
-    "Shielded 1",
-    "Target 1"
+    {
+      "ref": "keywords/complete_the_mission"
+    },
+    {
+      "ref": "keywords/equip_katarn_pattern_armor"
+    },
+    {
+      "ref": "keywords/infiltrate"
+    },
+    {
+      "ref": "keywords/recharge_1"
+    },
+    {
+      "ref": "keywords/shielded_1"
+    },
+    {
+      "ref": "keywords/target_1"
+    }
   ],
   "weapons": [
     {
@@ -46,7 +58,9 @@
         "white": 1
       },
       "keywords": [
-        "Suppressive"
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     }
   ],

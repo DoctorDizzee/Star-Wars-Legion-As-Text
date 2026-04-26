@@ -16,24 +16,47 @@
     }
   },
   "keywords": [
-    "AI: Dodge, Move",
-    "Charge",
-    "Guardian 2: Commander",
-    "Immune: Melee Pierce",
-    "Retinue: Commander",
-    "Unhindered"
+    {
+      "ref": "keywords/ai_dodge_move"
+    },
+    {
+      "ref": "keywords/charge"
+    },
+    {
+      "ref": "keywords/guardian_2_commander"
+    },
+    {
+      "ref": "keywords/immune_melee_pierce"
+    },
+    {
+      "ref": "keywords/retinue_commander"
+    },
+    {
+      "ref": "keywords/unhindered"
+    }
   ],
   "weapons": [
     {
       "name": "Electrostaff",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 2 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 2
+      },
       "keywords": []
     },
     {
       "name": "Precision Laser Dart",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 1, "white": 1 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 1,
+        "white": 1
+      },
       "keywords": []
     }
   ],

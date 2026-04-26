@@ -2,6 +2,7 @@
   "name": "Sentinel",
   "slug": "sentinel",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "A unit with the Sentinel keyword can spend a Standby token after an enemy unit makes an attack, Move, or action within 3, rather than within 2.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit with the Sentinel keyword can spend a Standby token after an enemy unit makes an attack, Move, or action within 3, rather than within 2."
 }

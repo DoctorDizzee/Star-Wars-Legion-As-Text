@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Quick Thinking",
-    "Infiltrate",
-    "Marksman",
-    "Nimble",
-    "Sharpshooter 1"
+    {
+      "ref": "keywords/quick_thinking"
+    },
+    {
+      "ref": "keywords/infiltrate"
+    },
+    {
+      "ref": "keywords/marksman"
+    },
+    {
+      "ref": "keywords/nimble"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    }
   ],
   "weapons": [
     {
@@ -44,8 +54,12 @@
         "black": 2
       },
       "keywords": [
-        "High Velocity",
-        "Pierce 1"
+        {
+          "ref": "keywords/high_velocity"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     },
     {
@@ -60,8 +74,12 @@
         "white": 1
       },
       "keywords": [
-        "Critical 1",
-        "Impact 1"
+        {
+          "ref": "keywords/critical_1"
+        },
+        {
+          "ref": "keywords/impact_1"
+        }
       ]
     }
   ],

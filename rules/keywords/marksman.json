@@ -2,6 +2,7 @@
   "name": "Marksman",
   "slug": "marksman",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "A unit with the Marksman keyword may spend any number of Aim tokens after converting attack surges during the Convert Attack Surges step. For each Aim token spent in this way, instead of rerolling dice, change 1 Blank result to a a result, 1 a result to a b result, or spend 2 Aim tokens to change 1 Blank result to a b result.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit with the Marksman keyword may spend any number of Aim tokens after converting attack surges during the Convert Attack Surges step. For each Aim token spent in this way, instead of rerolling dice, change 1 Blank result to a a result, 1 a result to a b result, or spend 2 Aim tokens to change 1 Blank result to a b result."
 }

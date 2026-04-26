@@ -28,17 +28,6 @@ FACTION_ALIAS = {
 def faction_slug(faction):
     return FACTION_ALIAS.get(faction, slug(faction))
 
-keyword_names = set()
-for p in unit_paths:
-    data = json.loads(p.read_text(encoding='utf-8'))
-    for kw in data.get('keywords', []):
-        if isinstance(kw, dict) and kw.get('name') is not None:
-            keyword_names.add(kw['name'])
-    for w in data.get('weapons', []):
-        for kw in w.get('keywords', []):
-            if isinstance(kw, dict) and kw.get('name') is not None:
-                keyword_names.add(kw['name'])
-
 keyword_defs = {
     'deflect': {
         'name': 'Deflect',
@@ -72,29 +61,24 @@ keyword_defs = {
 rules_dir = base / 'rules' / 'keywords'
 rules_dir.mkdir(parents=True, exist_ok=True)
 
-for name in sorted(keyword_names):
-    s = slug(name)
-    if s in keyword_defs:
-        definition = keyword_defs[s]
-    else:
-        definition = {
-            'name': name,
-            'slug': s,
-            'type': 'Keyword',
-            'description': 'Placeholder keyword definition. Add official rules text and AI processing logic.',
-            'source': 'Unit dataset cross-reference'
-        }
-    (rules_dir / f'{s}.json').write_text(json.dumps(definition, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
-
 
 def convert_kw(kw):
-    if not isinstance(kw, dict) or kw.get('name') is None:
+    if isinstance(kw, dict):
+        if 'ref' in kw:
+            return kw
+        if kw.get('name') is not None:
+            ref = f"keywords/{slug(kw['name'])}"
+            new_kw = {'ref': ref}
+            if 'value' in kw:
+                new_kw['value'] = kw['value']
+            return new_kw
         return kw
-    ref = f"keywords/{slug(kw['name'])}"
-    new_kw = {'ref': ref}
-    if 'value' in kw:
-        new_kw['value'] = kw['value']
-    return new_kw
+
+    if isinstance(kw, str):
+        ref = f"keywords/{slug(kw)}"
+        return {'ref': ref}
+
+    return kw
 
 for p in unit_paths:
     data = json.loads(p.read_text(encoding='utf-8'))
@@ -103,20 +87,58 @@ for p in unit_paths:
         w['keywords'] = [convert_kw(kw) for kw in w.get('keywords', [])]
     p.write_text(json.dumps(data, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
 
+keyword_slugs = set()
+for p in unit_paths:
+    data = json.loads(p.read_text(encoding='utf-8'))
+    for kw in data.get('keywords', []):
+        if isinstance(kw, dict) and 'ref' in kw:
+            keyword_slugs.add(kw['ref'].split('/', 1)[1])
+        elif isinstance(kw, str):
+            keyword_slugs.add(slug(kw))
+    for w in data.get('weapons', []):
+        for kw in w.get('keywords', []):
+            if isinstance(kw, dict) and 'ref' in kw:
+                keyword_slugs.add(kw['ref'].split('/', 1)[1])
+            elif isinstance(kw, str):
+                keyword_slugs.add(slug(kw))
+
+new_keyword_count = 0
+for s in sorted(keyword_slugs):
+    path = rules_dir / f'{s}.json'
+    if path.exists():
+        continue
+    if s in keyword_defs:
+        definition = keyword_defs[s]
+    else:
+        definition = {
+            'name': s.replace('_', ' ').title(),
+            'slug': s,
+            'type': 'Keyword',
+            'description': 'Placeholder keyword definition. Add official rules text and AI processing logic.',
+            'source': 'Unit dataset cross-reference'
+        }
+    path.write_text(json.dumps(definition, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+    new_keyword_count += 1
+
 
 def get_points_for_unit(data, uid):
     points_units = points_master.get('units', {})
     if uid in points_units:
         return points_units[uid]
 
-    stable_key = f"{faction_slug(data['faction'])}/{slug(data['name'])}"
+    faction = data.get('faction')
+    name = data.get('name')
+    if not faction or not name:
+        return None
+
+    stable_key = f"{faction_slug(faction)}/{slug(name)}"
     title = data.get('title')
     if title and title != 'None':
         stable_key += f"/{slug(title)}"
     if stable_key in points_units:
         return points_units[stable_key]
 
-    unit_key = data['name']
+    unit_key = name
     if title and title != 'None':
         unit_key += f" ({title})"
     return points_units.get(unit_key)
@@ -134,6 +156,6 @@ for p in unit_paths:
 compiled_path = base / 'compiled' / 'all_units.json'
 compiled_path.write_text(json.dumps(compiled, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
 
-print('wrote', len(keyword_names), 'keyword json files')
+print('wrote', new_keyword_count, 'new keyword json files')
 print('rewrote', len(unit_paths), 'unit json files')
 print('wrote compiled file', compiled_path)

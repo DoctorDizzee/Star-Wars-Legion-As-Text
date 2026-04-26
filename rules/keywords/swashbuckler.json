@@ -1,0 +1,8 @@
+{
+  "name": "Swashbuckler",
+  "slug": "swashbuckler",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Swashbuckler keyword spends 1 or more Aim tokens during an Attack action, after the effect is resolved, it gains 1 Dodge token.",
+  "description": "When a unit with the Swashbuckler keyword spends 1 or more Aim tokens during an Attack action, after the effect is resolved, it gains 1 Dodge token."
+}

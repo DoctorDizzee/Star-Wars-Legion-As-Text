@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Spotter 1",
-    "Compel",
-    "Cunning",
-    "Entourage: Imperial Death Troopers",
-    "Exemplar"
+    {
+      "ref": "keywords/spotter_1"
+    },
+    {
+      "ref": "keywords/compel"
+    },
+    {
+      "ref": "keywords/cunning"
+    },
+    {
+      "ref": "keywords/entourage_imperial_death_troopers"
+    },
+    {
+      "ref": "keywords/exemplar"
+    }
   ],
   "weapons": [
     {

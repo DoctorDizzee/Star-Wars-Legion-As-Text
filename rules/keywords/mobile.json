@@ -1,0 +1,8 @@
+{
+  "name": "Mobile",
+  "slug": "mobile",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit on notched bases with the Mobile keyword makes a move, it skips step 1 of the notched base movement section, rotating the unit leader's base. A unit with the Mobile keyword must make a free compulsory Move action at the start or end of its Make Actions step. A unit with the Mobile keyword cannot make Reverse Moves. INSPIRE X When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2.",
+  "description": "When a unit on notched bases with the Mobile keyword makes a move, it skips step 1 of the notched base movement section, rotating the unit leader's base. A unit with the Mobile keyword must make a free compulsory Move action at the start or end of its Make Actions step. A unit with the Mobile keyword cannot make Reverse Moves. INSPIRE X When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2."
+}

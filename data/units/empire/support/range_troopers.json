@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Advanced Targeting: Trooper 1",
-    "Armor 1",
-    "Indomitable",
-    "Scale",
-    "Spur"
+    {
+      "ref": "keywords/advanced_targeting_trooper_1"
+    },
+    {
+      "ref": "keywords/armor_1"
+    },
+    {
+      "ref": "keywords/indomitable"
+    },
+    {
+      "ref": "keywords/scale"
+    },
+    {
+      "ref": "keywords/spur"
+    }
   ],
   "weapons": [
     {

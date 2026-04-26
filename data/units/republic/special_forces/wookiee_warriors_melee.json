@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Charge",
-    "Duelist",
-    "Indomitable",
-    "Scale"
+    {
+      "ref": "keywords/charge"
+    },
+    {
+      "ref": "keywords/duelist"
+    },
+    {
+      "ref": "keywords/indomitable"
+    },
+    {
+      "ref": "keywords/scale"
+    }
   ],
   "weapons": [
     {

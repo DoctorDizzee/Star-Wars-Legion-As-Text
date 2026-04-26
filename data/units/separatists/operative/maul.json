@@ -16,19 +16,37 @@
     }
   },
   "keywords": [
-    "Jump 1",
-    "Deflect",
-    "Immune: Pierce",
-    "Juyo Mastery"
+    {
+      "ref": "keywords/jump_1"
+    },
+    {
+      "ref": "keywords/deflect"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    },
+    {
+      "ref": "keywords/juyo_mastery"
+    }
   ],
   "weapons": [
     {
       "name": "Maul's Lightsaber",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 4, "white": 4 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 4,
+        "white": 4
+      },
       "keywords": [
-        "Impact 2",
-        "Pierce 2"
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_2"
+        }
       ]
     }
   ],

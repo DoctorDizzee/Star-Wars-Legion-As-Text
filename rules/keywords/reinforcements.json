@@ -1,0 +1,8 @@
+{
+  "name": "Reinforcements",
+  "slug": "reinforcements",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "At the start of the End Phase of the first Round, a Unit with the Reinforcements keyword may make a Speed-1 Move.If a unit with the Mobile keyword makes more than 1 non-compulsory Move action during its Activation, it may not claim Asset tokens that Activation. Additionally, a unit with the Mobile keyword that has claimed an Asset token can make only 1 non-compulsory Move action during its Activation.",
+  "description": "At the start of the End Phase of the first Round, a Unit with the Reinforcements keyword may make a Speed-1 Move.If a unit with the Mobile keyword makes more than 1 non-compulsory Move action during its Activation, it may not claim Asset tokens that Activation. Additionally, a unit with the Mobile keyword that has claimed an Asset token can make only 1 non-compulsory Move action during its Activation."
+}

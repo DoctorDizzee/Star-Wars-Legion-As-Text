@@ -16,9 +16,15 @@
     }
   },
   "keywords": [
-    "Infiltrate",
-    "Marksman",
-    "Reliable 1"
+    {
+      "ref": "keywords/infiltrate"
+    },
+    {
+      "ref": "keywords/marksman"
+    },
+    {
+      "ref": "keywords/reliable_1"
+    }
   ],
   "weapons": [
     {

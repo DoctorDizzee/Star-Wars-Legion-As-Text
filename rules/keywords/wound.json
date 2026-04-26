@@ -1,0 +1,8 @@
+{
+  "name": "Wound X",
+  "slug": "wound",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "The first time a unit with the Wound X keyword enters play, that unit suffers X Wounds.",
+  "description": "The first time a unit with the Wound X keyword enters play, that unit suffers X Wounds."
+}

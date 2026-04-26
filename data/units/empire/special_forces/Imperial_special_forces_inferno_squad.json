@@ -16,11 +16,21 @@
     }
   },
   "keywords": [
-    "Equip: Del Meeko, Gideon Hask",
-    "Infiltrate",
-    "Marksman",
-    "Reliable 1",
-    "Retinue: Iden Versio"
+    {
+      "ref": "keywords/equip_del_meeko_gideon_hask"
+    },
+    {
+      "ref": "keywords/infiltrate"
+    },
+    {
+      "ref": "keywords/marksman"
+    },
+    {
+      "ref": "keywords/reliable_1"
+    },
+    {
+      "ref": "keywords/retinue_iden_versio"
+    }
   ],
   "weapons": [
     {

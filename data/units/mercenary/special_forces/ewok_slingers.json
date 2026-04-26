@@ -16,25 +16,47 @@
     }
   },
   "keywords": [
-    "Mercenary: Rebel Alliance",
-    "Independent: Surge 1",
-    "Low Profile",
-    "Target 1",
-    "Unhindered"
+    {
+      "ref": "keywords/mercenary_rebel_alliance"
+    },
+    {
+      "ref": "keywords/independent_surge_1"
+    },
+    {
+      "ref": "keywords/low_profile"
+    },
+    {
+      "ref": "keywords/target_1"
+    },
+    {
+      "ref": "keywords/unhindered"
+    }
   ],
   "weapons": [
     {
       "name": "Stones",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "white": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "white": 1
+      },
       "keywords": []
     },
     {
       "name": "Slings",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "white": 1 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "white": 1
+      },
       "keywords": [
-        "Primitive"
+        {
+          "ref": "keywords/primitive"
+        }
       ]
     }
   ],

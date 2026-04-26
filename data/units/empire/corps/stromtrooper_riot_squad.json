@@ -16,8 +16,12 @@
     }
   },
   "keywords": [
-    "Charge",
-    "Hold the Line"
+    {
+      "ref": "keywords/charge"
+    },
+    {
+      "ref": "keywords/hold_the_line"
+    }
   ],
   "weapons": [
     {
@@ -30,7 +34,9 @@
         "black": 1
       },
       "keywords": [
-        "Suppressive"
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     },
     {

@@ -16,27 +16,53 @@
     }
   },
   "keywords": [
-    "Jump 1",
-    "Mercenary: Galactic Empire, Separatist Alliance",
-    "Bounty",
-    "Danger Sense 3",
-    "Independent: Dodge 2",
-    "Sharpshooter 1",
-    "Steady"
+    {
+      "ref": "keywords/jump_1"
+    },
+    {
+      "ref": "keywords/mercenary_galactic_empire_separatist_alliance"
+    },
+    {
+      "ref": "keywords/bounty"
+    },
+    {
+      "ref": "keywords/danger_sense_3"
+    },
+    {
+      "ref": "keywords/independent_dodge_2"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    },
+    {
+      "ref": "keywords/steady"
+    }
   ],
   "weapons": [
     {
       "name": "Martial Arts",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "black": 3 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "black": 3
+      },
       "keywords": []
     },
     {
       "name": "LL-30 Blaster Pistols",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 4 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 4
+      },
       "keywords": [
-        "Pierce 1"
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     }
   ],

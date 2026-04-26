@@ -16,31 +16,64 @@
     }
   },
   "keywords": [
-    "Mercenary: Rebel Alliance",
-    "Independent: Dodge 1",
-    "Low Profile",
-    "Nimble",
-    "Relentless",
-    "Scout 1",
-    "Scouting Party 2",
-    "Unhindered"
+    {
+      "ref": "keywords/mercenary_rebel_alliance"
+    },
+    {
+      "ref": "keywords/independent_dodge_1"
+    },
+    {
+      "ref": "keywords/low_profile"
+    },
+    {
+      "ref": "keywords/nimble"
+    },
+    {
+      "ref": "keywords/relentless"
+    },
+    {
+      "ref": "keywords/scout_1"
+    },
+    {
+      "ref": "keywords/scouting_party_2"
+    },
+    {
+      "ref": "keywords/unhindered"
+    }
   ],
   "weapons": [
     {
       "name": "Spear",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 2, "black": 1 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 2,
+        "black": 1
+      },
       "keywords": [
-        "Pierce 1"
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     },
     {
       "name": "Sling",
-      "range": { "min": 1, "max": 2 },
-      "dice": { "black": 1 },
+      "range": {
+        "min": 1,
+        "max": 2
+      },
+      "dice": {
+        "black": 1
+      },
       "keywords": [
-        "Pierce 1",
-        "Primitive"
+        {
+          "ref": "keywords/pierce_1"
+        },
+        {
+          "ref": "keywords/primitive"
+        }
       ]
     }
   ],

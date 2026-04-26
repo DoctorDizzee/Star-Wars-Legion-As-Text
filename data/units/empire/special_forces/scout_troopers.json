@@ -16,9 +16,15 @@
     }
   },
   "keywords": [
-    "Low Profile",
-    "Scout 3",
-    "Sharpshooter 1"
+    {
+      "ref": "keywords/low_profile"
+    },
+    {
+      "ref": "keywords/scout_3"
+    },
+    {
+      "ref": "keywords/sharpshooter_1"
+    }
   ],
   "weapons": [
     {

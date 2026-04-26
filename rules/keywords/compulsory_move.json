@@ -1,0 +1,8 @@
+{
+  "name": "Compulsory Move",
+  "slug": "compulsory_move",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A compulsory Move is a free Move action. To make a compulsory Move, the unit makes a full Standard  Move at its Speed. If it cannot do so, or if a full Move would cause any part of the unit leader’s base to be outside the battle/f_ield, it can make a partial Move instead, ending its movement as far along the Movement Tool as possible.",
+  "description": "A compulsory Move is a free Move action. To make a compulsory Move, the unit makes a full Standard  Move at its Speed. If it cannot do so, or if a full Move would cause any part of the unit leader’s base to be outside the battle/f_ield, it can make a partial Move instead, ending its movement as far along the Movement Tool as possible."
+}

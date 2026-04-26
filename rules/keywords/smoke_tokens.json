@@ -1,0 +1,8 @@
+{
+  "name": "Smoke Tokens",
+  "slug": "smoke_tokens",
+  "type": "Keyword",
+  "source": "Rulebook PDF",
+  "official_rules_text": "Trooper units whose unit leader is within 1 of a Smoke token improve the numerical value of their Cover by 1 during the Determine Cover step. While a Trooper unit is attacking, if the attacking unit leader is within 1 of a Smoke token, the defending unit improves the numerical value of its Cover by 1. Effects that improve a unit’s Cover are cumulative. A unit cannot be affected by the same Smoke token more than once. Smoke tokens are removed during the Remove Tokens step of the End Phase. For example, a Trooper unit whose unit leader is within 1 of 2 Smoke tokens would improve the numerical value of its Cover by 2.",
+  "description": "Trooper units whose unit leader is within 1 of a Smoke token improve the numerical value of their Cover by 1 during the Determine Cover step. While a Trooper unit is attacking, if the attacking unit leader is within 1 of a Smoke token, the defending unit improves the numerical value of its Cover by 1. Effects that improve a unit’s Cover are cumulative. A unit cannot be affected by the same Smoke token more than once. Smoke tokens are removed during the Remove Tokens step of the End Phase. For example, a Trooper unit whose unit leader is within 1 of 2 Smoke tokens would improve the numerical value of its Cover by 2."
+}

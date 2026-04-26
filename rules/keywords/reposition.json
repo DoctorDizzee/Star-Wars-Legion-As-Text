@@ -2,6 +2,7 @@
   "name": "Reposition",
   "slug": "reposition",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When a unit with the Reposition keyword makes a Standard Move, it may make a Pivot either before or after making that Standard Move.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When a unit with the Reposition keyword makes a Standard Move, it may make a Pivot either before or after making that Standard Move."
 }

@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Enrage 4",
-    "Guardian 2: Commander",
-    "Reliable 2",
-    "Scale"
+    {
+      "ref": "keywords/enrage_4"
+    },
+    {
+      "ref": "keywords/guardian_2_commander"
+    },
+    {
+      "ref": "keywords/reliable_2"
+    },
+    {
+      "ref": "keywords/scale"
+    }
   ],
   "weapons": [
     {
@@ -32,7 +40,9 @@
         "red": 4
       },
       "keywords": [
-        "Lethal 1"
+        {
+          "ref": "keywords/lethal_1"
+        }
       ]
     },
     {
@@ -46,9 +56,15 @@
         "white": 2
       },
       "keywords": [
-        "Critical 1",
-        "Impact 1",
-        "Pierce 1"
+        {
+          "ref": "keywords/critical_1"
+        },
+        {
+          "ref": "keywords/impact_1"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        }
       ]
     }
   ],

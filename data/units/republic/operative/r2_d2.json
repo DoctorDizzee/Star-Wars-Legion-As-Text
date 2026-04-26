@@ -16,10 +16,18 @@
     }
   },
   "keywords": [
-    "Repair 2: Capacity 2",
-    "Inconspicuous",
-    "Infiltrate",
-    "Secret Mission"
+    {
+      "ref": "keywords/repair_2_capacity_2"
+    },
+    {
+      "ref": "keywords/inconspicuous"
+    },
+    {
+      "ref": "keywords/infiltrate"
+    },
+    {
+      "ref": "keywords/secret_mission"
+    }
   ],
   "weapons": [
     {
@@ -32,7 +40,9 @@
         "black": 3
       },
       "keywords": [
-        "Suppressive"
+        {
+          "ref": "keywords/suppressive"
+        }
       ]
     }
   ],

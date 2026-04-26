@@ -2,6 +2,7 @@
   "name": "Scout",
   "slug": "scout",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "When an undeployed unit with the Scout X keyword activates, at the start of its Make Actions step, it may Deploy by making a free Speed-X Move action, ignoring diﬃcult terrain. A unit can make this Move regardless of its Speed. The Scout X keyword is cumulative but cannot exceed 3. If a unit would ever have Scout X exceeding Scout 3, it has Scout 3 instead.55Mastery is using the Guardian X keyword, it may spend 1 Dodge token before converting any e results. If it does, it rerolls all its defense dice before converting e results. Each die cannot be rerolled more than once using Soresu Mastery.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "When an undeployed unit with the Scout X keyword activates, at the start of its Make Actions step, it may Deploy by making a free Speed-X Move action, ignoring diﬃcult terrain. A unit can make this Move regardless of its Speed. The Scout X keyword is cumulative but cannot exceed 3. If a unit would ever have Scout X exceeding Scout 3, it has Scout 3 instead.55Mastery is using the Guardian X keyword, it may spend 1 Dodge token before converting any e results. If it does, it rerolls all its defense dice before converting e results. Each die cannot be rerolled more than once using Soresu Mastery."
 }

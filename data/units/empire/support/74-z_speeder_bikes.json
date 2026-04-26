@@ -16,8 +16,12 @@
     }
   },
   "keywords": [
-    "Cover 1",
-    "Speeder 1"
+    {
+      "ref": "keywords/cover_1"
+    },
+    {
+      "ref": "keywords/speeder_1"
+    }
   ],
   "weapons": [
     {
@@ -43,8 +47,12 @@
         "white": 1
       },
       "keywords": [
-        "Fixed: Front",
-        "Impact 1"
+        {
+          "ref": "keywords/fixed_front"
+        },
+        {
+          "ref": "keywords/impact_1"
+        }
       ]
     }
   ],

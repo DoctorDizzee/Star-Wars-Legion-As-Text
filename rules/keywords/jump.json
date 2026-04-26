@@ -2,6 +2,7 @@
   "name": "Jump",
   "slug": "jump",
   "type": "Keyword",
-  "description": "Placeholder keyword definition. Add official rules text and AI processing logic.",
-  "source": "Unit dataset cross-reference"
+  "description": "A unit that has the Jump X keyword can make the Jump X Card action any time it could make a Move action. The unit makes a Move action as normal and can ignore or end its movement on top of terrain that is height X or lower. While making a Move with the Jump X action, a unit ignores the effects of diﬃcult terrain and other miniatures with a height equal to or lower than X. When making a Move with the Jump X action, a unit may place the Movement Tool overlapping impassable terrain but may not end its Move overlapping it. When a unit makes the Jump X action, measure height from that unit’s starting position.",
+  "source": "Rulebook PDF",
+  "official_rules_text": "A unit that has the Jump X keyword can make the Jump X Card action any time it could make a Move action. The unit makes a Move action as normal and can ignore or end its movement on top of terrain that is height X or lower. While making a Move with the Jump X action, a unit ignores the effects of diﬃcult terrain and other miniatures with a height equal to or lower than X. When making a Move with the Jump X action, a unit may place the Movement Tool overlapping impassable terrain but may not end its Move overlapping it. When a unit makes the Jump X action, measure height from that unit’s starting position."
 }

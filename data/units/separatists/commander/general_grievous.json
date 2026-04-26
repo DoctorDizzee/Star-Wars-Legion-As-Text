@@ -16,32 +16,69 @@
     }
   },
   "keywords": [
-    "Block",
-    "Entourage: IG-100 MagnaGuard",
-    "Immune: Pierce",
-    "Jedi Hunter",
-    "Relentless",
-    "Scale"
+    {
+      "ref": "keywords/block"
+    },
+    {
+      "ref": "keywords/entourage_ig_100_magnaguard"
+    },
+    {
+      "ref": "keywords/immune_pierce"
+    },
+    {
+      "ref": "keywords/jedi_hunter"
+    },
+    {
+      "ref": "keywords/relentless"
+    },
+    {
+      "ref": "keywords/scale"
+    }
   ],
   "weapons": [
     {
       "name": "Trophy Lightsabers",
-      "range": { "min": 0, "max": 0 },
-      "dice": { "red": 2, "black": 2, "white": 4 },
+      "range": {
+        "min": 0,
+        "max": 0
+      },
+      "dice": {
+        "red": 2,
+        "black": 2,
+        "white": 4
+      },
       "keywords": [
-        "Critical 1",
-        "Impact 2",
-        "Pierce 2"
+        {
+          "ref": "keywords/critical_1"
+        },
+        {
+          "ref": "keywords/impact_2"
+        },
+        {
+          "ref": "keywords/pierce_2"
+        }
       ]
     },
     {
       "name": "DT-57 \"Annihilator\"",
-      "range": { "min": 0, "max": 2 },
-      "dice": { "black": 2, "white": 2 },
+      "range": {
+        "min": 0,
+        "max": 2
+      },
+      "dice": {
+        "black": 2,
+        "white": 2
+      },
       "keywords": [
-        "Critical 1",
-        "Pierce 1",
-        "Versatile"
+        {
+          "ref": "keywords/critical_1"
+        },
+        {
+          "ref": "keywords/pierce_1"
+        },
+        {
+          "ref": "keywords/versatile"
+        }
       ]
     }
   ],
