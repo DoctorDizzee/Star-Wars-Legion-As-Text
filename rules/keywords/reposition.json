@@ -3,6 +3,5 @@
   "slug": "reposition",
   "type": "Keyword",
   "description": "When a unit with the Reposition keyword makes a Standard Move, it may make a Pivot either before or after making that Standard Move.",
-  "source": "Rulebook PDF",
   "official_rules_text": "When a unit with the Reposition keyword makes a Standard Move, it may make a Pivot either before or after making that Standard Move."
 }

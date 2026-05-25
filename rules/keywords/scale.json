@@ -3,6 +3,5 @@
   "slug": "scale",
   "type": "Keyword",
   "description": "When a unit with the Scale keyword makes a Climb, it may Move a vertical distance up to height 2. When a unit that has the Scale keyword makes a Move, it does not reduce its Speed for moving out of, into, or through diﬃcult terrain.",
-  "source": "Rulebook PDF",
   "official_rules_text": "When a unit with the Scale keyword makes a Climb, it may Move a vertical distance up to height 2. When a unit that has the Scale keyword makes a Move, it does not reduce its Speed for moving out of, into, or through diﬃcult terrain."
 }

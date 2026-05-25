@@ -3,6 +3,5 @@
   "slug": "immune",
   "type": "Keyword",
   "description": "While a unit with the Immune: Blast keyword is defending, the effects of the Blast keyword are ignored.",
-  "source": "Rulebook PDF",
   "official_rules_text": "While a unit with the Immune: Blast keyword is defending, the effects of the Blast keyword are ignored."
 }

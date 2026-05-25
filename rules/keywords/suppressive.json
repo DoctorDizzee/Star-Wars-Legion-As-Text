@@ -3,6 +3,5 @@
   "slug": "suppressive",
   "type": "Keyword",
   "description": "When a unit defends against an Attack Pool that has Suppressive, it gains 1 additional Suppression token during the Assign Suppression Token to Defender step.",
-  "source": "Rulebook PDF",
   "official_rules_text": "When a unit defends against an Attack Pool that has Suppressive, it gains 1 additional Suppression token during the Assign Suppression Token to Defender step."
 }

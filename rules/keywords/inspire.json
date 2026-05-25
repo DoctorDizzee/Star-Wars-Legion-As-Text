@@ -3,6 +3,5 @@
   "slug": "inspire",
   "type": "Keyword",
   "description": "When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2.",
-  "official_rules_text": "When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2.",
-  "source": "Rulebook PDF"
+  "official_rules_text": "When a unit with the Inspire X keyword ends its Activation, remove up to X total Suppression tokens from other allied units within 2."
 }

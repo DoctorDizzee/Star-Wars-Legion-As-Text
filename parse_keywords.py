@@ -70,6 +70,16 @@ def is_heading(line: str) -> bool:
     return bool(re.match(r'^[A-Z0-9 :/()\-]+$', line) and len(line) > 3)
 
 
+def normalize_numbered_title(title: str) -> str:
+    """Convert numbered keywords like 'ARMOR 1' to 'ARMOR X'
+    Also handles 'WEAK POINT # LOCATION' -> 'WEAK POINT X LOCATION'"""
+    # Handle "WEAK POINT # LOCATION" patterns
+    title = re.sub(r'^WEAK POINT \d+ ', 'WEAK POINT X ', title)
+    # Handle general "KEYWORD #" patterns at end
+    title = re.sub(r' \d+$', ' X', title)
+    return title
+
+
 def normalize_slug(title: str) -> str:
     title = title.strip()
     if title.endswith(' X'):
@@ -129,7 +139,7 @@ def parse_keywords(text: str) -> dict:
             if current_keyword:
                 if current_keyword not in IGNORED_HEADINGS:
                     keywords[current_keyword] = ' '.join(current_description).strip()
-            current_keyword = line.rstrip(':').strip()
+            current_keyword = normalize_numbered_title(line.rstrip(':').strip())
             current_description = []
         elif current_keyword:
             current_description.append(line)
@@ -163,19 +173,17 @@ def write_keyword_defs(keywords: dict):
                 'name': humanize_title(title),
                 'slug': slug_name,
                 'type': guess_type(description),
-                'source': 'Rulebook PDF',
             }
-        if not data.get('official_rules_text') or data.get('official_rules_text', '').startswith('Placeholder'):
-            data['official_rules_text'] = description
-        if not data.get('description') or data.get('description', '').startswith('Placeholder'):
-            data['description'] = description
+        # Always update with parsed content from rulebook
+        data['official_rules_text'] = description
+        data['description'] = description
         if 'type' not in data or not data['type']:
             data['type'] = guess_type(description)
-        if 'source' not in data or data['source'] == 'Unit dataset cross-reference':
-            data['source'] = 'Rulebook PDF'
-        data['name'] = data.get('name', humanize_title(title))
+        data['name'] = humanize_title(title)
         if 'slug' not in data:
             data['slug'] = slug_name
+        # Remove source field if it exists
+        data.pop('source', None)
         path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
 
 
